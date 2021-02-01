@@ -1,6 +1,6 @@
 105203	Resumo de mercadorias
 105204	Rotas do mercado mundial
-105205	Importarr
+105205	Importar
 120938	Exportar
 102494	Livre [CONDITION_COLLECTQUEST_OBJECT_NAME].
 102532	Buscar [CONDITION_COLLECTQUEST_OBJECT_NAME] na região temperada.
@@ -30,8 +30,8 @@
 120074	Remove <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
 120747	Encontra [CONDITION_SOURCE_OBJECT_ASSET] nos canais glaciais
 120748	Encontra [CONDITION_SOURCE_OBJECT_ASSET] sobre os campos de gelo
-103250	Carregue seu veículo com [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] de seu porto espacial
-108995	Carregue seu veículo com [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] de seu porto espacial [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+103250	Carregue seu veículo com [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] de seu espaçoporto
+108995	Carregue seu veículo com [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] de seu espaçoporto [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
 103251	Entregar a carga para <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
 108996	Entregar a carga para [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
 108477	Pegue a carga em <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
@@ -158,113 +158,113 @@
 115273	NO LOCA Create express routes for [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
 115274	Consiga créditos no mercado mundial
 115275	Gaste créditos no mercado mundial
-115276	Gain credits from a single transfer route to the world market
-115278	Spend credits on a single Transfer Route to the world market
-115324	Obtain credits by selling goods to [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
-115325	Spend credits by buying from [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
-115326	Obtain credits by selling [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
-115327	Spend credits buying [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
-115337	Complete optional Assignments from [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-115338	Complete optional event missions from [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-117915	Decline optional Assignments from [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-115439	Demolish [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-115442	Obtain achievement points
+115276	Ganhe créditos de uma única rota de transferência para o mercado mundial
+115278	Gaste créditos em uma única rota de transferência para o mercado mundial
+115324	Ganhe créditos vendendo mercadorias para [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+115325	Gaste créditos comprando de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+115326	Ganhe créditos vendendo [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+115327	Gaste créditos comprando [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+115337	Concluir tarefas opcionais de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115338	Complete missões opcionais de eventos de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117915	Recusar tarefas opcionais de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115439	Demolir [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115442	Ganhe pontos de conquista
 115443	Construir e conectar [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
-115444	Have no street connection to [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-115461	Build [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-117917	Attain Combat Experience
-117918	Reach Military Level
-109008	Satisfy the need for [CONDITION_POPULATION_NEEDS_GOOD]
-105557	Satisfy the need for [CONDITION_POPULATION_NEEDS_GOOD] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+115444	Não tem conexão de rua para [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115461	Construir [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117917	Ganhe experiência de combate
+117918	Alcance o nível militar
+109008	Satisfaça a necessidade de [CONDITION_POPULATION_NEEDS_GOOD]
+105557	Satisfaça a necessidade de [CONDITION_POPULATION_NEEDS_GOOD] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
 105558	[CONDITION_POPULATION_NEEDS_CURRENT_VALUE] / [CONDITION_POPULATION_NEEDS_AMOUNT]%
-108931	NO LOCA Sessionwide [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] balance
+108931	NO LOCA Sessionwide [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] Saldo
 108932	NO LOCA Sessionwide [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] provided
 108933	NO LOCA Sessionwide [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] used
 100690	Tempo restante
 100691	[CONDITION_TIMER_VALUE]
 121596	[TEMPORARY_SECTOR_EFFECT_TIMER]
-108548	Tow [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
-109009	NO LOCA Tow [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
-120378	Attach [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to your [COMMANDO_VEHICLE]
-120395	Attach monitored [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to your [COMMANDO_VEHICLE]
+108548	Rebocar [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+109009	NO LOCA Rebocar [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+120378	Conectar [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para o seu [COMMANDO_VEHICLE]
+120395	Conectar o objeto monitorado [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para o seu [COMMANDO_VEHICLE]
 120408	[CONDITION_AMOUNT_COUNTER_CURRENT_AMOUNT] / [CONDITION_AMOUNT_COUNTER_AMOUNT]
-121059	Deliver [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
-105815	Follow the drone signal and collect [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
-109010	Track down and collect [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
-120063	Attach [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to your [COMMANDO_VEHICLE]
-122043	Follow the drone signal and collect monitored [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
-100800	Create a Transfer Route for [CONDITION_TRADEROUTE_PRODUCT_NAME] [CONDITION_TRADEROUTE_CONDITIONAL_SOURCESESSION] [CONDITION_TRADEROUTE_CONDITIONAL_TARGETSESSION]
+121059	Entregar [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+105815	Siga o sinal do drone e colete [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+109010	Rastrear e coletar [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+120063	Conectar [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para o seu [COMMANDO_VEHICLE]
+122043	Siga o sinal do drone e colete o monitorado [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+100800	Crie uma rota de transferência para [CONDITION_TRADEROUTE_PRODUCT_NAME] [CONDITION_TRADEROUTE_CONDITIONAL_SOURCESESSION] [CONDITION_TRADEROUTE_CONDITIONAL_TARGETSESSION]
 100801	[CONDITION_TRADEROUTE_ROUTE_COUNT_CURRENT] / [CONDITION_TRADEROUTE_ROUTE_COUNT]
-116502	from [CONDITION_TRADEROUTE_SOURCESESSION_NAME]
-116503	to [CONDITION_TRADEROUTE_TARGETSESSION_NAME]
-103493	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] with a space elevator
-104913	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to a Global Spaceport
-104914	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to an Orbital Spaceport
-104915	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to a Transmission Spaceport
-104916	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] with a space elevator
-104917	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to a Global Spaceport
-104918	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to an Orbital Spaceport
-104919	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to a Transmission Spaceport
-104920	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
-104921	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
-104922	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
-104923	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
-104926	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to a Global Spaceport
-104925	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to an Orbital Spaceport
-104924	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to a Transmission Spaceport
-104927	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to a Global Spaceport
-104928	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to an Orbital Spaceport
-104929	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to a Transmission Spaceport
-104930	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION] to a Global Spaceport
-104931	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
-104932	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
-104933	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to an Orbital Spaceport
-104934	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to a Transmission Spaceport
-104935	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to an Orbital Spaceport
-104936	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to a Transmission Spaceport
-104937	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
-104938	Finalize your spaceport upgrade [CONDITION_OBJECT_SESSION]
-105566	Upgrade your spaceport with a space elevator
-105567	Upgrade your spaceport with icebreaker docks
-105568	Upgrade your spaceport with a launch pad
-105569	Upgrade your spaceport with an energy transmitter
-105560	Start upgrading your spaceport to a Global Spaceport
-105561	Start upgrading your spaceport to a Global Spaceport
-105562	Start upgrading your spaceport with a launch pad
-105563	Start upgrading your spaceport with an energy transmitter
-105564	Finalize the construction of Global Spaceport
-105565	Finalize the icebreaker docks upgrade at your spaceport
-105570	Finalize the launch pad upgrade at your spaceport
-105571	Finalize the energy transmitter upgrade at your spaceport
-105572	Upgrade your spaceport with icebreaker docks
-105573	Upgrade your spaceport to a Global Spaceport
-105574	Upgrade your spaceport in the Arctic Region to an Orbital Spaceport
-105575	Start to upgrade your spaceport with icebreaker docks
-105576	Start to upgrade your spaceport with a launch pad
-105577	Start to upgrade your spaceport with an energy transmitter
-105578	Finalize the icebreaker docks upgrade at your spaceport
-105579	Finalize the launch pad upgrade at your spaceport
-105580	Finalize the energy transmitter upgrade at your spaceport
-105581	Upgrade your spaceport with a launch pad
-105582	Upgrade your spaceport with an energy transmitter
-105583	Start to upgrade your spaceport with a launch pad
-105584	Start to upgrade your spaceport with an energy transmitter
-105585	Finalize the launch pad upgrade at your spaceport
-105586	Finalize the energy transmitter upgrade at your Space Port
-102517	Upgrade [CONDITION_SOURCE_OBJECT_ASSET] in [CONDITION_OBJECT_SESSION]
-103137	Start the [CONDITION_SOURCE_OBJECT_ASSET] upgrade in [CONDITION_OBJECT_SESSION]
-103269	Finalize the [CONDITION_SOURCE_OBJECT_ASSET] upgrade in [CONDITION_OBJECT_SESSION]
-121282	Distribuir [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
-105411	Clear the Crisis Sector [CONDITION_ACTIVE_SESSION_SESSION]
-102650	Promote the employees living in a designated residential building
-117380	Reach the next corporation level
+116502	a partir de [CONDITION_TRADEROUTE_SOURCESESSION_NAME]
+116503	para [CONDITION_TRADEROUTE_TARGETSESSION_NAME]
+103493	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] com um elevador espacial
+104913	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto global
+104914	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto orbital
+104915	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
+104916	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] com um elevador espacial
+104917	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto global
+104918	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto orbital
+104919	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
+104920	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
+104921	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
+104922	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
+104923	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
+104926	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto global
+104925	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto orbital
+104924	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
+104927	Comece a atualizar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto global
+104928	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto orbital
+104929	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
+104930	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto global
+104931	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
+104932	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
+104933	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto orbital
+104934	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
+104935	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto orbital
+104936	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
+104937	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
+104938	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
+105566	Aprimore seu espaçoporto com um elevador espacial
+105567	Aprimore seu espaçoporto com docas quebra-gelo
+105568	Aprimore seu espaçoporto com uma plataforma de lançamento
+105569	Aprimore seu espaçoporto com um transmissor de energia
+105560	Comece a aprimorar seu espaçoporto para um espaçoporto Global
+105561	Comece a aprimorar seu espaçoporto para um espaçoporto Global
+105562	Comece a aprimorar seu espaçoporto com uma plataforma de lançamento
+105563	Comece a aprimorar seu espaçoporto com um transmissor de energia
+105564	Conclua a construção do espaçoporto global
+105565	Conclua o aprimoramento das docas quebra-gelo em seu espaçoporto
+105570	Conclua o aprimoramento da plataforma de lançamento em seu espaçoporto
+105571	Conclua o aprimoramento do transmissor de energia em seu espaçoporto
+105572	Aprimore seu espaçoporto com docas quebra-gelo
+105573	Aprimore seu espaçoporto para um espaçoporto global
+105574	Aprimore seu espaçoporto na região ártica para um espaçoporto orbital
+105575	Comece a aprimorar seu espaçoporto com docas quebra-gelo
+105576	Comece a aprimorar seu espaçoporto com uma plataforma de lançamento
+105577	Comece a aprimorar seu espaçoporto com um transmissor de energia
+105578	Conclua o aprimoramento das docas quebra-gelo em seu espaçoporto
+105579	Conclua o aprimoramento da plataforma de lançamento em seu espaçoporto
+105580	Finalize a atualização do transmissor de energia em seu espaçoporto
+105581	Aprimore seu espaçoporto com uma plataforma de lançamento
+105582	Aprimore seu espaçoporto com um transmissor de energia
+105583	Comece a aprimorar seu espaçoporto com uma plataforma de lançamento
+105584	Comece a aprimorar seu espaçoporto com um transmissor de energia
+105585	Conclua o aprimoramento da plataforma de lançamento em seu espaçoporto
+105586	Conclua o aprimoramento do transmissor de energia em seu espaçoporto
+102517	Aprimore [CONDITION_SOURCE_OBJECT_ASSET] em [CONDITION_OBJECT_SESSION]
+103137	Comece a [CONDITION_SOURCE_OBJECT_ASSET] em [CONDITION_OBJECT_SESSION]
+103269	Conclua o [CONDITION_SOURCE_OBJECT_ASSET] em [CONDITION_OBJECT_SESSION]
+121282	Distribuir [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+105411	Limpe o setor de crise [CONDITION_ACTIVE_SESSION_SESSION]
+102650	Promova empregados que morem em um prédio residencial específico.
+117380	Alcance o próximo nível corporativo.
 116501	em [CONDITION_OBJECT_SESSION]
 102518	Programa de Licenciamento Lunar
 103058	Fase 1
 103059	Fase 2
 103247	Fase 3
 103248	Fase 4
-105211	"Construir um porto espacial gera muito trabalho. Chame os profissionais."
+105211	"Construir um espaçoporto gera muito trabalho. Chame os profissionais."
 105387	Colocar Depois
 105213	[NOTIFICATION_CHARACTER_NAME] quer que você forneça moradia para a equipe de construção.
 105214	[NOTIFICATION_CHARACTER_NAME] quer que você seja cuidadoso na competição.
@@ -272,45 +272,45 @@
 105220	[NOTIFICATION_CHARACTER_NAME] avalia que você forneça comida orgânico para a população.
 105441	[NOTIFICATION_CHARACTER_NAME] está satisfeito com a produção de biopolímero em funcionamento.
 117970	Construa [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] e ligue ao [GUIDNAME 1000157]
-105212	"Seu porto espacial contem equipamentos high-end. É necessário operadores qualificados."
+105212	"Seu espaçoporto contem equipamentos high-end. É necessário operadores qualificados."
 105388	A Primeira Colonização Lunar sobreviveu cem anos. Hoje, a mineração lunar é supervisionada pela Lunar Excavation Corp. A LEC perdeu a confiança da União Global há muito tempo e foi deixada de lado. Ainda assim, levou décadas para a União Global iniciar um novo programa de colonização lunar. Prevalecendo contra essas cinco gigantescas corporações dominando o mercado mundial, vai exigir que você invista apenas a melhores tecnologia espaciais.
 105215	[NOTIFICATION_CHARACTER_NAME] aponta a demanda do seu programa espacial por pessoa qualificada.
 105216	[NOTIFICATION_CHARACTER_NAME] sabe que sua corporação cresce e precisa de maiores desafios.
 105218	[NOTIFICATION_CHARACTER_NAME] boas vindas ao seu esforço para garantir o abastecimento de água.
 105221	[NOTIFICATION_CHARACTER_NAME] fala muito de seu centro de informações construído.
-105222	[NOTIFICATION_CHARACTER_NAME] e seus rivais falam sistemas de controle do porto espacial.
+105222	[NOTIFICATION_CHARACTER_NAME] e seus rivais falam sistemas de controle do espaçoporto.
 105398	"Um longo caminho pela frente. O elevador espacial levará à sede orbital da União Global."
 105399	O imprevisível Relógio Orbital abalou o mundo. Todas  as colônias da corporação de Escavação Lunar se uniram aos terroristas e suspenderam as entregas de recursos para a Terra. Os moradores da Lua, que se recusam a seguir o caminho de Virgílio Drake, vivem em perigo. Alguns podem voltar para a Terra, mas muitos não terão essa oportunidade. A exigência de Drake de perder o Programa de Licenciamento Lunar coloca a União Global em um lugar ruim. Mas para o bem de toda a humanidade, o programa tem que continuar.
-105413	[NOTIFICATION_CHARACTER_NAME] wants you to build a space elevator to the Global Union space station.
-105414	[NOTIFICATION_CHARACTER_NAME] announces the coming of additional material deliveries.
-105219	[NOTIFICATION_CHARACTER_NAME] tells you additional materials will be delivered, specifically for the elevator cable.
-117873	[NOTIFICATION_CHARACTER_NAME] knows a good employer keeps his staff satisfied - like you do.
-105440	[NOTIFICATION_CHARACTER_NAME] calls on you to proceed with the elevator construction once everything else is ready.
-117370	Start the upgrade
-105409	"The whole sector was closed off. It seems military intervention is our only option."
-105405	Before the Lunar Licensing Program, the mining of Moon resources was the exclusive domain of the Lunar Excavation Corp. But as the Global Union turned its focus away from this organization, the Moon people began to feel neglected and exploited – fertile ground for the ideology of the Orbital Watch, a well-connected terrorist organization of former LEC members. And now, their warships draw a tight circle around the Prycomber strait, blocking the Global Union's most important trade route to sabotage the Lunar Licensing program. Security engineer John Rafferty is determined not to let this happen.
-105421	[NOTIFICATION_CHARACTER_NAME] urges you to meet John Rafferty at Prycomber Search Area and retrieve the static cable.
-105422	[NOTIFICATION_CHARACTER_NAME] is relieved to see you back in one piece.
-105443	[NOTIFICATION_CHARACTER_NAME] keeps a stiff upper lip.
-105444	[NOTIFICATION_CHARACTER_NAME] spotted the location of the beleagured Union cargo ship.
-117383	Enter the crisis sector
-105438	Free the detained transporters
-105410	"Let those lunar terrorists continue their intimidation attempts. The space program is far too important for Earth's people."
-105423	Worried about the situation on the Moon, [NOTIFICATION_CHARACTER_NAME] urges you to finish the space elevator.
-105406	The unforeseen Orbital Watch shook the world to its core. One by one, the colonies of the Lunar Excavation Corporation side with the terrorists and suspend their resource deliveries to Earth. The Moon dwellers, who refuse to follow Virgil Drake's crude rethoric live in danger of oppression. Those who can board shuttles to Earth, but many more don't have this opportunity. Drake's demand to forfeit the Lunar Licensing Program puts the Global Union in a tight spot, but for the sake of all humanity, it has to go on.
-105445	[NOTIFICATION_CHARACTER_NAME] wants you to return to the spaceport site.
-117371	Finalize the upgrade
-105460	"The Arctic holds resources found nowhere else. You should consider a branch there."
-105469	The second phase of the Lunar Licensing Program has begun. It points right to the North Pole, the snow-clad hoard of the Earth's last treasures. Protecting the few remaining sources of crude oil and the only ecosystem still bringing forth fish in harvestable quantities, the environmentalist organization called the Arctic Custodians held a stern watch here for almost two centuries. But as things are, the Custodians must share their white paradise with private corporations. They are not happy about this.
-105424	[NOTIFICATION_CHARACTER_NAME] announces the next phase of the Lunar Licensing Program.
-105479	[NOTIFICATION_CHARACTER_NAME] had hoped for a friendlier reception.
-105478	[NOTIFICATION_CHARACTER_NAME] can't wait to assign you arctic territory.
-105461	"All formalities have been taken care of. These islands have been approved for settlement by the Arctic Custodians."
-105470	Like white diamonds, the icy isles of the Arctic rise up from the sea. Cold, hard and uninviting, they form the territory of the Arctic Custodians. It was them, who developed the climate stabilization technology, enabling them to create a genuine Arctic region in a world battered by the polar melting of the late 21st century. Steadying the global weather, the climate stabilizers exposed settlement areas formerly lost to the sea – at the cost of vast amounts of energy. The Custodians have made clear, they don't want you to interfere with their delicate technology, while you are establishing your first arctic branch office.
-105480	[NOTIFICATION_CHARACTER_NAME] wants you to erect an Arctic Warehouse on one of these islands.
-105481	[NOTIFICATION_CHARACTER_NAME] officially confirms your tenures for this settlement zone.
-105503	[NOTIFICATION_CHARACTER_NAME] encourages you to choose an island of your liking.
-105504	[NOTIFICATION_CHARACTER_NAME]  will assign you an island, once you build an Arctic Warehouse there.
+105413	[NOTIFICATION_CHARACTER_NAME] quer que você construa um elevador espacial para a estação espacial Global Union.
+105414	[NOTIFICATION_CHARACTER_NAME] anuncia a chegada de entregas de materiais adicionais.
+105219	[NOTIFICATION_CHARACTER_NAME] informa que materiais adicionais serão entregues, especificamente para o cabo do elevador.
+117873	[NOTIFICATION_CHARACTER_NAME] sabe que um bom empregador mantém sua equipe satisfeita - como você.
+105440	[NOTIFICATION_CHARACTER_NAME] pede que você continue construindo o elevador quando todo o resto estiver pronto.
+117370	Comece o aprimoramento
+105409	"Todo o setor foi fechado. Parece que a intervenção militar é nossa única opção."
+105405	Antes do Programa de Licenciamento Lunar, a mineração de recursos lunares era de domínio exclusivo da Lunar Excavation Corp. Mas, à medida que a União Global desviou seu foco desta organização, o povo lunar começou a se sentir negligenciado e explorado - solo fértil para a ideologia da Orbital Watch, uma organização terrorista bem conectada de ex-membros do LEC. E agora, seus barcos de guerra traçam um círculo estreito em torno do estreito de Prycomber, bloqueando a rota comercial mais importante da União Global para sabotar o programa de Licenciamento Lunar. O engenheiro de segurança John Rafferty está determinado a não deixar isso acontecer.
+105421	[NOTIFICATION_CHARACTER_NAME] recomenda que você encontre John Rafferty na área de busca Prycomber e recupere o cabo estático.
+105422	[NOTIFICATION_CHARACTER_NAME] está aliviado por vê-lo de volta inteiro.
+105443	[NOTIFICATION_CHARACTER_NAME] mantém o lábio superior rígido.
+105444	[NOTIFICATION_CHARACTER_NAME] avistou a localização do navio de carga da União sitiado.
+117383	Entrar no setor crise
+105438	Liberte os transportadores detidos
+105410	"Que esses terroristas lunares continuem suas tentativas de intimidação. O programa espacial é muito importante para o povo da Terra."
+105423	Preocupado com a situação na Lua, [NOTIFICATION_CHARACTER_NAME] exorta você a terminar o elevador espacial.
+105406	A surpresa da Guarda Orbital abalou as fundações do mundo. Uma por uma, as colônias da Lunar Excavation Corp. aliaram-se aos terroristas e suspenderam suas remessas de recursos para a Terra. Os habitantes da Lua, que se recusam a seguir a retórica rude de Virgil Drake, vivem com medo da opressão. Alguns conseguem embarcar em ônibus para pousar, mas muitos outros não têm essa oportunidade. A demanda de Drake para anular o Programa de Licença Lunar coloca a Global Union em uma posição difícil, mas, para o bem da humanidade, ela deve continuar.
+105445	[NOTIFICATION_CHARACTER_NAME] quer que você volte para o local do espaçoporto.
+117371	Conclui o aprimoramento
+105460	"O Ártico contém recursos que não são encontrados em nenhum outro lugar. Você deve considerar uma filial lá."
+105469	A segunda fase do Programa de Licenciamento Lunar já começou. Ele aponta diretamente para o Pólo Norte, o tesouro coberto de neve dos últimos tesouros da Terra. Protegendo as poucas fontes restantes de petróleo bruto e o único ecossistema que ainda produz peixes em quantidades capturáveis, a organização ambientalista chamada de Custódios do Ártico manteve uma guarda severa aqui por quase dois séculos. Mas do jeito que as coisas estão, os guardiões devem compartilhar seu paraíso branco com empresas privadas. Eles não estão felizes com isso.
+105424	[NOTIFICATION_CHARACTER_NAME] anuncia a próxima fase do Programa de Licenciamento Lunar.
+105479	[NOTIFICATION_CHARACTER_NAME] esperava uma recepção mais amigável.
+105478	[NOTIFICATION_CHARACTER_NAME] mal posso esperar para atribuir a você território ártico.
+105461	"Cuidamos de todas as formalidades. Os Guardiões do Ártico concordaram em estabelecer assentamentos nessas ilhas."
+105470	Como diamantes brancos, as ilhas geladas do Ártico emergem do mar. Frios, ásperos e pouco atraentes, eles formam o território dos Guardiões do Ártico. Foram eles que desenvolveram a tecnologia de estabilização do clima que lhes permitiu criar uma verdadeira região ártica em um mundo devastado pelo derretimento dos pólos no final do século XXI. Ao estabilizar o clima global, os estabilizadores climáticos expuseram áreas de assentamentos que foram inundadas pelo mar, à custa de uma grande quantidade de energia. Os curadores deixaram bem claro que não querem interferir em sua delicada tecnologia, enquanto você estabelece seu primeiro ramo ártico.
+105480	[NOTIFICATION_CHARACTER_NAME] quer que você construa um armazém ártico em uma dessas ilhas.
+105481	[NOTIFICATION_CHARACTER_NAME] confirma oficialmente seus mandatos para esta zona de assentamento.
+105503	[NOTIFICATION_CHARACTER_NAME] incentiva você a escolher a ilha de sua preferência.
+105504	[NOTIFICATION_CHARACTER_NAME]  atribuirá a você uma ilha quando você construir seu armazém ártico lá.
 117784	Mova seu barco de comando para: [CONDITION_SOURCE_OBJECT_ASSET]
 117372	Reivindique a ilha
 105462	Você verá que a paisagem do Ártico imporá requisitos muito diferentes às suas habilidades de planejamento urbano.
