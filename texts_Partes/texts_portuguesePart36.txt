@@ -1,0 +1,316 @@
+113945	The best thing's the sense of community, really.
+113946	I'm livin' the dream!
+113947	This was a piece of gray rock once. Look what you made of it!
+113948	Two words... Zero gravity!
+113949	Why do we need Earth? It's perfect here.
+113950	This is final frontier!
+113951	Course I'm good!
+113952	Fly me to the Moon. Anytime!
+113953	This place... just rocks. Get it?
+113954	I could jump for joy, but I'm not one for heights!
+113955	It's not just some crater. It's my home! And I love it!
+113956	That alone makes me feel better.
+113957	Regular checkups, that's what we need.
+113958	Finally, I can have the doc take a look at that rash.
+113959	Ready for the diggin'.
+113960	One small step for me... um, you know the rest.
+113961	Time to blow up some dust!
+113962	The Big Five must be kickin' themselves that you stepped on the Moon before them.
+113963	I'm sure, we're more efficient than the LEC folks. I mean, have you seen their mines... I wouldn't want to work there.
+113964	Just like the old west here. Besides people shootin' each other and all that.
+113965	I'm gettin' tired of all the moon cliches and all, you know? If you haven't lived here, you'll never understand what makes us tick.
+113966	That Orbital Watch thing... I don't understand what the point is. Ain't there enough space here for everyone to live together? If they don't like us, they can have the dark side all for themselves.
+115253	Oh thank you. Drake's men, they... they beat me up, spit on me, insulted me and all the other things you do to traitors.
+115254	Thank you for taking us into your refugee camp! I sure it's cramped enough as it is…
+115255	Thank you... thank you.
+115714	And I can't even have a pet here!
+115718	The overtime is killing my family time!
+115719	I can't believe those Orbital Watch bastards...
+115720	Landscape gets pretty boring after a while.
+115721	Nothing like a party on the star deck!
+115722	Can't wait to see their faces again!
+115723	Oh man, I got a letter from home!
+115724	A family on earth, and a family on the moon. Perfect.
+115734	Keep away from the tank!
+115735	This is vital work, so concentrate.
+115737	Can't I test the new zero-g room?
+115739	Can't even smoke here anywhere.
+115740	Where'd I put that new drill head?
+115741	Keep the water filters clean.
+115744	Solar power sure is valuable.
+115749	Lucky the airtight hull wasn't breached.
+115751	I should restock our vitamin supplements.
+115753	C'mon, just one letter...
+115755	We'll need more shuttles soon!
+115757	Don't worry about small impacts.
+115761	Any volunteers for outside?
+115762	Lookin' good!
+105744	Security level Code Beta! Surveillance drones to positions! If they wanna sabotage our fusion reactors, they'll have to get past them first.
+105745	Bad news! Our systems are showing enemy movement along the borders!
+115860	Quick, boot up the energy shields!
+115876	At first we mistook it for another meteorite. And now we've taken a closer look, we're even more confused. The satellite doesn't belong to the LEC, the Orbital Watch or any of the Big Five. I've never seen that logo before.
+113980	That turned out well.
+113981	I rate this A 1.
+113982	That's a success of the first grade.
+113983	A satisfying result.
+113984	That's perfect.
+113985	Well done.
+113986	Outstanding!
+113987	Great job!
+113988	Not bad.
+113989	Nicely done!
+113990	That's Better.
+113991	I'm glad you fixed that.
+113992	One less thing in our way.
+113993	You carried it out to perfection.
+113994	You came, you saw, you succeeded.
+113995	A great job you did there!
+113996	Home and dry. Well done.
+113997	You're a true leader!
+113998	Ha, you saved the day!
+113999	I like your style!
+114000	Congratulations on your success.
+114001	Hey, Good result!
+114002	You should be commended for that.
+114003	That went ugly.
+114004	Clearly a mess.
+114005	It couldn't be helped.
+114006	That went downhill.
+114007	That was bad.
+114008	Poorly executed.
+114009	That really missed the mark.
+114010	Dang it, that sucks.
+114011	Move along, nothing to see here.
+114012	That's a mess.
+114013	Look, nobody's perfect.
+114014	That'll come to haunt you.
+114015	That'll get you nowhere.
+114016	You see, no plan survives first contact.
+114017	Didn't you see it coming?
+114018	You seem to be off your game.
+114019	Sometimes, it's just beyond you.
+114020	You just can't control situations like that.
+114021	There are times when you have to admit defeat
+114022	Your strategy was flawed, I'm afraid.
+114023	Hey, what's up?
+114024	Is it urgent?
+114025	Yes?
+114026	Nothing to report here.
+114027	You got orders for me?
+114028	No, I don't mind visitors.
+114029	Oh, are you doing an on-site inspection?
+114030	How can I help you?
+114031	At your service!
+114032	Hi, what can I do for you?
+114033	The honor's mine.
+114034	Affirmative!
+114035	Roger.
+114036	Copy that.
+114037	Understood.
+114038	I'll make you proud!
+114039	I hear you.
+114040	Don't worry! I'm on it.
+114041	You're giving the orders.
+114042	I'll do this instantly for you.
+114043	Not on my watch.
+114044	No.
+114045	I can't do that.
+114046	Definitely not.
+114047	Not now.
+114048	We aren't equipped for something like that.
+114049	We can't risk that.
+114050	Don't mistake this for insubordination. But I have to say no.
+114051	I was given other duties, so I can't you see.
+114052	Sorry, you got me at the wrong time.
+114053	We still got time.
+114054	This situation needs help.
+114055	It's not a routine problem. I hope you have a good plan.
+114056	Everything's ready. You can take over from here.
+114057	How do we proceed?
+114058	We have a code red here. Something has to be done!
+114059	You got it in under the wire.
+114060	Mission accomplished!
+114061	That's the spirit!
+114062	I'm happy you're the one calling the shots here.
+114063	Man, you really are someone to rely on.
+114064	There's no situation you can't handle, right?
+114065	All done. You're outstanding!
+114066	You do what has to be done. And you do it well.
+114067	Don't want to think about consequences!
+114068	I'm underwhelmed!
+114069	At least you can say the worst is over. I think.
+114070	But... it's our duty.
+114071	I see, you're actually deserting us...
+114072	That only postpones the problem...
+114073	Status report?
+114074	The mission details?
+114075	Are there results already?
+114076	I have nothing to report. What about you?
+114077	Rapid execution, that's the key.
+114078	The problem presists
+114079	Here's the key parameters.
+114080	You don't need reinforcements, right?
+114081	You have it in your sights.
+114082	That's of strategic importance.
+114083	This is what we're looking for.
+114084	Target object located.
+114085	Found it.
+114086	Ready for takeover.
+114087	It's nonhazardous. Just take it.
+114088	That's part of the objective.
+114089	Lead the way.
+114090	Target location confirmed.
+114091	Take care.
+114092	Right ahead.
+114093	Come on!
+114094	Make your move.
+114095	Destination in sight.
+114096	Yeah, proceed to that location.
+114097	[Sigh] Stealth operation failed.
+114098	They spotted us.
+114099	We're on their radar
+114100	Getting closer.
+114101	We're almost within reach.
+114102	You're going in the right direction.
+114103	You found it.
+114104	It's located. Finally.
+114105	So, this is the one then?
+114106	Thanks. But there's another problem hanging over our heads right now.
+114107	Great outcome. But you'll have to do this too, if you wanna remain like this.
+114108	The danger's not fully banned yet. This calls for a follow-up mission.
+114109	Awaiting orders. Forces ready to respond to provocation.
+114110	Enemy activity sighted. Your orders?
+114111	Prepare yourself, this is a war zone.
+114112	We should increase security here. Preferably by eliminating the danger.
+114113	The best defense is a good offense. Let's see if that's really true.
+114114	You are one of the great strategists of our time.
+114115	With you, victory is practically certain.
+114116	You sure don't pull any punches.
+114117	That's not how you win a war.
+114118	At least go down fighting.
+114119	We should try another tack next time.
+114120	Ever thought of making this a prison planet. I mean, it already feels like one.
+114121	You expect me to give my best, while providing me the worst quarters imaginable?
+114124	I think I'll apply for a transfer soon. Back to Earth.
+114125	I know war zones that are more homelike.
+114126	The safety policies here... just reckless.
+114127	It angers me to see all the injustice here.
+114128	If you wanted to freeze me out, then congratulations.
+114129	This place will sink into chaos. Mark my words.
+114130	Nothing out of the ordinary here. Sadly.
+114134	Sometimes I think there must be more to life than this.
+114135	We're fulfilling our quota. But should that really be all it's about?
+114122	I don't know where to start...
+114123	Signing that contract... I should have thought it through.
+114131	Just the daily routine. I don't want to bore you.
+114132	It's a dangerous life here, but honestly, where isn't?
+114133	I guess the situation here is under control.
+114136	I'm as happy as one can expect, living on a gigantic gray rock.
+114137	Don't expect any complaints from my side.
+114138	This vast emptiness really grows on you.
+114139	I've been worse off.
+114140	Everything is in good shape here.
+114141	I'm glad to be here.
+114142	Sometimes it's a tough ride. But then again, it's a big adventure, too.
+114143	This place has good prospects, if you ask me.
+114144	Whatever it is, we can deal with it.
+114145	Been awhile since I heard an alarm here.
+114146	Everything's safe, orderly... very nice.
+114147	I wouldn't have expected that life on the Moon to be so... convenient.
+114148	It's a life worth living!
+114149	Hard work brings us together. I like that.
+114150	You are the conqueror of space!
+114151	The view alone! Indescribable!
+114152	I'm living at the forefront of the future. What's not to envy?
+114153	Other people pay good money to see this. And I have it all for free.
+114154	Nothing and no one could make me leave.
+114155	If someone bothers you, you can just mute him on your headset. Not like that happens a lot, though.
+114156	It's a great honor to work for you.
+114157	Volunteering for this was the best decision I ever made.
+114158	I'm living here. I repeat that a lot, because otherwise I wouldn't believe it myself.
+114159	Is this great, or is this great?
+114160	Exactly, safety first.
+114161	Good to see your security policy doesn't end with information evenings.
+114162	How would our colony work without them, right?
+114163	Reporting for duty.
+114164	I'll keep everything in order!
+114165	Can't wait to do my part!
+114166	At work, I mostly talk in abbreviations... I don't want to be the one responsible for a shuttle crash or something, just because my commands took too long.
+114167	Have you ever heard of Global Trust? It was a big company last century... until they settled for space. Makes me shudder, thinking of the poor folks they left for dead on Mars.
+114168	Giant steps, that's what you take, walkin' on the Moon.
+114169	Thought-out work safety guidelines, that's the essential thing. Just think what happened at the Bainbridge Crater. I say that's the real reason they tried to replace the LEC via the lunar program.
+114170	You know, when I first watched the earthrise on the colony shuttle trip, I knew I belonged here.
+115726	They're doing what now?
+115727	It feels more like a coffin than a home.
+115728	I don't miss Earth all that much.
+115729	There's just not much to do around here...
+115730	The moon gravity is great for my back.
+115731	I never thought I'd grow this attached to the place.
+115732	I'm never going back to Earth!
+115733	Sports in zero gravity, awesome!
+115738	These are not the circuits you're looking for.
+115742	And a sunlight refractor over there...
+115743	Careful not to overload the systems.
+115745	Let's take a test walk on the moon!
+115746	Okay, airtank is sealed. Done!
+115750	Sure thing, I can fix this.
+115752	You know what the speed limit is on the moon son? do you?
+115754	Stand back, I'm closing the hatch!
+115756	Damn, the Watch took out a transporter...
+115758	Wait a sec, the lock is opening.
+115759	Can I see your dosimeter?
+115760	So, about dinner...
+116088	We are under attack!
+116089	Battlestations! They're attacking!
+116090	Here they come!
+116091	Enemy detected! All hands engage!
+116092	We're under fire!
+116093	We're sinking!
+116094	Mayday!
+116095	Into the lifeboats!
+116097	Object identified.
+116098	Objective sighted.
+116099	Mission objective ahead!
+116100	Allied ships located.
+116101	Help is on the way!
+116102	Reinforcements have arrived!
+116103	Missiles launched!
+116104	Fire from above!
+116105	Missile attack confirmed!
+116106	E.M.P. activated!
+116107	Activate pulse!
+116108	And light's off!
+116109	Mine planted.
+116110	Wave Mine free!
+116111	Wave Mine released!
+116112	Shields are up!
+116113	Full protection!
+116114	Shields up. Full spead ahead!
+116115	System overhaul concluded.
+116116	Repair drones active!
+116117	System repairs in progress!
+116118	Requested submarine has arrived!
+116119	Surface!
+116120	Calling in backup!
+116121	Long-range missile away!
+116122	Missile away!
+116123	Commencing missile strike!
+116124	Cold bomb detonating!
+116125	Drop successful!
+116126	Prepare for impact!
+116127	Activating vortex!
+116128	Tide controllers activated!
+116129	Vortex is building.
+116130	Shields are up!
+116131	Defenses, full power!
+116132	Shield amplified.
+116133	Repairs started.
+116134	Renovations in process.
+116135	Mending hull.
+116136	Copy that!
+116137	Full speed ahead!
+116138	Affirmative!
+116139	Under way!
+116140	Roger!
+116141	Coordinates confirmed!
+116142	On our way!

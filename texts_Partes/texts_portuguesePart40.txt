@@ -1,0 +1,316 @@
+1001794	Commando
+1002786	Objetivo Estratégico
+1002810	[GUIDNAME 1002786]
+1002811	[GUIDNAME 1002786]
+1002072	NO LOCA VM Interference Device medium
+1002073	NO LOCA VM Interference Device hard
+1001387	Interference Transmitter
+1002074	NO LOCA VM Approaching Commandship medium
+1002075	NO LOCA VM Approaching Commandship hard
+1001793	[GUIDNAME 1001641]
+1003343	Arctic Base
+1001544	[GUIDNAME 1001567]
+1001488	[GUIDNAME 1001489]
+1001515	[GUIDNAME 1001514]
+1001324	[GUIDNAME 1002114]
+1001452	[GUIDNAME 2001001]
+1001451	[GUIDNAME 2001399]
+1001453	[GUIDNAME 6000480]
+1001454	[GUIDNAME 6000482]
+1001627	[GUIDNAME 6000484]
+1002148	[GUIDNAME 1002107]
+1002147	[GUIDNAME 1002106]
+1002149	[GUIDNAME 1002121]
+1001934	NO LOCA Atualize para o Nível 2
+1001935	NO LOCA Atualize para o Nível 3
+1001925	NO LOCA Atualize para o Nível 2
+1001926	NO LOCA Atualize para o Nível 3
+1002128	NO LOCA Atualize para o Nível 2
+1002129	NO LOCA Atualize para o Nível 3
+1002137	NO LOCA Atualize para o Nível 2
+1002138	NO LOCA Atualize para o Nível 3
+1001943	NO LOCA Atualize para o Nível 2
+1001944	NO LOCA Atualize para o Nível 3
+1001952	NO LOCA Atualize para o Nível 2
+1001953	NO LOCA Atualize para o Nível 3
+1003884	Laser Orbital
+1001489	Descarga de Misel
+1001514	Frota de Reforço
+1002114	Pulso E.M
+1002120	Mina de Ondulação
+1001570	Escudo Cinético
+1001506	Drone de Reparação
+1003883	Laser Orbital
+1003888	Sistema de Resgate
+1002467	NO LOCA Atualize para o Nível 2
+1002468	NO LOCA Atualize para o Nível 3
+1002469	NO LOCA Atualize para o Nível 4
+1002470	NO LOCA Atualize para o Nível 5
+1002471	NO LOCA Atualize para o Nível 6
+1002472	NO LOCA Atualize para o Nível 7
+1002473	NO LOCA Atualize para o Nível 8
+1002474	NO LOCA Atualize para o Nível 9
+1002475	NO LOCA Atualize para o Nível 10
+1002559	NO LOCA Atualize para o Nível 2
+1002560	NO LOCA Atualize para o Nível 3
+1002561	NO LOCA Atualize para o Nível 4
+1002562	NO LOCA Atualize para o Nível 5
+1002563	NO LOCA Atualize para o Nível 6
+1002564	NO LOCA Atualize para o Nível 7
+1002565	NO LOCA Atualize para o Nível 8
+1002566	NO LOCA Atualize para o Nível 9
+1002567	NO LOCA Atualize para o Nível 10
+1002568	NO LOCA Atualize para o Nível 2
+1002569	NO LOCA Atualize para o Nível 3
+1002570	NO LOCA Atualize para o Nível 4
+1002571	NO LOCA Atualize para o Nível 5
+1002572	NO LOCA Atualize para o Nível 6
+1002573	NO LOCA Atualize para o Nível 7
+1002574	NO LOCA Atualize para o Nível 8
+1002575	NO LOCA Atualize para o Nível 9
+1002576	NO LOCA Atualize para o Nível 10
+1002577	NO LOCA Atualize para o Nível 2
+1002578	NO LOCA Atualize para o Nível 3
+1002579	NO LOCA Atualize para o Nível 4
+1002580	NO LOCA Atualize para o Nível 5
+1002581	NO LOCA Atualize para o Nível 6
+1002582	NO LOCA Atualize para o Nível 7
+1002583	NO LOCA Atualize para o Nível 8
+1002584	NO LOCA Atualize para o Nível 9
+1002585	NO LOCA Atualize para o Nível 10
+1002586	NO LOCA Atualize para o Nível 2
+1002587	NO LOCA Atualize para o Nível 3
+1002588	NO LOCA Atualize para o Nível 4
+1002589	NO LOCA Atualize para o Nível 5
+1002590	NO LOCA Atualize para o Nível 6
+1002591	NO LOCA Atualize para o Nível 7
+1002592	NO LOCA Atualize para o Nível 8
+1002593	NO LOCA Atualize para o Nível 9
+1002594	NO LOCA Atualize para o Nível 10
+1002595	NO LOCA Atualize para o Nível 2
+1002596	NO LOCA Atualize para o Nível 3
+1002597	NO LOCA Atualize para o Nível 4
+1002598	NO LOCA Atualize para o Nível 5
+1002599	NO LOCA Atualize para o Nível 6
+1002600	NO LOCA Atualize para o Nível 7
+1002601	NO LOCA Atualize para o Nível 8
+1002602	NO LOCA Atualize para o Nível 9
+1002603	NO LOCA Atualize para o Nível 10
+1002107	Misel de longo alcance
+1002106	Submarino de resgate
+1002121	Bomba fria
+1002122	Vortex de água
+1002108	Escudo de Energia
+1002109	Boia de Reparação
+1001911	NO LOCA Nuke Upgrade Lvl2
+1001912	NO LOCA Nuke Upgrade Lvl3
+1001913	NO LOCA Nuke Upgrade Lvl2
+1001914	NO LOCA Nuke Upgrade Lvl2
+1001915	NO LOCA Nuke Upgrade Lvl2
+1001916	NO LOCA Nuke Upgrade Lvl2
+1001923	NO LOCA Nuke Upgrade Lvl2
+1001924	NO LOCA Nuke Upgrade Lvl2
+1001567	Combustível
+1002296	NO LOCA SEU Earth Stun Stunned LVL2
+1002297	NO LOCA SEU Earth Stun Stunned LVL3
+1002287	NO LOCA SEU Earth Shield Shielded LVL2
+1002288	NO LOCA SEU Earth Shield Shielded LVL3
+1002324	NO LOCA SEU Earth Shield Turbo LVL2
+1002325	NO LOCA SEU Earth Shield Turbo LVL3
+1002238	NO LOCA SEU Earth Repair Repairing LVL2
+1002239	NO LOCA SEU Earth Repair Repairing LVL3
+1002188	[GUIDNAME 1002084]
+1002189	[GUIDNAME 1002207]
+1002345	Ibarra-FoxCom Plane
+1002346	Cassian Industries Plane
+1002347	Usoyev Inc. Plane
+1002348	Lei Sheng Plane
+1002349	Saayman International Plane
+1002191	Executive's Yacht
+1002192	People's Cruiser
+1003483	[GUIDNAME 12]
+1003484	[GUIDNAME 13]
+1003485	[GUIDNAME 5]
+1003486	[GUIDNAME 15]
+1003487	[GUIDNAME 12]
+1002200	Containers
+1003129	Floating Rubble
+1003130	Lifeboats
+1003131	Divers
+1003132	Barrels
+1002193	Lost Barrels
+1002201	Lost Containers
+1003133	Valuable Ores
+1003134	Landmines
+1003135	Blackboxes
+1003136	Trabalhadores
+1002612	People's Cruiser
+1002613	Damaged Ship
+1003141	Damaged Cruiser
+1003142	Damaged Transporter
+1001173	NO LOCA Ark Harbour
+1001181	NO LOCA Ark Harbour
+1001182	NO LOCA Ark Harbour
+1001183	NO LOCA Ark Harbour
+1001184	NO LOCA Ark Harbour
+1001185	NO LOCA Ark Harbour
+1001404	NO LOCA Charger
+1001405	NO LOCA Small Tower
+1001406	NO LOCA Fighter
+1001407	NO LOCA Big Tower
+1001408	NO LOCA Enemy Headquarter
+1001409	NO LOCA Harbour
+1001538	NO LOCA Energy Module
+1001539	NO LOCA Upkeep Module
+1001542	NO LOCA Logistic Module
+1001543	NO LOCA Workforce Module
+1002353	NO LOCA Harbour
+1002355	NO LOCA Impenetrable Wall
+1002354	NO LOCA Spawner Boss
+1002359	NO LOCA Attacker Vehicle
+1002360	NO LOCA Attacker Vehicle
+1002785	NO LOCA Global Material Storage
+1002747	Dr. Eleanor Hofwegen's Plane
+1001707	May Tian's Plane
+1002748	Anthony Goodwin's Ship
+1002749	Ville Jorgensen's Ship
+1002750	Luca Volodin's Plane
+1002751	Emem Buhari's Plane
+1002752	Zandra Haynes' Buggy
+1002753	Aidan Bhargava's Buggy
+1002754	The Mysterious Woman's Buggy
+1003512	Sunken Structure
+1003513	Hydroelectric Power Plant
+1003642	[GUIDNAME 1003513]
+1003643	[GUIDNAME 1003513]
+1003514	[GUIDNAME 1002986]
+1003515	[GUIDNAME 1002827]
+1003517	Oil Rig
+1003516	Channel Checkpoint
+1003644	[GUIDNAME 1003516]
+1003645	[GUIDNAME 1003516]
+1003519	Refugee Camp
+1003646	[GUIDNAME 1003519]
+1003647	[GUIDNAME 1003519]
+1003518	Big Meteor
+1003520	Crater Hotel
+1002825	Sunken Structure
+1003495	Partially Lifted Ark
+1002880	Reclaimed Ark
+1002881	Sunken Ark
+1002770	Hydroelectric Power Plant
+1003648	[GUIDNAME 1002770]
+1003649	[GUIDNAME 1002770]
+1002826	Unfinished Monument
+1002985	Unfinished Monument
+1002986	Second Wave Monument
+1002827	Estabilizador climático Quebrado
+1003373	Estabilizador climático Quebrado
+1003374	Estabilizador climático
+1003375	Poço de petróleo
+1002828	Poço de petróleo
+1003569	Poço de petróleo
+1002829	Ponto de controle do canal
+1003650	[GUIDNAME 1002829]
+1003651	[GUIDNAME 1002829]
+1002830	Campamento de refugiados
+1003652	[GUIDNAME 1002830]
+1003653	[GUIDNAME 1002830]
+1002831	Meteorito grande
+1003376	Área de mineração de meteorito
+1003393	Área de mineração de meteorito
+1002832	Hotel cratera
+1003525	[GUIDNAME 1002832]
+1002871	Sensor Drone Ibarra-FoxCom
+1002872	Restos dispersos
+1003170	Residências de trabalhadores
+1002873	Equipamento de mergulho
+1002874	Drone de combate Ibarra-FoxCom
+1002875	Competitor Drone
+1003420	[GUIDNAME 1003409]
+1002776	Restos da barragem
+1002777	Rocha causando turbulência
+1002846	Drone de combate de Lei Sheng
+1002843	Restos inutilizáveis
+1002850	Sensor Drone Lei Sheng
+1002849	Explosivos ocultos
+1002778	Cruzeiro do presidente Lei Sheng
+1003409	Bote de segurança
+1003424	[GUIDNAME 1002850]
+1003505	Orbital Watch Intruders
+1003507	[GUIDNAME 1002846]
+1002890	Global Union Combat Drone
+1002891	Boulder
+1002892	Worker Boat
+1002893	Suitable Tree
+1002895	Marble Stone
+1002896	Firework Ship
+1003407	[GUIDNAME 1002892]
+1003366	Fireworks
+1003367	Fireworks 2
+1003368	Fireworks 3
+1002912	Weather Balloon
+1002913	Climate Experts' Ship
+1002914	Arctic Custodian Sensor Drone
+1002915	Robot Wreckage
+1002916	Troposphere Regulator
+1002917	Arctic Custodian Combat Drone
+1002918	Orbital Watch Scouts
+1002919	Core Upgrade Ship
+1002921	Oil Traces
+1002922	Worker Boat
+1002923	Spilling Oil Barrels
+1002924	Usoyev Combat Drone
+1002925	Expendable Parts
+1002926	Security Valves
+1002927	Emergency Team Ship
+1003453	Experts' Ship
+1003457	[GUIDNAME 1002923]
+1002934	Scientists' Boat
+1003395	[GUIDNAME 1002934]
+1003396	[GUIDNAME 1002934]
+1002935	Saayman Combat Drone
+1002936	Iceberg
+1002938	Lifeboat
+1003310	Observation Drone
+1003311	[GUIDNAME 1002934]
+1003397	[GUIDNAME 1002934]
+1003398	[GUIDNAME 1002934]
+1003312	Seal Colony
+1003320	Detonator
+1003399	[GUIDNAME 1003320]
+1003400	[GUIDNAME 1003320]
+1003321	Saayman Sensor Drone
+1003322	Ship Parts
+1002947	Refugee Group
+1002948	Dropped Shelter
+1002949	LEC Sensor Drone
+1002950	Landmine
+1002951	Refugee Rover
+1002952	Hunted Refugees
+1003458	Infiltrator's Buggy
+1002957	Meteorite
+1002958	Cassian Combat Drone
+1002960	Meteor Shell
+1002962	Expedition Rover
+1002967	Radioactive Stone
+1002968	Large Drill
+1003463	[GUIDNAME 1002962]
+1002963	Tourist Transporter
+1002966	Landmine
+1002964	Safari Buggy
+1002965	[GUIDNAME 1002615]
+1003529	[GUIDNAME 1003167]
+1003530	[GUIDNAME 1003168]
+1003531	[GUIDNAME 1003169]
+1002713	Resident
+1002714	Resident
+1002715	Resident
+1003776	[GUIDNAME 1002223]
+1003777	[GUIDNAME 1002223]
+1003778	[GUIDNAME 1002740]
+1003775	Boreal Plane
+1003779	Helicopter
+1001609	Small Freighter
+1002223	Freighter
+1003754	[GUIDNAME 1002223]

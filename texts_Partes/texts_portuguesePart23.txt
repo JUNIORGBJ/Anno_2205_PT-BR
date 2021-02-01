@@ -1,0 +1,316 @@
+111497	That'll push your space program forward!
+111498	Ah, come on, she was in sound condition!
+111499	Yeah, you're right. Got too many of 'em as it is.
+111500	Ah, she still brought you a tidy little sum...
+111501	Good call. Finally, ye replace that ol' tub.
+111502	Sometimes you just have to part with stuff, right?
+111503	Right. The new one looks better anyway.
+111504	Hah, nothing me lads and I can't fix.
+111505	Give it a new lease of life, alright!
+111506	Ah, I see what's wrong with 'er. No worries.
+111507	Here you go, as good as new!
+111508	Hm, think I got 'er just about right.
+111509	Brought the ship up to date.
+111510	Threw all the ol' crap out.
+111511	Shape up or ship out? We're doing both, eh?
+111512	Alright. Time to make some improvements.
+111513	Good systems are half the battle.
+111514	Everything installed. Give it a try.
+111515	Good call. Could've gotten outta hand at any moment.
+111516	Gave the order. All ships are retreatin'.
+111517	So, pullin' in our horns, are we?
+111518	Here they come!
+111519	How 'bout a little fireworks!
+111520	Called some pals of ours.
+111521	Support's on the way.
+111522	And the lights go out!
+111523	Don't move!
+111524	Come on, my busy bees, do your work.
+111525	Overhauling in progress.
+111526	Shields online!
+111527	Shields and turbines at full power.
+111528	Off you go!
+111529	Wavin' 'em off!
+111530	Torpedo away!
+111531	Wait for the boom!
+111532	That big fella will show them.
+111533	Surface!
+111534	Dropping the bomb!
+111535	Are you freezin' yet?
+111536	Repair systems online.
+111537	Takin' care of the damages.
+111538	Energy shields up!
+111539	Hull fortified!
+111540	Come to Daddy.
+111541	Let's stir things up a wee bit.
+111542	No hard feelings, but I've got me work to do. You wanna talk to me about me "doubtful past"? Go find yourself one of them muckrakers or something!
+111543	Course I can pilot these beauties! Think I'm one of those daft academics or something? No, you name it, I've taken a turn at the wheel. Other than space shuttles. But I reckon I'll get plenty of opportunities the next few days.
+111544	I'm not the type to bootlick, but I gotta admit it feels good to be back in construction. Tell the Beaumont girl I said thanks for givin' me the chance.
+111545	[Hums to himself]... What! Can't I be in a good mood for a change?
+111546	Look after your vehicles well. You can have all that big industry and all, but if you can't move your stuff... or protect it... you're finished.
+111547	Big Five, eh? Trust them as far as I can spit, them money-grubbing vultures. Had something going there at one their security divisions, 'til they axed the whole place!
+111548	Must say, the Ibarra-FoxCom tech ain't no slouch. But the designs... Too spick 'n span. If there ain't some screws stickin' out, it's not the real thing.
+111549	Busy company you got. All them tiny little ants running around doin' their jobs. Hope they're doing 'em right.
+111550	Thanks for keeping bureaucracy to a reasonable level. Worked on other projects before... and I spent more time with a keyboard than a wrench.
+111551	I'm lookin' forward to buildin' me a workshop on the Moon. No more strains from heavy liftin'.
+111552	Happy St. Paddy's day! May the most you wish for be the least you get!
+114964	Name's John Rafferty. Ya need anything that flies, floats or shoots, I'm your man. As long as ya not overdoin' the socializin'.
+115649	Still got space for additional ships.
+115650	Capacity we got. Could build some more ships.
+115651	Yer fleet's a tad... incomplete, if ye ask me...
+115652	Sad sight, all them empty moorings.
+115653	If you don't repair that, it's gonna rust!
+115654	Not gonna let it out on the water in that condition!
+115655	Just takes up space, if it's broken!
+115656	Just look at it. It needs a major overhaul!
+115657	I could have a look at that ship now. Sure I can improve something.
+115658	The old model had its day. Lemme give that ship an update.
+115659	That ship's got some potential for improvement. Just say the word.
+115660	That one's not living up to its potential. I could change that.
+115661	If we modernize that system now, we'll improve it.
+115662	Got me the newest firmware for this. Shall I install it, then?
+115663	I can still improve that system. Just a little fine calibration.
+115664	You have to keep your systems up to date, hear me!
+115665	Your ships are already the best they can be!
+115666	I'd say everything's as good as it gets!
+115667	Be proud of your fleet. The best of the best!
+115668	Could tinker with your ships all day. Couldn't get any better.
+115669	They're all in top condition!
+115670	As I see it, they're all ready to go.
+115671	No major damage left on them. All fine.
+115672	Nothin' to repair on those.
+115673	What? Don't wanna give your dock crew somethin' to do?
+115674	Loud, greasy, that's how docks are. No reason to not come round.
+115675	I'm sittin' on me hands all day. Gimme some tasks for the docks.
+115676	Such a fine dockyard, just gatherin' dust. 'Tis a shame...
+115792	I'm way too old for adventures like that. Gotta pass next time, so you better make sure you got a decent battlefleet. Stop by the dockyard if you want any ships built or revamped and that.
+115793	Found us, did ya? Here's where all the lil' ships come from. It's also where they're repaired or improved. Just give the order.
+115794	Just to let ye know, I'll be establishin' a dockyard in every sector you have a branch in. The one here's already operational.
+115795	In case you wondered, I built us a dockyard here, too. Didn't bring the ships from your southernmost sectors though, seeing as they're not built fer the cold and all. Ye'll have to build yerself a new fleet here.
+116007	Ah, moon vehicles. Was 'bout time I got some new challenges. The assembly hangar here is already operational!
+115889	Not for me, all those celebrations and that. But I gotta say, nice work.
+116220	You trying to be modest?
+116221	Aw, come on!
+116222	Hm, didn't picture you as the type.
+116223	Break a leg!
+116224	So about your will... Nah, just messing!
+116225	Go get'em!
+116226	Quite the daredevil, aren't we?
+116227	Don't come back crying, alright?
+116228	It's gonna go juuust fine.
+115862	You're welcome. If it wasn't for me, you'd all be toast right now. Thing is, I couldn't let tech that promising be lost. You see, nothing personal.
+115863	And you shouldn't count on that being the only ace Drake's gonna play. He's researching weapon technology in a secret Earth base as we speak. Just to let you know!
+115864	Who am I? You should ask A.D.A.M. We were in close touch. But you want a name, how about... Tess or Izz or Akiak or something like that. Your choice.
+115961	Quite the dead end, huh? Well, doesn't have to be. I know where Drake hides his data. It's a fair ways away from the Moon. You want it, you either provide me a team of capable data engineers or we'll do a little home visit.
+115962	Okay, we've calibrated your satellites to directly access Drake's earthside servers. I made sure to leave Drake one of my little homemade viruses. It has a thing for devouring files containing fusion weapon research …
+115963	There! All accessed and fed in into your own database. Hope you don't mind I made my own backup. Just in case.
+115964	There, Drake's fortress of solitude. And I see it's pretty well guarded. Nothing you can't cope with, I hope.
+115965	Get me to a server access point or something so I can hack into their database. Could be we'll have to find more than one, though.
+115966	Keep your ships together on the way and everything should be fine. You ready?
+115967	Alright, gonna plug in from here. I'll be busy for a while. Keep Drake's battleships off our back!
+115968	Hold on... and... another line... and... done!
+115969	Oh, come on. You expect stop me with that? Need just a sec and... done!
+115970	Now, let's move on to the next one.
+115971	Still one to go! Move it!
+115972	Okay, one more.
+115973	Nice! That's how you do an inside job! Got the data you wanted. Plus a few files for me, just out of... private interest.
+116335	Secretary Sam Beaumont. Asking me for help. It's been a while. But it's true. Drake maintains a secret military base on Earth. If you somehow could get me access, I could cause some mayhem on their servers.
+116336	Drake maintains a secret military base on Earth. All of the Orbital Watch's secrets, safely stored in one place. I just need a team of capable data engineers and I can access them from here. Or we'll do a little home visit.
+116337	As we speak, Drake is researching devastating weapons systems based on the fusion research results.
+116338	I know where he stores that data. Give me a team of good data engineers and I'll access it from here. Or we'll go get it in person.
+116345	I made sure to leave Drake one of my little homemade viruses. It has a thing for devouring files containing fusion weapon research.
+116351	Fusion weapons. Drake has a secret base on Earth where he develops them based on the LEC fusion research. And it seems your colony will be the first target.
+116354	But you can stop them. They're still working on the prototypes in their base. If you somehow could get me access, I could cause some mayhem on their servers. Plus get you the LEC fusion research data.
+116358	Now, give me just a sec... There. Earth. Drake has a secret base on Earth, where he researches fusion weapon systems.
+119676	Secretary Sam Beaumont. Asking me for help. Has been a while. But it's true. Drake maintains a secret military base on Earth. If you could get me access somehow, I could cause some mayhem on their servers.
+119677	Okay, we've calibrated your satellites to directly access Drakes earthbound servers. Made sure to leave Drake one of my homebred viruses. It has a gusto for devouring files containing weapon research.
+119693	Nice! That's how you do an inside job! Made sure to leave Drake one of my homebred viruses. It has a gusto for devouring files containing weapon research.
+115875	Don't worry. Won't rain on your parade. But you should save the socializing for later and take the next shuttle back up.
+115897	I'm here for the crisp, clear Arctic air. Helps me concentrate while I'm coding.
+115390	Didn't you check your social media? I need you at the project site.
+115391	Our project reached a new level! Wanna see?
+115392	Hey, I need your input on our little enterprise!
+115393	You doing anything at the moment? If not, why not listen what I have to say?
+115394	Such a nice business proposal, and still no one wants to join in. Hint, hint!
+115395	Interested in a little joint venture? Just drop by.
+116306	What to do with this old ruin? Well, I have an idea. Of course, no 'satisfaction guaranteed or your money back'! And you'd have to invest a lot before it pays off!
+115267	Okay, I'm sure you've heard of the First Wave of 2102. Dozens of corporations pushing into space to get a piece of the Moon. Sounds familiar, right?
+115269	Some of these lunar entrepreneurs had a vision: A great leisure facility for the richest of the uber-rich! One world economic crisis later... We have an ugly unfinished block out in the grey.
+115270	Or rather the future site of the next must-go luxury hotel complex? Well, you tell me. I'm just the facilitator. All of the profits are yours if you let me do my stuff. Fair?
+115280	Okay. Our hotel is ready for the grand opening. I decided for a soft launch, just a few selected guests! Interesting people, especially one of them...
+115282	Our guests are all checked in and the credits are rolling in. How about you just lie back for now, while I monitor... the daily routines here. Keep checking your inbox.
+115283	Nothing new happening. I'll get back to you when our guests start to feel bored.
+115284	There's a big discussion on the net about our war tours. The press calls 'em morbid and unethical. You can't have better publicity! Time to think about our next big happening.
+115285	Busy planing our next big happening. I'll call again later.
+115281	Rad. Hope you don't mind, but I've given our android stewards a vision recorder update.
+115286	And here we are, your hotel, where Earth's who's-who are all dining together. And, where a certain someone is concerned, I've got it all on tape. Means I'm off the project. Enjoy your profits!
+116309	In private? Oh, of course.
+116310	You can keep all the profits yourself. I'm totally fine with my role as a... silent observer.
+116021	The Orbital Watch stored secret information inside this base. Information that should interest you. Just get me to their network access points, okay?
+116022	Hacked myself in their systems a while back. The research they're conducting here... You wouldn't like what they'd be able to do if they complete it. Get me in and I'll leave them a nice data bomb.
+116023	Found out the Orbital Watch stores tactical data on their next moves here. To access it, I have to plug directly into their main servers. Your job is to get me there, okay?
+116030	I'm through here. Get me to the next access point!
+116031	I'm through here! Let's move on!
+116032	That one's taken care of! Next!
+116033	That's our way into their network!
+116034	What are you waiting for? Take me there!
+116035	C'mon, it's right there.
+111553	That was sick!
+111554	Slick.
+111555	Nice one.
+111556	How rad.
+111557	Like that.
+111558	Tight!
+111559	Pretty sweet job.
+111560	Pretty cool.
+111561	Obstacle removed. I'll spread the news.
+111562	That's one less problem to worry about.
+111563	One less bump in the road.
+111564	I'll give you a Like for that.
+111565	You use information effectively. That's good. Not many people do.
+111566	You're very efficient.
+111567	You did a good job. The net reports reflect that.
+111568	You took the logical steps.
+111569	I think you cleaned that situation up well.
+111570	You sure debugged that situation, didn't you?
+111571	You got in the first run. Congratulations.
+111573	Total loss.
+111574	Ooooh, bomb.
+111575	Garbage in, garbage out.
+111576	That is so grody.
+111577	That sucks!
+111578	Okay, that could have gone better.
+111579	That was what I'd call sub-optimal.
+111580	Well, that screwed some variables around pretty bad.
+111581	You couldn't hack it, huh?
+111582	You blew it.
+111583	You are such a Christopher.
+111584	I'm sure glad they don't have you programming life support systems.
+111585	If I coded the same way you ran that mission, I'd be selling ice cream.
+111586	You can do better than that. At least, I sure hope you can.
+111587	That was totally off your norm.
+111588	You should read the flames you're getting for that one!
+111589	One sec... yeah, go ahead.
+111590	Just let me log out here… So, what's up?
+111591	Let me just save this file… What do you need?
+111592	Lemme just finish this… So what can I do for you?
+111593	I knew it was you. Just between us, you might want to upgrade the security package on your mobile.
+111594	Why are you here? You could have reached me via the Net.
+111595	Oh, it's you. Why the face to face? Lose your Net access?
+111597	You? Here? Do you know how inefficient face-to-face is?
+111600	Affirmative.
+111602	Accepted and implemented.
+111603	Let me just enter that… Done.
+111605	Can do.
+111606	Coded and loaded. It's a go.
+111607	Will do. I'll contact you when I want something in return.
+111608	Affirmative. You now owe me one.
+111609	Of course I can do that. I'll get in touch when it's time for you to pay me back.
+111610	As long as you realize nothing in life is free.
+111611	I do something for you, you do something for me. I'll let you know what, where and when.
+111612	No. Busy.
+111613	No time right now.
+111614	Not available right now.
+111615	Coding. Leave me alone.
+111616	Uh-uh, sorry, no time.
+111617	Sorry, you are way back in the line.
+111618	No. You know better than to bother me when I'm coding.
+111619	Like to help you, but I'm busy right now.
+111620	Sorry, no can do.
+111621	No, that won't be happening.
+111622	Do it and things will happen. Good things.
+111623	Up for a little challenge?
+111624	Let's see if you can debug this one…
+111625	Found something on the Net you might be interested in.
+111626	A flag popped up on a bulletin board I watch. Thought it might be up your alley.
+111627	Here. Test your skills on this one.
+111628	Your name is all over the net.
+111629	Congratulations. Searches for your name on the Net have skyrocketed.
+111630	Post analysis is excellent. Good job.
+111631	Your actions caused a lot of Net traffic. General tenor is positive, though.
+111632	You're all over the forums. People seem thankful.
+111633	Your work generated some interesting data curves. Thanks.
+111634	Your solution is trending on the Net right now.
+111635	Not bad. The analysis shows your solution to be close to optimum.
+111636	Want a new identity? Just in case this comes back to haunt you.
+111637	Honestly, didn't you look at your intel?
+111638	Checked the Net lately? You are so burnt…
+113465	Sometimes you just have to admit that it's time to bail.
+113466	Bailing in the middle of a job? Never would've thought.
+113467	You gotta know when to hold 'em, and know when to fold 'em.
+112966	Gimme a status update.
+112967	Still got it in the backlog?
+112968	You're hanging behind.
+112969	You haven't come far on the progress bar yet.
+112970	Either my tracking tool is lagging, or you really haven't finished it yet?
+112971	So what's the what?
+112972	The details, again? You should really keep your cloud up to date.
+112973	Your company page says something about "fast solutions". Can I count on that?
+111639	This object will be relevant.
+111640	This thing is important.
+111641	Log this thing, it's important.
+111642	Save the loc data on this thing, 'cause you'll need it.
+111643	Don't forget this little item!
+111644	My data says this is the one, alright.
+111645	This is the object in question.
+111646	Yeah, that one.
+111647	Coordinates confirmed.
+111648	Verifying destination. Confirmed.
+111649	GPS says that's the spot.
+111650	Accessing satellite feeds. Coordinates correct.
+111651	Triangulation completed. That's the spot.
+111652	Yeah, those are the designated coordinates, alright.
+111653	The coordinates match the ones on the Net.
+111654	I told you those were the right coordinates.
+111655	Might not look that way at first glance, but this is related.
+111656	This is the next step in the sequence.
+111657	Relax, it's just a recursion step.
+111658	Secret military information. Thought you might want to chip in.
+111659	The combat data I've been able to acquire shows you have a good chance.
+111660	Looking at the logistic streams, there's some shooting going on out there.
+111661	Interesting. Three military surveillance satellites just focused on that area.
+111662	If you're looking to test your military tech, my data indicates there's no time like the present.
+111663	A heroic victory... just to quote the respective news pages.
+111664	You see what a difference good intel can make?
+111665	It's nice to see someone make use of all that hard-won intel for a change.
+116024	And they didn't even know what hit them. Nice.
+116025	Wasn't easy hacking their mainframe, and without you I wouldn't have made it.
+116026	And done! Left them a little present while I was logged in. They won't have any disk space problems for a while.
+111666	Will be hard to cover up your incompetence here.
+111667	If you'd read your intel reports, none of that would have happened.
+111668	This is gonna be really hard to whitewash.
+116027	Coding takes time, okay?! You have to give me more than this!
+116028	We're lucky we got out of there in one piece!
+116029	That's exactly why I'm not into analog access. People shoot at you and in the end you got nothing!
+111669	You didn't hear this from me.
+111670	You may not realize, but you've made a huge impact. Thanks.
+111671	Good that none of this ever happened, right?
+111672	Trust me on this one. It'll help us all.
+113552	You really wanna make a difference?
+113553	Lemme give you a tip. Pun intended.
+111673	Adequate compensation for an adequate decision.
+113554	You see, everybody wins.
+113555	And here's your loot.
+111674	Playing the upright citizen, huh? Guess I have to put more sugar on it next time.
+113556	Alright. No cookie for you, then.
+113557	Fine. But don't think I've given up on you goody two-shoes.
+111675	Think you can just stay on the sidelines forever? I have offers waiting here that are sure to bring you back onto the field.
+113558	Decisions, decisions, right?
+113559	Still so cautious? Well, there's always next time.
+111676	Me? Well, you know me better than you think. Through the things I do for you. From the things I tell you. Everything else... come on. Just sugarcoating, isn't it?
+111677	People seem to think I'm a complete loner. I'm not. I grew up in a lovely family and I'm a twin. I just get really focused when I work, and I, uh, work a lot.
+111678	Everything runs strictly according to protocol at the corporation. Well, that's what they'd like you to think.
+111679	Just updated my comment filter. I wonder what people did before we had these... I bet you've heard of that "Godwin's law" or whatever it was called.
+111680	I love this. It's like being the spider in the middle of a web of pure data, drawing the strands to create something new.
+111681	Everybody tries to manipulate information to their own benefit. The Big Five, the corporation, you, me - everybody. It's human nature.
+111682	Data security is so important. If everyone had access to all the information on the Net, there would be complete and utter chaos.
+111683	People would freak if they knew what's really on the Net. I mean, it's not like anyone tells them what ends up there. Did you know that when the Net started up, people were told "don't want it up, don't do it." Unbelievable, isn't it?
+111684	Communication is the most powerful force in the world. Contacting. Staying in contact. We're all just clusters of information, you know? And information has to be free, right?
+111685	I went independent once I realized I couldn't trust anyone else's moral compass. Everyone's got one, and I like to think I'm following mine. Even villains are heroes in their own stories, right?
+111686	The better my skills got, the more information I had. That's when I became an independent. Lets me sleep better at night.
+111687	The skills and ability to manipulate information mean you have to develop a strong sense of ethics. And it makes you cynical as all hell.
+111688	I'm not ALL about computers. Sure, there are people who are important to me. That's why I protect their privacy.
+111689	People always ask why I'm not with a corporation. Are they kidding? We don't need more monopolies. I mean, I would turn my corporation into one in no time flat.
+111690	People seem to think I'm a complete loner. I'm not. I grew up in a lovely family and I'm a twin. I just get really focused when I work, and I, uh, work a lot.
+111691	I have a lot of information. Sensitive information. Information is power. That's why I don't see much of my family. To keep them out of the line of fire.
+113468	You might want to work on your skills. Or get some sort of cloaking device. That would be cool!

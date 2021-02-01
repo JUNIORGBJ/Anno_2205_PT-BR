@@ -1,0 +1,316 @@
+110754	The feeling of victory. Unfamiliar for us.
+110755	Good to have you back in one piece, I guess.
+110756	I understand what you must've been through.
+110757	We've lost the battle, but we will not stop fighting.
+110758	They know my face. It would be too dangerous to our cause if I were to do it myself.
+110759	The Orbital Watch is on my tail. But someone has to take care of this!
+110760	Please, many lives depend on this.
+110761	The Orbital Watch is tightening the noose around us. Can I entrust you with this.
+110762	There's always hope. You've shown us that.
+110763	You enable us to keep up the resistance.
+110764	Virgil Drake might be one step ahead of us. But he's more than one step behind you.
+110765	That's a heavy setback!
+110766	We won't recover from that so easily.
+110767	I really thought you could at least make a difference.
+110768	Damn. They spotted us!
+110769	See. Not easy to keep a low profile.
+110770	And back to hiding.
+110791	Almost there.
+110792	It's nearby. Stay on your guard.
+110793	Just a short way to go.
+110794	Ah, there is it.
+110795	You're always keeping track, right?
+110796	Search successful.
+110797	All that's left of the LEC.
+110798	I just might have what you need.
+110799	Look first. Then we'll talk.
+110800	You want something? Let's see what I got.
+110801	I know, my product range could be broader...
+110802	A few containers remained here. Feel free to browse.
+110803	Welcome to our secret warehouse. Help yourself.
+110804	Moon goods, huh? There might be something left.
+110805	Good choice!
+110806	Remember, you didn't get that from me.
+110807	Thank you. We can use the money.
+110808	Thanks. But don't expect a receipt.
+110809	One hand washes the other.
+110810	Thanks for supporting us.
+110811	It's yours.
+110812	Make sure you don't give us away.
+110813	Good thing that's off my hands.
+110814	Hot merchandise, be careful.
+110815	I was looking for this, thanks.
+110816	You have no idea how badly we need something like that.
+110817	It's hard for us to get these things.
+110818	This will be helpful.
+110819	Had to buy it.
+110820	Fair price. Even we can afford that.
+110821	Will come in handy someday, I'm sure.
+110822	Hope I can get it past the Orbital Watch.
+110823	I'll take it right away.
+110824	Finally, I got one. Thanks.
+110826	I despise those terrorists! But their hate... That doesn't surprise me. You Earthlings take it all for granted. That we always deliver on time. People aren't just numbers on a spreadsheet, you know.
+110827	Beauty of nature? Look, I grew up here. I don't care about your forests or valleys or beaches. We seek beauty in people, not in the landscape.
+110828	Virgil Drake... he was in the LEC's middle management before, I hear. Paper-pusher turned extremist. Wouldn't be the first time.
+110829	Many moon natives aren't exactly happy about the arrival of the Second Wave. But if the Orbital Watch is the alternative, I'd join forces with you any day.
+110830	Mobility. That's our strongest weapon against the Orbital Watch. Our resistance may be scattered. But don't think we are not united.
+110831	Even in my cargo delivery days, I didn't spend this much time on the road. Or should I say: On the run.
+110832	My spies told me, Drake has some serious health problems. Maybe that's what it's really about... putting your mark on the Moon before it's all over.
+110833	Don't think these corporations are totally innocent. The Ministry of Orbital Affairs never cared for the problems here, just for the results. And you see the results.
+110834	The Orbital Watch stop at nothing. Terrorists attack oxygen tanks and supply convoys, strangling people into submission.... So many dead, still floating around somewhere in their space suits.
+110836	It's not that I decided to be the head of the resistance. It's just that I have a fleet of transporters and a lot of fugitives who need passage and sustenance.
+114982	I don't know you, but we seem to have the same enemy. I'm Zandra Haynes., and I speak for the Lunar Excavation Corp. Provided you still acknowledge it. Maybe we can help each other out with goods.
+115804	My people can use every credit and every crate of goods. Come by my camp if you have something to spare.
+115805	I know we can't give much. But we will be satisfied with whatever we can get. Just one deal, okay?
+115806	These people are relying on me to supply them. Doing business with me won't hurt you.
+115807	No idea why people come to me when they want to offer you Assignments. See for yourself.
+115808	People still occasionally contact the LEC with Assigments. You should accept them. They sure are profitable.
+115809	The Orbital Watch is a threat to every moon dweller. We should all work together. Check my camp for assignments.
+115881	You didn't ignore us when we needed help. Congratulations! You earned it.
+115898	What? Jorgensen! I was clear about this! No outside involvement!
+115767	Of course they're off-limits to you.
+115768	So, you have arrived.
+115763	I'm Dr. Howard Young. I speak for the Arctic Custodians.
+115764	First allow me to be clear: We expect you to abide by our directives at all times. The Arctic ecosystem is very delicate.
+115765	Concerning your recent... military involvement. We would prefer that you pursue such destructive activities outside our territory.
+115766	A good day to you.
+116316	Don't interfere with Arctic Custodian duties.
+116318	Respect these rules and we'll get along just fine.
+115769	And don't overfish!
+115770	Fine. Your settlement seems to follow our regulations well enough. You are permitted to continue the expansion of your spaceport. Within reasonable limits.
+115771	The Arctic Custodians will provide you with the technology required to establish an icebreaker dock here. Handle it with care.
+115772	A few weather anomalies. Nothing we can't deal with. Enact stabilization protocol 16.3.
+115773	What... why...
+115774	Systems not responding! Stabilisation values approaching critical level.
+115775	Storms on our borders. Around the entire Arctic Circle. Do they... do they want to isolate us completely?
+115776	What… someone has taken over control of the Stabilizers?
+115778	You are responsible for this! It's the Lunar Licensing Program that brought those terrorists here! Consider our support suspended! And keep out of our affairs!
+105605	I must admit, I underestimated you. My apologies. Be assured we will support you in your endeavours.
+116331	They have the whole Climate Stabilizer network under their control!
+116332	The temperatures are rising. Higher and higher. This will lead to a catastrophe!
+116333	We have to stop it! The snow will melt, the icesheet will break apart, the glaciers...
+115955	There you are. Not a minute too early. The Orbital Watch... They've brought in everything at their disposal!
+115956	A whole fleet is steaming toward us! They've got ships that resemble floating fortresses! Nearly indestructible.
+115957	They've cut a swathe of devastation through our protectorates. You're our only hope.
+115958	I know why Drake attacked us. It's because we don't have any defensive measures to speak of. And our scouts have already detected another wave heading in our direction. I hope we can call on you again.
+115371	The project's moving again! Come over!
+115372	I could use a helping hand with our project.
+115373	About our project. I guess you're needed again!
+115374	You mind helping me out a little? It's something big.
+115375	Don't mean to hassle you. But could you drop by sometime?
+115376	I need your help here. Could you come by and have a look?
+114899	It was irresponsible of you to meddle with our Climate Stabilizers without asking us. But the situation has been exacerbated, and I must say I don't see Mr. Jorgensen handling it on his own.
+114900	And please remind Mr. Jorgensen not to be so careless in the future. I hate to think of what the Orbital Watch could do with our technology.
+114901	You have made a substantial contribution towards maintaining Earth's climatic stability. We are not unthankful. So, if you would like some specific changes in the local weather for your benefit, you may ask.
+114949	Hmm, everything seems to be in line here. Please proceed with dismantling the oil platform.
+114950	Thank you for informing me. This oil rig is indeed in critical condition. You are authorized to access it and take the necessary countermeasures.
+115262	Good, I see you're on-site. Now we can examine the oil leakage in this sector. All oil rig pumps to full power!
+114951	It could have developed into a full-scale catastrophe. Thankfully, there are still people who are aware of their responsibility to our planet. People like you.
+115527	I have to warn you. Forcing your way straight through will destabilize the whole area.
+115529	This is a clear violation of regulations! This project is no longer backed by the Arctic Custodians!
+116053	The Orbital Watch is staging a full-scale offensive against our settlements. We don't have a navy to speak of, while they have batteships like none I've never seen before. Help us!
+116054	Their attack waves refuse to ebb. We can't hold out any longer against their battleships. The fate of the Arctic Custodians is at stake.
+116055	They know we have no means to defend ourselves. And still they threaten us with wave after wave of battleships. We are fully dependent on you for support here.
+116062	The next confrontation is inevitable! Prepare yourself!
+116063	It isn't over yet! The next dreadnought is drawing near!
+116064	There is another one coming! Hold it back! Just... hold it back!
+116065	It's them! Prepare yourself!
+116066	Stop them!
+116067	Don't back off from them!
+109099	Good.
+109100	Finally.
+109101	Glad that's done.
+109102	Happy that's out of the way.
+109103	One problem less.
+109104	Glad that's resolved.
+109105	One less danger.
+109106	Today is a good day.
+109107	Better.
+109108	A satisfactory outcome.
+109109	Comforting.
+109110	Much better.
+109111	That's a relief.
+109112	You did fine, I must admit.
+109113	Credit where credit's due. You did well.
+109114	I have to admit, you fulfilled your duties.
+109115	That was wise of you.
+109116	You did better than I thought.
+109117	Yes, you did well enough.
+109118	Good job. Maybe I was wrong about you.
+109119	You surprised me. Positively.
+109120	You did a good thing today.
+109121	You did a good job this time.
+109122	Nothing short of a disaster.
+109123	About what I expected.
+109124	Terrible.
+109125	Very disturbing.
+109126	Not helpful.
+109127	This is dangerous.
+109128	More for us to worry about.
+109129	Hopefully that won't set a precedent.
+109130	Atrocious.
+109131	Disastrous.
+109132	That's what carelessness brings about.
+109133	That's what happens when you don't pay attention.
+109134	Now look what you've done.
+109135	You're always blind to the consequences of such actions.
+109136	You do know the damage this is going to cause, don't you?
+109137	I expected you to be careless, but this careless...
+109138	How typical of you.
+109139	Should have known you'd... never mind.
+109140	If you don't plan on being considerate, don't even bother.
+109141	I shouldn't have asked you in the first place...
+109142	Yes?
+109143	What is it?
+109144	What do you want?
+109145	Hello.
+109146	Hmm?
+109147	What brings you here?
+109148	Why are you bothering me?
+109149	I hope it's important.
+109150	Say what you need to say.
+109151	Speak.
+109152	I shall look into it.
+109153	I suppose.
+109154	Agreed.
+109155	Very well.
+109156	Alright.
+109157	In this case, I'm with you.
+109158	Okay, I'll give it a chance.
+109159	Alright, let's see what I can do.
+109160	Fine, I'll do it.
+109161	Okay, but I'll be expecting results.
+109162	No.
+109163	Forget it.
+109164	Not going to happen.
+109165	Never.
+109166	Absolutely not.
+109167	I will not. And you shouldn't either.
+109168	No. I'm surprised you even asked.
+109169	You can't be serious.
+109170	You know my viewpoint. No.
+109171	Your request is unacceptable.
+109172	Not for me. For the good of the planet.
+109173	This is your department. Not ours.
+109174	You could do something of relevance.
+109175	This is of the utmost importance.
+109176	Take it or leave it. But it is an opportunity.
+109177	You wish to convince us of your reliability. Then walk the walk.
+109178	You have set a fine example.
+109179	Finally you're taking a stand for a worthy cause!
+109180	You surprise me. That was well done.
+109181	In all honesty, you did very well.
+109182	It seems you do understand. Good.
+109183	I'm seldom wrong about people. But in your case...
+109184	You reveal unexpected qualities, I must say.
+109185	Nothing to complain about. Good.
+109186	At least you haven't wrought too much havoc.
+109187	Well, what did I expect?
+109188	You've done enough. We'd better take over from here.
+113530	You carry a great responsibility.
+113531	Do I have to remind you of your duties?
+113532	I take you at your word.
+113533	It is necessary.
+113534	Please, adhere to our guidelines, while you do it.
+113535	I'm waiting.
+113536	If you're here, who's out dealing with the problem?
+113537	Please, keep it in mind.
+113453	I hadn't thought you'd be the kind to abandon projects.
+113454	I think you're setting false priorities.
+113455	Tenacity is its own reward. Although not for you, I see.
+109189	There.
+109190	That one.
+109191	What? Yes, that.
+109192	So you're not blind, after all.
+109193	Yeah, that's the one.
+109194	Good. That's it.
+109195	Well, that's one step further than I thought you'd get.
+109196	Exactly.
+109197	This way.
+109198	Now head over there.
+109199	It's there. Can't you see?
+109200	Yeah, there. Now, hurry.
+109201	Stop wasting time and go.
+109202	Indeed, it's here.
+109203	Please go there immediately.
+113539	Don't take too much time.
+109204	The problem is proving more convoluted than I anticipated.
+109205	So, you completed the preliminaries. Now on to the next steps.
+109206	You should be familiar with the problem now. Ready to carry on?
+109207	Those terrorists are a danger. And not only to us.
+109208	You'll need all the forces you can muster. This will be dangerous.
+109209	You will need to be careful. These people are "shoot first, forget the questions“.
+109210	We don't normally resort to violence. But this time, I give you explicit consent.
+109211	We don't have the military means to deal with this. It might be different a matter for you.
+109212	You have fought off disaster. I must thank you.
+109213	You defused an ugly situation. Many thanks.
+109214	The damage could have been much greater. You have my thanks.
+116056	I must thank you. Without you, there would be nothing left of our protectorates.
+116057	You are the most reliable ally we have against those madmen. I don't know why I didn't realize that earlier.
+116058	It's over for now. But this is only the calm before the next storm. I hope we can count on you when the time draws nigh.
+109215	One should think that if you use violence, it should make a difference.
+109216	An environmental nightmare, and all for nothing.
+109217	The wounded were recovered. That's the best I can say about the situation.
+116059	A catastrophe. I must evacuate our nearby settlements immediately. I hope we'll get the opportunity to drive them off in the future.
+116060	Our hopes were in vain. But as long as there is but a tinge of white on the glaciers, we will return to fight!
+116061	So much sorrow, so much death. What are those terrorists after...
+109218	We all play a part in the preservation of the arctic. Including you.
+109219	Future generations will thank you.
+109220	People like you are responsible for the current situation.
+109221	I hold no grudge against the poachers who killed my father. I did when I was a boy of seventeen. But in time, I realized something. When you grow up in a society that defines itself through taking, having, hoarding... It becomes natural to brutalize your fellow men and be brutalized by them.
+109222	There have been efforts to allow pets on the Moon. Hardly a fitting environment. Oh, that reminds me, I need to buy more dog food for Haluuq... I hope he's behaving himself while I'm away.
+109223	The Arctic Custodians are here to protect treasures most people don't even know exist. Treasures like the chance to live on a healthy, habitable planet.
+109224	It's not that I oppose the Lunar Licensing Program. It is just that I'm not a friend of knee-jerk actions. But maybe the corporation simply lacks experience in long-term development. Well, we've been around longer than they have.
+109225	It's a constant struggle to protect our arctic preserve against the rapacious maws of big business. I wish the corporation would provide us more support, but they're too busy fishing for voters.
+109226	The only thing more amazing than human greed is their unreasoning belief that they have a right to that greed. The Big Five are well-versed in this line of thought.
+109227	The Arctic Custodians are mankind's environmental conscience. It's no wonder we're unpopular.
+109228	Just a few of days ago, we were contacted by someone. She refuses to give her real name, so I'll refuse to accept her messages as anything other than manipulation.
+109229	Earth is like a greenhouse. To protect the life inside, all of the conditions must be balanced with the greatest of care. But the Big Five prefer to throw stones.
+109230	I'm often considered gruff or taciturn. I just don't suffer fools lightly.
+109231	If only people would think. My apologies, I am not usually given to flights of fantasy.
+109232	Possessions do not make one rich. That which one experiences makes one rich.
+109233	Out here, one has time to think, to reflect. An incalculable treasure. I wish Jorgenson would embrace that. It might even cure his constant fidgeting.
+109234	It is impossible to put a price on the peace and beauty the arctic has to offer. The Big Five have trouble accepting that.
+109235	I will never forget the first time I saw a harp seal come up to breathe through a hole in the ice. A beautiful moment.
+109236	How can anyone see this place and not fall in love? A rhetorical question, of course. It's not like the Big Five would even give a moment's thought as to what they're exploiting.
+109237	It's Earth Day. Please, be responsible. We only have one Earth.
+113456	A hunter survives by not being seen.
+113457	You must learn to be nothing more than the snow around you.
+113458	An opportunity lost.
+113459	Quiet now, you're getting close.
+113460	Now keep your eyes open. You're close…
+113461	You're close, now, very close. Look carefully.
+113462	You learn the way of the hunt quickly.
+113463	You did well.
+113464	Good job. Maybe you do belong here, after all.
+113540	Don't you dare touch anything!
+113541	It's very delicate technology. You shouldn't even be here.
+113542	Any careless touch of a button could lead to a disaster. You better go.
+113543	You may build your facility here. And only here.
+113544	I hope you've read our building regulations.
+113545	This building plot is at your disposal. But don't overdo it.
+113546	Oh, yes. Please, do come in!
+113547	You see, the stabilizer network runs smoothly.
+113548	Aren't they an engineering marvel?
+113549	This building space is assigned only to you.
+113550	Please, feel free.
+113551	Take it. I have complete confidence in you.
+115068	So, you've arrived. I'm Dr. Howard Young. First off, let me remind you to obey to our guidelines at all times. I don't want incidents like the sabotage at your headquarters to repeat themselves here.
+115882	We've had our difficulties in the past. But I would like to congratulate you in all sincerity.
+115931	Intruders! All ships, fire at will!
+115932	Battle stations! Block all passages! Don't let anyone escape!
+115933	What, how did you find... never mind, you won't live to tell anyone else...
+115934	Oh, we have a visitor. All ships, battle stations! Show them what good hosts we are!
+115935	Fusion energy can be a highly destructive force and we are on the verge of a breakthrough. Too bad you won't live to witness the first field test.
+115936	All ships to alpha sector! Maximum security level!
+115937	Weapons free! No prisoners!
+115938	They're in our system! Run the security protocols!
+115943	Show no hesitation! They... they cannot... just stop them!
+115944	Fine. But we will have our revenge... you will see, you will see.
+115945	Our... our data. I swear you will get what you deserve. I will see to it personally.
+115946	Damn... now hurry! Show no mercy!
+115947	All we asked for was respect... but you...  You prefer to treat us the way you've always treated us. Good, we've prepared for this eventuality.
+115948	Don't try to negotiate with us. You forfeited that right the moment your shuttles took off. And now you shall have our response.
+115949	Hmmm, you have prevailed. But that was just one of them...
+115950	This one is just for you.
+115951	Stop acting so tough! You'll have nothing by the next wave!

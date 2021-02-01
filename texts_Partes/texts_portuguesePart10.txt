@@ -1,0 +1,316 @@
+121386	Indústria de eletrônicos
+121388	Industria pesada
+121387	Indústria de Biotecnologia
+121385	Indústria de Energia
+121389	Indústria Agrícola
+102586	Vídeo
+102587	Áudio
+102588	Teclado
+103053	Jogo
+102591	Volume principal
+102592	Volume da música
+105608	Volume dos edifícios
+105606	Volume do ambiente
+105609	Volume do combate
+105610	Volume das Unidades
+105611	Volume das Vozes
+105626	Volume da IA
+117337	Volume dos Efeitos
+102593	Resolução
+102594	Tela Cheia
+103021	Qualidade da Agua
+103022	Qualidade das Luzes
+103023	Qualidade das Sombras
+103024	Qualidade do Terreno
+116315	Configurações Gráficas
+116317	Modo Janela
+103025	Qualidade da Textura
+103026	Anti-Serrilhamento
+103027	Sincronismo-Vertical Ligado
+103028	Qualidade dos Objetos
+103052	Qualidades dos Gráficos
+114555	Baixo
+114556	Médio
+114557	Alto
+114558	Personalizado
+114559	Desligado
+116408	Janela
+116409	Maximizado
+116410	Multidões
+116411	PósEfeitos
+116412	Muito Alto
+116413	Ultra Alto
+116414	Gamma
+116441	Ver Distância
+120376	Qualidade das Sombras
+120863	Reflexos
+116897	Move camera to the left
+116899	Move camera to the right
+116900	Move camera up
+116901	Move camera down
+120033	Rotate Camera around your current position
+120034	Start Camera Flight No°1
+120035	Start Camera Flight No°2
+120002	Store Camera Position No°1
+120011	Store Camera Position No°2
+120012	Store Camera Position No°3
+120013	Store Camera Position No°4
+120014	Store Camera Position No°5
+120015	Store Camera Position No°6
+120016	Store Camera Position No°7
+120018	Jump to Camera Position No°1
+120019	Jump to Camera Position No°2
+120020	Jump to Camera Position No°3
+120021	Jump to Camera Position No°4
+120022	Jump to Camera Position No°5 & rotate
+120023	Jump to Camera Position No°6 & rotate
+120024	Jump to Camera Position No°7 & rotate
+120027	Jump to Camera Position No°8 & rotate
+120365	Zoom Camera In
+120366	Zoom Camera Out
+120591	Rotate camera clockwise
+120592	Rotate camera counter-clockwise
+102596	Mouse Sensivity
+102604	Demolish city
+105226	Destroy selected building
+105227	Rotate building clockwise
+105228	Rotate building counter-clockwise
+105229	Switch residence appearance
+105230	Residence variation <
+105231	Activate relocation mode
+105232	Activate copy mode
+105233	Activate demolition mode
+105234	Pause the game
+105235	Show/hide info symbols
+105236	Promote employees in building
+105237	Promote multiple employees around
+105238	Pause production of selected factory
+105239	Pause production of selected factory type
+105240	Select all vehicles
+105243	Select & focus ship
+105244	Open Construction menu
+105245	Show/hide HUD
+105246	Show/hide strategy map
+105260	Show/hide minimap
+105263	Open Goods Overview
+105264	Focus spaceport
+105792	Launch missile barrage
+105793	Call support fleet
+105794	Fire E.M.-Pulse
+105795	Call repair drones
+105796	Activate energy shields
+105797	Fire wave mine
+108983	Reset camera position
+120001	Take Screenshot
+115460	Select all vehicles
+116866	Sair
+116867	Open main menu
+116880	Toggle postcard view
+116895	Toggle main menu
+116902	Copy
+116903	Paste
+120031	Speed game up
+120032	Slow game down
+120041	Build [GUIDNAME 1000178]
+120042	Build [GUIDNAME 1000005]
+120043	Build [GUIDNAME 1000151]
+120190	Toggle Day/Night Cycle
+120566	Activate upgrade mode
+121292	Jump to previous building
+121293	Jump to next building
+122156	Call Fleet
+103055	Legendas
+103075	Ciclo Dia e Noite
+103436	Idioma do Texto
+103437	Idioma do Áudio
+114563	Ativar Câmera Livre
+116307	Idioma
+116308	Geral
+116352	Ativar Menu com Botão Direito
+116353	Ativar tutorial
+116407	Ativar Borda na Tela
+116831	Mostra [GUIDNAME 2002281]
+119957	Salvar Automático
+119969	Ativar Noticias
+121390	Ativar reflorestamento
+102585	Configurações
+102589	<font face="Roboto Medium">Aplicar</font> Mudanças
+116366	Pressione uma tecla para reatribuir este comando
+116368	[GUIDNAME] não está atribuído
+102590	<font face="Roboto Medium">Restaurar</font> Padrões
+116367	Tecla Invalida
+116363	Aplicar Mudanças
+116365	Salvar Mudanças
+116720	Gerenciar Corporações
+116721	Criar uma nova corporação
+116722	Continue
+116830	Não Atribuído
+116857	Você não salvou suas alterações
+118161	Créditos
+118407	Clube Ubisoft
+105978	Você está falido.
+105977	Fim do Jogo
+105979	Ir ao Menu Principal
+105980	Sua corporação caiu em falência.
+108461	Até a falência. Alcance um crédito positivo para pausar o tempo.<br />Acumule 5.000 créditos para evitar a falência.
+117907	Nível [CORPORATION_LEVEL]
+119978	Tradução PT-BR by:GBJ<br /><br />Erros de ortografia e correções: gilson.gbj@gmail.com
+119979	Continue
+119980	Iniciar Jogo
+120188	Não há notícias disponíveis no momento
+121107	[CORPORATION_TITLE] - Level [CORPORATION_LEVEL]
+100180	Não há créditos suficientes
+100182	Área de construção bloqueada
+100183	Conexão estabelecida
+100184	[CONSTRUCTION COST]
+100185	Não pode ser copiado
+103033	Não pode ser aprimorado
+103068	Não pode ser promovido
+100221	Não pode ser selecionado
+100222	Não pode ser realocado
+121283	Não pode ser expandido
+100223	Já foi reivindicado
+100687	Limite alcançado
+100752	+ 00:03
+102466	Deve ser colocado em um ponto adjacente
+102467	Não há zona de construção de montanha disponível
+114632	Não há zona de construção costeira disponível
+102530	[ONSCREEN_TEXT_BUILDCOST_ALL]
+102531	[INLINE_ICON] [GUIDNAME] [SIGNED_NUMBER]
+102656	[INLINE_ICON] [GUIDNAME] collected
+102928	[INLINE_ICON] [GUIDNAME]
+117742	<font color="#FF14B9E0">[INLINE_ICON] [GUIDNAME]</font>
+102930	<font size="22" [GUI_COLOR Red]>Barco perdido</font>
+102931	<font size="22" [GUI_COLOR OrangeHighlight]>Tarefa completada</font>
+105758	Muito longe da frota
+108522	Interação completa
+108540	Carga carregada
+108541	Carga entregue
+108542	Objeto entregue
+108543	Items entregue
+108544	Objeto fisgado
+108545	Objeto desenganchado
+108550	Siga o sinal do drone
+108551	Sinal perdido
+116440	[INLINE_ICON] [GUIDNAME]: [UNSIGNED_NUMBER]
+116449	Promovido
+119853	Área de destino inválida
+120066	+[INLINE_ICON 2002275] +[INLINE_ICON 2002276]
+120921	[INLINE_ICON] [GUIDNAME] activated
+100186	Não pode ser demolido
+122104	Estrutura indestrutível
+122105	Os custos de relocação não podem ser financiados.
+122106	A promoção não pode ser financiada.
+122107	Os empregados não estão satisfeitos.
+122108	Participação da companhia não alcançada
+102569	corporação subiu de Nível
+116530	Novo Nível da corporação:[CORPORATION_LEVEL]
+116423	Você recebeu as seguintes recompensas:
+116374	Maior tamanho da frota
+116424	Aumentando o tamanho da frota do Ártico
+116425	Aumentando o tamanho da frota Lunar
+116377	[GUIDNAME]
+100216	Novos edifícios disponíveis
+100215	Você ganhou os seguintes projetos:
+116376	Conquista desbloqueada
+117144	[NOTIFICATION_CHARACTER_NAME] solicitar apoio militar com [GUIDNAME].
+117145	[NOTIFICATION_CHARACTER_NAME] agradece seu apoio militar.
+117146	[NOTIFICATION_CHARACTER_NAME] ficou desapontado com o seu fracasso em [GUIDNAME].
+117147	[NOTIFICATION_CHARACTER_NAME] te lembra de ajudar com: [GUIDNAME].
+117783	[NOTIFICATION_CHARACTER_NAME] informa sobre a situação.
+118043	[NOTIFICATION_CHARACTER_NAME] se oferece e repara o seu barco.
+117793	Aprimoramento de [GUIDNAME] em [SESSION_NAME] em andamento.
+102673	Aprimoramento de [GUIDNAME] em [SESSION_NAME] em pausa.
+102672	Aprimoramento de [GUIDNAME] em [SESSION_NAME] pronto para ser concluído!
+102575	O aprimoramento [GUIDNAME] foi aplicado com sucesso!
+120711	A construção da ponte [SESSION_NAME] está em andamento.
+120712	A construção da ponte [SESSION_NAME] está em pausa.
+120713	A ponte [SESSION_NAME] está pronta para ser concluída!
+120714	A ponte foi construída!
+121062	A construção da bomba [SESSION_NAME] está em andamento.
+121063	A construção da bomba [SESSION_NAME] está em pausa.
+121064	A bomba [SESSION_NAME] está pronta para ser concluída!
+121065	A bomba foi construída!
+121066	O dreno da bomba [SESSION_NAME] está funcionando.
+121067	A drenagem do pântano [SESSION_NAME] foi interrompida.
+121068	A drenagem do pântano de [SESSION_NAME] está pronto para ser concluída!
+121069	O pântano foi drenado!
+100149	Enviou uma nova oferta comercial
+100135	Criada uma nova rota de transferência
+100143	Sucesso
+100195	Operação comercial realizada
+100275	Sua compra está em seu inventário.
+102533	Seus empregados foram promovidos a [POPULATION_LEVEL].
+102568	[NOTIFICATION_CHARACTER_NAME] te informa de que [POPULATION_LEVEL] estão migrando para este setor.
+102570	Saldo de crédito máximo [CORPORATION_LEVEL_CREDITS_REWARD]
+102571	Tamanho de armazenamento de mercadorias [CORPORATION_LEVEL_STORAGE_REWARD]
+102572	Tamanho do inventário [CORPORATION_LEVEL_INVENTORY_SIZE_REWARD]
+102573	Slots de caminho de transferência [CORPORATION_LEVEL_TRADE_SLOTS_REWARD]
+102574	[POPULATION_LEVEL] in [SESSION_NAME] request [GUIDNAME]
+102576	Novas ofertas comerciais foram anunciadas
+102577	NO LOCA [PlayerName] comprou o que você ofereceu: [OfferedGoodsName]
+102578	Colete [OfferCreditsAmount]
+102581	Nova zona de construção recuperada
+102582	Estabelecido novo assentamento
+102583	[SESSION_NAME] agora está disponível
+102584	[REGION_NAME] agora está acessível
+102598	Dummy text population introduction
+102671	[GUIDNAME]: [UNSIGNED_NUMBER]
+117182	[NOTIFICATION_CHARACTER_NAME] admits, that you now have a higher corporation level than [GUIDNAME].
+117185	[NOTIFICATION_CHARACTER_NAME] pities you, as your corporation level has been surpassed by [GUIDNAME].
+120059	Transfer route updated
+100172	[SIDE_FEEDBACK_CHARACTER_NAME] is now online.
+100310	[_SIDE_FEEDBACK_CHARACTER_NAME] is now offline.
+100173	[_SIDE_FEEDBACK_CHARACTER_NAME] rejected your trade request.
+100174	[_SIDE_FEEDBACK_CHARACTER_NAME] has invested in you:
+100276	Investment milestone reached
+100480	New region unlocked: Moon
+100483	New trade offers available
+101026	Você recebeu [GUIDNAME]
+110507	Imagem salva em Documents\ANNO 2205
+102579	Escasso em [GUIDNAME]
+116909	[GUIDNAME]
+117997	[GUIDNAME 106084]
+117998	[GUIDNAME 106087]
+118157	You have played for 2 hours
+118158	You have played for 4 hours
+118159	You have played for 6 hours
+118160	You have played for 8 hours
+120385	[TRADE_ROUTE_GOOD_NAME] route from [TRADE_ROUTE_SOURCE_SESSION] to [TRADE_ROUTE_TARGET_SESSION] is inefficient.
+122047	Several routes are inefficient
+100329	[NOTIFICATION_INTERACTION_NAME] bought the[NOTIFICATION_INTERACTION_INTERACTION_AMOUNT] t of[NOTIFICATION_INTERACTION_INTERACTION_PRODUCT] you offered. Collect [NOTIFICATION_INTERACTION_INVESTMENT] credits here.
+100330	[NOTIFICATION_INTERACTION_NAME] reached a new corporation level. Collect [NOTIFICATION_INTERACTION_INVESTMENT] credits here.
+100341	Aceitar
+100344	Rejeitar
+100484	Investment milestone reached. Collect payout of [_INTERACTION_INVESTMENT] credits here.
+100516	Créditos recebidos
+100522	[NOTIFICATION_INTERACTION_NAME] reached an investment milestone. Collect your payout of [NOTIFICATION_INTERACTION_INVESTMENT] credits here.
+100282	Novo grupo de empregados disponível!
+100281	Agora você tem acesso a [GUIDNAME 2001007].
+100283	Novo nível de empregado alcançado!
+100258	Agora você habita [GUIDNAME 2001008].
+100278	[GUIDNAME 2001009] residência no seu sector.
+100279	[GUIDNAME 2001010] residência no seu sector.
+100280	[GUIDNAME 2001011] residência em sua cidade.
+100293	[GUIDNAME 2001015] residência em sua cidade.
+100284	Novos produtos disponíveis!
+100193	Agora você pode produzir [GUIDNAME 2001020].
+100226	<img src='icon_good4'/> [GUIDNAME 1000169] desbloqueado.
+100259	<img src='icon_good1'/> [GUIDNAME 1000174] desbloqueado.
+100253	<img src='icon_workforce1'/> [GUIDNAME 100026] desbloqueado.
+100254	<img src='icon_good5'/> [GUIDNAME 1000170] desbloqueado.<br /><img src='icon_good7'/> [GUIDNAME 1000172] unlocked.
+100255	<img src='icon_transport'/> [GUIDNAME 1000123] desbloqueado.
+100268	<img src='icon_redcross'/> [GUIDNAME 1000182] desbloqueado.
+100257	<img src='icon_bluelock'/> [GUIDNAME 1000181] desbloqueado.
+100256	<img src='icon_good6'/> [GUIDNAME 1000175] desbloqueado.
+100271	<img src='icon_good3'/> [GUIDNAME 1000187] desbloqueado.<br /><img src='icon_good9'/> [GUIDNAME 1000191] unlocked.
+100272	<img src='icon_good2'/> [GUIDNAME 1000188] desbloqueado.<br /><img src='icon_good8'/> [GUIDNAME 1000186] unlocked.
+100273	<img src='icon_transport'/> [GUIDNAME 1000185] desbloqueado.
+100274	<img src='icon_good10'/> [GUIDNAME 1000190] desbloqueado.
+116527	[GUIDNAME 9] informs you that a Route is about to expire.
+116528	[NOTIFICATION_CHARACTER_NAME] offers to renew the following Transfer Route:
+116529	[GUIDNAME 9] tells you that your Transfer Route has now expired.
+117148	[GUIDNAME 9] confirms your Transfer Route to the World Market.
+117149	[GUIDNAME 9] ensures you that your goods will arrive shortly.
+117197	[GUIDNAME 9] informs you that the Transfer Route has been shelved.
+117466	Entrega de Materiais Raros

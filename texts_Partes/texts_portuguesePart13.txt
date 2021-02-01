@@ -1,0 +1,316 @@
+105950	O famoso Nic Papadakis recebe muitos produtos de origem duvidosa. Quando estiver conectado, você pode estabelecer rotas comerciais estáveis entre suas lojas.
+105951	As lojas Nic Papadakis são muito bem supridas e possui entregas rápidas.
+105952	Ville Jorgensen está sempre disposto a compartilhar os tesouros do Ártico. Quando estiver conectado, você pode estabelecer rotas comerciais estáveis entre suas lojas.
+105953	Quebra-gelos totalmente carregados sob as cores de Ville Jorgensen estão prontos para entregas rápidas.
+105954	Zandra Haynes vende o último estoque remanescente da LEC. Quando estiver conectado, você pode estabelecer rotas comerciais estáveis entre suas lojas.
+105955	Os comboios comerciais da Zandra Haynes conseguiram ultrapassar os bloqueios da Guarda Orbital para fazer entregas e comércio rápido no mercado mundial.
+105966	Alcance o nível corporativo [CORP_LEVEL] para ter acesso ao [GUIDNAME].
+116819	[TRADEROUTE_SOURCESESSION] para [TRADEROUTE_TARGETSESSION]
+117133	Transferindo
+120774	Rota ineficaz
+120775	Produz mais [TRADE_ROUTE_GOOD_NAME] em [TRADE_ROUTE_SOURCE_SESSION]
+117135	(Amount)
+117134	Custo & e tempo de execução
+116821	Custo de Manutenção
+116824	Lucro
+117136	Custos
+117137	Tempo de execução restante
+116816	<font [GUI_COLOR GreyLight1]>Clique para modificar as rotas</font>
+117162	Primeiro escolha uma mercadoria
+117163	<font [GUI_COLOR GreyLight1]>Clique para selecionar origem</font>
+117164	Você não tem nenhuma solução aqui.
+117165	Não há excesso de estoque de [ROUTES_EDIT_GOOD_NAME] neste setor
+118401	A exportação dessa mercadoria pode atrapalhar a satisfação dos funcionários locais.
+118394	Exportar [ROUTES_EDIT_GOOD_NAME] para este setor só sera bom, se você tiver mercadorias suficientes armazenadas lá.
+117166	<font [GUI_COLOR GreyLight1]>Clique para selecionar destino</font>
+117183	Não é possível conectar com o mercado mundial
+117184	Limite de rota atingido
+120583	Exclua uma rota para criar outra
+118188	Origem já selecionada
+118397	Produtos armazenados
+120105	Sector is not connected to the Trade Network
+120106	Upgrade the Sector Spaceport to integrate it into the Network
+120120	The spaceport in [ROUTES_SOURCE_SESSION_NAME] is not equipped for transfer with this sector. Upgrade it.
+120119	Upgrade this sector's spaceport to furnish it for transfer.
+120121	Neither of the desired sector's spaceports are fit for transfer. Upgrade both of them.
+120122	Spaceport expansion level too low
+118369	Route Revenue
+118370	Goods revenue
+118371	Vehicle upkeep cost
+118373	Rotas do Mercado Mundial
+118374	Rotas Ativas
+118375	Nível corporativo Atual
+118376	Aumente seu nível corporativo para expandir o limite de rota.
+120792	Capacidade de Transferência
+120820	A rota tem efeitos retardados
+120821	[TRADE_ROUTE_SOURCE_SESSION] can't deliver enough goods on an ongoing basis
+120822	Once its Sector Storage runs dry, the route will become inefficient
+122064	Remaining Runtime
+122111	Selected good cannot be traded on the World Market
+104953	Your corporation is not permitted to maintain a fleet of this size.
+104954	This ship was damaged in the field. It must be repaired before further use.
+104956	Locked slot
+105911	Prerequisites:
+105912	Unlock costs:
+105913	Construction costs:
+105945	Order this vehicle to add it to your fleet.
+105946	Remove this vehicle from your fleet. Removing vehicles will not refund their construction costs.
+105948	Buy a vehicle to add it to your fleet.
+105964	NO LOCA InfoTip Dock Descr. Transport Ship
+105965	Reach a Corporation Rating of [CORPORATION_LEVEL_TRANSPORTATION_VEHICLE_UNLOCK] to get access to [GUIDNAME].
+108272	Construa [GUIDNAME]
+108273	Custo de Construção
+108276	Abandona [GUIDNAME]
+108282	Corporation Level
+108283	Add a vehicle to your fleet
+115317	Repair [VEHICLE_SLOT_SHIP_CLASS]
+116406	Stats
+116797	[NEXT_VEHICLE_UPGRADE_NAME] requires
+117131	Upgrade to [NEXT_VEHICLE_UPGRADE_NAME]
+105957	Terrorists capture ships passing important Global Union trade routes. The ships must be rescued.
+105958	The Orbital Watch took over the Arctic Custodian's climate stabilizers. The global climate is at stake.
+105959	Enemies hardly pose a threat, but you only receive a few rewards.
+105960	Your enemies are stronger and more numerous. Missions take longer, but are more profitable.<br />Suggested for Veteran-Level ships.
+105961	Challenging missions with scarce power reserves and very dangerous enemies.<br />Suggested for Elite-Level ships and above.
+108940	Dificuldade Padrão
+108941	Dificuldade Avançada
+108942	Dificuldade Especialista
+108943	Dificuldade Bloqueada
+105947	Research this upgrade to permanently improve all vehicles of this class.
+106005	Research this upgrade to permanently improve this action.
+108129	Attributes
+105975	Improvement
+105976	Research Costs
+104944	Hitpoints
+104946	Projectiles
+104947	Attack Range
+104948	Viewing Distance
+104949	Speed
+108523	Base Damage
+108524	Reload Time
+108525	Bonus Power
+108249	Radius
+108248	Delay
+108246	Damage
+108245	No. of missiles
+108251	Max. distance
+108250	Max. charges
+108526	Duration
+108527	Barrage Count
+108528	Inner Damage
+108529	Outer Damage
+108530	Unit Count
+108533	Outer Damage Radius
+108534	Effect Duration
+108538	[INLINE_ICON 1001567] Mana Cost
+108539	Effect Value
+108547	Shield Radius
+105938	Max. Hitpoints
+105939	Reward Count
+105940	Damage
+105941	Reloading Time
+105942	Inital [GUIDNAME 1001567]
+105943	Max. [GUIDNAME 1001567]
+108281	Speed
+108148	Additional Charges
+108212	Reduced [GUIDNAME 1001567] Cost
+108147	Max. Distance Increase
+108145	Delay Reduction (ms)
+108215	Barrage Duration Increase (ms)
+108216	Additional missiles
+108217	Repair Radius Increase
+108218	Shield Radius Increase
+108240	Additional Submarines
+108220	Target Radius Increase
+108221	Damage Increase
+108222	Impact Radius Increase
+108223	Push Force Increase
+108224	Push Duration Increase
+108232	Effect Duration Increase (ms)
+108233	Effect Amount Increase
+108225	Submarine Hitpoint Increase
+108142	Projectiles ZZZ
+108143	Damage ZZZ
+108144	Duration ZZZ
+108230	Max. [GUIDNAME 1001567] ZZZ
+108219	Stun Radius ZZZ
+108146	Radius ZZZ
+108247	Duration (ms) ZZZ
+108513	[GUIDNAME] Level [GUID_VEHICLE_UPGRADE_LEVEL]
+108514	[GUIDNAME] Level [GUID_SPECIAL_ACTION_UPGRADE_LEVEL]
+108263	Unlock [GUIDNAME]
+108254	Construct [GUIDNAME]
+108255	Technical Specifications
+108256	Custo de Construção
+108257	Unlock [GUIDNAME]
+108258	You have reached the maximum number of [GUIDNAME] you may store.
+108259	The [GUIDNAME] combines cheap construction costs with very low maintenance costs to make the most out of your money!
+108260	Vehicle Capacity
+108261	Upkeep Cost of Associated Route
+108265	Cannot construct additional Vehicles
+108672	Empregados em [GUIDNAME 100009]
+108673	Energia em [GUIDNAME 100009]
+108675	Equilíbrio energético local
+108676	Transmissão de Energia
+108677	Produção
+108678	Consumo
+108679	Recebendo
+108680	Enviando
+108703	[OBJECT_NAME_STRATEGIC_VIEW_FILTER] em [GUIDNAME 100009]
+108704	Produção & Consumo
+108705	Produção
+108706	Consumo
+108707	Importar & Exportar
+108708	Importar
+108709	Exportar
+108862	Distribuição do tipo de empregado
+116096	<font [GUI_COLOR GreyLight1]>Clique para entrar no setor</font>
+116378	<font [GUI_COLOR GreyLight1]>Clique para abrir a seleção de sectores</font>
+116453	<font [GUI_COLOR GreyLight1]>Clique para escolher este setor</font>
+116455	<font [GUI_COLOR GreyLight1]>Clique para carregar o setor</font>
+116457	<font [GUI_COLOR GreyLight1]>Clique para selecionar dificuldade</font>
+116463	Este setor já foi selecionado
+119850	Este setor é propriedade de outra corporação.
+119851	<font [GUI_COLOR GreyLight1]>Clique para abrir o painel de negociações</font>
+116474	<font [GUI_COLOR GreyLight1]>Clique para mostrar rotas</font>
+117110	Precisa desbloquear este setor primeiro
+118004	Não há nenhuma missão que exija sua intervenção.<br />Volte mais tarde.
+118005	<font [GUI_COLOR GreyLight1]>Clique para ver detalhes da missão</font>
+118010	<font [GUI_COLOR GreyLight1]>Clique para fechar detalhes</font>
+118006	Descobrir Conflito
+118007	Compre créditos para a missão ficar disponível novamente.
+118012	Custos
+119829	Baixo risco
+119830	Não há atividade da Guarda Orbital.
+118008	Ameaça intermediária
+118009	Os setores mostram sinais de atividades da Guarda Orbital.
+118003	Intervenção Necessária
+119828	O Guarda Orbital provavelmente irá atacar.
+120202	<font [GUI_COLOR GreyLight1]>Clique para carregar o setor</font>
+108499	Preço por tonelada
+108500	Oferta
+120630	Estação Espacial
+120172	Status da rede
+120176	Clube Ubisoft
+120178	Acesse o Conselho e o mercado mundial através da estação espacial.
+120179	Você só pode acessar o Conselho e o mercado mundial se estiver conectado aos serviços Uplay.
+120180	Você só pode acessar o Conselho e o mercado mundial se estiver conectado aos serviços Uplay.
+118404	Controle seus pedidos e monitore seu progresso.
+116360	<font [GUI_COLOR GreyLight1]>Clique para abrir o menu</font>
+116364	Gerencie sua frota e melhore seu exército.
+118403	<font [GUI_COLOR GreyLight1]>Clique para abrir o menu</font>
+121003	John Rafferty não está disponível no momento. Enviou saudações para você.
+116731	Bônus: [GUIDNAME]
+116732	Redução nos custos de construção das instalações
+116733	Redução de preço do mercado global
+116734	Módulos disponíveis: [GUIDNAME]
+116735	[INDUSTRY_NAME]
+116736	Edifícios afetados
+116743	[GUIDNAME] obteve [VOTING_RESULT_PERCENTAGE]% de suporte durante o último período.
+116744	Benefícios acumulados
+116750	[GUIDNAME] [GUIDNAME 108284]
+116751	Preços do mercado mundial
+116752	[GUIDNAME 108256]
+116756	Sem efeito
+120165	Vote e obtenha módulos e materiais raros.
+120609	O Conselho
+120737	Sua corporação não é influente o suficiente para ser convidada a [GUIDNAME 120609].
+120735	<font [GUI_COLOR GreyLight1]>Clique para abrir o menu</font>
+120751	É necessário um elevador espacial para visitar [GUIDNAME 120609].
+119889	Saldo do setor
+119766	Empregados em [GUIDNAME]
+119855	Energia em [GUIDNAME]
+117243	Abastecimento do setor
+100796	Energia gerada
+100797	Energia consumida
+108565	Energia Transferida
+108566	Importar
+108567	Exportar
+120198	Spacestation in [GUIDNAME]
+120201	Stage of expansion
+120356	Currently under construction
+120357	The Spaceport is waiting for finalization
+120358	Upcoming Stage
+120364	Construction Process
+120387	Sector Project Progress
+120392	Other Assignments
+120397	Contact the project supervisor to find out about the sector project.
+120866	Sector project complete
+121113	Oferta de projeto
+122074	Lucros do armazém
+120610	Recursos externos
+120168	Os recursos estão prontos para coleta.
+120169	Colete materiais raros por meio das Ações do Ubisoft Club.
+120170	Os recursos estão prontos para coleta.
+120736	<font [GUI_COLOR GreyLight1]>Clique para abrir o menu</font>
+120738	No momento, não há nada que você possa coletar.
+116373	NO LOCA Estado
+119932	Volume de mercado
+120183	Estado do mercado mundial
+120740	[GUIDNAME 116360]
+120973	[GUIDNAME 121036]
+120958	[GUIDNAME 108566]
+120959	[GUIDNAME 108567]
+120960	Evolução de Preços
+120961	[GUIDNAME 117160]
+120964	Comercializado em ambos os sentidos
+120965	[GUIDNAME 116738]
+120966	Mostra resumo básico de mercadorias
+120969	[GUIDNAME 114581]
+120970	[GUIDNAME 114580]
+120995	[REFERENCE_TEXT]
+114579	Preço de Produção
+114580	Por Preço de Venda
+114581	Por Preço de Compra
+121036	Por Preço de Produção
+116371	Configure rotas e troque mercadorias pelo câmbio global atual.
+119934	[OBJECT_NAME_STRATEGIC_VIEW_FILTER] no mercado mundial
+120631	Mercado Mundial
+119931	Diferença de Preço
+120716	Aumente seu nível corporativo para ter mais rotas com o mercado mundial
+120181	Limite de rota alcançado!
+120184	Rotas ativas
+120739	[WORLD_MARKET_ROUTE_COUNT] / [WORLD_MARKET_ROUTE_LIMIT]
+120182	Construct a space elevator to connect to the [GUIDNAME 120058]
+116372	Connection not established.
+120164	Currently undergoing Maintenance
+108578	Enables your Spaceport to access the Global Union space station.
+108579	Enables your Spaceport to maintain Transfer Routes with the Arctic Region.
+108580	Enables your Spaceport to maintain Transport Routes to the Moon.
+108581	Enables your Sessions to transfer Energy via Energy Lines.
+120403	NO LOCA Edit your Corporation Name
+120404	NO LOCA Change the Corporation Logo
+120407	NO LOCA Customize your Assets
+116418	Escassez de [NOTIFICATION_TOP_GOOD]
+116419	Otimize sua produção ou construa um [NOTIFICATION_TOP_GOOD_FACTORY].
+116420	Os empregados precisam de mais mercadorias
+116421	Construção de monumentos
+116422	At least one of your monuments demands you take action.
+117373	Resume the paused upgrade
+117891	Resume or finalize the construction in question.
+117374	Finalize the pending construction.
+116426	[NOTIFICATION_TOP_MAINTENANCE] [NOTIFICATION_TOP_MAINTENANCE_SEVERITY]
+116427	Production slightly lowered.
+116428	Production severely impaired.
+116429	Build more transportation centers or optimize your traffic connections.
+116430	Build more residences or provide missing goods.
+116431	Construct more power plants or decrease power consumption.
+116661	baxo
+116662	critico<br />
+118048	Falta de [NOTIFICATION_TOP_PUBLIC]
+118049	Os empregados estão sem acesso a serviços importantes.
+118050	Otimize o fornecimento público ou estabeleça mais edifícios públicos.
+119834	Os empregados estão congelando.
+119835	Coloque fábricas perto de suas residências para fornecê-las calor.
+121296	Construa geradores de escudos perto de residências para protegê-las.
+119740	Catamarã
+119741	O catamarã vem com maior estabilidade sem sacrificar a velocidade. <br />Desbloqueado por pré-compra.
+119742	Desbloqueado ao resgatar um código de pré-compra.
+119744	Design alternativo
+119745	[GUIDNAME 120589]
+119746	Desbloqueia via Clube Ubisoft
+119749	[COMMAND_SHIP_COLOR_NAME]
+119750	[GUIDNAME 120589]
+119804	Logo bloqueado
+119805	Junte Pontos de Desempenho para desbloquear este logo
+120589	Desbloqueie usando Club Units no Clube Ubisoft

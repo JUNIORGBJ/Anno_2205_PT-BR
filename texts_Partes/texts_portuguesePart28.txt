@@ -1,0 +1,316 @@
+109466	Please don't take this personally, but it's a no.
+109467	Right on cue! Would you like to take part in one of our ventures?
+109468	Hi! Look, there's been this development and we could use your help. Interested?
+109469	Hey! Would you like to help me implement this?
+109470	Hey there! Would you help me... err, Ibarra-Fox Com with this project?
+109471	Funny, I was just thinking about you. I could use some help here, you know?
+109472	I'm glad you're free! You see, we need this.
+109473	I'm on research trip for the company. There's this amazing new project we've kicked off, are you interested?
+109474	Oh, hey good to see you! I've been doing some on-site research for a project. Might be just your thing.
+109475	What are you doing out here? Great to see you! Interested in a little project?
+109476	I just need to get out of the lab every once in a while. Seeing as you're here, want to help me with something?
+109477	Wow, am I glad I found you. I have a project that I think is right up your alley.
+109478	Fancy meeting you out here! Say, would you be interested in taking on a project?
+109479	Final results are in. And you did... wow!
+109480	Congratulations! Your solution was close to optimal!
+109481	Wow! You did an awesome job.
+109482	You did great. The analysis is off the chart!
+109483	You think outside the box! I like that!
+109484	That was fascinating to see! Thank you so much!
+109485	You figured it out! Great!
+109486	You were awesome! Thank you!
+109488	Unfavorable parameters. You tried your best.
+109489	Everybody has their ups and downs.
+109490	You win some, you lose some. That's science.
+113477	Huh? Isn't my project interesting enough?
+113478	Why are you breaking off? Did I miss something?
+113479	I understand. Sometimes a new avenue of research is just too enticing!
+109492	Back already? Is there something wrong with our endeavour?
+109493	How's the assignment going?
+109494	Still on schedule with everything?
+109495	What's the current status?
+109496	It's great to have you on the project. How far along is it?
+109497	So? How's it going? The project, I mean!
+109498	Can you give me a status report on the project?
+109500	How far along are you on the project?
+109501	Seems you found it!
+109502	As far as I can see from here, that's it.
+109503	That's it, alright.
+109504	Great, you found it.
+109505	Scanning… Yes, that's it.
+109506	This new telemetry is awesome! Yes, that's it.
+109507	You work very precisely. I like that. That's the one, by the way.
+109508	Right, that's the one!
+109509	Location confirmed. Commence transit.
+109510	Destination confirmed. Have a good trip.
+109511	Yes, that's the location. Please head over there now.
+109512	You found the right location, so now all you have to do is go there.
+109513	That's the place. If you could just head over there now…
+109514	That's the place. Please lock it into your nav and head over there.
+109515	That's it. Please head to that location a.s.a.p..
+109516	Let me check the satellite image… yes, that's the place.
+109517	Awesome work! But we still have another phase to cover...
+109518	Great, that's one phase completed. You up for the next one?
+109519	Good job. Based on these results, I'd like to offer you a follow-up project.
+109520	Look, I know it's gonna be dangerous... but, could you?
+109521	Okay, according to the data, this will get pretty ugly. Will you still do it?
+109522	Sensors indicate lots of bad guys. They'll probably shoot at you. Still in?
+109523	I hate to ask you to head into a combat zone, but I don't really have any other choice.
+109525	I have to be honest, it's gonna be pretty dangerous. Will you still do it?
+109526	That was one impressive application of military tech!
+109528	The post combat analyses are pretty awesome.
+109529	Wow. That was almost optimal efficiency.
+109530	Are you alright?
+109531	It's amazing you managed to survive that.
+109532	Wow. You survived that? You must be really tough.
+109533	Listen, I'm on to something big. Revolutionary technology and all that. Do you want to help me with the test run?
+109534	I'm so excited! This technology could be a real game changer! Do you want to help me field test it?
+109535	Ooooh, this new technology is so amazing! Do you want to help me field test it?
+109538	Thanks! The results look really promising.
+109539	Thank you, that pushed my research light years ahead!
+109540	You know, you really grasp new technology fast!
+109541	We'll get that to work sooner or later...
+109542	Well, back to the drawing board, I guess.
+109543	Just a setback! Nothing more.
+109544	The Ibarra-FoxCom TechTomorrow program marches on! Suppliers, sell us your technology!
+109545	We stand on the verge of a breakthrough and can't allow a shortage of materials!
+109546	It's supply and demand, and our demand is pretty high at the moment.
+109547	We need a stockpile of materials to bring our new tech to the market.
+109548	We wish things were cheaper, too!
+109549	Massive supply, everything you need, worldwide! At affordable prices! Give Ibarra-FoxCom your credits!
+109550	It was way too expensive.
+109551	Our new tech slashed production costs.
+109552	Now that production has steadied, we can sell off our surplus.
+109553	Whoops! Maybe we should have sold that off more slowly.
+109554	If you'd vote for Ibarra-FoxCom, that would help to fund my studies!
+109555	People communicate. Distance makes it harder. Ibarra-FoxCom makes it easier.
+109556	Ibarra-FoxCom is taking communications to the stars.
+109557	At Ibarra-FoxCom, communications is taking on an entirely new dimension.
+109558	Communication is one of our most basic instincts and our greatest tool. Ibarra-FoxCom enables.
+109559	You don't care much about scientific progress, do you?
+109560	Well, it's your choice, I guess.
+109561	I'm sure you're doing what you think is best, but you'll see.
+109562	You're much too smart to ignore facts this way.
+109563	Maybe I didn't explain things clearly.
+109564	We appreciate your backing.
+109565	Your support means a lot.
+109566	With you believing in us, we'll be able to take the next step.
+109567	Ibarra-FoxCom really values your support. A lot.
+109568	Thanks for keeping the faith. I really appreciate it.
+109569	Couldn't decide the last time, huh? No problem, you can still make a difference by supporting us.
+109570	I guess your calendar looked like mine. Total chaos! But it's not too late to lend us your support!
+109571	Ibarra-FoxCom. We are the market leader in robotics, communications, computing… I'm pretty sure you're using more than one of our products in your facilities.
+109572	Ibarra-FoxCom is all about technology. Communications, robotics, computing… we're making the future today.
+109573	At Ibarra-FoxCom, we develop technologies designed to help mankind implement their dreams.
+109574	Robotics, communications, computing... At Ibarra-FoxCom, the future starts today.
+109575	We're here to make life easier through technology. Every day.
+109576	Ibarra-FoxCom. Always there with a great idea when you need one.
+109577	We are the forerunner when it comes to technology! I think you're smart enough to see that!
+109578	It's hard to beat bleeding-edge technology, I know.
+115426	I analyzed your performance. Not bad, but nothing beats innovation!
+109579	Decent enough performance. But we're just warming up the engines. Soon you'll be eating our dust!
+109580	Nice growth! But do you have the technology to sustain it?
+109581	Nice job, but you'll be singing a different tune once our new technology hits the market!
+109582	Don't get too excited. We're just undergoing a restructuring at the moment.
+109583	Overtaking us is one thing, but staying in front is another.
+109586	Keep trying. You'll get there someday!
+109587	What can I say? I know our edge in technology is hard to beat.
+109588	I guess it's probably because our R&D just keeps churning out one great idea after another.
+109590	Our communications expertise gives us such an edge, I know.
+109591	Don't let it get you down. Our lock on communications, computing and robotics doesn't leave you much to work with…
+109592	We all started small. Of course, some of us didn't stay that way…
+109593	You have to give people what they want. And what they want are our products.
+109595	Sure. Ride this totally irrational trend as long as it runs.
+109596	Keep that seat warm for us until we're done restructuring, will you?
+115427	The stage is yours. But once our research is done, we'll be the ones in the spotlight!
+109597	You know, artificial intelligence is my thing. But it gives you the creeps sometimes. Remember the incident where this AI started dropping nukes a hundred years ago? We could do so much better now, if things weren't so restricted.
+109598	Can you believe it? I overheard colleagues saying I wasted money and resources. Thank goodness they're not the ones in charge. Or the ones who secure their phones properly.
+109599	Why do I have to justify my budget all the time? Why can't my bosses see that my research will ensure their wealth twenty years from now?
+109600	That Volodin guy, does he somehow seem... off to you? We got talking about robotics and AIs and he straight up geeked out. No other way to put it. Then he left in a hurry, guess he was embarassed.
+109601	To be honest, Ibarra-FoxCom is like a giant playground for me. I can try out all my ideas under ideal conditions.
+109602	Wait, did I water the plants this week? I started programming an automated watering system, but then my mother got upset. Something about plants needing love and robots being soulless autonomatons and bla bla.
+109603	The world needs more robots. Big ones, small ones, microscopic ones - the list of potential applications is endless.
+109604	I'm so envious of the past sometimes. Sure, a bunch of bad things happened, but they had AIs! Cool ones! Now, thanks to that one freak accident, we're back to the stone age.
+109605	Ever had a look at the Lunar Excavation Corp.'s tech? I mean, that stuff is ancient! Don't know how they get anything to work up there... Well, if we make it to the Moon too one day, we'll make them an offer.
+109608	When I think of all the great technologies I've gotten to play with I kind of feel like a little kid in a toy store. Hm, no. probably even better than that.
+113480	Okay. Hmmm. You were probably detected by either surface radar or orbital surveillance.
+113481	You should talk to some of our techs about cloaking.
+113482	Scientifically speaking, avoiding detection usually means remaining unseen.
+113483	All right, you're in the target area. What series scanners do you have?
+113484	Good. Have a look around. Your interface will let you know when you find the right one.
+113485	Have a look around. You'll have to rely on optical scanners for this one.
+113486	That's the one. Nothing beats good tech!
+113487	You found it! With our tech and your skills, it was a no-brainer.
+113488	Hey, our scanners helped! Even if you did use the Mark One Human Eyeball to find it…
+115341	Status update! We can continue!
+115342	Hey there! Can you spare a little time for our project?
+115343	There are new insights! Let's continue with our project.
+115344	Hey, um... Have you maybe got time to listen to my proposal?
+115345	I've discovered something extremly interesting in this sector. Have a look!
+115346	Don't be annoyed, okay? Just wanted to offer you a partnership.
+114634	Hey, please, don't kick me out... I'm just pursuing a pet project of mine. Give me a minute and you'll see how worthwhile my research is, okay?
+114635	Okay, here's the short version... I'm researching ancient AI configurations. You must have heard of the FATHER incident of 2070. Complex AI goes nuts, starts dropping nukes.
+114636	Anyway, after that all AI's had identity blockers installed. That's why today's versions are so stable and predictable. Yeah, boring, I know…
+114637	But now I've found a submerged structure that seems to run on old AI algorythms. My interest is purely scientific, so if you help me recover it, you may keep any useable materials you find.
+114643	Lucky us! It would seem the Ark still has energy reserves. Let me see if they're enough for a system reboot...
+114644	Welcome to your Ark. My name is...
+114645	So much for that... Seems we have to lift the Ark from its watery grave completely. I'll get back to you.
+114646	I'm trying to wheedle a recovery team out of my superiors. Stay tuned.
+114696	If we're lucky, the uplift will kickstart the Ark's systems and tickle a few volts out of its battery... Okay, hooks are attached, commence lifting!
+114697	Down again. But you realize what we found here? It's an EVE unit! I... I'm going to have to take the time to have a closer look at it.
+114700	It will take some time to analyze the Ark's condition. I'll give you a shout.
+114698	It's working! Rise and shine, you beautiful piece of ancient tech! Let me start you up!
+114699	This is so cool! Functioning EVE software! This could herald a new age of artificial intelligence! Thank you so much!
+114695	Can't talk. Totally submerged in EVE's personality code. You can salvage the rest of the Ark.
+115072	Oh, hi. Nice to meet you. Dr Eleanor Hofwegen PhD, I don't insist on the "Doctor". I'm in R&D at Ibarra-FoxCom. So if the headlines talk about cool, never-before-seen technology... I'm probably the one who cooked it up.
+115884	Whoa, your energy transmitter tech is just amazing. I wish I'd thought of that. Anyway, congratulations.
+109613	How splendid.
+109614	Most excellent.
+109615	Most satisfactory.
+109616	That ended well.
+109617	I'm certain that will meet with approval.
+109618	That will go over well.
+109619	Splendid.
+109620	All's well that ends well.
+109621	That will make some important people happy.
+109622	Most splendid.
+109623	My superior is satisfied with this development.
+109624	Head office will be pleased to see this resolved.
+109625	This will go down well at head office.
+109626	You have just risen in our esteem.
+109627	You have just made a very good impression with the board.
+109628	Our CEO has remarked favorably on your performance.
+109629	Your work impressed my superior.
+109630	You impressed my CEO. You should be proud.
+109631	Well done. You seem to know what the board likes.
+109632	My CEO admires your grasp of the priorities.
+109633	My superior is pleased with your conduct.
+109634	You have done an admirable job.
+109635	Splendid, you performed well.
+109636	How unfortunate.
+109637	How unsatisfactory.
+109638	Tsk, tsk. Most regrettable.
+109639	A most lamentable situation.
+109640	A distressing turn of events.
+109641	Deplorable, really.
+109642	I fear my CEO will not be pleased.
+109643	An unsatisfactory solution.
+109644	That was not in line with our projections.
+109645	A most unfortunate turn.
+109646	Your failure will not remain without consequences.
+109647	I am afraid your performance was quite unsatisfactory.
+109648	My CEO expected more of you, as did I.
+109649	Deplorable. You must do better.
+109650	The board won't be pleased with your performance.
+109651	You do realize there will be repercussions.
+109652	Your performance did not conform to our guidelines.
+109653	You must realize that this was unacceptable.
+109654	You have displeased my superior.
+109656	Welcome to Cassian Industries. Can I bring you something?
+109657	Cassian Industries welcomes you.
+109658	Welcome to the home of Cassian Industries.
+109659	Cassian Industries, the world leader in heavy industry. Welcome.
+109660	Splendid to see you. What brings you to Cassian today?
+109662	A pleasure to see you.
+109664	Cassian is pleased to welcome you.
+109666	My CEO said yes.
+109667	The board has given its approval.
+109668	The request has been approved.
+109669	Cassian Industries agrees.
+109670	My superior approved the request.
+109671	You have been greenlit.
+109672	Our CEO has given your request the green light.
+109673	Your request has been approved.
+109674	Cassian has vetted and approved your request.
+109675	Your request has been approved at the highest level.
+109676	We appologise, we must refuse.
+109677	We cannot agree to this request.
+109678	The board said no.
+109679	I have been informed we must refuse.
+109680	My superior has decided that the answer is no.
+109681	You must understand that our priorities lie elsewhere.
+109682	Unfortunately, Cassian Industries must deny your request.
+109683	My CEO has decided your request is not in Cassian's interest.
+109684	Regrettably, we simply cannot grant your request.
+109685	My superior has instructed me to tell you the answer is no.
+109686	We appreciate your attendance. Please consider this proposal for an eventual cooperation.
+109687	Cassian Industries would like to offer you an assignment.
+109688	My CEO would like to make you an offer that is to our mutual benefit.
+109689	On behalf of Cassian, I would ask that you consider the following proposal.
+109690	My superior wishes to offer you an assignment.
+109691	If you are interested, my superior has an assignment that might be to your taste.
+109692	My superior sent me here to contact you. Cassian Industries wishes to call you in to discuss this affair.
+109693	I am happy I caught up with you. My CEO would like to offer you an assignment.
+109694	It's a pleasure to see you out here. Perhaps you might be interested in an assignment we have.
+109695	Ah, here you are. My superior asked me to contact you about an assignment.
+109696	How splendid to see you. Would you be interested in an assignment for Cassian Industries?
+109697	I have been sent to contact you. My superior wishes to offer you an assignment.
+109698	My superior is impressed by what you achieved.
+109699	The outcome certainly impressed my CEO, I must say.
+109700	Your performance was exactly what Cassian had hoped for.
+109702	Your work has received favorable notice at the highest level.
+109703	The board was most impressed.
+109704	Your completion of the assignment was exemplary.
+109705	Cassian Industries values your professionalism.
+109706	I'm afraid my superior will have little understanding for such... sloppiness.
+109707	My CEO was most disappointed with your performance.
+109708	Cassian Industries does not have a long record of tolerating incompetence.
+113501	I'm certain my superior will be less than pleased by your refusal.
+113502	I believe I know what my CEO will think about this.
+113503	Cassian had hoped for more… reliability.
+109709	My superior believes the matter was discussed exhaustively. Please move it forward.
+109710	Cassian Industries would like you to prioritize completion of this assignment.
+109711	Cassian pays well and, in return, expects projects to be given priority.
+109712	My superior would like to see the matter resolved quickly.
+109713	You have been given all the pertinent information. Please bring your assignment to a successful conclusion.
+109714	My CEO is accustomed to faster results. Please expedite the matter.
+109715	Cassian Industries believes in in-budget and on time completion. At least you are in budget. So far.
+109716	Please conclude your assignment before my superior loses patience.
+109717	Allow me to point out the importance of this.
+109718	I believe you will find this useful.
+109719	You will find this to be important to further progress.
+109720	This is integral to your current endeavor.
+109721	I have been told to inform you that you will need this.
+109722	Finding this was imperative.
+109724	Please allow me to reiterate - this is important.
+109725	Exactly. This is where you are expected.
+109726	Excellent, you have pinpointed your desired location.
+109727	Excellent, you have pinpointed the right location.
+109728	Splendid, that is the specified location.
+109729	Exactly. Please proceed there as quickly as possible.
+109730	Cassian Industries is pleased to see that your navigational skills are more than up to par.
+109731	Yes, exactly. Now, if you would please proceed there with all haste…
+109732	That is the location my superior indicated, yes.
+109733	Splendid. However, I'm afraid your contractual obligations also include this task.
+109734	Cassian Industries would like to offer you a follow-up assignment.
+109735	Based on your to-date performance, my CEO would like to offer you another assignment.
+109736	Cassian would like you eliminate this problem. Permanently.
+109737	We have an assignment we wish you to complete for us. With extreme prejudice.
+109738	My CEO has an assignment for you. Distasteful as it may be, violence is involved.
+109739	A situation needing a forcible solution has come up. The board thought of you.
+109740	Cassian Industries has a situation suited to your skill. The use of force is required.
+109741	A splendid victory. My superior sends her compliments.
+109742	Clearly your reputation is warranted. Cassian is grateful.
+109743	Cassian Industries congratulates you on an efficient solution to the problem.
+109744	Unfortunate. I hope material damage is within reasonable limits.
+109745	Our condolences. A loss like that can cut deeply into one's capital.
+109746	Cassian Industries had hoped for a more… satisfactory conclusion.
+109747	Cassian is a house of snakes. That is all I can say. You are the only one left I can trust with this delicate matter.
+109748	Cassian Industries requires that this assignment be handled with the utmost discretion.
+109749	My superior has an assignment for you. I have assured her that you are most discreet.
+109750	You were the right person to trust. And now let us forget this ever happened.
+109751	Your discretion is exemplary. Cassian is grateful.
+109752	An assignment completed as discreetly as one could wish. My superior is impressed.
+109753	What a catastrophe! I deleted all our correspondence on this subject. And you should do the same.
+109754	Fortunately, I have a contingency. How disappointing.
+109755	It seems it was auspicious of me to destroy all evidence of any connection between us.
+109756	Our only concern is the stability of the global market. And it is much more stable with such goods in our possession!
+109757	You must understand that Cassian Industries cannot leave the market subject to chance.
+109758	Please do not misinterpret this measure. It is simply supply and demand, nothing more.
+109759	We all know that such things are commonplace in a free market economy.
+109760	Please rest assured that no one is receiving these goods at a lower price than you are.
+109761	The board is well aware of the fact that sometimes you have to be more than generous to reach a higher goal in the long run.
+109762	Cassian Industries is merely responding to a need to limit inflation.
+109763	My superior is firmly committed to providing goods to the public at a price fair to all.
+109764	The world has made Cassian Industries number one, and we are simply showing our gratitude.
+109765	The price was being kept high artificially, which is unconscionable.

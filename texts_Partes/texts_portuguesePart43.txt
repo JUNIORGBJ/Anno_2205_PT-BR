@@ -1,0 +1,316 @@
+3003034	Project: Guard Details
+3002703	Project: A Pill For Their Health
+3002845	NO LOCA SSQ M2 VisibilityTrigger
+3003054	NO LOCA SSQ M2 CameraSequenceTrigger
+3002548	Proceed with Aidan Bhargava's Assignments concerning the Meteroids.
+3002704	Project: Puzzling Pieces
+3002705	Project: Meteroid Examination
+3002706	Project: Shooting at Stars
+3002707	Project: Laying the Groundwork
+3002708	Project: Holding the Line
+3002711	Project: Trapped
+3002712	Project: Dire Consequences
+3003036	Project: Calming the Waves
+3003037	Project: Now Hiring
+3002713	Project: Showing Responsibility
+3003038	Project: Rash Decisions
+3002716	Project: All In
+3002717	Project: Even More Résumés
+3002718	Project: Keeping Your Cool
+3003039	Project: Power Issues
+3003040	Project: A Rough Diamond
+3002846	NO LOCA SSQ M3 VisibilityTrigger
+3003046	NO LOCA SSQ M3 CameraSequenceTrigger
+3002549	Proceed with the Mysterious Woman's Assignments concerning the Hotel.
+3002719	Project: Glam And Glitter
+3002720	Project: The Best of the Best
+3002721	Project: A Bad Forecast
+3002722	Project: Local Color
+3002723	Project: A Friendly Reception
+3003041	Project: Playing With Fire
+3002727	Project: War Tourism
+3002726	Project: Deadly Remnants
+3003042	Project: The ComBot Zone
+3002728	Project: Breaking Down
+3002731	Project: The Butler Sees Everything
+3002732	Project: A Refined Palate
+3002733	Project: Popping the Bottles
+3003043	Project: Carnivores
+3003044	Project: And Without Gaining Weight
+3003045	Project: High-Maintenance
+3001460	Master Quest - Player Collect One
+3001628	Master Quest - Player Collect Several
+3002033	Master Quest - Collect One
+3001461	Master Quest - Collect Several
+3001471	Master Quest - Collect & Deliver Get One
+3001629	Master Quest - Collect & Deliver Get Several (Medium)
+3001630	Master Quest - Collect & Deliver Bring One
+3001631	Master Quest - Collect & Deliver Bring Several
+3001462	Master Quest - Transportation Get
+3001463	Master Quest - Transportation Bring
+3001459	Master Quest - Delivery Get Earth
+3001465	Master Quest - Delivery Bring Earth
+3001467	Master Quest - Tow Me
+3003107	Master Quest - Tow Get One
+3001464	Master Quest - Tow Get One
+3003108	Master Quest - Tow Bring Home One
+3001466	Master Quest - Tow Bring Home One
+3001468	Master Quest - Destroy One
+3001635	Master Quest - Destroy Several
+3001469	Master Quest - Track One
+3001637	Master Quest - Track Several
+3002034	Master Quest - Thieve One
+3001472	Master Quest - Thieve Several
+3001651	Master Quest - Thieve & Deliver Get One
+3001652	Master Quest - Thieve & Deliver Get Several
+3001653	Master Quest - Thieve & Deliver Bring One
+3001654	Master Quest - Thieve & Deliver Bring Several
+3001473	Master Quest - Smuggle Get
+3001474	Master Quest - Smuggle Bring
+3001643	Master Quest - Goods Smuggle Bring
+3001475	Master Quest - Getaway Me
+3001476	Master Quest - Getaway Get One
+3001633	Master Quest - Getaway Bring Home One
+3001477	Master Quest - Silent Assault One
+3001636	Master Quest - Silent Assault Several
+3001470	Master Quest - Treasure Guidance
+3003358	NO LOCA Master Quest - Distribute Quest Name (NoScanners)
+3003359	NO LOCA Master Quest - Distribute Quest Name (NoScanners)
+3003360	NO LOCA Master Quest - Distribute Quest Name (Scanners)
+3003402	NO LOCA Master Quest - Escort Quest Name (Easy)
+3003403	NO LOCA Master Quest - Escort Quest Name (Medium)
+3003404	NO LOCA Master Quest - Escort Quest Name (Hard)
+3003407	NO LOCA Master Quest - Escort Quest Name (Easy)
+3003408	NO LOCA Master Quest - Escort Quest Name (Medium)
+3003409	NO LOCA Master Quest - Escort Quest Name (Hard)
+3003308	Moon Trader - UQ1 P1 - Smuggle
+3003305	Moon Trader - UQ1 P2 - Tow
+3003306	Moon Trader - UQ1 P3 - Getaway
+3003307	Moon Trader - UQ1 P4 - Delivery
+3003321	Mystery Woman - Steal from BigFive01
+3003322	Mystery Woman - Get Trade Advisor
+3001538	An Unpaid Bill
+3001638	Misdelivery
+3002031	Papering Over Cracks
+3001639	A Watery Dead Drop
+3001536	Highly Recommended
+3001537	Supply Bottleneck
+3003139	Running a Tight Ship
+3001555	Running a Tight Ship
+3003159	Machine Failure
+3001554	Machine Failure
+3001646	Sneering And Privateering
+3001647	Passing The Buck
+3001524	Beneath The Waves
+3001650	Greek Tea Party
+3002032	Honor Among Thieves
+3001655	Improper Appropriation
+3001531	One Favor Not Given
+3001644	Under Your Blanket
+3001528	The Usual Suspect
+3001645	Stolen Goods Stolen Back
+3001648	He Said, She Said
+3001649	Potential Competition
+3002037	Unprepared
+3002038	It Wasn't Me
+3003328	Unprepared
+3003329	It Wasn't Me
+3002039	Live and Learn
+3002040	Kicking the Dog
+3002042	Free Samples
+3002041	Budget Cuts
+3003140	Fuel Miscalculation
+3002043	Fuel Miscalculation
+3003160	Never Abandon Someone in Need
+3002044	Never Abandon Someone in Need
+3003344	Landlocked
+3003345	[GUIDNAME 3003344]
+3002045	Reluctant Obedience
+3002046	Looking the Other Way
+3002047	Out of His Depth
+3002048	Practical Joke
+3002049	State of the Art
+3002050	Yes Man
+3002051	Fishy Business
+3002052	Saayman Special Order
+3002053	What Friends Are For
+3002054	Corporate Interests
+3002055	Everyone for Themselves
+3002056	All for the Money
+3002057	Busted
+3002058	X Marks the Spot
+3002059	A Rock and a Hard Place
+3002060	Beneath the Dust
+3002062	A Good Cover-Up
+3002061	Anything Helps
+3003141	Past Its Prime
+3002063	Past Its Prime
+3003161	Dead Air
+3002064	Dead Air
+3002065	Poisoned Bait
+3002066	Fire And Smoke Screens
+3002067	Time Capsules
+3002068	On Tiptoes
+3002069	Leave No Tracks
+3002070	Stealing from Thieves
+3002071	Not Empty-Handed
+3002072	Through the Back Door
+3002073	Don't Move
+3002074	By A Narrow Margin
+3002075	The Turncoat
+3002076	Blind Trust
+3003290	Timey-Wimey
+3002077	Liftin' You Home
+3002078	Losing Weight
+3002079	Better Luck Next Time
+3002080	Understaffed
+3002082	Staying In Touch
+3002081	Out of Patience
+3003142	Trial and Error
+3002083	Trial and Error
+3003162	Oil on Troubled Waters
+3002084	Oil on Troubled Waters
+3002085	Last Respects
+3002086	Get Off My Ocean
+3002087	Romantic Hobbies
+3002088	Nothing Runs Without Me
+3002089	Finders Keepers
+3002090	Gunpowder Plot
+3002091	Old Debts
+3002092	Following the Protocol
+3002093	Vessel In Distress
+3002094	Get Her Back
+3002095	The Stolen Prototype
+3002096	Don't Flinch
+3002097	The Go-Between
+3002098	Getting Out Of A Jam
+3003280	The Go-Between
+3003281	Getting Out Of A Jam
+3003342	The Go-Between
+3003343	Getting Out Of A Jam
+3002099	I Know What You Did
+3002100	A Spy's Gift
+3002405	Equivalent Exchange
+3002404	Limiting the Supply
+3003143	Fishing for Favors
+3002103	Fishing for Favors
+3003163	Retirement Plan
+3002104	Retirement Plan
+3002105	Leave No Tracks
+3002106	The Ping of Death
+3002107	Quid Pro Quo
+3002108	Subaqua Sabotage
+3002109	Harmless Curiosity
+3002110	Natural Loss
+3002111	Jack in the Box
+3002112	Lichtensteining
+3002113	Cover All Bases
+3002114	Hostage Retrieval
+3002115	Cancel That Meeting
+3002116	Stand Her Ground
+3002117	Staying on Good Terms
+3002118	A Clean Player
+3003330	Staying on Good Terms
+3003331	A Clean Player
+3002119	Not Just One Mistake
+3002120	CSI Arctic
+3002407	Not Our Choice
+3002406	Control Is Better
+3003144	We're Watching You
+3002123	We're Watching You
+3003164	Antifreeze Shortage
+3002124	Antifreeze Shortage
+3002125	Self-Defense
+3002126	Devil and the Deep Blue Sea
+3002127	Arctic Atlantis
+3002128	Disturbances
+3002129	Small Mercies
+3002130	On Some Mysterious List
+3002131	Species Protection
+3002132	Ransom
+3002133	Industry Espionage
+3002134	Walking on Eggshells
+3002135	Preventing Leaks
+3002136	Mind The Catch Limit
+3002510	Hostage-Taking
+3002511	Wiretapped
+3003282	Hostage-Taking
+3003283	Wiretapped
+3002515	A Truth Unspoken
+3003165	A Fair Warning
+3002517	A Fair Warning
+3002518	Peace to Pieces
+3002519	An Unadorned Answer
+3002520	Hands Off
+3002521	Sowing a Minefield
+3002525	Right Where It Belongs
+3002527	Wrong Place, Wrong Time
+3002528	Clearing the Memory
+3002529	For the Revolution
+3002137	Lost in Transaction
+3002138	Scientific Inquiry
+3003284	Lost in Transaction
+3003285	Scientific Inquiry
+3003332	Lost in Transaction
+3003333	Scientific Inquiry
+3002139	Schrödinger
+3002140	Cleaning up the Experiment
+3002409	Brownie Points
+3002408	Context Is Everything
+3003146	Careful, Fragile
+3002143	Careful, Fragile
+3003166	Second Opinion
+3002144	Second Opinion
+3002145	Empirical Studies
+3002146	Hypothesis 332-delta
+3002147	The Prycomber Triangle
+3002148	Bright Light
+3002149	Data Privacy
+3002150	Tactical Espionage Action
+3002151	Yet Another Doctorate
+3002152	First Contact
+3002153	Have You Seen This Ship
+3002154	Live Demonstration
+3002155	Want You Gone
+3002156	Inbox (3141)
+3002157	Geologist, Not Geographer
+3002158	Economic Geology
+3003286	Geologist, Not Geographer
+3003287	Economic Geology
+3003334	Geologist, Not Geographer
+3003335	Economic Geology
+3002159	Incorrect Delivery
+3002160	Shifting the Blame
+3002411	Legwork
+3002410	Asking Nicely
+3003147	Dodging the Fallout
+3002163	Dodging the Fallout
+3003167	Her Pink Slip
+3002164	Her Pink Slip
+3002165	Waste Management
+3002166	My Enemy's Enemy
+3002167	Everyone Needs a Hobby
+3002168	Exploratory Drilling
+3002169	Playing Dirty
+3002170	Spying on the Spymaster
+3002171	A Personal Message
+3002172	Private Sale
+3002173	That's Company Property
+3002174	Mystery Consulting
+3002175	Vigilante Justice
+3002176	Leech
+3002177	A Simple Request
+3002178	Forgive and Forget
+3003336	A Simple Request
+3003337	Forgive and Forget
+3002179	The Highest Compliment
+3002180	Chemical Hazards
+3002413	To Good Neighborship
+3002412	Saving Money
+3003148	Hunting Renegade Heads
+3002183	Hunting Renegade Heads
+3003168	Social Experiments
+3002184	Social Experiments
+3003346	Illegal Excavation
+3003347	[GUIDNAME 3003346]
+3002185	Intimidation Tactics

@@ -1,0 +1,316 @@
+7000420	[GUIDNAME 102701]
+7000421	[GUIDNAME 102701]
+7000422	[GUIDNAME 102701]
+7000423	[GUIDNAME 102701]
+7000424	[GUIDNAME 102701]
+7000425	[GUIDNAME 102701]
+7000426	[GUIDNAME 102701]
+7000427	[GUIDNAME 102701]
+7000428	[GUIDNAME 102701]
+7000429	[GUIDNAME 102701]
+7000430	[GUIDNAME 102701]
+7000431	[GUIDNAME 102701]
+7001470	[GUIDNAME 7001469]
+7001880	[GUIDNAME 7001872]
+7001471	[GUIDNAME 7001468]
+7001881	[GUIDNAME 7001875]
+7001882	[GUIDNAME 7001876]
+7001472	[GUIDNAME 7001469]
+7001883	[GUIDNAME 7001872]
+7001473	[GUIDNAME 7001468]
+7001884	[GUIDNAME 7001875]
+7001885	[GUIDNAME 7001876]
+7000040	Command Aircraft
+7000117	[GUIDNAME 1000029]
+7000119	[GUIDNAME 1000806]
+7000379	Rice Farm
+7000380	Rice Farm
+7000433	Rice Farm
+7000145	Dr. Esther Nylund's Plane
+7000150	Vault Temperature Control
+7000151	Vault Temperature Control
+7001427	Vault Generator
+7001428	Vault Generator
+7001429	Seed Vault
+7001430	Seed Vault
+7000174	[GUIDNAME 1002917]
+7000172	Blocking Lava
+7000187	Temperature Module
+7000189	Temperature Unit
+7000190	[GUIDNAME 1002914]
+7000191	Radiating Wreckage
+7000192	Engineer Transporter
+7000193	Generator Control
+7000195	Afflicted Researchers
+7000196	Infected Wildlife
+7000197	Secured Seed Container
+7000202	[GUIDNAME 1002917]
+7000186	Leak
+7000198	Vaccine Container
+7001444	Infected Wildlife
+7000203	Antidote Container
+7001454	[GUIDNAME 7001407]
+7001770	[GUIDNAME 7001400]
+7000005	Ecologist Erin
+7000006	Field Researcher Yun
+7000215	Dr. Esther Nylund
+7000165	Moss
+7000166	Wool
+7000168	Biocatalysts
+7000055	MediBots
+7000169	Aerogel
+7000053	Nanochips
+7000054	Smartdrones
+7000167	All-weather Parkas
+7000164	Natural Gas
+7000052	Tungsten
+7001461	[GUIDNAME 2001399]
+7001462	[GUIDNAME 6000480]
+7001463	[GUIDNAME 6000482]
+7001464	[GUIDNAME 6000484]
+7001480	[GUIDNAME 2001224]
+7001481	[GUIDNAME 2001606]
+7001482	[GUIDNAME 7000168]
+7001483	[GUIDNAME 7000169]
+7000000	Tundra Region
+7000001	Ecologists
+7000002	Field Researchers
+7000034	Community
+7000035	Secrecy
+7000010	Tundra
+7000009	Tundra Sector
+7000011	Vanha Plains
+7001457	NO LOCA Tundra Region Market
+7000124	Proceed with Dr. Esther Nylund's assignments concerning the Seed Vault.
+7000324	1. In Isolation
+7000323	2. Backup
+7000326	3. The Marshlands
+7000325	4. Cream of the Crop
+7001455	5. Second Opinion
+7000327	6. Sharing the Spoils
+7000206	Project: Melting Point
+7000207	Project: Miniature Climate Stabilizer
+7000132	Project: Unclogging
+7000175	Project: Blown Fuse
+7000208	Project: Necessary Evil
+7000176	Project: Ready When You Are
+7000177	Project: Exclusion Zone
+7000129	Project: Technology is Fallible
+7000209	Project: Out of Sight
+7000178	Project: Taking on Staff
+7000210	Project: Building Momentum
+7000185	Project: No Time to Lose
+7000180	Project: Sprawl Fever
+7000179	Project: Out of Control
+7000211	Project: By a Thread
+7000181	Project: Outside Help
+7000212	Project: Irregularity
+7000182	Project: Chain Reaction
+7000213	Project: Pest Control
+7000183	Project: Breakthrough
+7000214	Project: Keeping a Tally
+7000184	Project: Once and for All
+7001489	Lost in the White
+7001491	A Case of Fly-Tipping
+7001492	Picking Up the Slack
+7001493	Supply Requirements
+7001494	Nature's Power
+7001495	Obrigações morais
+7001496	Obrigações morais
+7001497	Error de principiante
+7001498	Error de principiante
+7001723	Terreno complicado
+7001724	[GUIDNAME 7001723]
+7001502	Um mistério precário
+7001503	Claro que sim
+7001504	Salve as baleias
+7001505	Uma exceção
+7001506	Mercado negro
+7001508	Dados Valiosos
+7001509	Não está sozinho
+7001511	O tempo é ouro
+7001513	Tranporte domestico
+7001515	Experimentos, experimentos
+7001516	Desconto de Empregado
+7001517	Jogando pelo Seguro
+7001518	Jogando pelo Seguro
+7001725	Compra de bens volumosos
+7001726	[GUIDNAME 7001725]
+7001521	Teste de estresse de temperatura
+7001522	Baliza de advertencia
+7001524	Armazenamento inseguro
+7001525	Escudo de radiação
+7001528	Declarados como presentes
+7001530	Super-protetor
+7001531	Estudo prático
+7001732	DISTRIBUTE QUEST TEST
+7001941	NO LOCA Pick-Up
+7001942	NO LOCA Pick-Up
+7001943	NO LOCA Pick-Up
+7001944	NO LOCA Pick-Up
+7001963	Módulos de reforço
+7001996	[GUIDNAME 7001963]
+7000320	[GUIDNAME 6000378]
+7000321	[GUIDNAME 6000475]
+7000322	[GUIDNAME 6000476]
+7001352	qualquer mercadoria de tundra
+7001353	qualquer edifício de tundra
+7001354	qualquer módulo de produção de tundra
+7001355	qualquer módulo de manutenção da tundra
+7001574	qualquer pântano
+7001936	qualquer população de Tundra
+7001459	Lâmpada de rua
+7001460	Ponto de ônibus
+11000179	Estátua
+11000223	Sistema de alarme
+11000224	Abandonado
+11000225	Mantenha a calma
+11000226	Fim do embargo
+11000227	Táticas de Guerrilha
+11000228	Imitação perfeita
+11000229	Guarda-costas chamariz
+11000230	Monopólios em constante mudança
+11000231	Transporte de provas
+11000232	Sem imunidade
+11000162	"Dangit! Should've known the price for this baby was too good, the anti-theft alarm's still on! It's just gotta make it here..."
+11000163	"Two Orbital Watch deserters made it here, but the battle is still way too close! If you help them maybe more will see reason?"
+11000164	"The Union says there's no war happening. Now that's a rock I'd like to live under, but we'd better practice evacuation maneuvers."
+11000165	"One of your trader friends is making deals with the Watch, thought I'd let you know. In return, can you protect the key witness?"
+11000166	"We can barely keep up with climate stabilizer repairs. And now the Watch is sinking the spare parts before they get there!"
+11000167	"I'm proud to say I'm the first to recreate an Orbital Watch fleet! You get authentic excercise and I get test data, what do you say?"
+11000168	"My superior has received numerous death threats, I fear for her safety! I've arranged for a decoy and this is your territory after all..."
+11000169	"Ibarra-Foxcom is trying to sabotage our newest cybernetics prototypes. Usoyev shifting to the Biotecnología industry hit them hard..."
+11000170	"I can prove Cassian has been bribing the Council. It's also in your best interest to protect the evidence, unless you're also involved?"
+11000171	"Negotiations between our lunar colonies and the Orbital Watch were a risk, but to think they'd pursue our diplomat here... !"
+11000196	Escort [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] while evading enemies
+11000213	Veteran Update released
+11000214	Challenge yourself on the Veteran difficulty
+11000215	Have a better overview of your cities
+11000216	Master new assignment types
+11000217	You own the free update
+11000218	Handle your administration costs
+11000219	Try out the advanced game settings
+11000220	and more...
+11000136	On Someone's Bad Side
+11000137	[GUIDNAME 11000136]
+11000138	Finger-Pointing
+11000235	[GUIDNAME 11000223]
+11000236	[GUIDNAME 11000223]
+11000237	[GUIDNAME 11000223]
+11000139	Nervous Breakdown
+11000140	[GUIDNAME 11000139]
+11000141	Organized Poaching
+11000182	[GUIDNAME 11000224]
+11000184	[GUIDNAME 11000224]
+11000185	[GUIDNAME 11000224]
+11000142	Just Passing Through
+11000143	[GUIDNAME 11000142]
+11000144	Disarming the Traps
+11000145	Water Pollution
+11000190	[GUIDNAME 11000226]
+11000191	[GUIDNAME 11000226]
+11000192	[GUIDNAME 11000226]
+11000146	Demo Effect
+11000147	[GUIDNAME 11000146]
+11000148	Guinea Pigs
+11000197	[GUIDNAME 11000228]
+11000198	[GUIDNAME 11000228]
+11000199	[GUIDNAME 11000228]
+11000149	Stopped Short
+11000150	[GUIDNAME 11000149]
+11000151	Hacked Surveillance
+11000200	[GUIDNAME 11000229]
+11000201	[GUIDNAME 11000229]
+11000202	[GUIDNAME 11000229]
+11000152	Middleman
+11000153	[GUIDNAME 11000152]
+11000154	Toxic Transport
+11000241	[GUIDNAME 11000230]
+11000242	[GUIDNAME 11000230]
+11000243	[GUIDNAME 11000230]
+11000155	Collecting User Data
+11000156	[GUIDNAME 11000155]
+11000157	Tech Cloning
+11000244	[GUIDNAME 11000231]
+11000245	[GUIDNAME 11000231]
+11000246	[GUIDNAME 11000231]
+11000158	Usoyev's Landfill
+11000159	[GUIDNAME 11000158]
+11000160	Dangerous Affiliation
+11000209	[GUIDNAME 11000232]
+11000210	[GUIDNAME 11000232]
+11000211	[GUIDNAME 11000232]
+11000238	[GUIDNAME 11000225]
+11000239	[GUIDNAME 11000225]
+11000240	[GUIDNAME 11000225]
+11000193	[GUIDNAME 11000227]
+11000194	[GUIDNAME 11000227]
+11000195	[GUIDNAME 11000227]
+14000000	[GUIDNAME 14001441]
+14000004	[GUIDNAME 14001442]
+14000005	[GUIDNAME 14001443]
+14000006	[GUIDNAME 14001444]
+14000007	[GUIDNAME 14001445]
+14001648	[GUIDNAME 14001665]
+14000012	[GUIDNAME 14001455]
+14001644	[GUIDNAME 14001454]
+14000011	[GUIDNAME 14001461]
+14001645	[GUIDNAME 14001459]
+14000013	[GUIDNAME 14001465]
+14001646	[GUIDNAME 14001466]
+14000014	[GUIDNAME 14001446]
+14000015	[GUIDNAME 14001447]
+14000008	[GUIDNAME 14001448]
+14002077	[GUIDNAME 14002065]
+14002079	[GUIDNAME 14002066]
+14002081	[GUIDNAME 14002067]
+14002082	[GUIDNAME 14002068]
+14000971	[GUIDNAME 14001450]
+14000972	[GUIDNAME 14000971]
+14001649	[GUIDNAME 14001666]
+14001651	[GUIDNAME 14001649]
+14000017	[GUIDNAME 14001451]
+14000018	[GUIDNAME 14000017]
+14001652	[GUIDNAME 14001667]
+14001653	[GUIDNAME 14001652]
+14000009	[GUIDNAME 14001452]
+14000010	[GUIDNAME 14000009]
+14000016	[GUIDNAME 14001449]
+14001654	[GUIDNAME 14000016]
+14001655	[GUIDNAME 14001668]
+14001656	[GUIDNAME 14001655]
+14001657	[GUIDNAME 14001669]
+14001658	[GUIDNAME 14001657]
+14002061	[GUIDNAME 14002062]
+14002070	[GUIDNAME 14002061]
+14002071	[GUIDNAME 14002063]
+14002072	[GUIDNAME 14002071]
+14002076	[GUIDNAME 14002064]
+14002074	[GUIDNAME 14002076]
+14002104	[GUIDNAME 14002106]
+14002107	[GUIDNAME 14002104]
+14002108	[GUIDNAME 14002111]
+14002110	[GUIDNAME 14002108]
+14002112	[GUIDNAME 14002115]
+14002114	[GUIDNAME 14002112]
+14002116	[GUIDNAME 14002119]
+14002117	[GUIDNAME 14002116]
+14002121	[GUIDNAME 14002123]
+14002124	[GUIDNAME 14002121]
+14002128	[GUIDNAME 14002127]
+14002125	[GUIDNAME 14002128]
+14002129	[GUIDNAME 14002130]
+14002132	[GUIDNAME 14002129]
+14002133	[GUIDNAME 14002135]
+14002136	[GUIDNAME 14002133]
+14002137	[GUIDNAME 14002139]
+14002140	[GUIDNAME 14002137]
+14002141	[GUIDNAME 14002143]
+14002144	[GUIDNAME 14002141]
+14002147	[GUIDNAME 14002148]
+14002145	[GUIDNAME 14002147]
+14000002	[GUIDNAME 14001436]
+14001255	[GUIDNAME 14001434]
+14001248	[GUIDNAME 14001435]
+14001247	[GUIDNAME 14001432]
+14001818	[GUIDNAME 14001432]

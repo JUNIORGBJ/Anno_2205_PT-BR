@@ -1,0 +1,316 @@
+117075	"Us Custodians are stretched thin. With more troops we can at least isolate this sector!"
+117076	"I really need to get out of here... I'll be fine on my own, but a weapon would help with the courage!"
+117077	"Okay, I don't like shooting at anyone, but I heard there's less violent methods? Just to get away?"
+117078	"Custodians aren't producing any of these weapons. Too complicated, I guess?"
+117079	"I had to scramble for my life! A few lost ship parts is a low price to pay. Still, I need them back."
+117080	"A whole supply shipment was lost on the way! There's nothing left, we need whatever's still good!"
+117081	"Alright, what I need isn't technically mine. But it doesn't belong to anyone anymore!"
+117082	"Our defenses just don't hold! Quick, get the survivors to me!"
+117083	"We managed a victory! The bad guys surrendered, so don't shoot, okay?"
+117084	"I have a team out and looking for survivors. They just send a signal, they need a pick-up!"
+106028	Our latest cargo shuttle from space crashed in this area. Find its contents for us!
+106029	Help us collect the lost freight scattered throughout this area!
+106030	I'd like to make you a trade offer. Interested?
+106031	I'd strongly suggest you approach this mission my way.
+106057	Our engines have broken down! Please tow us to the trading center.
+108478	Please escort us out of this battlefield!
+119686	"Those terrorist rats are crawling all over the place and my ships! But they don't know what they're in for, right?"
+119687	"I've received numerous reports that the site has been hit by raiders. Your presence is requested."
+119688	"Listen, I need an opening to get into the Orbital Watch base. You provide the fireworks, I get the job done. Sound like a plan?"
+119689	"This is a disaster! With the Climate Stabilizers the Oribital Watch could wreak havoc across the globe... Don't let it come to that!"
+119690	"Us Arctic Custodians have no defense for when the Orbital Watch reaches us. I am counting on our partnership with you."
+102985	Item fisgado
+102600	[NOTIFICATION_CHARACTER_NAME] anuncie que a União Global está fornecendo apoio financeiro suficiente.
+108487	[NOTIFICATION_CHARACTER_NAME] avisa que seu saldo de crédito está no vermelho.
+108488	[NOTIFICATION_CHARACTER_NAME] fica tranquilo ao ver que o saldo da sua conta não diminui mais.
+108490	[NOTIFICATION_CHARACTER_NAME] ele está surpreso por você ter alcançado um balanço patrimonial positivo.
+108489	[NOTIFICATION_CHARACTER_NAME] está ciente de que você está novamente em risco de falência.
+108668	Cliente
+108669	Item de Atribuição
+108670	Drone de rastreamento
+108671	Drone de ataque
+108948	Item arrasável
+108949	Item Destrutível
+108950	Item colecionável
+116593	Supervisor de projeto do setor
+116594	Comerciante
+116595	Posto avançado
+116823	Cliente de missão
+120425	Adversário
+116697	[NOTIFICATION_CHARACTER_NAME] shows you the command ship next to the unfinished spaceport.
+114562	[NOTIFICATION_CHARACTER_NAME] reminds you that your command ship is at anchor near the spaceport.
+115436	[NOTIFICATION_CHARACTER_NAME] explains your command ship’s controls. Right-click to move it.
+116694	[NOTIFICATION_CHARACTER_NAME] invites you to enter a trade relationship with him.
+114595	[NOTIFICATION_CHARACTER_NAME] reminds you that you are free to trade with him if you need specific goods.
+116695	[NOTIFICATION_CHARACTER_NAME] welcomes you as a new trading partner.
+114609	[NOTIFICATION_CHARACTER_NAME] reminds you that you are free to trade with him if you need specific goods.
+116696	[NOTIFICATION_CHARACTER_NAME] invites you to enter a trade relationship with her.
+114610	[NOTIFICATION_CHARACTER_NAME] reminds you that you are free to trade with her if you need specific goods.
+116698	[NOTIFICATION_CHARACTER_NAME] invites you to his dockyard in a nearby sector. You can improve your fleet there.
+114612	[NOTIFICATION_CHARACTER_NAME] reminds you that you can expand and enhance your fleet at the docks.
+116703	[NOTIFICATION_CHARACTER_NAME] informs you about modules. Use them to upgrade your factories.
+114614	[NOTIFICATION_CHARACTER_NAME] reminds you that you can enhance your factories with modules.
+116704	[NOTIFICATION_CHARACTER_NAME] explains that modules are a handy way to enhance the productivity of your buildings.
+115416	[NOTIFICATION_CHARACTER_NAME] offers to join forces with you in a joint project.
+116630	[NOTIFICATION_CHARACTER_NAME] offers you to join forces in a joint project in this sector.
+116631	[NOTIFICATION_CHARACTER_NAME] keeps goods and materials for sale at the local trading center.
+116705	[NOTIFICATION_CHARACTER_NAME] thinks that helping others is a great way to help yourself.
+116706	[NOTIFICATION_CHARACTER_NAME] forwards some requests to you.
+116707	[NOTIFICATION_CHARACTER_NAME] has some Assignments coming in for you.
+116714	[NOTIFICATION_CHARACTER_NAME] explains that some islands can only be accessed via bridges.
+116908	[NOTIFICATION_CHARACTER_NAME] reckons helping others is a great way to help yourself.
+117117	[NOTIFICATION_CHARACTER_NAME] informs you that you can now establish routes to or from the space station to continuously buy or sell goods.
+117121	[NOTIFICATION_CHARACTER_NAME] reminds you that you can establish routes to or from the space station to continuously buy or sell goods.
+117123	[NOTIFICATION_CHARACTER_NAME] wonders if you might be interested in buying or selling some goods now.
+117986	[NOTIFICATION_CHARACTER_NAME] informs you that you can build a bridge in this sector.
+120204	[NOTIFICATION_CHARACTER_NAME] informs you that you can also move buildings and don't have to demolish them.
+120741	[NOTIFICATION_CHARACTER_NAME] suggests you check out the convenient promotion menu.
+121422	1 de 2
+121423	2 de 2
+121424	1 de 3
+121425	2 de 3
+121426	3 de 3
+121427	1 de 4
+121428	2 de 4
+121429	3 de 4
+121430	4 de 4
+122048	Tarefa Opcional - Encontrar
+122049	Tarefa Opcional - Coletar
+122050	Tarefa Opcional - Entregar
+122051	Tarefa Opcional - Rebocar
+122052	Tarefa Opcional - Destruir
+122053	Tarefa Opcional - Seguir
+122054	Tarefa Opcional - Coletar em segredo
+122055	Tarefa Opcional - Entregue em segredo
+122056	Tarefa Opcional - Rebocar em segredo
+122057	Tarefa Opcional - Destruir em segredo
+122058	Tarefa Opcional - Distribuir
+122059	Tarefa Opcional - Escolta
+117800	Programa de Licenciamento Lunar
+117801	Projeto Setorial
+117802	Tutorial
+117803	Tarefa opcional
+117804	Tarefa da Missão
+117805	Tarefa opcional
+121399	Calamidade
+121421	Medida contrária
+122167	Introdução
+117960	[NOTIFICATION_CHARACTER_NAME] Recebe os seus novos edifícios.
+117961	[NOTIFICATION_CHARACTER_NAME] Apresenta-se como membro da União Global.
+117962	[NOTIFICATION_CHARACTER_NAME] Instrui você a operar uma porto espacial aqui
+120147	"Customs have been a pain, they won't let my house plants through to the moon! I guess encasing them in resin first is decorative, too."
+120148	"Many of us have family up on the moon now, including me. Can you pick up the parcels to make sure they're not lost in transit?"
+120149	"Peparations for our first Culinary Art Fair are well under way! We strive to show how people around the world and beyond eat."
+120150	"I can't believe we won the raffle! A fancy dinner on a cruise, it doesn't get more romantic than that! We do need a ride, though..."
+120151	"Look around you, everyone's wearing high collars this season. And we're the main supplier, just check the order list."
+120152	"I am the sponsor of the animal repopulation efforts in this area. Your contribution would send a strong signal! We need various species."
+120153	"Some don't understand why my three-star restaurant doesn't serve meat. Well, I call this a lifestyle. Interested in being my supplier?"
+120154	"Care to join me on a tour to appreciate the skyline? This city flourished thanks to us, after all."
+120155	"I've been saving for forever to get my diving school off the ground! But I do need the perfect spot now, too."
+120156	"Hey! Can I hitch a ride with you? It's an unconvential way to travel out here, but there are stranger things."
+120157	"The food up here is decent, but I can't help but miss the food from home, you know? A lot of us feel that way, so why not boost morale?"
+120158	"Vegetables are all fine and dandy, but what about fruits? All were told is 'nah, need too much water'! You don't think so, right?"
+120159	"Everyone can come up here now! Well, not really anyone. Can you help with signatures for a petition to keep dogs?"
+120160	"I heard about the dog petition, it's preposterous to keep a pet in such a hostile environment! They're better off with pet algae."
+120608	"I got two strange newcomers. No IDs and not from here, but they insist on finding a blue box out there. Heck, if I knew how they got here!"
+120864	"It's that time of the year again! So I had my little helpers lay out some stocking fillers for my dearest friends. At a well-fitting place, if I may say so."
+120865	Presents unlocked in all sessions
+120878	[NOTIFICATION_CHARACTER_NAME] thinks he deserves the milk and cookies now.
+120875	[NOTIFICATION_CHARACTER_NAME] won't give away the secret behind his super-fast christmas deliveries.
+120901	Find [CONDITION_SOURCE_OBJECT_ASSET] on any island in the arctic region
+120879	"Don't know if it's my beard or what... The whole company is burying me in wishlists. We'd rather gather some specialists to take care of that!"
+120880	Сhristmas tree ornamental unlocked
+120881	[NOTIFICATION_CHARACTER_NAME] can't believe people are mistaking him for Santa.
+120882	[NOTIFICATION_CHARACTER_NAME] is glad he doesn't have to seize his red mantle.
+120883	Find a gathering of Santas at a public building in the temperate region
+120884	Santas found
+100083	Manutenção
+100086	Finalizar
+100087	Montante
+100088	Bens
+100089	Selecione o setor de origem
+100090	Selecione o setor alvo
+100091	Veículo
+100134	Selecione duas sessões para se conectar
+100230	Selecione seu setor de origem
+100231	Selecione seu setor-alvo
+100233	Selecionar produtos
+100758	Criar<br />Rota de Transferência
+105455	Saldo Total
+108576	Editar<br />Rota de Transferência
+108592	Rota de Transferência<br />Visão Geral
+120185	t
+120186	m
+120348	h
+120187	Yottawatt
+120707	Atenção
+120708	Quer mesmo eliminar esta rota?
+116757	Visão geral das rotas
+120754	[GUIDNAME]
+116765	Nova rota de transferência
+100553	Produzido
+100554	Consumido
+100555	Saldo Total
+100556	Armazenamento Global
+100557	Fertilidades
+100558	Slots de Minas
+100559	Detalhes das mercadorias
+116448	Ocupado
+116450	Selecionar
+116451	Bloqueado
+116454	Carregando...
+120939	Projeto Bloqueado
+100081	NO LOCA Provided by Global Union, Kelprim Strait is the heart of your corporation – and the switchpoint of your participation in the upcoming Lunar Licensing Program. Over time, this lush island chain will come to harbour bustling cities. <br />Investors and specialists are already flocking to the central island’s metropolis, to take part in your new, groundbreaking project: The construction of a gargantuan spaceport.
+100569	NO LOCA <font color="#DB7B20">Stairway to the stars</font>, ready to be ascended
+100126	NO LOCA Acknowledging your economic accomplishments, Global Union assigned you this island atoll. A lavish reward, for Carmine Reef is rich in natural resources. Weather-proof dales offer excellent conditions for the cultivation of rice and soy.<br />Yet, the islands’ true treasures are hidden below earth: Large deposits of copper wait to be harvested from the craggy highlands. Turned into superalloys, they become the essential construction material for space technology.
+100570	NO LOCA <font color="#DB7B20">Providing treasures</font><br /> of the soil to forward production
+100124	NO LOCA Session Arctic 1 Description Text
+100571	NO LOCA Session Arctic 1 Short Description Text
+102727	NO LOCA The Orbital Watch is constantly infiltrating the Arctic and tries to take over the entire Nemiah Glacier - a crucial strategic spot for controlling a major part in the polar region. They claim their ground by erecting fortified base buildings and defensive structures.<br>It is of utmost importance to Global Union to reclaim these territories and to fight back the Orbital Watch.
+102728	NO LOCA <font color="#DB7B20">Reclaim</font> the Orbital Watch's Territories
+100125	NO LOCA Seemingly unending, the building parcels distributed by the Lunar Licensing Program stretch to the Moon’s lightless horizon. Still, they are all unclaimed, all except one.<br />You are at the crest of the Second Wave and Global Union assigned you this especially promising parcel. And now, jealously watched by your competitors, you plant your flag on lunar ground, claiming the rich Regolith veins of Novikov Crater.
+100572	NO LOCA <font color="#DB7B20">The hawk</font> has landed to build its nest
+100859	Transferência <br />de energía
+100860	Criar transferência de energia
+105088	Selecione o nível de dificuldade
+106064	Recompensas mínimas
+106066	Detalhes da missão
+116547	Recompensas mínimas
+116700	Aceitar a missão
+116701	Rejeitar missão
+117475	Aprimorar barco
+116862	Selecione uma mercadoria do filtro
+116863	Selecione o setor de origem
+116864	Selecione um setor de destino
+116865	Altere a quantidade e selecione o veículo
+117124	[ROUTES_EDIT_COSTS]
+118067	Descrição
+118094	Assumir o Setor
+118095	Detalhes do Setor
+118096	Projeto do setor
+118097	Nível Requerido
+118098	Proprietário atual
+119852	Custo atual
+120649	Nível corporativo Necessário
+120650	Seu Nível
+120658	Seus Créditos
+120659	Créditos Exigidos
+120661	Tenha todos requerimentos para assumir esse setor.
+120796	Setor: [GUIDNAME]
+121353	Hold your competitor's corporation shares to take over this sector.
+121381	[GUIDNAME 14000987]
+120753	Contract Extension
+100027	Logística
+100028	Temperado
+100029	Ártico
+100030	Lunar
+100031	Nova rota de transferência
+100032	Confirmar
+100064	Conectar Seção
+100066	Próximo
+100067	Status
+100068	Logística
+100069	Session Creation & Routes
+100070	Conexões: [CONNECTION_COUNT]
+100071	[ROUTE_COUNT]/10
+100072	Novos slots de rota: [AVAILABLE_ROUTE_COUNT]
+100115	Conectando à [LOADING_SESSION_NAME]...
+100116	Conexão estabelecida.
+100207	Mostrar detalhes
+100213	Editar
+100214	Apagar
+100232	Filtro de mercadorias
+100234	Não há Rotas que levem ou afastamento deste setor.
+100294	Conectando
+100295	Conectar
+100296	Iniciar
+100299	Detalhes
+105766	Filtro de Informação
+100323	Entre no Setor
+100347	<font face="Roboto Medium">Incoming</font> Routes
+100348	<font face="Roboto Medium">Outgoing</font> Routes
+100481	New Region unlocked!
+100482	Moon
+100520	Edit Transfer Route
+100521	Update
+100568	<font face="Roboto Medium">Total</font> Transfer Routes
+100573	Unlock new region: <br /> <font size="26" color="#DB7B20" face="Roboto Medium">Moon</font>
+105845	Nível
+105847	Assignments
+108501	Carregando
+108519	Collect Rare Materials
+108520	Space Station
+108521	Space Station
+108552	Route Type
+108569	Additional vehicle costs
+108573	Custo
+115438	Select a sector to found a branch in
+114603	Renda
+115440	NO LOCA Settled In
+116531	Há navios danificados. Começar assim mesmo?
+116532	Atenção
+116904	Selecionar Mercadorias
+117221	Descobrir Conflito
+117235	Setor pacificado.
+117236	Setor em conflito
+119981	Dica rápida
+119994	Sair da Missão
+119995	Quer mesmo deixar a missão atual?<br />(Os materiais ganhos ainda continuarão)
+120058	Mercado Mundial
+120413	Não iniciado
+100668	Selecione uma corporação
+100669	Nível corporativo
+100670	Dificuldade
+100671	História
+100672	Criar uma corporação
+100675	Confirmar
+103012	Apagar um corporação
+103015	<font face="Roboto Medium">Sessões</font> Desbloqueado
+103016	Central da corporação
+105802	Projetos do setor concluídos
+105803	Nível Militar
+105804	A corporação está falida
+105805	Editar perfil
+105807	Editar nome da corporação
+105808	Editar logo da corporação
+105801	Áreas de construção
+117779	Carregue ou personalize suas corporações
+118061	[CORPORATION_PLAY_TIME]h
+118062	Jogou pela última vez:
+118063	Tema do Veiculo
+119894	Personalize seu veículo de comando
+119895	Editar Tema do Veiculo
+119896	Personalize sua sede
+119987	Ruby Red
+119988	Sapphire Blue
+119989	Emerald Green
+119990	Citrine Yellow
+119991	Onyx Black
+120102	Nível [CORPORATION_LEVEL] - [CORPORATION_DIFFICULTY]
+120347	Azul Claro
+120373	Temas
+121120	Uma DLC é necessário para jogar
+116840	Empréstimos de Emergência
+116842	Reembolso de construção
+116845	Trading Post Restocking
+116846	Saída de armazém
+116847	Freqüência de tarefas
+116848	Recompensas de tarefas
+117971	Realocar Edifícios
+121116	Negociação de Preços
+121117	Frota Destrutiva
+116844	Iniciar Créditos
+116841	Receita
+116849	Progressão de nível militar
+117972	Recipientes Escondidos
+121239	Manutenção Inativa
+105819	Selecione Dificuldade do Jogo
+105827	Características:
+105817	Digite o nome da corporação
+116768	Registro Global da União
+116769	Siga os quatro passos abaixo para se inscrever no Licenciamento Lunar.
+116799	Setor de Inicio
+105818	Selecione um logo corporativo
+116800	Dificuldade
+116801	Configuração Avançada
+116802	Configuração Padrão

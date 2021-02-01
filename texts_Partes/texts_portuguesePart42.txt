@@ -1,0 +1,316 @@
+2001911	Clique para coletar
+2001912	Use vehicle to interact
+2001917	Selecione o Objeto
+2001909	Use vehicle to submit Assignment
+2001910	Follow object with vehicle
+2001837	Vehicle is performing an interaction
+2002339	Use vehicle to pick up cargo
+2002340	Use vehicle to deliver cargo
+2002064	Missão Disponível
+2002065	Mission Target
+2001766	New Assignement available
+2001768	Ready for finalization
+2001801	Upgrade paused
+2001976	Storage capacity reached
+2002003	Good
+2002004	Satisfaction decreased
+2002209	Project offered
+2002375	[GUIDNAME 1002626]
+2002376	[GUIDNAME 1000449]
+2002391	Click to activate
+2002461	Sold Facility
+2002498	[GUIDNAME 14000039]
+2002499	[GUIDNAME 14000040]
+2002544	Temperature too high
+2002545	Temperature critically high
+2002549	Productivity reduced by Climate Warfare
+2002553	Temperature too low
+2002554	Temperature critically low
+2002559	Astronauts missing
+2002555	Astronauts critically missing
+2001756	[GUIDNAME 2002267]
+2001765	NO LOCA Enemy Towers
+2002256	NO LOCA Enemy Mines
+2002257	NO LOCA Walls
+2002258	NO LOCA Storages
+2002254	NO LOCA Partner Vehicles
+2002253	NO LOCA Power
+2002265	NO LOCA Ammunition
+2002266	NO LOCA Materials
+2002267	Enemy vehicles
+2002268	Enemy structures
+2002269	Destructible structures
+2002270	Destructible storages
+2002271	Partner vehicles
+2002272	Collectable objects
+2001558	Spaceport
+2001560	NO LOCA All Quest Objects (Test)
+2001918	Tarefas
+2001562	Armazém
+2001564	NO LOCA Test!
+2001806	Rotas de Transferência
+2001993	Pontes
+2002250	Costas
+2002251	Montanhas
+2002219	Pontos de Negociação
+2002281	Canteiros de Obras
+2002330	Projeto Setorial
+2001065	Infraestrutura
+2001061	Alimentação
+2001063	Comodidade
+2001064	Luxo
+2001073	Logística
+2001060	Informação
+2001062	Segurança
+2001067	Mobilidade
+2001068	Diversão
+2001069	Comunidade
+2001876	Sigilo
+2001877	Reparos
+2001878	Assistência Medica
+2002163	Logística
+2002402	All public needs
+2001886	Interacting
+2001884	Loading cargo
+2001885	Unloading cargo
+2001896	Delivering attached object
+2001887	Delivering
+2001897	Attaching object
+2001898	Detaching object
+2001899	Attaching tracker
+2001901	Detaching tracker
+2002408	[GUIDNAME 2001896]
+35	Survivor
+36	Climate Expert
+37	Hunted Refugee
+38	Moon Tourist
+1	NO LOCA Senator Wade
+10	Sam Beaumont
+4	Nic Papadakis
+5	Ville Jorgensen
+6	Zandra Haynes
+9	Anthony Goodwin
+12	John Rafferty
+13	Mysterious Woman
+14	Virgil Drake
+15	Dr. Howard Young
+24	Dr. Eleanor Hofwegen
+25	Aidan Bhargava
+26	Luca Volodin
+27	May Tian
+28	Emem Buhari
+16	Worker Steve
+17	Operator Erica
+18	Executive Desmond
+19	Investor Vivienne
+20	Protector Karen
+21	Scientist Joel
+22	Miner Ben
+23	Officer Jeremy
+3000038	NO LOCA Test Picture Puzzle
+3000041	NO LOCA Test Towboat
+3001997	NO LOCA Test Towboat
+3003326	NO LOCA Test Towboat
+3003357	NO LOCA Test Towboat
+3003395	NO LOCA Test Towboat
+3003396	NO LOCA Test Towboat
+3000481	NO LOCA Test Destruction
+3000037	NO LOCA Test Collect Quest
+3000071	NO LOCA Test Player Counters
+3000163	NO LOCA Test 2x Collect
+3000437	NO LOCA Test Object selection
+3000454	NO LOCA Test Object interaction
+3000581	NO LOCA Test Object interaction2
+3000458	NO LOCA Test delivery
+3000557	NO LOCA Test Follow
+3000558	NO LOCA Test Use Special Action
+3000559	NO LOCA Test Hit Special Action
+3000577	NO LOCA Test Hidden Objects
+3000582	NO LOCA Test Treasure Guidance
+3000585	NO LOCA Test Move Vehicle
+3000593	NO LOCA Test Upgrade Monument
+3000619	NO LOCA Test Population Needs
+3000622	NO LOCA Test Street Connection
+3000778	NO LOCA Test Area Claimed
+3000773	NO LOCA Test Tracking
+3002398	NO LOCA Test Timer
+3002734	NO LOCA Test TradeRoute
+3002743	NO LOCA Test Player Counters
+3002832	NO LOCA Test Action
+3002835	NO LOCA Test Load Session
+3003303	NO LOCA Pick-Up
+3003315	NO LOCA Test Picture Puzzle
+3000039	NO LOCA Test Pick-up
+3003410	NO LOCA Test Pick-up
+3003411	NO LOCA Test Pick-up
+3003412	NO LOCA Test Pick-up
+3003413	Test Industry Dominance
+3003414	Test Sector Owner
+3003416	Test Espionage Action
+3003417	Test Auction Action
+3003418	Test Voting Period
+3003419	Test Military Defeated
+3003420	Test Only Synthetics
+3000579	01. Trabalhos em Andamento
+3000580	02. Operação Regular
+3000586	03. O Elevador Espacial
+3000590	04. O bloqueio Comercial
+3000591	05. Uma linha direta para o espaço
+3000600	06. O Ártico
+3000601	07. Uma recepção fria
+3000602	08. Um lugar para aquecer
+3000603	09. Quebrando o gelo
+3000604	10. Um clima perigoso
+3000605	11. Um Caminho para o Sul
+3002754	12. É a ciência do foguete
+3002755	13. Tesouros do Ártico
+3000606	14. Responsabilidade compartilhada
+3000607	15. A Plataforma de Lançamento
+3002771	16. Fornecimento de materiais
+3000609	17. A contagem regressiva
+3000610	18. E deixe-me jogar entre das estrelas
+3000611	19. A Primeira Colônia
+3000612	20. Para a lua e para trás
+3002756	21. Major Offensive
+3002757	22. Etapas de aterragem
+3000623	23. Auto-Suportador
+3000626	24. O Reator de Fusão
+3000627	25. Começando a Transmissão
+3003021	26. Guerra Digital
+3003022	27. A Etapa Final
+3002922	28. O sexto entre cinco
+3002923	29. Um símbolo de sucesso
+3002838	NO LOCA SSQ E2 VisibilityTrigger
+3003048	NO LOCA SSQ E2 CameraSequenceTrigger
+3002542	Proceed with Dr. Eleanor Hofwegen's Assignments concerning the Sunken Structure.
+3002612	Project: Getting to the Bottom
+3002613	Project: Back to the Roots
+3002614	Project: Dive Into It
+3002615	Project: Staying Energized
+3002616	Project: Primitive Tools
+3002619	Project: Fortune Hunters
+3002620	Project: Behind Closed Doors
+3003016	Project: Nothing to See Here
+3003017	Project: Helping Hands
+3002621	Project: On the Hook
+3002624	Project: Send the Bots In
+3002625	Project: Power On
+3003019	Project: From Old to New
+3003020	Project: Learn to Walk
+3002626	Project: Surface!
+3002839	NO LOCA SSQ E5 VisibilityTrigger
+3003049	NO LOCA SSQ E5 CameraSequenceTrigger
+3002006	Proceed with May Tian's Sssignments concerning the Dams.
+3002024	Project: The Old Dam
+3002025	Project: We Need Results
+3002026	Project: Flow Equalisation
+3002027	Project: Up the Power Meter
+3002028	Project: The Dam Building
+3002575	Project: Clearing Work
+3002576	Project: Logistic Problems
+3002577	Project: The Foundation
+3003005	Project: Professional Hazard
+3003004	Project: Gearing Up
+3002578	Project: Fire Under Water
+3003006	Project: Non-Disclosure
+3003102	Project: No Big Deal
+3003007	Project: Background Checks
+3002029	Project: Danger Pay
+3002030	Project: Wave and Smile
+3003009	Project: How to Influence People
+3003008	Project: Critical Glances
+3002840	NO LOCA SSQ E6 VisibilityTrigger
+3003050	NO LOCA SSQ E6 CameraSequenceTrigger
+3002543	Proceed with Anthony Goodwin's Assignments concerning the Statue.
+3002627	Project: Start with a Bang
+3002628	Project: A Sound Investment
+3002629	Project: Job Vacancies
+3002630	Project: Guaranteed Delivery
+3002631	Project: Heavy Lifting
+3002634	Project: Green Thumb
+3002999	Project: Stuffing the Black Hole
+3002636	Project: A Touch of Luxury
+3002635	Project: Garden Variety
+3003000	Project: All Abuzz
+3003001	Project: Projecting the Future
+3002639	Project: But I Won't Fall
+3003002	Project: Current Gain
+3003003	Project: The Landing
+3002640	Project: Mud-Slinging
+3002641	Project: Putting on a Light Show
+3002841	NO LOCA SSQ A3 VisibilityTrigger
+3003051	NO LOCA SSQ A3 CameraSequenceTrigger
+3002544	Proceed with Ville Jorgensen's Assignments concerning the Stabilizer.
+3002642	Project: Anomalies
+3002643	Project: We Have to Stay Outside!
+3002644	Project: Listen to the Experts
+3002645	Project: Keep the Lights On
+3002646	Project: Troposphere Regulator
+3002649	Project: Inside Bot
+3002650	Project: Data Retrieval
+3002651	Project: Wet Drop
+3003023	Project: Behind the Times
+3003024	Project: Riddled With Leaks
+3002654	Project: Anti-Drone Movement
+3002655	Project: Secrecy First!
+3003025	Project: Not Cold Enough
+3003026	Project: Power Hog
+3002656	Project: Climate Change
+3002842	NO LOCA SSQ A2 VisibilityTrigger
+3003052	NO LOCA SSQ A2 CameraSequenceTrigger
+3002545	Proceed with Luca Volodin's Assignments concerning the Oil Rigs.
+3002657	Project: Bleeding Wounds
+3002658	Project: Staffing Savings
+3002659	Project: Demolition Crew
+3002660	Project: Don't Ask, Just Dispatch
+3002661	Project: What's in the Barrels?
+3002664	Project: Safety Measures
+3002665	Project: Planned Ahead
+3002666	Project: Fixing What You Broke
+3003027	Project: Taking Charge
+3003028	Project: In Good Hands
+3002669	Project: A Few Loose Valves
+3002670	Project: Under Pressure
+3003029	Project: Just An Accident
+3003030	Project: Partners to Nature
+3002671	Project: Win-Win
+3002843	NO LOCA SSQ A1 VisibilityTrigger
+3003053	NO LOCA SSQ A2 CameraSequenceTrigger
+3002546	Proceed with Emem Buhari's Assignments concerning the Trade Routes.
+3002674	Project: Finding the Flaws
+3002675	Project: Actions Speak Louder
+3002676	Project: Getting Started
+3002677	Project: A Risk Worth Taking
+3002678	Project: Cracks In The Wall
+3002930	Project: The Red Button
+3002926	Project: Wildlife Preservation
+3002681	Project: Pushing Boundaries
+3002682	Project: What's the Drill?
+3002927	Project: Push Through
+3002928	Project: Fuel to Your Fire
+3002929	Project: Too Close for Comfort
+3002931	Project: Blasting in Progress
+3002686	Project: Mayday
+3002687	Project: Blankets and a Hot Soup
+3002933	Project: Clearing Work
+3002934	Project: Brain Rather Than Brawn
+3002935	Project: Parting the Ice
+3002688	Project: The New Detonator
+3002936	Project: Leave Nothing to Chance
+3002932	Project: On Your Mark
+3002844	NO LOCA SSQ M1 VisibilityTrigger
+3003055	NO LOCA SSQ M1 CameraSequenceTrigger
+3002547	Proceed with Zandra Haynes' Assignments concerning the Fugitive Camp.
+3002689	Project: Nowhere Else to Go
+3002690	Project: Refugee Transport
+3002691	Project: Help From Above
+3002692	Project: A Roof For Their Heads
+3002693	Project: A Meal For Their Hearts
+3002696	Project: The Minefield
+3002697	Project: There's Enough For Everyone
+3003031	Project: Many Lungs to Fill
+3003032	Project: The Shields
+3002698	Project: Barefoot in the Grey Sand
+3002701	Project: Wolves In Sheep's Clothing
+3002702	Project: Disease Control
+3003033	Project: Chasing Shadows

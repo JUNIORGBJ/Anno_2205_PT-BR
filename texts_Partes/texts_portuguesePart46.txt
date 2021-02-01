@@ -1,0 +1,316 @@
+3000976	[GUIDNAME 3000782]
+3002893	[GUIDNAME 3002866]
+3002894	[GUIDNAME 3002867]
+3002895	[GUIDNAME 3002868]
+3002899	[GUIDNAME 3002869]
+3002900	[GUIDNAME 3002870]
+3002901	[GUIDNAME 3002871]
+3001858	[GUIDNAME 3001612]
+3001869	[GUIDNAME 3001620]
+3001880	[GUIDNAME 3001621]
+3000989	[GUIDNAME 3000881]
+3000990	[GUIDNAME 3000882]
+3000991	[GUIDNAME 3000883]
+3000992	[GUIDNAME 3000884]
+3000993	[GUIDNAME 3000885]
+3000994	[GUIDNAME 3000886]
+3000995	[GUIDNAME 3000887]
+3000996	[GUIDNAME 3000888]
+3000997	[GUIDNAME 3000889]
+3000998	[GUIDNAME 3000890]
+3000999	[GUIDNAME 3000891]
+3001000	[GUIDNAME 3000892]
+3001001	[GUIDNAME 3000893]
+3001002	[GUIDNAME 3000894]
+3001003	[GUIDNAME 3000895]
+3001004	[GUIDNAME 3000896]
+3001005	[GUIDNAME 3000897]
+3001006	[GUIDNAME 3000898]
+3001894	[GUIDNAME 3001892]
+3001916	[GUIDNAME 3001914]
+3001927	[GUIDNAME 3001925]
+3001939	[GUIDNAME 3001937]
+3001950	[GUIDNAME 3001948]
+3001961	[GUIDNAME 3001959]
+3002749	[GUIDNAME 1001642]
+3002750	[GUIDNAME 1001643]
+3002751	[GUIDNAME 1001644]
+3002796	[GUIDNAME 5100007]
+3002829	[GUIDNAME 5100136]
+3002830	[GUIDNAME 5100031]
+3002831	[GUIDNAME 5100139]
+3002995	[GUIDNAME 5100007]
+3003264	[GUIDNAME 5100007]
+3003267	[GUIDNAME 5100131]
+3003268	[GUIDNAME 5100132]
+3003269	[GUIDNAME 5100136]
+3003270	[GUIDNAME 5100137]
+3003271	[GUIDNAME 5100138]
+3003272	[GUIDNAME 5100031]
+3003273	[GUIDNAME 5100133]
+3003274	[GUIDNAME 5100134]
+3003275	[GUIDNAME 5100139]
+3003276	[GUIDNAME 5100140]
+3003277	[GUIDNAME 5100141]
+3000195	NO LOCA Bankrupt Easy
+3003194	NO LOCA Bankrupt Easy
+3003195	NO LOCA Bankrupt Easy
+3003196	NO LOCA Bankrupt Easy
+3000919	NO LOCA Bankrupt Normal
+3003197	NO LOCA Bankrupt Normal
+3003198	NO LOCA Bankrupt Normal
+3003199	NO LOCA Bankrupt Normal
+3000920	NO LOCA Bankrupt Hard
+3001283	NO LOCA Bankrupt Pause
+3001284	NO LOCA Bankrupt Resume
+3001285	NO LOCA Bankrupt End
+3002584	NO LOCA Command Ship Unlock
+3002586	NO LOCA Earth Trader Unlock
+3002592	NO LOCA Arctic Trader Unlock
+3002594	NO LOCA Moon Trader Unlock
+3002588	NO LOCA Docks Unlock
+3002590	NO LOCA Modules Unlock
+3002910	NO LOCA World Market Unlock
+3002847	NO LOCA First Quest Done
+3003218	NO LOCA Move Mode Introduction Message
+3003262	NO LOCA Voting Unlock
+3003299	NO LOCA Promotion Menu Introduction Message
+3002585	NO LOCA Command Ship Reminder
+3002587	NO LOCA Earth Trader Reminder
+3002593	NO LOCA Arctic Trader Reminder
+3002595	NO LOCA Moon Trader Reminder
+3002589	NO LOCA Docks Reminder
+3002591	NO LOCA Modules Reminder
+3002911	NO LOCA World Market Reminder
+3002912	NO LOCA World Market Reminder 2
+3002780	NO LOCA Earth Trader Reminder
+3002781	NO LOCA Arctic Trader Reminder
+3002782	NO LOCA Moon Trader Reminder
+3002783	NO LOCA Session Story Quest E02 Reminder
+3002779	NO LOCA Session Story Quest E05 Reminder
+3002784	NO LOCA Session Story Quest E06 Reminder
+3002787	NO LOCA Session Story Quest A01 Reminder
+3002786	NO LOCA Session Story Quest A02 Reminder
+3002785	NO LOCA Session Story Quest A03 Reminder
+3002788	NO LOCA Session Story Quest M01 Reminder
+3002789	NO LOCA Session Story Quest M02Reminder
+3002790	NO LOCA Session Story Quest M03 Reminder
+3002801	NO LOCA Earth Quests Reminder
+3002800	NO LOCA Arctic Quests Reminder
+3002799	NO LOCA Moon Quests Reminder
+3002967	NO LOCA Empty Loading Reminder
+3002977	NO LOCA Empty Loading Reminder
+3002978	NO LOCA Empty Loading Reminder
+3002979	NO LOCA Bridge Loading Reminder
+3002833	NO LOCA All quests in a Crisis Sector
+3002834	NO LOCA Crisis Sector without special action
+3003035	NO LOCA All rare material storages in a crisis sector
+3002981	NO LOCA All rare material storages in a crisis sector
+3002982	NO LOCA All rare material storages in a crisis sector
+3002983	NO LOCA All rare material storages in a crisis sector
+3002984	NO LOCA All rare material storages in a crisis sector
+3002985	NO LOCA All rare material storages in a crisis sector
+3002986	NO LOCA All rare material storages in a crisis sector
+3002987	NO LOCA All rare material storages in a crisis sector
+3002988	NO LOCA All rare material storages in a crisis sector
+3002989	NO LOCA All rare material storages in a crisis sector
+3002990	NO LOCA All rare material storages in a crisis sector
+3002991	NO LOCA All rare material storages in a crisis sector
+3002992	NO LOCA All rare material storages in a crisis sector
+3002993	NO LOCA Lose all ships in a Crisis Sector
+3003258	NO LOCA Construction Area Claimed Earth
+3003260	NO LOCA Construction Area Claimed Arctic
+3003261	NO LOCA Construction Area Claimed Moon
+3003222	NO LOCA Special Action Barrage
+3003223	NO LOCA Special Action Support Fleet
+3003224	NO LOCA Special Action EMP
+3003225	NO LOCA Special Action Repair
+3003226	NO LOCA Special Action Shield
+3003227	NO LOCA Special Action Wave Mine
+3003239	NO LOCA Target Structure Selected
+3003240	NO LOCA Target Structure Destroyed
+3003241	NO LOCA Boss Ship Selected
+3003242	NO LOCA Boss Ship Destroyed
+3002937	Slot Warning Antagonistic Message Trigger
+3002939	Slot Warning Friendly Message Trigger
+3003201	Lunar Plants
+3003202	Letters from Home
+3003203	You Are What You Eat
+3003204	Monumental Anniversary
+3003205	Haute Couture
+3003206	The Noah Foundation
+3003207	En Vogue
+3003208	Sightseeing
+3003210	Ice Divers
+3003211	Towel Day
+3003212	Tastes Like Home
+3003214	An Apple a Day
+3003215	Humanity's Best Friend
+3003216	Pet Marimo
+3003310	Saint Nic
+3003311	NO LOCA Presents Reset Quest - Christmas Event End
+3003316	Underneath the Christmas Tree
+5000000	Temperado
+5000001	Arctico
+5000002	Lunar
+5001020	[GUIDNAME 120058]
+5001002	Setor Temperado
+5001003	Setor Temperado
+5001004	Setor Temperado
+5001011	Setor de Crise Temperada
+5001019	Docas
+5001021	Centro de Tarefas
+5001005	Arctic Sector
+5001006	Arctic Sector
+5001007	Arctic Sector
+5001024	Arctic Crisis Sector
+5001008	Lunar Sector
+5001009	Lunar Sector
+5001010	Lunar Sector
+5100027	NO LOCA MetaSession
+5100372	Space Station
+5100012	Cape Ambar
+5100383	Cape Ambar is a cluster of islands, allowing easy access to the many riches of the sea. Rumor has it lost technologies lie just beneath the surface.
+5100488	Cape Ambar is a cluster of  islands allowing easy access to the many riches of the sea.
+5100000	Walbruck Basin
+5100384	With one remote and several large islands, Walbruck Basin is rich in mineral resources and provides ample room for settlement. The basin is known for its defunct dam, which fell into ruin decades ago.
+5100489	With one remote and several large islands, Walbruck Basin is rich in mineral resources and provides ample room for settlement.
+5100013	Viridian Coves
+5100385	A small, hardly colonizable island is the gate to the vast plains of Viridian Coves. The beautiful scenery is the site of Global Union's latest prestige project.
+5100490	A small, hardly colonizable island is the gate to the vast plains of Viridian Coves.
+5100392	Missão: Prycomber Barricade
+5100007	[GUIDNAME 5100392]
+5100131	[GUIDNAME 5100392]
+5100132	[GUIDNAME 5100392]
+5100393	Missão: Tynemere Hideout
+5100136	[GUIDNAME 5100393]
+5100137	[GUIDNAME 5100393]
+5100138	[GUIDNAME 5100393]
+5100402	[GUIDNAME 5100392]
+5100403	[GUIDNAME 5100392]
+5100127	NO LOCA Temperate Region Market
+5100014	Akia Floes
+5100386	Four islands of roughly equal size comprise the Akia Floes, offering extensive building land. This area has already drawn the interest of another global player looking to expand their trade routes.
+5100015	Ikkuma Glacier
+5100387	Towering mountains reach up at Ikkuma Glacier, leaving little room for else. Many disused oil rigs still afflict the sea and the Arctic Custodians keep close watch on them.
+5100016	Kinngait Protectorate
+5100388	The Kinngait Protectorate contains two large islands, sheltering one of the Arctic Custodian's Climate Stabilizers. Its renewal has been due for some time.
+5100394	Mission: Qannitaq Conflict Zone
+5100031	[GUIDNAME 5100394]
+5100133	[GUIDNAME 5100394]
+5100134	[GUIDNAME 5100394]
+5100395	Mission: Tonrar Defense Line
+5100139	[GUIDNAME 5100395]
+5100140	[GUIDNAME 5100395]
+5100141	[GUIDNAME 5100395]
+5100128	NO LOCA Arctic Market
+5100002	Novikov Crater
+5100389	The Novikov Crater lies encased by lunar hills, with a slightly smaller sister crater just next to it. Cleaved by a deep crack, it is tricky to navigate, but offers generous settling space for whoever seeks a new home.
+5100018	Iwamoto Crater
+5100390	Meteoroid crashes created these three deformed craters, collectively labeled Iwamoto Crater. Aside from their inherent mining opportunities, it is the resources waiting inside the scattered fallen stars, that draw colonists here.
+5100019	Mare Relictum
+5100391	Forming an almost perfect circle pierced by a lone mountain, the Mare Relictum is a breath-taking natural formation. Strong voices are calling for its opening to the paying public.
+5100129	Moon Market
+5100110	NO LOCA Session Default Earth
+5100111	NO LOCA Session Default Polar
+5100112	NO LOCA Session Default Moon
+5100113	NO LOCA Session Default Event
+5100116	NO LOCA Session SoundTest
+5100121	NO LOCA test_data balancing easy
+5100122	NO LOCA test_data balancing medium
+5100123	NO LOCA test_data balancing hard
+5100369	NO LOCA ContentDesignTest easy
+5100370	NO LOCA ContentDesignTest easy
+5100371	NO LOCA ContentDesignTest easy
+5100135	NO LOCA Benchmark Session
+5100028	NO LOCA MetaSession
+6000376	Porta Contêiner Pequeno
+6000460	Porta Contêiner Médio
+6000474	Porta Contêiner Grande
+6000378	Quebra-Gelo Grande
+6000475	Quebra-Gelo Médio
+6000476	Quebra-Gelo Grande
+6000495	Elevador Pequeno
+6000496	Elevador Médio
+6000497	Elevador Grande
+6000437	Transporte de Carga Pequena
+6000477	Transporte de Carga Media
+6000478	Transporte de Carga Grande
+6000551	Experiencia de Combate
+6000501	[GUIDNAME 1001632]
+6000502	[GUIDNAME 1001634]
+6000504	[GUIDNAME 1001378]
+6000515	[GUIDNAME 1001750]
+6000500	[GUIDNAME 1001633]
+6000505	[GUIDNAME 1001379]
+6000516	[GUIDNAME 1001749]
+6000503	[GUIDNAME 1001380]
+6000544	NO LOCA Module Construction Permit electronics & Biotecnología logistics
+6000545	NO LOCA Module Construction Permit electronics & Biotecnología energy
+6000546	NO LOCA Module Construction Permit electronics & Biotecnología workforce
+6000541	NO LOCA Module Construction Permit heavy & mining logistics
+6000542	NO LOCA Module Construction Permit heavy & mining energy
+6000543	NO LOCA Module Construction Permit heavy & mining workforce
+6000536	NO LOCA Module Construction Permit chemical logistics
+6000537	NO LOCA Module Construction Permit chemical energy
+6000535	NO LOCA Module Construction Permit chemical workforce
+6000528	NO LOCA Module Construction Permit energy logistics
+6000569	NO LOCA Module Construction Permit energy workforce
+6000530	NO LOCA Module Construction Permit energy credits
+6000531	NO LOCA Module Construction Permit energy workforce
+6000538	NO LOCA Module Construction Permit agriculture & food logistics
+6000539	NO LOCA Module Construction Permit agriculture & food energy
+6000540	NO LOCA Module Construction Permit agriculture & food workforce
+9999018	NO LOCA Citizens
+9999019	NO LOCA Citizens
+9999022	NO LOCA Soy Compactor
+4000208	Fleet
+4000213	any trader
+4000214	enemy ships
+4000216	player ships
+4000226	any third party
+4000243	any Temperate Region good
+4000244	any Arctic good
+4000245	any Moon good
+4000260	any good
+4000259	Rare Materials
+4000246	any Temperate Region building
+4000247	any Arctic building
+4000248	any Moon building
+4000229	any building
+4000249	any Temperate Region production module
+4000250	any Temperate Region maintenance module
+4000251	any Arctic production module
+4000252	any Arctic maintenance module
+4000253	any Moon production module
+4000254	any Moon maintenance module
+4000278	any production module
+4000410	any module
+4000257	any module
+4000266	any corporation
+4000326	any ornamental building
+4000327	any Temperate Region ornamental building
+4000328	any Arctic ornamental building
+4000329	any Moon ornamental building
+4000337	any corporation HQ module
+4000330	any crisis sector
+4000331	Prycomber Barricade
+4000332	Tynemere Hideout
+4000333	Qannitaq Conflict Zone
+4000334	Tonrar Defense Line
+4000371	any bridge
+4000394	any special action
+4000411	any sector
+4000412	Heat
+4000413	any distribution center
+4100037	Integrity
+4100035	Tundra
+10000114	<font [MINIMAPDOT_COLOR 2001947]>Iridium</font> generator
+10000115	[GUIDNAME 10000114]
+10000116	[GUIDNAME 10000114]
+10000118	[NOTIFICATION_CHARACTER_NAME] is leaving his treasure in good hands.
+10000119	[NOTIFICATION_CHARACTER_NAME] always keeps his side of the deal.
+10000120	[NOTIFICATION_CHARACTER_NAME] expresses his deep gratitude.
+10000177	[NOTIFICATION_CHARACTER_NAME] thanks you for taking care of the Fat Lady.
+10000040	If you got your grabby hands on this log... I really must've bit the grass. Pay attention, I recorded this for your benefit! For this treasure hunt you're gonna need a treasure map. I hid it in that crevice just up north...
+10000041	Hah, this log triggered so you found it! Or at least its tracker, that's how I know. You better got the map too, cause you need the numbers mumbo jumbo on it to find my stash.

@@ -1,0 +1,316 @@
+1002740	Lunar Transporter
+1003717	Orbital Watch Charger
+1003718	Orbital Watch Vehicle
+1003726	Boreal Transporter
+1001626	Resident
+1002219	Resident
+1002221	Resident
+1003743	[GUIDNAME 1001626]
+1003600	[GUIDNAME 9]'s Freighter
+1003719	[GUIDNAME 24]'s Freighter
+1003720	[GUIDNAME 25]'s Freighter
+1003721	[GUIDNAME 26]'s Freighter
+1003722	[GUIDNAME 27]'s Freighter
+1003723	[GUIDNAME 28]'s Freighter
+1002110	Orbital Watch Charger
+1003419	Orbital Watch Bombarder
+1003418	Orbital Watch Hunter
+1002719	Orbital Watch Vehicle
+1003729	[GUIDNAME 1002719]
+1003761	Orbital Watch Combat Drone
+1002111	Rock
+1001574	Crates
+1002610	Resident
+1002721	Resident
+1002722	Resident
+1003746	[GUIDNAME 1002721]
+1002278	Polar Bear
+1002273	Bear
+1002274	Cattle
+1002275	Elk
+1002276	Horse
+1002277	Sheep
+1001586	Robot
+1002257	Robot
+1002256	Robot
+1001592	Employee Glider
+1001587	Ambulance Glider
+1001588	Taxi Glider
+1001590	Security Glider
+1003661	Employee Transporter
+1003657	Employee Sled
+1003659	Employee Snow Plow
+1003658	Employee Rover
+1003660	Employee Transporter
+1003744	Employee Quad
+1003745	Employee Transporter
+1002230	Astronaut
+1003673	Blue Box
+1003672	Spying Device
+1003711	Present
+1003715	Gathering of Santas
+1001366	Crates
+1001368	Container
+1003178	Flotsam
+1001575	Crates
+1001576	Container
+1003664	Barrels
+1001363	Dolphin
+1002266	Shark
+1002267	Blue Whale
+1002268	Orca
+1002269	Sperm Whale
+1002270	Swordfish
+1001752	Ship
+1002265	Ship
+1001581	Vehicle
+1001580	Drone
+1001583	Transporter
+1001369	Meteorite
+1001584	Robot
+1003179	Barrel
+1002272	Trackable Cargo
+1002285	Crates
+1002727	Trackable Cargo
+1002728	Crates
+1003677	Sea Mine
+1003678	Land Mine
+1002281	Container
+1001577	Container
+1002282	Container
+1003712	Present
+1003770	[GUIDNAME 1002281]
+1000440	Objects
+1000550	Unkown objects
+1003760	Automatic Drone
+1003786	[GUIDNAME 1001466]
+1003787	[GUIDNAME 1001466]
+1003788	Boreal Plane
+1003789	Helicopter
+1001466	Ship
+1003755	Fishing Boat
+1003759	Life Boat
+1002742	Vehicle
+1003756	Vehicle
+1003757	Vehicle
+1003727	Container
+1003730	Boreal Plane
+1003731	Helicopter
+1001751	Ship Wreck
+1002743	Damaged Vehicle
+1003728	Container
+1002614	Sensor Drone
+1002768	Sensor Drone
+1003763	[GUIDNAME 1002614]
+1002615	Combat Drone
+1002769	Combat Drone
+1003724	[GUIDNAME 9]'s Freighter
+1001800	NO LOCA SmallScanner
+1002319	NO LOCA MediumScanner
+1002320	NO LOCA BigScanner
+1002760	NO LOCA SmallScanner
+1002761	NO LOCA MediumScanner
+1002762	NO LOCA BigScanner
+1003747	NO LOCA SmallScanner
+1003748	NO LOCA MediumScanner
+1003749	NO LOCA BigScanner
+1001829	NO LOCA SmallEllipticScanner
+1003840	NO LOCA MediumEllipticScanner
+1003841	NO LOCA BigEllipticScanner
+1003842	NO LOCA Tundra SmallEllipticScanner
+1003843	NO LOCA Tundra MediumEllipticScanner
+1003844	NO LOCA Tundra BigEllipticScanner
+1003846	NO LOCA Moon SmallEllipticScanner
+1003847	NO LOCA Moon MediumEllipticScanner
+1003848	NO LOCA Moon BigEllipticScanner
+1001830	NO LOCA SmallLinearScanner
+1002318	NO LOCA SmallScanner
+1002665	NO LOCA damaged vehicle
+1003732	NO LOCA damaged vehicle
+1002910	NO LOCA Test Object Pool
+1003752	NO LOCA damaged vehicle
+1003773	NO LOCA damaged vehicle
+1003782	Carregador
+1003783	Caçador
+1003791	[GUIDNAME 1001642]
+1003792	[GUIDNAME 1001644]
+1003797	[GUIDNAME 1002615]
+1003795	[GUIDNAME 1002615]
+1003833	[GUIDNAME 1002615]
+1003834	[GUIDNAME 1002615]
+1003814	[GUIDNAME 1001642]
+1003815	[GUIDNAME 1001644]
+1003816	[GUIDNAME 1002615]
+1003817	[GUIDNAME 1002615]
+1003835	[GUIDNAME 1002615]
+1003836	[GUIDNAME 1002615]
+1003818	[GUIDNAME 1001642]
+1003819	[GUIDNAME 1001644]
+1003820	[GUIDNAME 1002615]
+1003821	[GUIDNAME 1002615]
+1003837	[GUIDNAME 1002615]
+1003838	[GUIDNAME 1002615]
+1003601	NO LOCA Missile
+1003771	NO LOCA Mortar
+1003772	NO LOCA Mortar
+2001045	NO LOCA NoProduct
+2001326	Energia
+2001046	Mão de Obra
+2002091	[GUIDNAME 2001399]
+2002092	[GUIDNAME 6000480]
+2002093	[GUIDNAME 6000482]
+2002094	[GUIDNAME 6000484]
+2001001	Créditos
+2001399	Irídio
+6000480	Grafeno
+6000482	Petroquímicos
+6000484	Magnetita
+2001188	Bio Resina
+2001002	Comida Orgânica
+2001024	Água
+2001226	Frutos
+2001253	Vitaminas
+2001225	Algas
+2001234	Vinho
+2001272	Feijão de Soja
+2001232	Carne
+2001258	Alimentos de Luxo
+2001229	Fibras de Linho
+2001224	Biopolímeros
+2001231	Sintetizadores
+2001257	Rejuvenescedor
+2001259	Replicadores
+2001251	Circuitos Sinápticos
+2001256	Androids
+2001606	Robôs
+2001228	Microchips
+2001255	IntelliWear
+2001021	Nano Cerâmica
+2001242	Cobalto
+2001269	Silício
+2001235	Diamantes
+2001236	Prismas Multispec
+2001238	Peixe
+2001260	Comida Enlatada
+2001347	Coral de Aguas Profundas
+2001263	Implantes Neurológicos
+2001261	Estimulantes
+2001245	Super Refrigerantes
+2001246	Processadores de Qubit
+2001264	Computadores Quânticos
+2001243	Gelo de Metano
+2001230	Deutério
+2001240	Alumínio
+2001223	Espuma de Metal
+2001237	Molibdênio
+2001020	Super Ligas
+2001252	Colheitas Lunar
+2001268	Comida Lunar
+2001051	Oxigênio
+2001267	Bio-Potenciadores
+2001266	Compensador Anti-Grav
+2001248	Helium-3
+2001249	Celular de Energia por Fusão
+2001022	Titânio
+2001003	Placas de Titânio
+2001052	Gelo Lunar
+2001250	Elementos Raros da Terra
+2001004	Comida Orgânica
+2001254	Comida de Qualidade
+2001262	Estruturas Térmicas
+2001053	Pacote de Sustento
+2001086	NO LOCA Rice Fertility
+2001273	NO LOCA Algae Fertility
+2001276	NO LOCA Fruit Fertility
+2001284	NO LOCA Cobalt Deposit
+2001275	NO LOCA Flax Fertility
+2001277	NO LOCA Grapes Fertility
+2001353	NO LOCA Soy Fertility
+2001279	NO LOCA Diamond Deposit
+2001278	NO LOCA Silicon Deposit
+2001280	NO LOCA Aluminum Deposit
+2001281	NO LOCA Fish Fertility
+2001354	NO LOCA Fungus Fertility
+2001282	NO LOCA Molybdenum Deposit
+2001283	NO LOCA Methane Ice Deposit
+2001274	NO LOCA Deuterium Deposit
+2001285	NO LOCA Sun Exposure
+2001286	NO LOCA Titanium Deposit
+2001176	NO LOCA Moon Ice Deposit
+2001287	NO LOCA KREEP Deposit
+2001177	NO LOCA Helium-3 Deposit
+2001773	OneShotTradeItem
+2002479	NO LOCA PopulationSatisfactionDowngrade
+2001005	Região Temperada
+2001006	Região Ártica
+2001007	Região Lunar
+2001008	Trabalhadores
+2001009	Operários
+2001010	Executivos
+2001011	Investidores
+2001017	Protetores
+2001018	Cientistas
+2001015	Mineiros
+2001016	Oficiais
+2001626	Menu de Votação
+2001785	Docas
+2001787	Centro de Tarefas
+2001788	Mapa Estratégico
+2002010	NO LOCA Module Frame
+2002248	Botão Criar rota
+2002249	Rotas de energia
+2002437	[CORPORATIONINFOTIP]
+2001814	Ibarra-FoxCom
+2001815	Cassian Industries
+2001816	Usoyev Inc.
+2001817	Lei Sheng
+2001818	Saayman International
+2001836	BribeCost
+2002007	Disable all fireworks.
+2002009	Cold Color Fireworks
+2002012	Warm Color Fireworks
+2002013	Shining Color Fireworks
+2002008	2D Fireworks Display
+2002080	Calm Weather
+2002081	Rough Weather
+2002082	Turbulent Weather
+2002083	Stormy Weather
+2002084	Apocalyptic Weather
+2002164	Lightshow deactivated
+2002165	Cool Color Lightshow
+2002166	Warm Color Lightshow
+2002167	Shining Color Lightshow
+2002168	Gold Lighting
+2001088	No street connection
+2001902	Protection through Shield Generators insufficient
+2001920	Falta entrada de mercadoria
+2002085	Falta entrada de mercadoria
+2001102	Logística insuficiente
+2002086	Logística insuficiente
+2001577	Falta energia
+2001578	Energia extremamente baixa
+2002087	Not enough workforce available
+2002088	Not enough workforce available
+2002057	Fonte de calor insuficiente
+2001103	Informações insuficiente
+2001104	Segurança insuficiente
+2001807	Mobilidade insuficiente
+2001808	Entretenimento insuficiente
+2001809	Comunidade insuficiente
+2001810	Insufficient access to Secrecy
+2001811	Insufficient access to Repairs
+2001812	Insufficient access to Health Care
+2001199	Awaiting promotion
+2001292	Production paused
+2001576	Production output reduced
+2001198	Production output critically low
+2001386	Assigment Object
+2001579	Assignment Object
+2001895	Assignment available
+2001907	Approach with [GUIDNAME 1002615] to destroy
+2001906	Use vehicle to attach
+2001946	Use vehicle to attach
+2002301	Attachment limit reached
+2002302	Drone limit reached
+2001942	Use vehicle to detach
+2001908	Use um Veiculo para coletar

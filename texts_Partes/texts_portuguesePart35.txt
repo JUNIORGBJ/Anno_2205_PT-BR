@@ -1,0 +1,316 @@
+113645	Out of question
+113646	Um yes, but... No!
+113647	Sorry, I'm a little out of sorts right now.
+113648	Oh no, that would be too complicated.
+113649	No, most certainly not.
+113650	Sorry, I can't fulfill your expectations.
+113651	I'm not quite finished with this thing here, you know?
+113652	You see, this isn't the way these things are done.
+113653	Do I look like a specialist to you?
+113654	You can't talk me into that.
+113655	This has been preying on my mind for some time...
+113656	The plan is clear. Could you take over the implementation?
+113657	Please, this isn't quite my field of specialty...
+113658	May I pass this on to you?
+113659	We need your professional expertise in this matter.
+113660	Perhaps you have an idea how to solve this.
+113661	The signs all pointed to failure, but that didn't stop you!
+113662	You've proven things like that are feasible!
+113663	Great thoughts breed great deeds. Your deeds.
+113664	You certainly make it look simple.
+113665	You really are very innovative!
+113666	The best method imaginable!
+113667	An excellent result, no doubt about it.
+113668	You can't be praised enough!
+113669	You acted to the best of your knowledge.
+113670	Well, now we can be certain that's not the way to do it.
+113671	Trial and error. You'll do better next time.
+113672	I see, back to the drawing board.
+113673	You have second thoughts about it, don't you ..
+113674	So it wasn't an assurance after all...
+113675	You want to inform me on the progress?
+113676	I can't think about anything else. How far along are we?
+113677	Can you give us a first estimate yet?
+113678	So, have you already come up with a solution?
+113679	We'll cover the theoretical side. The practical is up to you.
+113680	Any developments yet?
+113681	Enough thinking. It's time to take action.
+113682	Hmm, the analysis doesn't indicate much progress...
+113683	Indeed, that's it.
+113684	I would classify it as one, yes.
+113685	Yes, it's the one.
+113686	Confirmed.
+113687	You have the right one.
+113688	We can rule out that it's something else.
+113689	Looks like one, doesn't it?
+113690	You would make a good researcher.
+113691	Of course, where else?
+113692	Please navigate there.
+113693	The coordinates look correct.
+113694	If our calculations are correct, it is here.
+113695	Yes, it must be here.
+113696	Good, we haven't lost the way.
+113697	That's the location.
+113698	Oh, you already know where it is.
+113699	Weren't we careful enough?
+113700	Of course, that was very subtle...
+113701	I'd like to have one of their detectors.
+113702	The measurements say, we are close.
+113703	We're approaching it fast.
+113704	Only a little further.
+113705	Eureka! You found it!
+113706	So there it is.
+113707	A remarkable discovery.
+113708	Thank you. But the problem has more than one facet.
+113709	Sorry, I forgot to mention this problem in my initial request. You still got time?
+113710	I hate to trouble you again, but... well, see for yourself...
+113711	The increase in violence is alarming! Someone has to step in.
+113712	I've analyzed the situation. It's very unstable.
+113713	There's every indication, that this will escalate. Please intervene.
+113714	I'm aware the risk is high... But they must be stopped.
+113715	That's mainly a matter of force, not of brains.
+113716	You are a brilliant strategist.
+113717	They'll think twice before they challenge you again!
+113718	Thank you. If you hadn't stepped in, it would have been disastrous.
+113719	I recalculated it. No way you could have won this.
+113720	Attacking without a good plan... you see where that gets you.
+113721	[Sigh] We should promote our defense research.
+113724	Science is essential to progress. But it seems we haven't realized that here yet.
+113725	What's going on here! I can't even think straight!
+113726	Our city planners are mistaking insanity for genius.
+113727	In. Out. In! Out! Won't you let me work in peace?
+113729	Perhaps the time isn't ripe for big ideas, at least not here...
+113730	The way we're treated here is against all common sense.
+113731	I bet other companies will appreciate my abilities more.
+113732	Cold hands, warm heart, huh? Around here it's rather: Cold hands, cold shoulder.
+113723	A multi-national corporation, but no means left for scientific research... something is wrong.
+113728	I should've stayed at university.
+113738	Why not improve this settlement a little. Just a thought.
+113741	You want our research to pay off? Give us something to work with.
+113742	I don't want to badmouth anything.
+113740	I don't want to sound like a smartass, but we are underperforming here.
+113733	Hmm, most decisions here at least make some sense.
+113734	It's cerebral, but it's work nonetheless.
+113735	Our settlement is... nothing of note.
+113736	Studies are going well. But I don't live for my job alone.
+113739	As long as I can carry out my research, I'm okay.
+113737	It's the arctic. How comfy can it be?
+113743	Our research is proceeding well. We are motivated.
+113744	No grounds for complaint whatsoever.
+113745	I'm working on an important international research project. Of course I'm fine.
+113746	Thank you. Our concerns never go unheeded here.
+113747	The cold? I enjoy spending most of my time in my lab, so I hardly notice.
+113748	We're at the end of the world and you still provide us all those comforts.
+113749	It's my job to question things, but this place is undoubtedly great.
+113750	Hmm, re-upping my contract for a few years. I rather like the idea.
+113751	Every day here provides a new chance to excel oneself.
+113752	At first, I was skeptical, but seeing all this dissipated my doubts.
+113753	You are constantly giving us fresh impetus.
+113754	We're making one breakthrough after another here!
+113755	This space program will redefine life on Earth! And I'm part of it!
+113756	You are thinking outside the box! That's what makes you successful!
+113757	And I just thought of you, too. Well, great minds think alike!
+113758	They should write a research paper on you, as unbelievable as you are!
+113759	Happiness is no exact science. But you seem to know its laws well.
+113760	Sometimes I feel we are not grateful enough.
+113761	I'll dedicate my next big discovery to you.
+113762	Thought leader, now there's a term that suits you!
+113763	Finally, our ideas are safe!
+113764	Right! You have to protect your intellectual capital.
+113765	So much for industrial espionage. Thanks!
+113766	An interesting place, indeed.
+113767	Someone called for scientists?
+113768	We'll find the answers for you.
+113769	I thought the Arctic Custodians were just greens on snowshoes. But the Climate Stabilizers... I've never seen such well thought out technology.
+113770	It's the 23rd century and, if it wasn't for the lack of energy, we would be far more advanced than we are now. I'm glad someone is looking into that.
+113771	Did you know that Cassian Industries has the biggest research department of all the Big Five? So many people, just to invent new drill heads? There must be something else...
+113772	I don't think humanity will ever have all the answers to all the questions. But that doesn't mean we shouldn't seek them.
+113773	Running this polar research station isn't rocket science. Let's hope I can change departments at some point.
+114896	That Jorgensen fellow promised me fascinating climate phenomena. What do I get? A broken Climate Stabilizer.
+114897	Jorgensen? Paid me an outrageous sum. Otherwise I wouldn't have shown up.
+114898	I hope we're done with this soon. Don't want to be seen helping Jorgensen.
+115623	I'm not being paid enough for this.
+115624	Even the equipment here is ancient!
+115625	Now, where'd I put my notes...
+115626	Ugh, they keep traipsing in slush.
+115627	This coffee really helps perk me up!
+115628	Looking back, taking this job was a good idea.
+115629	No better place for vital research than here.
+115630	The peace and quiet are fantastic.
+115698	Wow, the deposit is a lot more pure than we thought.
+115699	I really need to eat more healthily...
+115702	We'll need better conductors.
+115705	Is everything accounted for?
+115709	You can unload over there.
+115712	Not mystery soup! Not again...
+115713	Did I lock the door... ?
+105721	Roger. You're coming in loud and clear. We can begin digging here on the Moon.
+113774	Good!
+113775	First-rate job!
+113776	This is hot stuff!
+113777	Nice one!
+113778	Right on!
+113779	Wicked!
+113780	That's just about the limit!
+113781	Oh, that was great!
+113782	That's crackerjack!
+113783	That worked a treat, for sure.
+113784	Must say, I'm over the Moon 'bout that.
+113785	Bless our lucky stars!
+113786	The worst's over!
+113787	You're tearin' it up at the whole leadership thing.
+113788	You've done your job!
+113789	Good for you!
+113790	You sure hit the ground runnin'!
+113791	You're onto it!
+113792	Keep it up!
+113793	You're really somethin'!
+113794	You've got things sorted out!
+113795	You're second to none, no question!
+113796	Talkin' straight, you are the bomb!
+113797	That's life.
+113798	Talk about bad luck.
+113799	[Sigh] So much for that...
+113800	That's a nasty surprise!
+113801	That's one sloppy piece of work.
+113802	Come off it!
+113803	Bad luck!
+113804	That's gotten out of hand!
+113805	That's messed up!
+113806	People don't do that.
+113807	A fine mess you've made of it!
+113808	You always work like that?
+113809	Guess you can't be blamed, huh?
+113810	Won't lie, you made a mess of that.
+113811	You're not particularly lucky, are you?
+113812	Awww, come on!
+113813	You took on too much, huh?
+113814	Don't say that was your best!
+113815	Ploughin' the sands, know what I'm sayin'?
+113816	You must be jokin'!
+113817	Readin' you loud and clear.
+113818	I'd show you around, but there's not much to show.
+113819	Hi.
+113820	Hey, got a job for me?
+113821	You didn't come all this way just to see me, huh?
+113822	What's doing?
+113823	Whoa, look who's here.
+113824	Come in, take a deep breath!
+113825	Well, now, here's some good company!
+113826	Air lock's open.
+113827	It's as good as done.
+113828	Okay.
+113829	No sweat.
+113830	Gotcha.
+113831	No prob.
+113832	You name it!
+113833	You can count on it!
+113834	Lemme give you a hand.
+113835	You won't be sorry.
+113836	You bet!
+113837	Nope.
+113838	Whoa, that's outta my league!
+113839	Won't get it done today.
+113840	Already workin' my socks off here.
+113841	No way.
+113842	Have to disappoint you on that, sorry.
+113843	Hey, I'm just human, you know.
+113844	You asked the wrong guy.
+113845	Can't help you here.
+113846	Sorry, have to turn you down.
+113847	This one won't sort itself out.
+113848	No idea what to do about it. Have you?
+113849	Hope it ain't rude to ask you directly.
+113850	Looks like something big to me.
+113851	I'd rather leave that to the decision maker.
+113852	We've done all we can. Time to pass it on.
+113853	It's a wrap!
+113854	You're the top dog, that's for sure!
+113855	Thanks a bunch!
+113856	Great! That's that!
+113857	Problem? Not for you!
+113858	That's the way the cookie crumbles!
+113859	You got a good grip on things here, I tell ya!
+113860	I owe you one!
+113861	Well that was good for nothing...
+113862	Now we're worse off than ever!
+113863	That kinda thing just ruins your day, huh?
+113864	It's only the moonies, I get it!
+113865	You feel good, leavin' your stuff half-finished?
+113866	And now you tell me!
+113867	I sure you're knocking yourself out on that.
+113868	I'm counting on you.
+113869	Thanks in advance.
+113870	So, how's it going?
+113871	You know the drill, don't ya?
+113872	Get anything done yet? Just asking.
+113873	Good to know things are movin'.
+113874	Not something you can just do on the fly, I get it.
+113875	You got it!
+113876	Uh-uh, that's it.
+113877	Go get it.
+113878	Confirmed
+113879	You're pointin' right at it.
+113880	Not much else here to confuse it with, huh?
+113881	Looks the right one to me.
+113882	It's a striking thing, isn't it?
+113883	There you go!
+113884	Well, let's go then.
+113885	Shall we?
+113886	Have a pleasant trip.
+113887	Get moving
+113888	It won't come to you.
+113889	You shouldn't have trouble reachin' it.
+113890	Don't get lost.
+113891	Damn, we're busted.
+113892	I didn't see them comin'...
+113893	They've spotted us.
+113894	It's right ahead!
+113895	Not much longer…
+113896	I think I can already see it...
+113897	You dug something up there.
+113898	No keeping things hidden from you, huh?
+113899	Wouldn't have found that without you.
+113900	Not I'm not thankful, but that only revealed another problem.
+113901	Thanks! Can I trouble you with something else?
+113902	You didn't let us down on that and you won't let us down on this either.
+113903	I guess you have to deal with them the hard way.
+113904	Our work's dangerous enough. I'd rather not have a war at my doorstep as well.
+113905	You ain't payin' us a danger bonus, so you better get rid of the danger.
+113906	They're shootin' at people. You ain't gonna allow that, are ya?
+113907	People are gonna die if you don't step in!
+113908	I'll shed no tears for those terrorists!
+113909	You sure gave them what for!
+113910	Thanks. Now we can feel safe again.
+113911	Just rushin' in... ain't quite the right tactic, is it?
+113912	Time to pick up the pieces...
+113913	That made my blood run cold.
+113914	If crap was snow, then this colony was hit by an avalanche.
+113915	My back hurts, my head aches, my lungs... ah, no use...
+113917	I was prepared to live in a vacuum. But this place really has nothin' to offer.
+113918	Take a look around? Would you wanna live here?
+113919	How life is? Ask me how I manage to survive here?
+113920	Sorry, I'm not that talkative. I have to save my air supply.
+113921	That's pure exploitation, you know that.
+113923	I'll wait for the next shuttle and then I'm outta here.
+113922	I miss Earth.
+113924	The job ad looked more promising!
+113928	Can't say I'm overly motivated.
+113930	My days here are pretty gray, know what I mean?
+113934	If it wasn't for the good money...
+113916	I shoulda known this Second Wave thing looked too good to be true.
+113925	Roll with the situation, that's what they say.
+113926	New place, same work. It's like anywhere else here.
+113927	Works for me. Mostly.
+113929	Come in. You're the one who pays for my oxy, after all.
+113933	We all pull together here.
+113935	Nothing to write home about.
+113936	It's not cramped, it's cozy.
+113937	I'm on easy street.
+113938	When I think of fair work conditions. I think of this place.
+113939	You have a good thing going on here!
+113940	Signing on with the L.L.P. was a good decision.
+113941	Can only speak for myself, but I'm pretty happy here.
+113942	For a grey desert, this place is really quite homey.
+113943	Work ain't so hard, when you have a nice home waiting for you.
+113944	It's the simple life. I like that.

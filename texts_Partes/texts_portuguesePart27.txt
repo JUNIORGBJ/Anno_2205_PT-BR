@@ -1,0 +1,316 @@
+115952	Attack!
+115953	No mercy!
+115915	You don't want to understand! We refuse to live by the corporations' laws any longer! You have no right to be here!
+115916	I have never been averse to a diplomatic solution. But if you don't want to accept our terms, I'll let our weapons do the talking!
+115917	You have the nerve to challenge us in our own territory? Fine. You shall learn that it is better not to ignore my warnings!
+115919	Don't get used to them. They'll be ruins soon enough.
+115920	Don't let them get away! Fire at will!
+115921	You are sheltering a convicted traitor! Surrender her at once, or you will face the consequences!
+115923	Fire! Fire!
+115924	You're fraternizing with a traitor to our revolution. Prepare to face the consequences!
+115925	Fire at will!
+115927	So, you refuse to understand. Then you leave us no choice...
+115928	Next time you won't see it coming!
+115929	Colocar Depois
+115930	You think you can simply lay claim to what we've compiled through years of research? Stealing the fruits of other peoples' labor is an action all too fitting for a Corporate stooge.
+115954	You'll wish you'd never set foot in our territory. The First Wave will wash away the Second.
+116346	Your shields might hold against meteors, but they will be powerless against what I'll be using out here.
+116347	You will get your share of fusion energy. I'm sure it will be more than you can take.
+116348	Everything I worked on! Gone!
+116349	Don't you understand! This technology would have made us equal! Earth and Moon, evenly matched in war and peace. But that's what you fear, isn't it?
+116350	Sacrifices must be made for the greater good. It's nothing personal.
+116359	They just need a little fine calibration. A matter of time.
+115902	People of Earth. This is the manifesto of the Moon's independence.
+115903	The Global Union waged war on us for generations with weapons like falsehood, negligence and exploitation. And the LEC bowed its head in servile compliance.
+115904	But not anymore. Set no foot on the land of our forefathers.
+115905	We are the Orbital Watch. The Moon is free.
+115907	It seems you've made a decision. We will show you that it wasn't wise.
+120067	People of Earth. This is the manifesto of the Moon's independence.
+120068	The Global Union has waged war on us for generations with weapons like falsehood, negligence and exploitation. And the LEC bowed its head in servile compliance.
+120069	But not anymore. As the decendants of the First Wave of lunar colonization the time has come to take back what is rightfully ours. Set no foot on the land of our forefathers.
+115908	You leave me no choice. You have rejected my offer of peace. I don't believe in second chances.
+115909	Long ago, people believed that the Moon controlled the weather. We will prove them right.
+115910	The climate. Earth's barely healed wound. Let's see what happens when I abrade it.
+115911	You think this is victory? There's an entire network of Climate Stabilizers out there. We will strike again, when you least expect it.
+115912	You may think you've won. But as long as you continue trying to invade our home, our attacks will not cease.
+116334	Is it just me, or is it unusually warm for this time of year?
+115913	What's one in a network of serveral hundred.
+115914	Fine. Another one. But don't believe I'm going to let this happen again!
+115249	You must understand that I cannot tolerate your providing Zandra Haynes and her radicals shelter. I've placed a few surprises in the area. See for yourself.
+115252	Yes, yes, the sheep run back to those who once sheared them. Beware, the wolves are at the door.
+115256	You won this time. We'll see how you do when I change the battlefield.
+116343	Hygiene conditions in refugee camps are far from ideal, I suppose. Infection can spread easily through oxygen systems.
+111825	Then make me!
+111826	No! Stupid question.
+111827	Of course not!
+111828	Ridiculous. The answer is no.
+111829	Forget it.
+111830	You don't have the right to dictate anything.
+111831	Do you even realize how ludicrous that is? No!
+111832	You're mistaken if you think I will do anything for you.
+111833	For you? No. Not a chance.
+111834	No I don't think so. Not for you.
+111835	You won't be able to stop us!
+111836	This will give you a chance to see how futile you are.
+111837	Let's see if you have what it takes.
+111838	We'll soon see if you can walk the walk.
+111839	You are free to face the challenge, if you dare.
+111840	As easy as this task is, I don't really think you're up to it.
+111841	One bad turn deserves another. You will see.
+111842	That task was easy. A child could have done it.
+111843	You'll soon see the cost of that.
+111844	Remember, everything has a price. Your success here is no exception.
+111845	I'll admit, I didn't think you could do it. Soon we'll see if you can pay the price.
+111846	Don't believe for a minute you're getting off that easily.
+111847	What you just did will cost you.
+111848	You're going to regret that.
+111849	Your failures are the soil upon which our freedom grows.
+111850	Well, it's good to know you pose no serious danger.
+111851	Oh my. And that was the best you could do? Ah ha ha ha ha...
+111852	You are giving up? Wise of you.
+111853	There's no shame in realizing you're outclassed. Well, not much.
+111854	Time to run home to mummy?
+111877	We should have hidden it better...
+111878	I'm going to find the traitor that sold you its location...
+111879	I knew I shouldn't have let the intern hide that...
+111880	Oh, so the great detective finally found it, huh? Bravo!
+111881	It was just too conspicuous.
+111882	If you hadn't found that, I would have suggested eye surgery.
+111883	Congratulations on your uncanny ability to find the blindingly obvious.
+111884	Wow. Recognizing shapes must be your superpower, right?
+111885	Then come. If you dare.
+111886	Let's see if you'll show.
+111887	Red rover, red rover, come on over.
+111888	Come and get some.
+111889	So now you know. Come...
+111890	You know where to find us...
+111891	Come and show me what you're made of.
+111892	This is where we'll see just what you bring to the game.
+111909	Turn back or face the consequences!
+111910	Moving any closer could be hazardous to your health.
+111911	I really think that is as close as you want to get.
+111915	You thought you could remain unseen, on our land?
+111916	Talk about the proverbial bull in a china shop!
+111917	You sneak about as well as pigs fly!
+111921	Did you think that was all we had?
+111922	So, that was Round One. Are you ready for Round Two?
+111923	Now that we're warmed up, it's time to get serious.
+111927	You want war? You shall have it.
+111928	Welcome to the arena. Time to see if you have what it takes.
+111929	You talk a big game. Let's see if you have the muscle to back it up.
+111930	Now we shall see whether you're a warrior or not.
+111931	There will be fighting involved. I expect you'll enjoy that.
+111932	Our counterstrike will be devastating!
+111933	You will regret this day
+111934	Today you have sealed your doom.
+111935	So many lives. Senselessly sacrificed on the altar of your arrogance!
+111936	Your overweening pride has cost many lives. I hope you're proud.
+111937	I wonder what your people think when they see you throw their lives away so carelessly?
+111938	Yours will follow soon enough.
+111939	For that, you will pay!
+111940	All ships sink eventually, as you shall soon learn.
+111941	The ship was nothing, but the crew? For them, you will pay!
+111942	Our revenge will be swift and terrible!
+111943	It's just steel and concrete. Our morale is impossible to destroy.
+111944	Never forget that buildings don't fire weapons.
+111945	Nothing we can't rebuild.
+111946	So, at least now we know you can hit things that don't move.
+111947	Well, I guess it's a good thing we have more than one building, isn't it?
+111948	Let's see if you have what it takes to get here.
+111949	So you think you're big enough to do it, do you? We'll soon see about that!
+111950	Aren't you biting off just a little more than you can chew?
+111951	Impressive, isn't it? And all the more deadly.
+111952	It's even more dangerous than it looks, as you'll soon find out.
+111953	Good eye! Yes, that's the one you should run away from.
+111954	This will be our final offensive! Soon your greedy, predatory colonies will lie in ruins!
+111956	Defend yourself, if you can! The time has come for you to die!
+111957	You came to crush the revolution, but now the tables are turned!
+111958	You were given enough opportunities to join us. You refused, and now you will pay.
+111959	These people, my people, have suffered too much for too long. It ends here!
+111960	The next time you will fail.
+111961	I wouldn't feel too safe just yet!
+111962	You got lucky this time! I'll be back!
+111963	This was just the opening move. The end game is yet to come!
+111964	You've been lucky this time!
+111965	The revolution has achieved a great victory! And you... you will perish!
+111966	You never had anything to oppose us.
+111967	You should have known you were out of your league.
+111968	So now you know what happens to those who oppose the revolution!
+111969	We want justice. This is what happens to those who oppose it.
+111970	The Moon is now free! Gone, the days when the Big Five and their stooges preyed upon the land of our birth. We are the First Wave, and we will tolerate no second!
+111971	The Big Five. Hah! Vultures trading human lives for profit. None of them gave a damn.
+111972	So you're in tight with the masters, the Big Five. How's it feel to run with cowards and murderers?
+111973	They always start out well-meaning. But then the money starts rolling in. And soon that's all that matters.
+111974	Did anyone ever tell you about what happened at the Bainbridge Crater? I didn't think so. For years we demanded justice, but no! When they do finally remember us, all they do is send people like you. As if nothing ever happened!
+111975	For years they just used us and threw us away as they fattened their wallets. Well, they're all going to pay now!
+111976	It's so easy to just use people and dispose of them like garbage. If you don't believe me, just ask the LEC.
+111977	Everybody needs something to believe in. For the corporations, it's profit. For us, it's… us.
+111978	The Oppressors did not break me, the incident at the Bainbridge Crater did not break me, You think you can break me?
+111979	Sabe o que o LEC e seus mestres fizeram? Eles falaram sobre o envio de pessoas apenas para morrerem e aumentarem seus lucros? Enviaram eles para minas de gelo localizadas no meio do depósito de resíduos radioativos? Eu não penso assim!
+111980	São essas coisas. Ninguém é culpado. Nada pode ser provado. Desculpas! Eles tentaram destruir nossas vidas! Mas agora ... agora a coisa ta seria.
+111981	You shouldn't have believed their lies. You should have at least heard our side of the story, but oh no… It's so much easier just to call us villains and terrorists.
+111982	You know, nobody ever asks where the LEC got their money. I'll let you in on a little secret, though - they got it by murdering innocent miners and their families. Ask them.
+111983	First Wave, Second Wave. Government meddling, faceless corporations and recklessness. I wonder will history repeat itself?
+111984	Corporate perversion should have been a topic in history class. And "As ye sow, so shall ye reap."
+111985	For the miners who died. For the loved ones who grieved. For the children lost and crying for their parents. The day of retribution is at hand. They will finally find peace.
+113560	Already got enough?
+113561	You think you can cope with me. Prove it.
+113562	This is how far you've come? Ridiculous.
+113563	Admit it, you have no chance.
+113564	So?
+113565	Just surrender and save us both the trouble.
+111823	Alright. But don't forget this, I certainly won't.
+111822	Very well. But remember, you owe me.
+111824	I hate it when helping you is the lesser of two evils.
+111820	You should not mistake my cooperation for a concession.
+111692	It all unfolds.
+111693	How… satisfying.
+111694	So must it be.
+111695	Yes, yes. Excellent.
+111696	Exemplary.
+111697	How very convenient.
+111698	A satisfactory solution.
+111699	That's the way it was supposed to end.
+111700	Couldn't have turned out better.
+111701	Good news. Definitely good news
+111815	By necessity. Not by choice...
+111816	Needs must.
+111817	Very well - this time.
+111818	What must be done, must be done.
+111819	I will do it, but I don't have to like it.
+111804	Did you come to negotiate your capitulation?
+111805	Well, well. Look who's come to slum with the scum.
+111806	So, have you come to your senses? Are you here to join us?
+111807	What do you want?
+111808	Fine. You're here. Say what you came to say.
+111809	If you've come to join us, you are welcome. If not…
+111810	Have you come to help us get our justice?
+111811	So, tell me. Are you here to hear our side of the story?
+111812	Oh, it's you. What do you want?
+111813	I assume there's something you wish to discuss?
+111794	This only delays your inevitable defeat.
+111795	You are walking into the path of an avalanche.
+111796	Congratulations. You have reached "inconvenience" status.
+111797	You are becoming annoying.
+111798	You don't actually believe that you can change anything, do you?
+111799	You must know that resistance is futile.
+111800	You seem to have a bad habit of messing things up.
+111801	You might want to reconsider your options.
+111802	I am not an uncivil man, but you are trying my patience.
+111803	Try all you want. You cannot stop the revolution.
+111715	This can't be true!
+111716	No. NO!
+111717	This is totally unacceptable.
+111718	This cannot be allowed to interfere.
+111720	This is disastrous.
+111721	I cannot believe it.
+111722	Oh, for the love of…
+111723	Definitely a setback.
+111724	This does not fit the plan.
+111725	We cannot let this slow us down.
+111705	Watch carefully. You can experience triumph vicariously.
+111706	You see? That's how it's done.
+111707	Don't worry. There are many things I can do that you cannot.
+111708	I know. It's natural for you to be jealous.
+111709	You see? Justice itself is on my side. We are invincible.
+111710	How? It's easy when you're doing what's right.
+111711	It's like taking candy from a baby. You lackeys should know all about that.
+111712	Were you taking notes?
+111713	I hope you were watching closely.
+111714	Maybe, if you someday see the light, you'll be able to do that too.
+111702	Now, the revolution can continue unabated!
+111703	A burden lifted.
+111704	Another yoke, removed from our necks!
+115883	Well played. But the game is not over yet.
+116070	You need those more than we do.
+116071	No need to struggle.
+116072	A small sacrifice.
+116075	Aren't you well trained?
+116076	No need for violence.
+116077	You won't stop me.
+116078	Do you ever question orders?
+116079	Trust me, it's necessary.
+116080	Don't run from the truth.
+116081	Consider it a warning.
+116082	It doesn't have to happen.
+116083	You're not getting away.
+116084	I can't guarantee what might happen.
+116085	There's still time to turn back.
+116086	Heed my words and get out.
+116278	Lauren.
+116279	It's sad how it's developed. The Global Union conjures an image of a united mankind. But the truth is: Earth is dependent on the Moon. And it gives nothing back.
+116280	The Global Union does not own us. They founded the LEC long ago, yes. But the families of most of our members are third or fourth generation moon dwellers. Many have been here since the First Wave. The Corporation should respect our importance.
+116281	Well, Climate Stabilizers are real power hogs. And the LEC is the only organization mining Helium-3. If the Global Union really wants to develop a fusion power station in the near future, they won’t have any choice but to deal with us.
+116282	Just another example of how the Global Union is corrupted by the Big Five. They've always lusted after our territories.
+116283	As I said, they won't have any choice but to deal with us.
+116284	Goodbye.
+109393	Now, how awesome was that?
+109394	That was pretty cool.
+109395	Good to hear.
+109396	Alright!
+109397	That's perfect!
+109398	That's complete!
+109399	Excellent.
+109400	That's great!
+109401	Wonderful news.
+109402	Pretty awesome.
+109403	Phew, finally... nice to have that problem off my mind.
+109404	Okay, that doesn't impede us anymore.
+109405	Changes like that are always welcome!
+109406	You're a genius, you know that?
+109407	That was a smart solution.
+109408	You were brilliant!
+109409	Resolution close to optimum!
+109410	Wow! That's a clever approach!
+109411	You did it and it worked perfectly.
+109412	You did fantastic, you know that?
+109413	A stroke of genius! Thank you!
+109414	You really know what you're doing!
+109415	You were awesome!
+109417	Oh, no.
+109418	Please tell me I didn't see that.
+109419	That was bad.
+109420	That, could have gone better.
+109421	Murphy's Law.
+109422	There's no way… What went wrong?
+109423	That is just so wrong.
+109424	Okay, that didn't turn out as expected.
+109425	That's so not good.
+109427	You hadn't thought that through, right?
+109428	You didn't pay attention, huh?
+109429	I know you're smarter than that.
+109430	You know, you kind of let me down there.
+109431	I really expected you to do better.
+109432	Chaos theory. You can't control all parameters.
+109434	I could give you a breakdown on what went wrong, but we both know, right?
+109435	Let's just say you weren't at the top of your game, okay?
+109436	I bet you feel badly about it too.
+109437	Hey there... err, I mean... welcome to Ibarra-FoxCom!
+109438	Who's… Uh, hi! What can I do for you?
+109439	What brings you to Ibarra-FoxCom?
+109440	Can't you see… Oh, sorry! I was just… I mean, uh, welcome!
+109441	Hi! Um, could you wait just a… There. What can I do for you?
+109442	Ibarra-FoxCom, Hofwegen. Oh, hi!
+109443	Welcome! How are you today?
+109444	So, what can I do for you? Sorry, that was rude of me. How are you?
+109445	Hello! Good to see you.
+109446	Huh? Oh, hi! Welcome to Ibarra-FoxCom!
+109447	Already have something in mind.
+109448	Sure, that's doable
+109449	Logical request. Sure!
+109450	That makes sense. Yes.
+109451	I think that can be done.
+109452	Sure! Ibarra-FoxCom would be glad to help you.
+109453	Since you asked so nicely, sure!
+109454	I think I can make that happen for you.
+109455	Sure. You know Ibarra-FoxCom is all about helping one another.
+109456	I'm sorry, what was that? Oh, sure, we can do that for you.
+109457	My projections tell me to stay out of this.
+109458	Sorry, got a lot on my mind right now.
+109459	No, sorry.
+109460	Sorry, but a quick analysis indicates that I should refuse.
+109461	What gave you that idea? No.
+109462	Sorry to disappoint you, but I have to say no.
+109463	I wish we could help you. But as things are... sorry.
+109464	Sorry, but I'm afraid we have to sit this one out.
+109465	Sorry, but Ibarra-FoxCom can't help you.

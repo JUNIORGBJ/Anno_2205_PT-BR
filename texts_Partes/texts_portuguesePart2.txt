@@ -1,0 +1,316 @@
+105471	Durante seu mandato, os Guardiões do Ártico viram muitos governos dispostos a decidir o destino do mundo. Como resultado, foram necessárias muitas reuniões noturnas na sede da União até que os Guardiões do Ártico pusessem de lado seus preconceitos e concordassem em abrir seu terreno isolado para o Programa de Licença Lunar. Apesar de tudo, o Dr. Howard Young, representante in loco dos curadores, não pretende tolerar qualquer imprudência, muito menos em relação aos requisitos que as indústrias privadas devem cumprir no território ártico.
+105482	[NOTIFICATION_CHARACTER_NAME] suggests you establish a small Arctic base.
+105483	[NOTIFICATION_CHARACTER_NAME] gives permission for spaceport construction.
+105505	[NOTIFICATION_CHARACTER_NAME] has an eye on both economic and ecological developments.
+105506	[NOTIFICATION_CHARACTER_NAME] informs you just how rare fish has become.
+105507	[NOTIFICATION_CHARACTER_NAME] points at the importance of good heat insulation.
+120752	Settle your employees close to a heat source
+105463	"The Global Union trade routes are still threatened by terrorists. You better establish your own landing place for cargo ships."
+105472	Before the opening of the polar regions, Arctic trade was confined to official Arctic Custodian routes, not allowing for much commercial variety on both sides of the trade treaties. With the Global Union routes under constant siege by the Orbital Watch however, the Arctic seaways are increasingly being called for. And while mighty icebreakers set forth to crack safe, new ways through the brash ice, the Global Union plans to link the Arctic economy closer to the world market – via landing places for cargo ships and a space elevator.
+105484	[NOTIFICATION_CHARACTER_NAME] recommends the expansion of your Arctic spaceport via a pier.
+105485	[NOTIFICATION_CHARACTER_NAME] asks you for help.
+105508	[NOTIFICATION_CHARACTER_NAME] deems the head count of employees enough to proceed.
+105464	"If they aim at it, they can use the Climate Stabilizers to cause a second climate catastrophe! We must act!"
+105473	In 2085, in the aftermath of the disastrous prototyping of geothermal power plants in the Ebashi Trench, global weather drifted to the extremes. Subsequently, the researchers of the environmentalist group called the Eden Initiative founded the Arctic Custodians and developed climate stabilization technology, creating an artificial Arctic zone. And now, 120 years later, Earth faces a new climate catastrophe: The terrorist Orbital Watch assumed control of the Climate Stabilizers. They want to watch the world burn.
+105486	[NOTIFICATION_CHARACTER_NAME] urges you to help the Arctic Custodians reclaim control of the Climate Stabilizers.
+105487	[NOTIFICATION_CHARACTER_NAME] is glad to tell you the main Climate Stabilizers have been recovered.
+117364	Achieve victory in the crisis sector "[GUIDNAME 5100031]"
+119711	Reach the next corporation level to enact a counter-hacking attempt
+119726	[NOTIFICATION_CHARACTER_NAME] is curious about the outcome.
+119727	[NOTIFICATION_CHARACTER_NAME] informs you that your help was received.
+105465	"The work at the piers is almost done. Make sure to finish them so your Arctic cargo ships can head for sunnier climates."
+105474	Colocar Depois
+105488	[NOTIFICATION_CHARACTER_NAME] requests you to take your Arctic shipping docks into operation.
+105489	[NOTIFICATION_CHARACTER_NAME] deems your pursuit for the Moon even more important than before.
+115485	"Your aerospace technology has to adhere to the Program's standards. Make sure to have enough shrewd heads at the task."
+115486	The Lunar Licensing Program applies high standards to the space technology deployed in it. While past colonizations of the Moon have been successful, relying on old machinery to propel the Second Wave would not be met with the Union's approval – the program is a fresh start into space and any resemblances with the ancient tech of the LEC are to be avoided by its partners. Even if that means great research efforts.
+118026	[NOTIFICATION_CHARACTER_NAME] requests you to establish a research team.
+118027	[NOTIFICATION_CHARACTER_NAME] greenlights the implementation of the shuttle blueprints.
+118029	[NOTIFICATION_CHARACTER_NAME] is full of praise for your neuro implant production.
+118028	[NOTIFICATION_CHARACTER_NAME] approves of your vitamin drink supply.
+118030	[NOTIFICATION_CHARACTER_NAME] knows that a strong community is important these days.
+115487	Conceiving new ways of space travel formerly thought impossible, your aerospace engineers have developed more than ambitious blueprints for shuttles and launch pads. As a proof of their newly found confidence in the Lunar Licensing Program, the Arctic Custodians loosened the export restrictions for greater amounts of mineral resources. Time will tell, if the Big Five jump at this opportunity.
+115488	"The metals mined in the Arctic region are perfectly suited for space technology."
+118038	[NOTIFICATION_CHARACTER_NAME] states that you need specific steels to construct the colony shuttles from.
+118039	[NOTIFICATION_CHARACTER_NAME] approves of the superalloys.
+118044	[NOTIFICATION_CHARACTER_NAME] is sure these alloys will come in use outside shuttle construction, too.
+105466	"Be assured, the command personnel of the Program will have more sophisticated needs than your common worker."
+105475	Through bold, persistent lobbyism, the Big Five achieved privileged participation rights for the Lunar Licensing Program before it even started. Yet Orbital Affairs Secretary Samantha Beaumont mobilized the forces of her party to bring you into the program as well, an underdog, acting as a counterpoise to the long-established MegaCorps. Her plan proves to be successful so far: Your corporation is growing relentlessly. But even the most well-organized CEO can't take care of everything at once.
+105490	[NOTIFICATION_CHARACTER_NAME] wants you to shift responsibilities to executives.
+105491	[NOTIFICATION_CHARACTER_NAME] is looking forward to Phase 2 being completed.
+105510	[NOTIFICATION_CHARACTER_NAME] underlines how important neuro tech is for the program.
+105511	[NOTIFICATION_CHARACTER_NAME] sees a great deal of potential in your medical products.
+105512	[NOTIFICATION_CHARACTER_NAME] relies on rigorous security controls when dealing with terrorism.
+105467	"No launch pad, no rocket launch. An ambitious building project lies ahead of you."
+105476	Colocar depois
+105492	[NOTIFICATION_CHARACTER_NAME] asks you to support John Rafferty with the launch pad construction.
+105493	[NOTIFICATION_CHARACTER_NAME] is starting with the launch pad construction.
+105515	[NOTIFICATION_CHARACTER_NAME] is happy to see all processes are tightly organized.
+116567	"The launch pad construction is well underway. Please arrange for the necessary rare materials."
+116568	Steel beam per steel beam, the shuttle launching pads are growing towards the sky, the work of countless busy hands. Lunar Licensing Program supervisor Samantha Beaumont brought in the old gearhead John Rafferty to coordinate the efforts. His presence in the Lunar Licensing Program has led to controversies in the Ministry of Orbital Affairs, especially among the sympathizers of the Big Five. On the quiet, words like "infringement" and "prison term" are voiced, but Rafferty doesn't seem to mind. He much rather sees after the completion launch pad for the Second Wave.
+118040	[NOTIFICATION_CHARACTER_NAME] gives a forecast of what has to be done next.
+118041	[NOTIFICATION_CHARACTER_NAME] is proud to present a finished shuttle launching pad.
+117379	Achieve victory in a crisis sector
+117378	Complete optional assignments
+105468	"The big moment has arrived. So many people, all burning to see those shuttles fly..."
+105477	The colony shuttles are ready for take-off, crewed with brave women and men, leaving behind their easy, earthly life for the unfathomable universe. Last-minute tests are conducted, while the rocket propellant tanks are attached to the bottom of the shuttles. All over the globe, people lay down their tools and set eyes on the big and small screens broadcasting this happening. With bated breath, they are awaiting the countdown of the Second Wave of lunar colonisation.
+105494	[NOTIFICATION_CHARACTER_NAME] can hardly wait for the colony shuttles to lift off.
+105495	Following the rocket with her gaze, [NOTIFICATION_CHARACTER_NAME] announces the start of Phase 3.
+105542	"Your colony shuttles are heading for the lunar orbit. They're awaiting orders where to touch down."
+105543	The pioneers of the Second Wave set forth for the Moon's grey, alien landscape. It is a voyage into the unknown. Frontier spirit and sense of adventure, that made the colonists leave the familiar atmosphere of Earth behind, blends with anxiety about the terroristic Orbital Watch. It had been some time since the Global Union space station last received news from the LEC And Virgil Drakes will not take a new colony on the Moon lightly.
+105634	[NOTIFICATION_CHARACTER_NAME] is eager to present you lunar settlement zones to choose from.
+105635	[NOTIFICATION_CHARACTER_NAME] signs over a high quality plot of lunar land.
+105544	"A good spot for a lunar colony, if you ask me. And it's all yours."
+105549	Hills and valleys covered in dead, gray dust are stretching to the black, starlit horizon. But even in an environment as hostile as the Moon, humanity has a chance to thrive, as hundred years of continued lunar settlement show. In the LEC colonies, whole generations of people have lived and died. Your colonists may not be the first to leave their footprint on the Moon. But they are here. And maybe they can set things right, once they are given a basic supply framework and a place to call home.
+105636	[NOTIFICATION_CHARACTER_NAME] informs you that moon colonies may only be established in craters.
+105637	[NOTIFICATION_CHARACTER_NAME] thinks you are ready for the next step.
+105646	[NOTIFICATION_CHARACTER_NAME] is threatening you openly.
+105647	[NOTIFICATION_CHARACTER_NAME] is willing to start work right away.
+105648	[NOTIFICATION_CHARACTER_NAME] stresses the critical importance of good oxygen supply.
+105649	[NOTIFICATION_CHARACTER_NAME] explains what materials are needed to build space structures.
+118254	[NOTIFICATION_CHARACTER_NAME] shows you how vulnerable your colony would be without shield generators.
+105545	"Solid interorbital trade routes are the key, if you want your corporation to replace the LEC as lunar resource supplier.”
+105550	The Lunar Excavation Corp did not always possess exclusive rights to mine and distribute lunar resources. Before their foundation by the Global Union, private corporations have conducted an armed war over the territories and resources Earth's satellite had to offer. The event entered the history ebooks as the "Eclipse." After a long peace, the Orbital Watch is more than willing to turn the Moon into a battlefield again. Breasting them will not be possible without steady support from Earth and direct orbital transportation routes.
+105638	[NOTIFICATION_CHARACTER_NAME] informs you about the logistical demands your spaceport will have to meet.
+105639	[NOTIFICATION_CHARACTER_NAME] lets you in on what has been done for the LEC fugitives coming to Earth so far.
+105650	[NOTIFICATION_CHARACTER_NAME] is impressed by how many people are flocking to your Moon colony.
+115941	"Neither the LEC fugitives, nor their Arctic Custodians guardians have the means to brave Drake. You however..."
+115942	In the aftermath of the Orbital Watch’s advent to power, moon dwellers opposing the movement’s radical ideology faced oppression and persecution. Those who could secretly fled to Earth with cargo shuttles. The Global Union, overwhelmed by the sheer number of fugitives, used their newly-established diplomatic relations with the Arctic Custodians to set up a provisional reception camp in the Arctic. But the Orbital Watch is without mercy if it comes to dealing with "traitors"...
+118257	[NOTIFICATION_CHARACTER_NAME] appeals to you to help the LEC fugitives.
+118258	[NOTIFICATION_CHARACTER_NAME] thanks you profoundly.
+117365	Achieve victory in the crisis sector "[GUIDNAME 5100395]"
+118261	[NOTIFICATION_CHARACTER_NAME] speculates that Virgil Drake maintains his own military facilities on Earth.
+118263	[NOTIFICATION_CHARACTER_NAME] informs you your economical support enabled the Arctic Custodians to help the fugitives.
+119712	Reach the next corporation level to implement supporting measures
+115939	"The next stages of the Lunar Licensing Program require a well-running interorbital logistics system."
+115940	Extensive measures to repair Earth’s biosphere and unrestrained technological growth have brought the world to the brink of an energy crisis. The ultimate goal of the Lunar Licensing Program is to fend off this scenario by putting a fusion energy reactor into operation. But scientist also see other possible applications of fusion energy. As propellant for rocket drives it might one day enable mankind to travel even greater distances in space – if the fusion reactors work as well as everyone hoped. It will be seen, once their construction is completed.
+118264	[NOTIFICATION_CHARACTER_NAME] lauds you for your continuing opposition to the Orbital Watch.
+118265	[NOTIFICATION_CHARACTER_NAME] tells you you can now transport goods to and from Moon.
+105685	Striking at the weak spots of their opponents, the Orbital Watch tries to sabotage the Lunar Licensing Program. So far, their terroristic assaults have not brought the program to a standstill. But the newly founded lunar colonies, as dependent on Earth as they are, are easy targets. And before even the slightest efforts in fusion reactor construction can be dared, the Second Wave colonists must be enabled to provide for themselves.
+105677	"Dependence on deliveries from Earth makes it easy for Drake. Make your colony more autarkic."
+105696	[NOTIFICATION_CHARACTER_NAME] wants you increase the self-sufficiency of your colony.
+105697	[NOTIFICATION_CHARACTER_NAME] is satisfied with what measures you have taken.
+118266	[NOTIFICATION_CHARACTER_NAME] is glad, you are offering your colonists medication against cosmic radiation.
+118267	[NOTIFICATION_CHARACTER_NAME] notes you have found a way to counter the effects of zero gravity.
+118268	[NOTIFICATION_CHARACTER_NAME] finds a poetical expression to hint at the importance of Maintenance Stations.
+118271	[NOTIFICATION_CHARACTER_NAME] is obviously relieved you provide your colonist more substantial food.
+105680	"Fusion energy is our best hope to meet humanity’s increasing energy demands."
+105688	Extensive measures to repair Earth's biosphere and unrestrained technological growth have brought the world to the brink of an energy crisis. The ultimate goal of the Lunar Licensing Program is to fend off this scenario by putting a fusion energy reactor into operation. But scientist also see other possible applications of fusion energy. As propellant for rocket drives it might one day enable mankind to travel even greater distances in space – if the fusion reactors work as well as everyone hoped.
+105702	[NOTIFICATION_CHARACTER_NAME] deems you more than able to implement a fusion reactor building project.
+105703	[NOTIFICATION_CHARACTER_NAME] is excited to see the fusion energy reactor is performing flawlessly.
+118346	[NOTIFICATION_CHARACTER_NAME] knows, that deuterium is one of the core components of fusion energy generation.
+118347	[NOTIFICATION_CHARACTER_NAME] is glad to see the deuterium transfers to the Moon have been taken care of.
+118348	[NOTIFICATION_CHARACTER_NAME] tells you that helium-3 is the basic element in fusion energy generation.
+118349	[NOTIFICATION_CHARACTER_NAME] simmers in expectation of the conclusion of the fusion energy project.
+105681	"Modern technology allows for the wireless transfer of energy. Sending it down from space, that's a first though."
+105689	A technological marvel in its own right, the newly built fusion reactor merges helium-3 and deuterium, generating clean energy. To share its output with the energy-hungry metropolises on Earth, the Global Union banks on electromagnetical transmission technology, which is already used widely on Earth. However, constructing an energy transmitter able to send microwaves over vast distances will be a challenge – the last and greatest challenge of the Lunar Licensing Program.
+105704	[NOTIFICATION_CHARACTER_NAME] incites you to conclude the Lunar Licensing Program by building energy transmitters.
+105705	[NOTIFICATION_CHARACTER_NAME] brings Virgil Drake's secret Earth base to your attention.
+119674	[NOTIFICATION_CHARACTER_NAME] threatens you as you still pursue the Lunar Licensing Program.
+118357	"Weapon research? If Drake thinks he can do this right under the Global Union's nose, he is mistaken!"
+118358	A crise energética é evitada! Por alguns dias preciosos a excitação dos cidadãos da Terra e Luna não conhecia limites. Foram realizados desfiles de robôs e comemorações em gravidade zero, salões iluminados com luzes holográficas alimentadas por energia de fusão. O Programa de Licenciamento Lunar pode não ter acabado com todos os problemas da humanidade, muito menos com a ameaça do Orbital Watch.
+118361	[NOTIFICATION_CHARACTER_NAME] asks you to get her access to the Orbital Watch research servers.
+118362	[NOTIFICATION_CHARACTER_NAME] praises you for your great victory against Drake.
+118367	Achieve victory in the crisis sector "[GUIDNAME 5100393]"
+118365	[NOTIFICATION_CHARACTER_NAME] is impressed with your stealth abilities.
+118366	[NOTIFICATION_CHARACTER_NAME] has gained access to the Orbital Watch servers, already wrecking havoc.
+119713	Reach the next corporation level to tap the Orbital Watch's secret servers
+118359	"All that remains to do is bring the energy transmitters online. I'm counting on you."
+118360	The Lunar Licensing Program is nearing its conclusion. What once has been nothing but a distant dream of the future is about to become reality. Humanity’s greatest hopes are pinned on fusion energy as the engine driving a better tomorrow. The final test runs of the energy transmitters will show, if these hopes can ultimately be fulfilled.
+118363	[NOTIFICATION_CHARACTER_NAME] wants you to transfer fusion energy from the Moon down to Earth.
+118364	[NOTIFICATION_CHARACTER_NAME] sounds an eulogy on your achievements.
+117367	"A powerful corporation like yours needs an adequate headquarter. I'm sure you agree."
+117366	The energy crisis is averted! For a few precious days the excitement of Earth’s and Luna’s citizens knew no limits. Robot parades and zero-gravity celebrations were held, the festival halls illuminated with holographic light shows powered by fusion energy. The Lunar Licensing Program might not have ended all of humanity’s problems, let alone the threat by the Orbital Watch, but it brightened the prospects for the future. And your cooperation made all this possible.
+118350	[NOTIFICATION_CHARACTER_NAME] tells you that you were granted permission to build a prestigeous corporate headquarter.
+118351	[NOTIFICATION_CHARACTER_NAME] hasn't the slightest doubt you are on eye level with the Big Five.
+117368	"Feel free to expand your headquarter if you like. You have the Union's approval."
+117369	The Big Five are history. Once they were the unassailable potentates of the global economy. But a new star has risen, exclusive business partner of the Global Union and prizewinner of the race to the Moon. Your corporation’s headquarter alone outshines the former Big Five’s offices. And it is only a matter of time, until you will be called to put other projects into practice – projects, that will push humanity forward again, in this new age of space travel.
+118352	[NOTIFICATION_CHARACTER_NAME] believes you will expand your headquarter further, given the chance.
+118353	[NOTIFICATION_CHARACTER_NAME] considers herself fortunate having worked with you.
+120671	Build any Corporation HQ module
+120450	Your long-term goal is to gain and sustain as many employees as possible. Get employees by constructing residences.
+120451	Employees are your main source of revenue. They also provide you with workforce to operate your factories.
+120452	Keep constructing residences and increase your employee count to unlock new building blueprints and level up your corporation.
+120454	Your employees demand a steady supply of goods to generate workforce. Provide these by building factories from the construction menu.
+120455	Some factories like mines or farms generate goods out of natural resources from their environment.
+120456	More sophisticated goods are often made from several different materials deriving from longer production chains.
+120457	Operating factories takes a toll on your revenue. They also require a supply of workforce, energy and logistics to stay productive.
+120458	You gain those by constructing power plants and transportation centers, which have their own maintenance costs.
+120459	Balancing the earnings and expenses of your ever-growing economy is the main challenge of "Anno 2205."
+120460	Your corporation owns a small contingent of military ships. In a crisis, you take control of this fleet.
+120461	Reflecting your economic power, you expand your fleet by more ships and ship types as your corporation level rises.
+120462	Crisis sectors are self-contained war zones you can leave and return to at any time, as long as no other sector was loaded.
+120463	Completing a crisis sector increases your military level, which allows you to upgrade your ships.
+120489	You also gain rare materials in crisis sectors, which are needed to upgrade your spaceport and expand your factories with modules.
+120515	Any ships lost during a crisis will be replaced afterwards without incurring additional costs.
+120464	Through the Lunar Licensing Program, you receive the first sector of every region for free.
+120490	You appropriate additional sectors by buying them off a rival Big Five corporation after you surpassed their corporation level.
+120516	Look out for unique sector projects. By completing these, you gain access to permanent benefits.
+120465	Claim more construction areas in your sectors by establishing warehouses with your command ship.
+120491	Each warehouse generates a small amount of revenue, workforce and energy.
+120517	In temperate sectors, expand your already claimed areas by connecting islands via bridges.
+120466	Your production facilities give off warmth to heat your settlement. Put your residences near factories.
+120492	Arctic settlements tend to be naturally smaller than those in the temperate region and cluster around factories.
+120518	You can speed up the settlement construction by buying construction materials from traders.
+120467	Modules increase productivity and reduce maintenance costs of your factories, while making them more space-efficient. They require rare materials to be built.
+120493	Acquire rare materials by completing assignments or achieve victory on missions in crisis sectors.
+120519	You are also awarded rare materials as you reach a new corporation level.
+120468	You can take a pacifist approach of opposing the Orbital Watch by improving your economy and gathering more employees.
+120494	Optimize your economic balance with small industrial modules that reduce maintenance costs.
+120520	The Council on the space station can be a source of rare materials and especially effective modules.
+120469	Clients offering assignments can be found at the trading center in every sector.
+120495	Traders sometimes offer a small amount of rare materials – for a not-so-small price.
+120521	Check your building layouts for optimal efficiency and use modules to fill empty spots.
+120470	As your settlements grow, so will the demands of your employees. Some can only be met by goods from other regions.
+120496	While playing, you will create many transfer routes on the strategy map, slowly weaving a global logistics network.
+120522	A sectors' spaceport level determines which kinds of transfer routes can go in and out. You need a launch pad for Moon routes.
+120471	You can use the goods filter on the strategy map to view the exact production balance of a good in your sectors.
+120497	Maintaining transfer routes reduces your credit balance depending on the transporter size. Watch your revenue.
+120523	Increase your corporation level to get access to larger and potentially more cost-efficient transporters.
+120472	Create a transfer route to the space station to sell your overproduction on the world market. You can also buy goods there at the current value.
+120498	Market values of goods are influenced by all "Anno 2205" players who trade on the world market.
+120524	Sell goods whose selling price is much higher than their production price. Spot such goods by using the goods filter on the strategy map.
+120473	Avoid rampant overproduction. Positive good balances are nice to look at, but they can ruin your credit balance.
+120499	Only a certain percentage of employees of every level can be promoted. To have Executives, you need a stable foundation of Workers and Operators.
+120525	Build up a vast amount of residences in order to promote more people to the top.
+120474	Completing assignments for other corporations is a peaceful way to acquire lots of rare materials.
+120500	You gain Graphene in temperate crisis sectors and Petrochemicals in the Arctic.
+120526	Demolishing already built modules will refund all rare materials used in their construction.
+120475	Even sectors dedicated entirely to production require local employees to provide the workforce.
+120501	Assignments and corporation levels always take the total number of employees across all sectors into account.
+120527	Your command ship is equipped with an universal drone control unit that allows it to operate all assigned drone types.
+120476	Download the "Anno 2205 – Asteroid Miner" app for your mobile device and connect it to your account.
+120502	Use the app to mine for rare materials in the asteroid belt and send them over to be used by your corporation.
+120528	You can also gain rare materials as an Ubisoft Club Reward ([GUIDNAME 999021] - [GUIDNAME 999005]), and collect them at the space station.
+120477	With factories that require mountain or coastal building sites, it's usually cheaper to upgrade them than to spread them out too far. Especially on the Moon.
+120503	The lunar warehouse provides an initial shielded area to build in. Shield generators can be placed everywhere, but have maintenance costs.
+120529	Moon colonies take some time to become profitable. Attempt lunar colonization not until your coffers are well-filled.
+120478	Transportation centers and public buildings are expensive. Place them close to factories and residences to use them efficiently.
+120504	Supply buildings add to a collective balance only applying to one island. All other buildings on this island satisfy their demands from that balance.
+120530	The greater the distance of a building to a source of logistics or public services, the more supply is consumed by it.
+120479	You can store only a limited number of special actions in crisis sectors. Use them regularly.
+120505	Move your ships tactically to get damaged ships out of the line of fire or lure enemies into minefields.
+120531	Caution is a viable tactic. Try to remain out of reach of enemy turrets.
+120480	Crisis sectors offer three difficulty levels, with the harder ones rewarding far more rare materials.
+120506	Increasing your military level by achieving victory in crisis sectors grants you access to higher difficulties for all such sectors.
+120532	All rare materials can be acquired in all crisis sectors, but the materials rewarded for completing a mission there depend on the region.
+120481	You can supply your sectors with goods bought on the world market, if you can afford it.
+120507	You can only set up a limited number of transfer routes to the space station, used for buying and selling alike.
+120533	Level up your corporation to get access to larger and more cost-efficient transporters and increase the maximum number of space station routes.
+120482	To get goods from the Arctic to the Moon you have to upgrade your Arctic spaceport with a launch pad.
+120508	Alternatively, you can reroute the goods via a launch pad in the temperate region.
+120534	You could also send goods to the Moon directly from the world market. Just be wary of other players driving up the prices.
+120483	The corporations electable in The Council reduce construction costs and trade prices for certain industries, depending on their relative votes.
+120509	A quick way to gain rare materials is to accept the Mysterious Woman's bribe for your vote in the Council.
+120535	Her bribe will increase whenever you vote for someone she didn't recommend. How long can you resist her offers?
+120484	The gaps between corporation levels increase with every step. There is no limit to how high you can rise.
+120510	Think carefully about where to place your buildings and how to use special building sites. There is only so much construction area.
+120536	Make good use of modules, since they affect the product output and maintenance costs of your factories tremendously.
+120485	You can pause the production in factories if you want to reduce the maintenance costs for a while.
+120511	A spaceport equipped with an energy transmitter is required in every sector you want to transfer energy to.
+120537	Energy is shared across connected sectors, with a deficit affecting all sectors equally.
+120486	The corporation headquarter has very high maintenance cost. Show everyone that you can afford it.
+120512	Beautify your cities with ornaments like fountains or parks of all sizes.
+120538	Unlock additional ornaments in the Ubisoft Club. You can also get wallpapers, logos or a new HQ skin there.
+120487	Try to complete all sector projects to gain permanent benefits and achievements.
+120513	As a long-term goal, aim for one million employees. You will need many sectors and transfer routes to reach that goal.
+120539	Play again on a higher difficulty. Or adjust the game to your liking with the advanced settings.
+120429	Hints
+122164	[GUIDNAME 117801] - Phase 2
+122158	[GUIDNAME 117801] - Step 1 out of 2
+122159	[GUIDNAME 117801] - Step 2 out of 2
+122160	[GUIDNAME 117801] - Step 1 out of 4
+122161	[GUIDNAME 117801] - Step 2 out of 4
+122162	[GUIDNAME 117801] - Step 3 out of 4
+122163	[GUIDNAME 117801] - Step 4 out of 4
+119858	Step 1 out of 5
+119859	Step 2 out of 5
+119860	Step 3 out of 5
+119861	Step 4 out of 5
+119862	Step 5 out of 5
+119863	Step 1 out of 6
+119864	Step 2 out of 6
+119865	Step 3 out of 6
+119866	Step 4 out of 6
+119867	Step 5 out of 6
+119868	Step 6 out of 6
+119869	Passo 1 de 7
+119870	Passo 2 de 7
+119871	Passo 3 de 7
+119872	Passo 4 de 7
+119873	Passo 5 de 7
+119874	Passo 6 de 7
+119875	Passo 7 de 7
+119878	Passo 1 de 8
+119879	Passo 2 de 8
+119880	Passo 3 de 8
+119881	Passo 4 de 8
+119882	Passo 5 de 8
+119883	Passo 6 de 8
+119884	Passo 7 de 8
+119885	Passo 8 de 8
+121168	Passo 1 de 9
+121169	Passo 2 de 9
+121170	Passo 3 de 9
+121171	Passo 4 de 9
+121172	Passo 5 de 9
+121173	Passo 6 de 9
+121174	Passo 7 de 9
+121175	Passo 8 de 9
+121176	Passo 9 de 9
+120853	Passo 1 de 10
+120854	Passo 2 de 10
+120855	Passo 3 de 10
+120856	Passo 4 de 10
+120857	Passo 5 de 10
+120858	Passo 6 de 10
+120859	Passo 7 de 10
+120860	Passo 8 de 10
+120861	Passo 9 de 10
+120862	Passo 10 de 10
+111986	[NOTIFICATION_CHARACTER_NAME] informs you about the next step in the project.
+120926	[NOTIFICATION_CHARACTER_NAME] has an assignment for you.
+118064	[NOTIFICATION_CHARACTER_NAME] offers you a sector project.
+120830	Phase [SECTOR_PROJECT_CURRENT_PHASE], Step [SECTOR_PROJECT_CURRENT_STEP] out of [SECTOR_PROJECT_STEP_COUNT]
+114691	[NOTIFICATION_CHARACTER_NAME] has conceived a plan to raise the Ark from the seabed and begins preparations.
+114692	Thrilled she discovered an old E.V.E. system, [NOTIFICATION_CHARACTER_NAME] wants to examine the Ark carefully.
+114693	[NOTIFICATION_CHARACTER_NAME] is grateful you helped lifting the Ark and launching an old E.V.E. unit.
+114929	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator
+114930	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator
+114931	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator
+114932	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator
+114933	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator
+119902	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator
+114934	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator Improvement
+114935	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator Improvement
+118162	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator Improvement
+118163	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator Improvement
+114936	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator Improvement
+114937	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator Improvement
+114938	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator Improvement
+118164	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Graphene</font> Generator Improvement
+118165	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>NO LOCAGraphene</font> Generator Improvement
+114939	<font [MINIMAPDOT_COLOR 2001947]>NO LOCAGraphene</font> Generator Improvement
+119903	<font [MINIMAPDOT_COLOR 2001947]>Graphene</font> generator
+119904	<font [MINIMAPDOT_COLOR 2001947]>Graphene</font> generator improvement
+114704	[NOTIFICATION_CHARACTER_NAME] offers you a chance to participate in her research project.
+114705	[NOTIFICATION_CHARACTER_NAME]'s theoretical interest focuses on artificial intelligences.
+114706	[NOTIFICATION_CHARACTER_NAME] remarks on her fascination for old, unrestrained A.I. patterns.
+114707	[NOTIFICATION_CHARACTER_NAME] wants to examine an old submerged structure for old A.I. systems.
+114708	[NOTIFICATION_CHARACTER_NAME] takes a chance on rebooting the submerged Ark's systems.
+114709	An A.I. voice sounds within the Ark.
+114702	"I'm trying to wheedle a recovery team out of my superiors. Stay tuned."
+114710	[NOTIFICATION_CHARACTER_NAME] asks you to be patient until she receives her superiors' support.
+114711	[NOTIFICATION_CHARACTER_NAME] believes she might now be able to boot up the Ark's systems.
+114703	"It will take some time to analyze the Ark's condition. I'll give you a shout."
+114713	[NOTIFICATION_CHARACTER_NAME] has not yet finished investigating the uncovered parts of the Ark.
+114714	[NOTIFICATION_CHARACTER_NAME] once again attempts to boot the Ark's A.I. software.
+114715	[NOTIFICATION_CHARACTER_NAME] is caught up in her study of E.V.E.
+117265	Project stage 1 completed
+117266	Sunken Ark discovered
+117267	Graphene generator activated
+117268	Project stage 2 completed
+117269	Sunken Ark ready to lift
+117270	Graphene generator improved
+117271	Project stage 3 completed
+117272	Sunken Ark lifted

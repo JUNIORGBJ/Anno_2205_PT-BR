@@ -1,0 +1,316 @@
+117824	Choose a special corporation name.
+117825	There Will Be Cake
+117826	Choose a special corporation name.
+117827	Copycat
+117828	Choose a special corporation name.
+108607	Found an arctic settlement.
+108606	Whiteout
+114484	Wave Rider
+114485	Found a lunar settlement.
+114450	Expansionist
+114451	Claim 34 construction areas.
+114452	Creating Space
+114453	Claim a second construction area in any sector.
+114454	Chief Architect
+114455	Construct 10,000 buildings.
+114456	Overfishing
+114457	Construct 20 Fishing Harbours in a sector.
+114458	Gentrification
+114459	Demolish 100 buildings.
+114460	Looks Better There
+114461	Move 100 buildings.
+115398	Cornucopian
+115399	Construct 1,000 modules.
+116685	Multinational Company
+116686	Claim an area in every sector.
+116687	Bridge Day
+116688	Finish a bridge construction project.
+117233	Monumental
+117234	Construct corporation headquarters.
+117239	Because I Can
+117240	Expand your corporation headquarter with all different modules.
+117241	Beautiful Mind
+117242	Construct 500 ornamentals.
+117355	Silicon Valley
+117356	Construct 10 silicon mines in one sector.
+117990	Eye-Hand Coordination
+117991	Demolish 30 buildings at once.
+114462	High-end Technology
+114463	Reach "Master" level for any ship.
+114464	Scientific Victory
+114466	Reach "Master" level for all ships.
+114465	Know Your Tools
+114467	Use 100 special actions.
+114469	Back to the Stone Age
+114468	Use the Tactical Nuke 50 times.
+114470	Medic!
+114471	Use the Repair Drones 50 times.
+114472	I'm Rubber, You're Glue
+114473	Use the Kinetic Shield 50 times.
+116506	Get Off Me!
+116507	Use the Wave Mine 50 times.
+116508	Stunning Presence
+116509	Use the E.M.-Pulse 50 times.
+116510	Me and THAT Army
+116511	Use the Support Fleet 50 times.
+116512	Problem Solver
+116513	Use the Long-Range Missile 50 times
+116514	Life Insurance
+116515	Use the Repair Buoy 50 times
+116516	Can't Touch This
+116517	Use the Energy Shield 50 times
+116518	The Maw
+116519	Use the Water Vortex 50 times
+116520	Kick Some Ice!
+116521	Use the Cold Bombs 50 times
+116522	Anti-Terror from the Deep
+116523	Use the Support Warsub 50 times
+117774	Early Adopter
+117775	Be part of the early testing phases of Anno 2205.
+117816	Abstergo
+117834	Abstergo Industries
+117835	Abstergo Entertainment
+117851	[NOTIFICATION_CHARACTER_NAME] wonders if you chose your corporation name because you are striving for a new world order.
+120756	ABSTERGO
+120757	abstergo
+117817	Umbrella
+117838	Umbrella Corporation
+120758	UMBRELLA
+120759	umbrella
+117818	Cyberdyne
+117839	Cyberdyne Systems
+120760	CYBERDYNE
+120761	cyberdyne
+117829	Aperture
+117841	Aperture Science
+117842	Aperture Laboratories
+120762	APERTURE
+120763	aperture
+117846	Ibarra-FoxCom
+118339	Ibarra-Foxcom
+118337	Ibarra FoxCom
+118338	Ibarra Foxcom
+118020	IbarraFoxCom
+120764	IBARRA-FOXCOM
+120765	ibarra-foxcom
+117847	Cassian Industries
+118021	CassianIndustries
+120766	CASSIAN INDUSTRIES
+120767	cassian industries
+117848	Usoyev Inc.
+118340	Usoyev Inc
+118022	UsoyevInc
+120768	USOYEV INC.
+120769	usoyev inc.
+117849	Lei Sheng
+118023	LeiSheng
+120770	LEI SHENG
+120771	lei sheng
+117850	Saayman International
+118024	SaaymanInternational
+120772	SAAYMAN INTERNATIONAL
+120773	saayman international
+108602	Online
+108603	Povoar Operadores em uma de suas cidades.
+114474	Faça Assim
+114475	Povoar Executivos em uma de suas cidades.
+114476	A Crosta Superior
+114477	Povoar Investidores em uma de suas cidades.
+114478	Hipótese da Habitação
+114479	Povoar Cientistas em uma de suas cidades.
+114480	Reconhecido
+114481	Povoar Oficiais em uma de suas cidades.
+116689	Democracia
+116690	Vote pela primeira vez.
+114482	Assuntos do Conselho
+114483	Vote 10 vezes.
+115400	Consultor Científico
+115401	Vote 10 vezes na Dra. Eleanor Hofwegen.
+115402	Lutas de Poder
+115403	Vote 10 vezes no Aidan Bhargava.
+115404	O Estabelecimento
+115407	Vote 10 vezes no Luca Volodin.
+115405	O Espião que a Amou
+115408	Vote 10 vezes na May Tian.
+115406	Alimente o Mundo
+115409	Vote 10 vezes no Emem Buhari.
+117347	Legado
+117348	Alcance uma população de 1.000.000 em todos os setores.
+117349	Herdeiro do ANNOkrat
+117350	Alcance uma população de 1.000.000 sobre todos os setores no modo difícil.
+117351	Topo do Mundo
+117352	Alcance o Primeiro Lugar no Ranking corporativo.
+117353	Encolhendo os Cinco Maiores
+117354	Alcance o primeiro lugar no ranking no modo difícil.
+117772	Riquezas de Asteróides
+117773	Conecte o Anno 2205 com "ANNO 2205 - Mina de Asteróide".
+117830	Parte do Sistema
+117831	Aceite Propina 20 vezes.
+117832	Incorruptível
+117833	Recuse Propina 20 vezes.
+109086	Ação concluída
+100000	Anno 2205
+100001	Construção
+100002	Session Storage
+100003	Modo Mover
+100005	Selecionar
+100004	Modo Demolição
+100006	Meta
+100007	Terra 1.1
+100008	Terra 1.2
+100360	Modo Copiar
+100361	Clique em um objeto para destruí-lo
+100362	Clique em um edifício para selecioná-lo
+100363	Clique em uma área para mover
+100722	Exportar mercadorias
+100364	Clique em uma área para copiar
+100723	Importar mercadorias
+108506	Alemão
+108507	Inglês
+108508	Português-BR
+108509	Espanhol
+108510	Polonês
+108511	Russo
+108683	Modo Promover
+108684	Clique em uma residência para promover
+118332	Conexão com Uplay perdida, desligando.
+118333	Conta já está em uso, desligando.
+118334	A autenticação deste produto foi revogada, encerrando.
+119939	O identificador corporativo interno é inválido.
+119940	Sua corporação está falida e não pode ser carregada.
+119941	Não foi possível encontrar sua corporação
+120171	Teste
+121042	Linha de teste 1
+121043	Linha de teste 2
+1000005	Residência
+1000152	[GUIDNAME 2001009]
+1000153	[GUIDNAME 2001010]
+1000154	[GUIDNAME 2001011]
+1000151	Complexo residencial
+1000192	[GUIDNAME 2001009]
+1000193	[GUIDNAME 2001010]
+1000194	[GUIDNAME 2001011]
+1000182	Centro de Informação
+1000181	Departamento de Segurança
+1000233	Estação de metrô
+1000234	Estádio
+1000169	Fazenda de arroz
+1000170	Plantação de linho
+1000212	Fazenda de girassol
+1000112	Plantação de frutas
+1000213	Fazenda de Algas
+1000214	Vinhedo
+1000268	Rancho de bovinos
+1000888	Fazenda de soja
+1000215	Incubadora de células sintéticas
+1000216	Laboratório Biomédico
+1000237	Planta de Composição IA
+1000217	Usina de Dessalinização
+1000220	Sala de Micro fabricação
+1000221	Moinho Nano-Têxtil
+1000223	Laboratório de Neutronium
+1000229	Fábrica de Android
+1000332	Parque eólico
+1000333	Estação elétrica de Maré
+1000224	Condensador de Vitamina
+1000226	Oficina de Design de Alimentos
+1000250	Salão de montagem de robôs
+1000174	Fábrica de Biopolímero
+1000230	Unidade de Nano-Corte
+1000063	Pedreira de feldspato
+1000231	Mina de diamantes
+1000232	Mina de Silício
+1000886	Mina de cobalto
+1000364	Arrozal
+1000365	Plantadores de linho
+1000366	Girassol
+1000367	Pomar de frutas
+1000368	Cama de algas
+1000369	Terraço de Vinhedo
+1000370	Curral de gado
+1000892	Campo de soja
+1000372	Câmaras de Células Sintéticas
+1000373	Casulo de Reação
+1000374	Incubadora IA
+1000376	Filtro de Unidade
+1000386	Câmaras Estéreis
+1000387	Nano-Tear
+1000389	Gerador do Neutronium
+1000419	Linha de montagem de Android
+1000392	Turbina de vento
+1000393	Turbina de água
+1000403	Frutas
+1000405	Cozinhas Moleculares
+1000383	Correia Transportadora de Robôs
+1000417	Bacias de Biopolímero
+1000420	Unidade de Polimento
+1000426	Triturador de Feldspato
+1000427	Serra de Disco
+1000428	Mineração de Parede Alta
+1000889	Tosquiador de cobalto
+1002378	[GUIDNAME 109065] [GUIDNAME 102701]
+1002396	[GUIDNAME 109065] [GUIDNAME 102703]
+1002380	[GUIDNAME 109065] [GUIDNAME 102702]
+1002381	[GUIDNAME 109075] [GUIDNAME 102701]
+1002397	[GUIDNAME 109075] [GUIDNAME 102703]
+1002383	[GUIDNAME 109075] [GUIDNAME 102702]
+1002384	[GUIDNAME 109078] [GUIDNAME 102701]
+1002398	[GUIDNAME 109078] [GUIDNAME 102703]
+1002386	[GUIDNAME 109078] [GUIDNAME 102702]
+1002351	[GUIDNAME 109081] [GUIDNAME 102701]
+1002350	[GUIDNAME 109081] [GUIDNAME 102704]
+1003769	[GUIDNAME 109081] [GUIDNAME 102703]
+1002352	[GUIDNAME 109081] [GUIDNAME 102702]
+1002387	[GUIDNAME 109084] [GUIDNAME 102701]
+1002399	[GUIDNAME 109084] [GUIDNAME 102703]
+1002389	[GUIDNAME 109084] [GUIDNAME 102702]
+1000507	[GUIDNAME 102701]
+1000565	[GUIDNAME 102704]
+1000513	[GUIDNAME 102703]
+1000510	[GUIDNAME 102702]
+1000157	Armazém
+1000123	Centro de Transporte
+1000156	Modulo espacial
+1001229	Porto Espacial Global
+1001231	Porto Espacial Orbital
+1001232	Porto de Transmissão
+1002837	Porto de Transmissão
+1003252	Corporação HQ
+1003264	Corporação HQ Asa
+1003265	Corporação HQ Interseção
+1003266	Corporação HQ Terminal
+1003267	Corporação HQ Asa
+1003268	Corporation HQ Terminal
+1003072	Parque pequeno
+1003073	Parque Médio
+1003074	Parque Grande
+1003161	Regular Firework Fountain
+1003162	Helix Firework Fountain
+1003163	Shape Firework Fountain
+1003346	NO LOCA Uplay Reward01 Placeholder
+1003345	NO LOCA Uplay Reward02 Placeholder
+1003344	NO LOCA Uplay Reward03 Placeholder
+1003351	Fireworks Ignitor
+1003369	Estacionamento pequeno
+1003371	Estacionamento Médio
+1003370	Estacionamento Grande
+1003389	NO LOCA ULC REWARD PLACEHOLDER
+1003406	Fonte
+1003432	NO LOCA Uplay Reward06 Placeholder
+1003433	NO LOCA Uplay Reward07 Placeholder
+1003434	NO LOCA Uplay Reward08 Placeholder
+1003435	NO LOCA Uplay Reward09 Placeholder
+1003436	NO LOCA Uplay Reward10 Placeholder
+1003549	Jardim de flores
+1003713	Árvore de Natal
+1000178	Rua
+1002835	Rodovia
+1000907	Rua
+1000913	Rua
+1000911	Rua
+1000912	Rua
+1001192	Rua
+1001280	Rua
+1002953	NO LOCA Street
+1003068	Rua
+1003152	Rua

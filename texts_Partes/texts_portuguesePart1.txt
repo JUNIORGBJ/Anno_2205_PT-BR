@@ -1,0 +1,316 @@
+105203	Resumo de mercadorias
+105204	Rotas do mercado mundial
+105205	Importarr
+120938	Exportar
+102494	Livre [CONDITION_COLLECTQUEST_OBJECT_NAME].
+102532	Buscar [CONDITION_COLLECTQUEST_OBJECT_NAME] na região temperada.
+102492	Buscar [CONDITION_COLLECTQUEST_OBJECT_NAME] na região ártica.
+102649	Selecione um edifício residencial.
+100767	NO LOCA Perdemos contato com as bóias de monitoramento usadas em nossos experimentos oceanográficos.
+100768	NO LOCA Nosso navio de pesquisa encalhou e estamos presos lá dentro.
+100769	NO LOCA Nossos satélites de comunicação caíram nesta área, mas não podemos localizá-los.
+100770	NO LOCA A sinking cruise liner radios SOS.
+102694	Entrar na [CONDITION_ACTIVE_REGION_REGION] região
+100693	Entrar "[CONDITION_ACTIVE_SESSION_SESSION]"
+116549	Iniciar o evento "[CONDITION_ACTIVE_SESSION_SESSION]"
+102645	NO LOCA DummyText
+100677	Colete <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font> com seu veiculo
+108993	Colete [CONDITION_SOURCE_OBJECT_ASSET] com seu veiculo [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+100686	[CONDITION_COLLECTQUEST_OBJECT_AMOUNT_CURRENT] / [CONDITION_COLLECTQUEST_OBJECT_AMOUNT]
+100688	Encontra [CONDITION_SOURCE_OBJECT_ASSET]
+120399	Encontra [CONDITION_SOURCE_OBJECT_ASSET] em qualquer ilha
+120611	Encontra [CONDITION_SOURCE_OBJECT_ASSET] em qualquer cratera
+120744	Encontra [CONDITION_SOURCE_OBJECT_ASSET] em terra
+120745	Encontra [CONDITION_SOURCE_OBJECT_ASSET] no mar
+120746	Encontra [CONDITION_SOURCE_OBJECT_ASSET] ao longo da costa
+108994	Encontra [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+100689	Recupera todo [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+116456	Recolher o objeto monitorado <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font> com seu veículo
+119899	Ativa <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
+120074	Remove <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
+120747	Encontra [CONDITION_SOURCE_OBJECT_ASSET] nos canais glaciais
+120748	Encontra [CONDITION_SOURCE_OBJECT_ASSET] sobre os campos de gelo
+103250	Carregue seu veículo com [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] de seu porto espacial
+108995	Carregue seu veículo com [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] de seu porto espacial [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+103251	Entregar a carga para <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
+108996	Entregar a carga para [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+108477	Pegue a carga em <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
+108997	Pegue a carga em [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+116458	Entregar a carga para o <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
+116462	Pegar a carga no <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
+105099	Destruir [CONDITION_AMOUNT_COUNTER_AMOUNT] [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+108999	Destruir [CONDITION_AMOUNT_COUNTER_AMOUNT] [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+108502	Use o Drone para destruir [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+109001	Use o Drone para destruir [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+116459	Use o Drone para destruir o objeto monitorado [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+120073	Conecta [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] ao seu [COMMANDO_VEHICLE]
+100787	Sala de Notícias
+100549	Mapa estratégico
+100788	Centro de tarefas
+100789	Perfil corporativo
+100791	Armazenamento global
+100842	Menu do Conselho
+103065	Perfil corporativo
+103066	Nível corporativo
+103081	Docas
+108437	Votação
+117118	estação espacial
+102760	Afunde o navio Eradicator
+102761	Destrua 6 laboratórios de pesquisa
+102762	Abata 50 navios patrulheiro
+100105	[CONDITION_EVENT_SPECIFIC_TEXT]
+100191	NO LOCA Start the Assignment [CONDITION_EVENT_CONTEXT]
+100106	Cumprir a tarefa [CONDITION_EVENT_CONTEXT].
+100107	Abre o [CONDITION_EVENT_CONTEXT] menu
+100108	NO LOCA Enter sector [CONDITION_EVENT_CONTEXT]
+100130	Encontra [CONDITION_EVENT_CONTEXT].
+100131	NO LOCA Atualize para [CONDITION_EVENT_CONTEXT]
+100187	NO LOCA Carregar o setor [CONDITION_EVENT_CONTEXT]
+102668	Destrói [CONDITION_EVENT_CONTEXT]
+119831	Desbloqueia [CONDITION_EVENT_CONTEXT]
+120062	[CONDITION_AMOUNT_COUNTER_CURRENT_AMOUNT] / [CONDITION_AMOUNT_COUNTER_AMOUNT]
+100725	Colete [CONDITION_AMOUNT_COUNTER_AMOUNT] [CONDITION_SOURCE_OBJECT_ASSET] com seu veículo
+100726	[CONDITION_AMOUNT_COUNTER_CURRENT_AMOUNT] / [CONDITION_AMOUNT_COUNTER_AMOUNT]
+105899	Entrega <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS]</font> ao [CONDITION_SOURCE_OBJECT_ASSET]
+105182	Acertar [CONDITION_SOURCE_OBJECT_ASSET] com [CONDITION_SPECIAL_ACTION_USED_OBJECT_NAME]
+105183	[CONDITION_AMOUNT_COUNTER_CURRENT_AMOUNT]/[CONDITION_AMOUNT_COUNTER_AMOUNT]
+105157	Use o <font [MINIMAPDOT_COLOR 2001947]> [CONDITION_SPECIAL_ACTION_USED_OBJECT_NAME]</font> [CONDITION_AMOUNT_COUNTER_AMOUNT] vezes
+105162	[CONDITION_AMOUNT_COUNTER_CURRENT_AMOUNT]/[CONDITION_AMOUNT_COUNTER_AMOUNT]
+105102	Siga <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font> com seu veículo
+100104	Mova o [COMMANDO_VEHICLE]
+105261	Mova seu [COMMANDO_VEHICLE] para [CONDITION_SOURCE_OBJECT_ASSET]
+109003	Mova seu [COMMANDO_VEHICLE] para [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+103114	Visite [CONDITION_SOURCE_OBJECT_ASSET] com seu [COMMANDO_VEHICLE]
+109004	Visite [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT] com você [COMMANDO_VEHICLE].
+116460	Visite o monitorado [CONDITION_SOURCE_OBJECT_ASSET] com seu [COMMANDO_VEHICLE].
+108287	Traga os objetos coletado para <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
+109005	Traga os objetos coletado para [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+103078	Selecione [CONDITION_SOURCE_OBJECT_ASSET]
+109006	Selecione [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+105412	Selecione o espaçoporto
+109007	Selecione o espaçoporto [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+100095	exatamente
+100097	ao menos
+100098	como muito
+102527	mais de
+102526	menos de
+100301	em [CONDITION_PROFILE_COUNTER_SCOPE_CONTEXT]
+100302	na região [CONDITION_PROFILE_COUNTER_SCOPE_CONTEXT]
+108934	Mantenha um estoque de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117934	Mantenha uma conta bancária de [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+108935	Mantenha uma produção excessiva de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117925	Mantenha um nível de mão de obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117926	Mantenha um equilíbrio de energia [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117927	Mantenha um saldo de crédito de [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+108936	Mantenha uma produção de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117928	Mantenha uma oferta de trabalho [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117929	Mantenha uma produção de energia [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117930	Mantenha a receita de crédito [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115245	Mantenha sua população abaixo de um limite [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+108937	Mantenha um consumo de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117931	Mantenha o uso de mão de obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117932	Mantenha um uso de energia [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117933	Mantenha uma despesa de crédito [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115456	Mantenha sua população abaixo de um limite [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+120785	Construa e mantenha [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+120920	Mantenha um equilíbrio logístico de [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+100808	Tenha [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117910	Tenha créditos
+100827	Alcance um equilíbrio entre [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117911	Alcance um saldo de Energia [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117912	Alcance um saldo de Mão de Obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117913	Alcance um saldo de crédito [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+100819	Produza [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117922	Distribua Mão de Obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117923	Produza Energia [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117924	Gere uma receita de crédito [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+108930	Consuma [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117919	Utilize mão de obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117920	Utilize energia [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117921	Tenha uma despesa de crédito [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+100092	[CONDITION_PROFILE_COUNTER_COUNTER_TEXT]
+116548	[CONDITION_PROFILE_COUNTER_VALUE_QUESTSTART]
+100813	[CONDITION_PROFILE_COUNTER_VALUE_CURRENT] / [CONDITION_PROFILE_COUNTER_VALUE]
+100814	[CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_VALUE_CURRENT] / [CONDITION_PROFILE_COUNTER_VALUE]
+102606	Quantidade suficiente [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+102528	Atualize [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+105522	Recupere uma ilha [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+105523	Recupere uma cratera [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+105599	Tenha um veiculo "[CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]"
+105600	Construa um veículo "[CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]"
+105712	Chame [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+100100	Construa [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+100803	Compre [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] de um comerciante
+100804	Venda [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] para um comerciante
+100805	Tenha uma população de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+100806	Tenha uma população de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+100807	Alcance uma total de população
+102933	Destrua [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+108598	Alcance o nível corporativo
+108984	Capture [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115266	Sofra uma derrota em "[CONDITION_PROFILE_COUNTER_SCOPE_CONTEXT]"
+114517	Alcance a vitória em "[CONDITION_PROFILE_COUNTER_SCOPE_CONTEXT]"
+115445	Faça uma ação especial [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115265	Colonize a ilha [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115268	Investigue [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] nas docas
+115271	Vota para [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+115272	Mova edifícios [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115273	NO LOCA Create express routes for [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+115274	Consiga créditos no mercado mundial
+115275	Gaste créditos no mercado mundial
+115276	Gain credits from a single transfer route to the world market
+115278	Spend credits on a single Transfer Route to the world market
+115324	Obtain credits by selling goods to [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+115325	Spend credits by buying from [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+115326	Obtain credits by selling [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+115327	Spend credits buying [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+115337	Complete optional Assignments from [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115338	Complete optional event missions from [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117915	Decline optional Assignments from [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115439	Demolish [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115442	Obtain achievement points
+115443	Construir e conectar [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+115444	Have no street connection to [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115461	Build [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117917	Attain Combat Experience
+117918	Reach Military Level
+109008	Satisfy the need for [CONDITION_POPULATION_NEEDS_GOOD]
+105557	Satisfy the need for [CONDITION_POPULATION_NEEDS_GOOD] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+105558	[CONDITION_POPULATION_NEEDS_CURRENT_VALUE] / [CONDITION_POPULATION_NEEDS_AMOUNT]%
+108931	NO LOCA Sessionwide [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] balance
+108932	NO LOCA Sessionwide [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] provided
+108933	NO LOCA Sessionwide [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] used
+100690	Tempo restante
+100691	[CONDITION_TIMER_VALUE]
+121596	[TEMPORARY_SECTOR_EFFECT_TIMER]
+108548	Tow [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+109009	NO LOCA Tow [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+120378	Attach [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to your [COMMANDO_VEHICLE]
+120395	Attach monitored [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to your [COMMANDO_VEHICLE]
+120408	[CONDITION_AMOUNT_COUNTER_CURRENT_AMOUNT] / [CONDITION_AMOUNT_COUNTER_AMOUNT]
+121059	Deliver [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+105815	Follow the drone signal and collect [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+109010	Track down and collect [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+120063	Attach [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to your [COMMANDO_VEHICLE]
+122043	Follow the drone signal and collect monitored [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+100800	Create a Transfer Route for [CONDITION_TRADEROUTE_PRODUCT_NAME] [CONDITION_TRADEROUTE_CONDITIONAL_SOURCESESSION] [CONDITION_TRADEROUTE_CONDITIONAL_TARGETSESSION]
+100801	[CONDITION_TRADEROUTE_ROUTE_COUNT_CURRENT] / [CONDITION_TRADEROUTE_ROUTE_COUNT]
+116502	from [CONDITION_TRADEROUTE_SOURCESESSION_NAME]
+116503	to [CONDITION_TRADEROUTE_TARGETSESSION_NAME]
+103493	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] with a space elevator
+104913	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to a Global Spaceport
+104914	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to an Orbital Spaceport
+104915	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to a Transmission Spaceport
+104916	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] with a space elevator
+104917	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to a Global Spaceport
+104918	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to an Orbital Spaceport
+104919	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to a Transmission Spaceport
+104920	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
+104921	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
+104922	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
+104923	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
+104926	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to a Global Spaceport
+104925	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to an Orbital Spaceport
+104924	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to a Transmission Spaceport
+104927	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to a Global Spaceport
+104928	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to an Orbital Spaceport
+104929	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to a Transmission Spaceport
+104930	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION] to a Global Spaceport
+104931	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
+104932	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
+104933	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to an Orbital Spaceport
+104934	Upgrade your spaceport in [CONDITION_OBJECT_SESSION] to a Transmission Spaceport
+104935	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to an Orbital Spaceport
+104936	Start upgrading your spaceport in [CONDITION_OBJECT_SESSION] to a Transmission Spaceport
+104937	Finalize your spaceport upgrade in [CONDITION_OBJECT_SESSION]
+104938	Finalize your spaceport upgrade [CONDITION_OBJECT_SESSION]
+105566	Upgrade your spaceport with a space elevator
+105567	Upgrade your spaceport with icebreaker docks
+105568	Upgrade your spaceport with a launch pad
+105569	Upgrade your spaceport with an energy transmitter
+105560	Start upgrading your spaceport to a Global Spaceport
+105561	Start upgrading your spaceport to a Global Spaceport
+105562	Start upgrading your spaceport with a launch pad
+105563	Start upgrading your spaceport with an energy transmitter
+105564	Finalize the construction of Global Spaceport
+105565	Finalize the icebreaker docks upgrade at your spaceport
+105570	Finalize the launch pad upgrade at your spaceport
+105571	Finalize the energy transmitter upgrade at your spaceport
+105572	Upgrade your spaceport with icebreaker docks
+105573	Upgrade your spaceport to a Global Spaceport
+105574	Upgrade your spaceport in the Arctic Region to an Orbital Spaceport
+105575	Start to upgrade your spaceport with icebreaker docks
+105576	Start to upgrade your spaceport with a launch pad
+105577	Start to upgrade your spaceport with an energy transmitter
+105578	Finalize the icebreaker docks upgrade at your spaceport
+105579	Finalize the launch pad upgrade at your spaceport
+105580	Finalize the energy transmitter upgrade at your spaceport
+105581	Upgrade your spaceport with a launch pad
+105582	Upgrade your spaceport with an energy transmitter
+105583	Start to upgrade your spaceport with a launch pad
+105584	Start to upgrade your spaceport with an energy transmitter
+105585	Finalize the launch pad upgrade at your spaceport
+105586	Finalize the energy transmitter upgrade at your Space Port
+102517	Upgrade [CONDITION_SOURCE_OBJECT_ASSET] in [CONDITION_OBJECT_SESSION]
+103137	Start the [CONDITION_SOURCE_OBJECT_ASSET] upgrade in [CONDITION_OBJECT_SESSION]
+103269	Finalize the [CONDITION_SOURCE_OBJECT_ASSET] upgrade in [CONDITION_OBJECT_SESSION]
+121282	Distribuir [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+105411	Clear the Crisis Sector [CONDITION_ACTIVE_SESSION_SESSION]
+102650	Promote the employees living in a designated residential building
+117380	Reach the next corporation level
+116501	em [CONDITION_OBJECT_SESSION]
+102518	Programa de Licenciamento Lunar
+103058	Fase 1
+103059	Fase 2
+103247	Fase 3
+103248	Fase 4
+105211	"Construir um porto espacial gera muito trabalho. Chame os profissionais."
+105387	Colocar Depois
+105213	[NOTIFICATION_CHARACTER_NAME] quer que você forneça moradia para a equipe de construção.
+105214	[NOTIFICATION_CHARACTER_NAME] quer que você seja cuidadoso na competição.
+105217	[NOTIFICATION_CHARACTER_NAME] informa a chegada da equipe de construção.
+105220	[NOTIFICATION_CHARACTER_NAME] avalia que você forneça comida orgânico para a população.
+105441	[NOTIFICATION_CHARACTER_NAME] está satisfeito com a produção de biopolímero em funcionamento.
+117970	Construa [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] e ligue ao [GUIDNAME 1000157]
+105212	"Seu porto espacial contem equipamentos high-end. É necessário operadores qualificados."
+105388	A Primeira Colonização Lunar sobreviveu cem anos. Hoje, a mineração lunar é supervisionada pela Lunar Excavation Corp. A LEC perdeu a confiança da União Global há muito tempo e foi deixada de lado. Ainda assim, levou décadas para a União Global iniciar um novo programa de colonização lunar. Prevalecendo contra essas cinco gigantescas corporações dominando o mercado mundial, vai exigir que você invista apenas a melhores tecnologia espaciais.
+105215	[NOTIFICATION_CHARACTER_NAME] aponta a demanda do seu programa espacial por pessoa qualificada.
+105216	[NOTIFICATION_CHARACTER_NAME] sabe que sua corporação cresce e precisa de maiores desafios.
+105218	[NOTIFICATION_CHARACTER_NAME] boas vindas ao seu esforço para garantir o abastecimento de água.
+105221	[NOTIFICATION_CHARACTER_NAME] fala muito de seu centro de informações construído.
+105222	[NOTIFICATION_CHARACTER_NAME] e seus rivais falam sistemas de controle do porto espacial.
+105398	"Um longo caminho pela frente. O elevador espacial levará à sede orbital da União Global."
+105399	O imprevisível Relógio Orbital abalou o mundo. Todas  as colônias da corporação de Escavação Lunar se uniram aos terroristas e suspenderam as entregas de recursos para a Terra. Os moradores da Lua, que se recusam a seguir o caminho de Virgílio Drake, vivem em perigo. Alguns podem voltar para a Terra, mas muitos não terão essa oportunidade. A exigência de Drake de perder o Programa de Licenciamento Lunar coloca a União Global em um lugar ruim. Mas para o bem de toda a humanidade, o programa tem que continuar.
+105413	[NOTIFICATION_CHARACTER_NAME] wants you to build a space elevator to the Global Union space station.
+105414	[NOTIFICATION_CHARACTER_NAME] announces the coming of additional material deliveries.
+105219	[NOTIFICATION_CHARACTER_NAME] tells you additional materials will be delivered, specifically for the elevator cable.
+117873	[NOTIFICATION_CHARACTER_NAME] knows a good employer keeps his staff satisfied - like you do.
+105440	[NOTIFICATION_CHARACTER_NAME] calls on you to proceed with the elevator construction once everything else is ready.
+117370	Start the upgrade
+105409	"The whole sector was closed off. It seems military intervention is our only option."
+105405	Before the Lunar Licensing Program, the mining of Moon resources was the exclusive domain of the Lunar Excavation Corp. But as the Global Union turned its focus away from this organization, the Moon people began to feel neglected and exploited – fertile ground for the ideology of the Orbital Watch, a well-connected terrorist organization of former LEC members. And now, their warships draw a tight circle around the Prycomber strait, blocking the Global Union's most important trade route to sabotage the Lunar Licensing program. Security engineer John Rafferty is determined not to let this happen.
+105421	[NOTIFICATION_CHARACTER_NAME] urges you to meet John Rafferty at Prycomber Search Area and retrieve the static cable.
+105422	[NOTIFICATION_CHARACTER_NAME] is relieved to see you back in one piece.
+105443	[NOTIFICATION_CHARACTER_NAME] keeps a stiff upper lip.
+105444	[NOTIFICATION_CHARACTER_NAME] spotted the location of the beleagured Union cargo ship.
+117383	Enter the crisis sector
+105438	Free the detained transporters
+105410	"Let those lunar terrorists continue their intimidation attempts. The space program is far too important for Earth's people."
+105423	Worried about the situation on the Moon, [NOTIFICATION_CHARACTER_NAME] urges you to finish the space elevator.
+105406	The unforeseen Orbital Watch shook the world to its core. One by one, the colonies of the Lunar Excavation Corporation side with the terrorists and suspend their resource deliveries to Earth. The Moon dwellers, who refuse to follow Virgil Drake's crude rethoric live in danger of oppression. Those who can board shuttles to Earth, but many more don't have this opportunity. Drake's demand to forfeit the Lunar Licensing Program puts the Global Union in a tight spot, but for the sake of all humanity, it has to go on.
+105445	[NOTIFICATION_CHARACTER_NAME] wants you to return to the spaceport site.
+117371	Finalize the upgrade
+105460	"The Arctic holds resources found nowhere else. You should consider a branch there."
+105469	The second phase of the Lunar Licensing Program has begun. It points right to the North Pole, the snow-clad hoard of the Earth's last treasures. Protecting the few remaining sources of crude oil and the only ecosystem still bringing forth fish in harvestable quantities, the environmentalist organization called the Arctic Custodians held a stern watch here for almost two centuries. But as things are, the Custodians must share their white paradise with private corporations. They are not happy about this.
+105424	[NOTIFICATION_CHARACTER_NAME] announces the next phase of the Lunar Licensing Program.
+105479	[NOTIFICATION_CHARACTER_NAME] had hoped for a friendlier reception.
+105478	[NOTIFICATION_CHARACTER_NAME] can't wait to assign you arctic territory.
+105461	"All formalities have been taken care of. These islands have been approved for settlement by the Arctic Custodians."
+105470	Like white diamonds, the icy isles of the Arctic rise up from the sea. Cold, hard and uninviting, they form the territory of the Arctic Custodians. It was them, who developed the climate stabilization technology, enabling them to create a genuine Arctic region in a world battered by the polar melting of the late 21st century. Steadying the global weather, the climate stabilizers exposed settlement areas formerly lost to the sea – at the cost of vast amounts of energy. The Custodians have made clear, they don't want you to interfere with their delicate technology, while you are establishing your first arctic branch office.
+105480	[NOTIFICATION_CHARACTER_NAME] wants you to erect an Arctic Warehouse on one of these islands.
+105481	[NOTIFICATION_CHARACTER_NAME] officially confirms your tenures for this settlement zone.
+105503	[NOTIFICATION_CHARACTER_NAME] encourages you to choose an island of your liking.
+105504	[NOTIFICATION_CHARACTER_NAME]  will assign you an island, once you build an Arctic Warehouse there.
+117784	Mova seu barco de comando para: [CONDITION_SOURCE_OBJECT_ASSET]
+117372	Reivindique a ilha
+105462	Você verá que a paisagem do Ártico imporá requisitos muito diferentes às suas habilidades de planejamento urbano.

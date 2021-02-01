@@ -1,0 +1,316 @@
+109832	Time to close that file, then.
+109833	Satisfactory.
+109834	Passable.
+109835	So, I can consider the problem solved. Good.
+109836	That was an unpredictable variable. I'm glad it's gone.
+109837	One less thing to deal with.
+109838	We expected as much of you.
+109839	You did well.
+109840	You work quickly and efficiently. Good.
+109841	It seems you are a problem solver.
+109842	We knew you would take care of it.
+109843	You did an excellent job.
+109844	Your skills are admirable.
+109845	You dealt with that situation well.
+109846	You did what you set out to do. Commendable.
+109847	That turned out well, don't you think?
+109848	That was waiting to happen.
+109849	No surprise.
+109850	I am underwhelmed.
+109851	An unsatisfactory situation.
+109852	A failure.
+109853	Not what we wanted.
+109854	That should not have happened.
+109855	Unnecessary.
+109856	Should not have happenend.
+109857	An undesirable outcome.
+109858	Do you see me applauding?
+109859	You failed to remedy the situation.
+109860	You will never succeed if you don't concentrate on the task at hand.
+109861	You were supposed to solve the problem.
+109862	You could have done much better.
+109863	I hope that was not indicative of your skill.
+109864	Do I look happy to you?
+109865	You did not meet my expectations.
+109866	I expected more of you.
+109867	Your performance failed to impress me.
+109868	Keep it short. Our rivals never rest.
+109869	Yes? What is it?
+109870	Make it quick. I'm a busy person.
+109871	What did you want to see me about?
+109872	I can give you three minutes.
+109873	What is on your mind?
+109874	The short version, please.
+109875	Very well. You have five minutes.
+109876	My time is valuable. What is it?
+109877	Well? Spit it out.
+109878	There is no other option.
+109879	Affirmative.
+109880	Confirmed.
+109881	Request approved.
+109882	Very well.
+109883	I can give you the go ahead on that.
+109884	Your request has been approved.
+109885	We have agreed to your request.
+109886	You have our assent.
+109887	Consider your request approved.
+109888	No.
+109889	Impossible.
+109890	Forget it.
+109891	Out of the question.
+109892	Unacceptable. No.
+109893	You think this is our concern?
+109894	What do you think this has to do with us?
+109895	You knew the answer would be no.
+109896	You're wasting my time and yours. No.
+109897	You know my answer. No.
+109898	Yes, yes, hello and such. Now tell me, will you take on this assignment?
+109899	Welcome. I have an assignment for you, if you're interested.
+109900	Good, you're here. I have a job for you.
+109901	Yes, this is my home. Doesn't matter. This is about work.
+109902	Home office today. I have a job for you.
+109903	Come on in. So, interested in an assignment?
+109904	I won't stay long. Just need your decision on a possible joint project.
+109905	So this is where you got to. Interested in an assignment?
+109906	Glad I found you. I have a project for you.
+109907	Good, I found you. Listen, I have an assignment for you.
+109908	Glad I ran into you. Interested in a new project?
+109909	I'm just on my way back, but I wanted to offer you a project.
+109910	I see. The results-oriented type.
+109911	You do good work.
+109912	I see you realize time is money.
+109913	You don't waste any time. I like that.
+109914	It seems you value efficiency. So do I.
+109915	You did a very capable job.
+109916	Your project was a success. Excellent.
+109917	I see you have as little patience with fools as I have.
+109918	Failure was not part of our contract.
+109919	If I had wanted you to fail, I would have said so.
+109920	That was not what you were hired to do.
+109921	I know, I'm easy to look at. But fulfilling one's commitments is equally attractive.
+109922	The attention is flattering, but I'd prefer a status report.
+109923	Why are you here? How is your project coming along?
+109924	Good. I was going to call you for a status report.
+109925	Have you finished your assignment yet?
+109926	How is that project going? Almost done?
+109927	So, is your project done yet?
+109928	So, have you finished that project?
+109929	That's it.
+109930	Yes, that's the one.
+109931	From what I can see, that's it.
+109932	So you found it.
+109933	Good, you managed to locate it.
+109934	Exactly. That's the one.
+109935	That is the one specified, yes.
+109936	According to my information, that should be it.
+109937	Yes, there.
+109938	That is the correct location.
+109939	That is your destination.
+109940	Yes, that is the place I meant.
+109941	That is the target location, yes.
+109942	That is where you need to go.
+109943	Now you've found it, off you go.
+109944	Yes, that's the spot indicated.
+109945	Good execution. I hope you will take the subsequent operation just as seriously.
+109946	Well done. Now on to the next step.
+109947	That's the first part done. Time to follow it up.
+109948	A question of security. Your collaboration would be appreciated.
+109949	We have a security incident that requires your attention, if you are willing.
+109950	We have a problem requiring armed intervention. Interested?
+109951	This project is dangerous. Use of force may be required.
+109952	This job is dangerous. Go in armed and ready.
+109953	A quick, relentless, final solution. Exactly what we asked for.
+109954	That problem won't be cropping up again. Well done.
+109955	Brutally efficient. Perfect.
+109956	If this is your idea of the art of war, I'd prefer to stick with the original.
+109957	That was a waste of resources.
+109958	That was not what I hired you for.
+109959	Why not combine resources? Information like this would benefit both of us.
+109960	Always stay one step ahead of the competition. It seems we agree on that.
+109961	I thought I made it clear that this mission is all about intelligence? In both senses of the word.
+109962	We do not have to explain our actions to anyone.
+109963	It was necessary.
+109964	We couldn't allow one of our competitors to put the squeeze on us.
+109965	Rumor has it one of our competitors wants to bottleneck us on some vital goods.
+109966	Just buying to accommodate projected needs.
+109967	We do not want anyone to think we are hoarding.
+109968	These goods are now surplus.
+109969	We no longer need them and they are taking up storage space.
+109970	We need more storage capacity.
+109971	Other goods now have a higher priority.
+109972	Lei Sheng Electricity is the global energy leader. Solar energy is one of our mainstays, the sun never sets in space.
+109973	Lei Sheng stands poised on the threshold to space.
+109974	Space poses its own energy problems, and who is better suited to mastering them than Lei Sheng?
+109975	Lei Sheng Electricity is dedicated to offering mankind integrated energy solutions wherever it may go.
+109976	Lei Sheng Electricity will power the stars.
+109977	I am disappointed by your lack of insight.
+109978	I find your lack of faith… disturbing.
+109979	I do not understand you. You seem intelligent enough…
+109980	Obviously you do not comprehend the Lei Sheng vision.
+109981	I do not know why you fail to support Lei Sheng, but I will soon.
+109982	With your support, Lei Sheng will power mankind's voyage to the stars.
+109983	You should know I appreciate what you do for us.
+109984	Lei Sheng places great value on reliable partners such as yourself.
+109985	Lei Sheng greatly appreciates your support.
+109986	Your support means a great deal to Lei Sheng Electricity.
+109988	I'm certain you simply forgot to vote. There is still time to choose wisely.
+109989	Lei Sheng Electricity is the world leader in energy production.
+109990	At Lei Sheng, we harvest a wide variety of energy sources to ensure mankind has the energy it needs.
+109991	We have been going through some restructuring, which has led some to think we are losing ground. Nonsense.
+109992	Lei Sheng Electricity rose to become world leader by knowing what our customers want.
+109993	Knowing what customers want is the key to success. It's all about information.
+109994	Lei Sheng Electricity knows the energy market better than anyone. That is why we are the world leader.
+109995	Trying to keep pace with us is futile. Lei Sheng Electricity moves at the speed of light.
+109996	Lei Sheng Electricity is again on the rise.
+109997	Congratulations on your success. May you one day be as powerful as Lei Sheng.
+109998	You would be better advised to build your firm from a solid base instead of flitting about.
+109999	It seems your firm is doing well. Enjoy it while it lasts.
+110000	Do you really believe that working as a service provider will offer you the long-term security a large firm needs?
+110001	Savor success while it lasts.
+110002	Isn't success satisfying? We at Lei Sheng have savored it many times.
+110003	At Lei Sheng Electricity, we are all about focus. You could learn from that.
+110004	No need to be embarrassed. After all, Lei Sheng is a market leader.
+110005	Work hard, pay attention to your customers and one day you will enjoy the success Lei Sheng enjoys.
+110006	Trying to compete with a firm such as Lei Sheng is almost impossible, I know.
+110007	The difference between winners and losers is that winners never stop trying.
+110008	Your firm reminds me of Lei Sheng Electricity back in the beginning.
+110009	No one knows their customers like Lei Sheng Electricity. Another reason we are so successful.
+110010	If you wish to be as successful as Lei Sheng, then you must work, work, work.
+110011	Don't worry. The road to the top is a path of many steps taken one at a time.
+110012	Lei Sheng wasn't built in a day, either.
+110013	Once Lei Sheng is finished restructuring, everything will return to the natural order.
+110014	Congratulations on your first taste of success.
+110015	People always think I'm a cold fish. Apparently that's the treatment accorded those who separate their business and professional lives.
+110016	Our current system is efficient. The Big Five provide the core services while smaller firms fill in the gaps.
+110017	Colocar Depois
+110018	I appreciate people who get to the point, and quickly. Business isn't about mincing words, no matter how much Bharghava likes the sound of his own.
+110019	Don't think I can't see the vultures circling my company. The rest of the Big Five really believe we are just keeping up appearances. Times are tough, but this dry spell won't last forever and I intend to end it.
+110020	Our clients would be surprised how much you can tell by their electricity bill. We have to stay informed as to exactly which machines are straining our grid, after all. To calculate our input, of course.
+110021	If this keeps up, I'll have to cancel my tickets for the premiere, and I'm not letting that happen.
+110022	We have barely learned to run here on Earth and now we stumble into space.
+110023	It puzzles me that no one seems to realize that mastering a niche market is just as vital and challenging as being a global player.
+110024	I am always amazed by how many firms believe they can make it to the top without the proper intelligence.
+110025	Our world is full of small fish who all believe they are sharks. Sad, but amusing.
+110026	I love my job. Gathering intelligence and sorting it, arranging it, has a wonderful geometric beauty, like crystal lattices of pure information.
+110027	People often compare me to the captain in those vintage scifi movies. My job has fewer aliens and more calculations, though.
+110028	Proper work-life balance is such a trite phrase, no one else takes it seriously. But if I were to take all that stress with me when I go home... no thanks.
+110029	Capitalism is competition. Alliances are formed for the hunt but, in the end, everyone wants the biggest piece of the prey.
+110030	Most people tend to act without sufficient forethought. I will never understand that.
+115347	Your presence is required at our project site.
+115348	Now, shall we continue?
+115349	Reporting on the project. There is much for you to do.
+115350	Just one minute. I have something to propose to you.
+115351	Don't let my reserved manner discourage you. I do wish to cooperate.
+115352	I've been informed that you are currently in this sector. Please meet me.
+114547	Yes, technically this is an unannounced intrusion into your territory. But before you report me, listen to my offer.
+114548	A short while ago this was only ruins, but that's water over the dam now. Water that provides energy.
+114549	Once, Lei Sheng pursued the construction of a hydroelectric power station here.
+114550	The stations were based on designs taken over from the bankrupt corporation Global Trust. But the project was aborted, after the dams... became inoperable.
+114551	But if you join forces with Lei Sheng we could rebuild the dams. And half of the energy produced would be yours. Do I have your attention?
+114552	Good. The first dam is fully functional. But we won't be satisfied with one, am I correct? I will contact you once everything is ready.
+114553	Impressive! Only one dam left. Let me take care of the necessary paperwork. You'll hear from me once we can continue.
+114554	All is running smoothly. I'm not easily impressed, but I certainly should keep an eye on you!
+114531	You know, before you were assigned Fairwater Coast, Lei Sheng pursued a construction project for hydroelectric power stations here.
+114532	The stations were based on designs Lei Sheng took over from its bankrupt rival Global Trust. But the project was dismissed after... incidents made the dams inoperable.
+114533	If we would join forces, we could bring the dam building to a conclusion. And half of the produced energy would be entitled to your corporation. Do I have your attention now?
+114534	There it is. Our first dam, standing tall and operating smoothly. But we won't settle for one, right?
+114544	The second dam is completed. I must say, you are driving our project forward.
+114535	Look at this facility! I'm not known to praise people. But one thing I learned during our shared project: I have to keep an eye on you!
+114530	Dammed water is a source of energy.
+115074	May Tian. Head of Intelligence for Lei Sheng. Just don't hit me with any of that "Lei Sheng is a dying energy firm" nonsense and we'll get along just fine.
+115887	I'm not good at this. Look, I'm impressed. Is that enough?
+110237	Noteworthy.
+110238	A satisfactory solution.
+110239	Good enough, I suppose.
+110240	That will do fine.
+110241	Good enough for me.
+110242	It works, and that's all that matters.
+110243	So the situation has been resolved. Good.
+110244	That's done, then. So, on to the next item on the agenda.
+110245	One less distraction. Good.
+110246	That's one problem fewer. Lovely.
+110247	That can only be beneficial for us.
+110248	So that won't be causing us any problems, then.
+110249	Good. Now I won't have to waste any more time on that.
+110250	You have not disappointed us.
+110251	Very efficient job you did there.
+110252	You took care of that quickly. I like that.
+110253	That was fast. Finally, someone who understands that time is money.
+110254	Excellent work. You seem to know what business is all about.
+110255	You did well. Problems are simply a waste of money and resources.
+110256	That is how you do business. Well done.
+110257	You work with admirable efficiency.
+110258	See the problem, solve the problem. You are a good business partner.
+110259	You found a solution with a minimum investment of time. Well done.
+110260	Unfortunate. But also unavoidable.
+110261	These things happen. Unfortunately.
+110262	That did not turn out the way we wanted.
+110263	I think we all wanted a better outcome, but we don't always get what we want.
+110264	That will have a negative impact on the market.
+110265	It is what it is.
+110266	Not the worst case scenario, but not good.
+110267	I think we all know that could have gone much better.
+110268	A very poor showing.
+110269	What can I say? That was bad.
+110270	You see me irritated.
+110271	I am not amused.
+110272	Are you out to deliberately destabilize the market?
+110273	Your actions are affecting the market. I suggest you do better next time.
+110274	Your actions make no financial sense whatsoever.
+110275	You might want to rethink your modus operandi.
+110276	Either you know nothing about business, or you have something you need to work out.
+110277	That was of no benefit to anyone. Why'd you waste your time?
+110278	There is no profit in what you did.
+110279	What you did was a total write-off.
+110280	Greetings. Please, speak your mind.
+110281	Welcome. I assume we have business to discuss?
+110282	Hello. You wished to speak with me?
+110283	Good to see you. So, what's on your mind?
+110284	So nice of you to drop in. What can I do for you?
+110285	Welcome. What was it you wanted to discuss?
+110286	Please, come in. So, what did you want to see me about?
+110287	Greetings. So, you wanted to talk with me. Please, go ahead.
+110288	Hello. I understand you wished to speak with me. Please, feel free.
+110289	Good of you to come by the office. What can I do for you?
+110290	We will do our part.
+110291	Very well. Count us in.
+110292	The projections look good. It's a deal.
+110293	Fine, consider us onboard.
+110294	We're in.
+110295	Agreed. I hope you will return the favor, at some point.
+110296	Fine, I can approve your request. One hand washes the other.
+110297	Very well. I am sure this will prove mutually beneficial.
+110298	I was able to have your request approved.
+110299	Certainly. Your request is sound business.
+110300	I will have to refuse, thank you.
+110301	I'm afraid I must refuse. I'm sorry.
+110302	No, that is a request I cannot grant.
+110303	It is unfortunate, I know, but the answer is no.
+110304	Please understand, but I'm afraid I must say no.
+110305	I hope you do not expect a positive answer.
+110306	I am afraid I must refuse your request.
+110307	Unfortunately, I cannot grant your request at this time.
+110308	If you had wanted a positive answer, you would have prepared yourself better.
+110309	I am certain that you knew I would not be able to grant your request.
+110310	Have a seat please. We have to discuss your possible participation in this undertaking.
+110311	Thank you for coming by. I have a business proposition for you.
+110312	Good to see you. I have an assignment that I think might interest you.
+110313	Hello. Please, have a seat. I have an assignment I think you might like.
+110314	Look, I'll just cut to the chase. I have a project I think you'd be perfect for.
+110315	Glad you're here. I could use someone competent for an assignment I have.
+110316	I had hoped to find you here. And now I hope you will agree to take part in a little project.
+110317	The fact that I left the office should indicate how important this assignment is.
+110318	I was told I'd find you here. I have an assignment I'd like you to consider.
+110319	Good, You're here. Then the trip was worth it. Interested in a little project?
+110320	How serendipitous. I need someone reliable for an assignment, and here you are.
+110321	Just the one I'd hoped to find. I have a project that promises to be mutually rewarding.
+110322	All obligations were met, it seems.
+110323	Excellent, you fulfilled the mission.
+110324	You completed that assignment in an exemplary manner.
+110325	Fast and efficient. That's the way to do business.
+110326	I like the way you do business.
+110327	A quick, efficient solution. I'll call you again when I need someone reliable.
+110328	You did well. I think we should consider preferred partner status for you.
+110329	Excellent work. I'll be sure to recommend you.
+110330	I will have to reconsider the terms of our partnership.
+110331	I do not hire people to deliver this kind of result.

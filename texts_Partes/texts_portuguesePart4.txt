@@ -1,0 +1,316 @@
+116403	[NOTIFICATION_CHARACTER_NAME] worries about potential instability.
+116404	An enraged [NOTIFICATION_CHARACTER_NAME] withdraws his support for the project.
+116405	[NOTIFICATION_CHARACTER_NAME] is alive, but shaken.
+117301	Project stage 1 completed
+117302	First channel laid out
+117303	Logistic bonus in this sector activated
+117304	Project stage 2 completed
+117305	Second channel laid out
+117306	Logistic bonus in this sector improved
+117307	Project stage 3 completed
+117308	Third channel laid out
+117309	[GUIDNAME 117306]
+114738	"Before we start constructing our first channel, you'll have to examine a few cracks in the ice plain. It won't do to set up the site and find out the layer is impassable."
+114739	"Dr. Young's concerns are exaggerated. Let's not get distracted. Construction of the Icebreakers requires a stable supply of materials."
+114740	"I'm pleased to report the teams are ready to be brought to the site. They are eager to get this project off the ground. It will bring life to this desolate place."
+114741	"You'd think all Custodians would appreciate the economic growth this project brings. Make sure there are enough helping hands."
+114742	"I've received reports of fractures in the ice. We'll need to construct a mesh that will stop ice floes from breaking off into the channel. Would you deliver the materials?"
+114743	"We have no choice but to detonate an iceberg for our second channel or the ice will be impassable. I'm sending the coordinates."
+114744	"Fair enough. Losing the Custodian's support is certainly a setback at such a critical point. But still. Make sure our icebreakers' energy supply is taken care of."
+114746	"Respond immediately! A ship has been sunk by a stray floe at the third channel site. The survivors barely made it into the lifeboats, we don't... we don't know how many didn't make it."
+114747	"Do you have enough Stimulants? The survivors need strength! I knew the endeavour was risky, but I thought it was worth it. But how can sacrificing lives be worth it?"
+114748	"I was too hasty... I should never have forced the shortest way through. No more risks. Make sure the icebreakers are equipped with diamond coating."
+117748	"Before we start constructing our first channel, you'll have to examine a few cracks in the ice plain. We want to rule out the layer is impassable."
+117749	"Dr. Young's concerns are exaggerated. Let's not get distracted, we need enough scientists to finalize our calculations and prepare teams."
+117750	"I'm pleased to report the teams are ready to be brought to the site. They are eager to get this project off the ground, it will bring life to this desolate place."
+117751	"A stable energy supply is tricky to establish here. Make sure it doesn't fluctuate during our final calibrations. Oh, didn't I mention we'd be using explosives?"
+117752	"Now move the team to a safe distance. And don't worry about the Custodians, this procedure adheres to the strictest of regulations. I will assuage them."
+117753	"Fast and effective, my favorite work ethics. The honor of pushing the button is all yours."
+117754	"We've been warned about the next location. We've also been warned to secure the protected wildlife. Let's show our goodwill."
+117755	"We cannot proceed with stationary explosives, the terrain is too hard to navigate. But why not use what we already have, such as mobile firepower."
+117756	"Fair enough. The Custodian's support has been lip service anyhow. Our plan's next step is the construction of a high-pressure ice drill."
+117757	"This drill will break through the plain and provide pockets to place the proper detonators. Of course it has to be operated by capable hands."
+117758	"The ice is a lot sturdier than expected. Well, perseverance is what separates the wheat from the chaff. Fuel the drill and we'll be through in no time."
+117759	"The explosive charges have been placed, but the team still is on site. The evacuation radius is a vague number, but I'm sure all will be well."
+117760	"Your work has been outstanding, I'm looking forward to this project's future. And now to the main attraction."
+117761	"Respond immediately! An icebreaker sunk trying to break open a channel! The survivors barely made it onto lifeboats, we... we don't know how many didn't."
+117762	"We need to bring them to someplace warm! I knew this method was risky, but I thought it was worth it. But how can sacrificing lives be worth it?"
+117763	"I was too hasty... I should never have forced the shortest way through. Retrieve the icebreaker parts or the site won't be safe to approach."
+117764	"I'm done with risks. I've personally ordered the development of a method that can be easily controlled. And our brightest minds will build it."
+117765	"No more brute force. We'll be melting the explosives into the ice. The placement has been calculated thoroughly. Please escort the team to place them."
+117766	"Of course it's operation won't come without a high demand in energy. But there'll be no excess heat - only efficient heat."
+117768	"The team is finished setting up. They should be brought to a safe distance for an operation of this size. My company will be retrieving the waste later."
+117770	"The perimeter has been secured. Just say the word. Or press the button, so to say."
+109045	"I expected to see you here. Let me explain my case: Saayman International hopes to expand the arctic's food supply network, in partnership with you."
+115263	Reach a Corporation Level of 12 to continue the ice-breaking process.
+115264	Reach a Corporation Level of 24 to continue the ice-breaking process.
+114922	"These channels are a beacon for trade in the arctic. It's my duty to make certain they stay safe. You helped us in our hour of need, I will not forget that."
+120054	Break through a floating glacial sheet to create a new transport route.
+114838	[NOTIFICATION_CHARACTER_NAME] holds out for more refugees to arive.
+114839	[NOTIFICATION_CHARACTER_NAME] is grateful you helped so many people stay alive, promissing to spread the word.
+114840	[NOTIFICATION_CHARACTER_NAME] is grateful you gave the refugees a safe home and a new perspective.
+119923	<font [MINIMAPDOT_COLOR 2001947]>+200 Workforce</font> in this sector
+120383	<font [MINIMAPDOT_COLOR 2001947]>+400 Workforce</font> in this sector
+120384	<font [MINIMAPDOT_COLOR 2001947]>+800 Workforce</font> in this sector
+117862	A desperate [NOTIFICATION_CHARACTER_NAME] approaches you for help.
+117863	In her desperation, [NOTIFICATION_CHARACTER_NAME] tells you she and her charges are being hunted by the Orbital Watch.
+117864	[NOTIFICATION_CHARACTER_NAME] informs you just how life-threatening the situation on former LEC territory is.
+117865	[NOTIFICATION_CHARACTER_NAME] has no other choice than to ask you to accept refugees in your settlement.
+117866	[NOTIFICATION_CHARACTER_NAME] has an ear to the ground for any new refugees.
+117867	[NOTIFICATION_CHARACTER_NAME] is expecting more refugees sometime soon.
+117868	[NOTIFICATION_CHARACTER_NAME] promises the refugees will help out where they can.
+120367	[NOTIFICATION_CHARACTER_NAME] voices his intent to oppose the refugee camp.
+120368	[NOTIFICATION_CHARACTER_NAME] is enraged, that Virgil Drake has placed landmines all around the camp.
+120371	[NOTIFICATION_CHARACTER_NAME] thanks you for taking him to the camp.
+120369	[NOTIFICATION_CHARACTER_NAME] is happy to receive new refugees...
+120375	[NOTIFICATION_CHARACTER_NAME] is beside herself, as Orbital Watch spies have poisoned the supplies.
+120377	Grudgingly, [NOTIFICATION_CHARACTER_NAME] admits his plan has failed.
+117310	Project stage 1 completed
+117311	Refugee camp established
+117312	Workforce bonus in this sector activated
+117313	Project stage 2 completed
+117314	Refugee camp expanded
+117315	Workforce output in the sector increased
+117316	Project stage 3 completed
+117317	Refugee camp secured
+117318	[GUIDNAME 117315]
+114749	"The people flee in whatever vehicles they can muster. Many drive around aimlessly until their oxygen reserves run out. I know some of them made it to this sector. Please, take them in."
+114750	"I've sent out a signal on all the unmonitored frequences. More refugees will come. But I doubt their vehicles will make it all the way. If we only had some transporters to pick them up."
+114751	"One of my spies at the Orbital Watch HQ put her neck on the line to divert a shuttle. It'll drop dwelling units for the refugees here. She can't risk doing that again, so we have to retrieve them now."
+114752	"Oh, heck! Those dwelling units didn't take the drop well... Most are just a pile of junk now. Do you have some spare metal, so we can make them at least habitable?"
+114753	"We've settled the refugees in the dwelling units. I have to rely on you for their food supply. Any food will be fine, as long as it's rich and nourishing."
+114754	"What... What kind of monster would order something like that done! Virgil Drake... he had the whole area mined! Some refugees have already... No, we won't allow that to happen again!"
+114755	"Good thing you cleared the way. There's another refugee convoy approaching this sector. It contains more asylum seekers than I planned for. We'll have to watch our food supplies."
+114756	"Orbital Watch scum! They attacked the refugee convoy! The survivors are going to continue on foot. They won't survive long! We have to collect them, quick!"
+114757	"Damn that Virgil Drake! The man is evil incarnate! A new refugee convoy just arrived. It's people say Drake's henchmen hunted them like animals! But we can give them sanctuary!"
+114758	"Should've smelled them, the rats! There were Orbital Watch agents among the newcomers! They put highly contagious pathogens into our water tanks! We need medical staff on-site, now!"
+114759	"Our doctors have made an initial diagnosis! A modified influenza virus, highly contagious. I bet Drake planned on us having no way of getting the needed medication! But we have you."
+118272	"The persecutees flee in whatever vehicles they can muster. Many drive around aimlessly, until their oxygen reserves fail them. But some of them made it."
+118273	"I've sent a signal on all non-surveilled frequences. More refugees will come. Their vehicles won't carry them all the way here. We must provide transporters."
+118274	"One of my spies at an Orbital Watch colony managed to divert a shuttle, dropping dwelling units for the refugees. She can't risk to do that again, so retrieve them now."
+118275	"Oh, heck! Those dwelling units didn't take the drop well... Do you have some spare metal, so we can make them habitable again?"
+118276	"Everyone's quartered in the dwelling units. I have to rely on you for the food supply, though. Whatever food will be fine, as long as it's rich and nourishing."
+118277	"What horrible person would command such a thing! Virgil Drake had the whole area mined! Some refugees already... No, we will not allow that to happen again!"
+118278	"Good you've cleared the way. There's another refugee trek approaching this sector, with more people than I calculated for. We'll have to ration our food."
+118279	"The oxygen tanks! Orbital Watch rats, they don't even stop at our very basis of existence! And we can't just ration breathing air, too."
+118280	"Our growing numbers proof how many people suffer from Drake's atrocities. And they also mean we have more life support systems to power."
+118281	"Drake's men do everything to keep the refugees from coming here. Now they use jamming drones, causing the vehicles to break down, leaving the refugees inside for death! Quick!"
+118282	"A transmission from a new refugee convoy. They say Drake's henchmen have hunted them like animals! But we can bring them to safety!"
+118283	"Should've smelled the rats! There were Orbital Watch agents among the newcomers! They've put toxic agents in our oxygen systems! We need medical staff on-site!"
+118284	"Those rats, they are using the chaos to get back to Drake! A buggy was reported missing just now, you can still find them! And then you can leave them to me."
+118286	"We won't so careless again, I won't be. Drake and his lickspits stop at nothing. Our people need trained security to protect them!"
+118285	"Our doctors have examined the toxins! An unusual chlorine compound, highly reactive. I bet Drake planned for us having no way treat it. But we have you."
+109046	"Oh, finally… Listen, we... we just don't know where else to go. Don't send us away! There are lives at stake. We'll repay you, I promise."
+114923	"All those people would be dead now, if it wasn't for you. We'll do our best to pay you back! I promise, everyone here will pitch in to help."
+115318	Reach Corporation Level of 15 to provide shelter for more refugees.
+115319	Reach Corporation Level of 30 to provide shelter for more refugees.
+120055	Provide shelter for refugees of the lunar conflict to earn helping hands.
+114852	[NOTIFICATION_CHARACTER_NAME] is awed by the project's success. He'll get back to you.
+114853	[NOTIFICATION_CHARACTER_NAME] will inform you if the project is to be continued.
+114854	[NOTIFICATION_CHARACTER_NAME] thanks you profusely, but has to return to duty.
+114855	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+114856	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+114857	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+114858	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+114859	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+114860	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+114861	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+118287	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+118288	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+118289	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+114862	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+114863	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+114864	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+118290	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+118291	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+114865	<font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+119924	<font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
+116387	[NOTIFICATION_CHARACTER_NAME] approaches you about an endeavour.
+116388	[NOTIFICATION_CHARACTER_NAME] proposes a joint project to extract minerals out of meteors.
+116389	[NOTIFICATION_CHARACTER_NAME] believes meteoric resources are scientifically and economically important.
+116390	[NOTIFICATION_CHARACTER_NAME] looks forward to your cooperation in this prestigious venture.
+116391	[NOTIFICATION_CHARACTER_NAME] is currently unavailable, but will contact you.
+116392	[NOTIFICATION_CHARACTER_NAME] is waiting for clearance and asks that you wait.
+116393	[NOTIFICATION_CHARACTER_NAME] is proud of the mining project's significance.
+117319	Project stage 1 completed
+117320	Mining site at first meteor established
+117321	Magnetite generator activated
+117322	Project stage 2 completed
+117323	Mining site at second meteor established
+117324	[GUIDNAME 117321]
+117325	Project stage 3 completed
+117326	Mining site at third meteor established
+117327	[GUIDNAME 117321]
+114760	"Before we proceed to drill into the meteors, we must first determine what exactly we'll be drilling for. Could you perhaps locate some meteor samples for us?"
+114761	"You know, technically they're not meteors, but meteoroids since... Oh! Pardon me. You'll have to provide housing for some meteor scientists, who'll analyze our findings."
+114762	"The analysis is in! And the minerals in there will have every earth mine turning green with envy. Of course, we'll still have to break open our meteor. I'll leave that to you."
+114763	"My superior commends our progress. She's confident this will prove that mining is a long-lasting business. Speaking of which, we'll need titanium to supply our miners with tools."
+114764	"Cassian Industries is planning great things at the moment. It would be much appreciated if you'd take care of the delivery without me while I'm in a meeting."
+114765	"Can I trust you to keep this confidential? Cassian Industries decided to pursue the idea of a second mine, but we've lost contact with our expedition team. Please, retrieve them!"
+114766	"The team is suffering from radiation sickness and my superior is beside herself! If we don't have to transfer the patients, we'd be happy to recompense you for treatment."
+114767	"My superior is placating the merge part- I mean, the media. But there's still the aftermath. The expedition came across radioactive waste, please clear it out."
+114768	"My proposal for a minimally staffed, automatic mine has been approved! And I was appointed executive in charge. You'll help me escort the drilling equipment, won't you?"
+114769	"The drill is still an experimental prototype and it's burning through our energy supply! My superior is not responding, so please help me!"
+114770	"I've just received reports of the drill overheating and threatening to malfunction! What do we do now? Do you have anything that could help, anything at all?"
+118292	"Before we can drill into the meteors, we'll first have to determine what exactly we'll be drilling for. Could you locate meteor samples for us?"
+118293	"You know, technically they're not meteors, but meteoroids since... Oh! Pardon me. You'll have to accomodate meteoritic scientists, who'll analyze our findings."
+118294	"The analysis is in! And the minerals in there will have every earth mine go green with envy. Of course, we'll still have to break open our meteor. I leave it to you."
+118295	"My superior commends our progress. She's confident this will prove that mining is a long-lasting business. Speaking of which, we'll need titanium for the mining tools."
+118296	"Cassian Industries is planning great things at the moment. It would be much appreciated if you'd take care of the delivery while I'm in a meeting."
+118297	"Can I trust you to be confidential? Cassian Industries decided to pursue a second mining, but we've lost contact to our expedition team. Please, retrieve them!"
+118298	"The team is suffering from radiation sickness, my superior is beside herself! If we don't have to transfer the patients, we'd be happy to recompense you."
+118299	"My superior is placating the merge part... I mean, the media. We'll have to outfit our next team with all they need to brave the radioactive conditions in there."
+118300	"A well-paying job with a full coverage insurance. My superior is certain there will be a crowd of aspirants for our second team! But... you could help things along, yes?"
+118301	"Weathering this scandal hasn't been easy. The press has jumped at the radioactive waste at the site. Please clear it out thoroughly."
+118302	"We barely managed to fill all positions. My superior wants us to go ahead with escorting the new excavation team. I'm sure it will be fine."
+118303	"My proposal was approved. A minimally staffed, automatic mine. And... I myself am fully responsible for it. I hope you're still helping me with the drilling equipment?"
+118304	"This time we need a crew to remote-control the drill. The risks are much lower this way, and the job is more attractive. I do hope so, at the very least..."
+118305	"I've just received reports of the drill overheating and threatening to break down! What do we do now? Do you have anything that could help, anything at all?"
+118306	"The drill is still an experimental prototype and it's burning through our energy supply! My superior is not responding. Please, help me this once!"
+118307	"I have a proposal. A diamond-coated drill head will reduce the power expenses substantially. I couldn't confirm this with my superior... but it will work! It has to!"
+109047	"A pleasure to see you. I have a proposal for you from Cassian Industries: How do you feel about making use of the stuff stars are made of?"
+114924	"For a time I feared my superior would be correct about the project being utopian. Instead, I have been given more tasks like these."
+115320	Reach Corporation Level of 15 to start the second meteor exploitation.
+115321	Reach Corporation Level of 30 to start the third meteor exploitation.
+120056	Extract rare materials from meteor impacts on the Moon's surface.
+114866	[NOTIFICATION_CHARACTER_NAME] thinks it's the right time to lean back and let everything develop.
+114867	[NOTIFICATION_CHARACTER_NAME] is satisfied with the publicity and plans for the next hotel event.
+114868	[NOTIFICATION_CHARACTER_NAME] withdraws from the project, having gathered all informations she needed.
+115328	The [NOTIFICATION_CHARACTER_NAME] announces the first guests are already on their way.
+115329	[NOTIFICATION_CHARACTER_NAME] is delighted to see things going so well.
+115330	[NOTIFICATION_CHARACTER_NAME] mentions she might have added vision recorders to the androids' functionalities.
+115331	[NOTIFICATION_CHARACTER_NAME] is happy to see some of his business partners on the guestlist.
+120396	[NOTIFICATION_CHARACTER_NAME] hopes to secretly discuss business with his partners tonight, in private.
+114869	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003167] Ornamental</font>
+114870	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003167] Ornamental</font>
+114871	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003167] Ornamental</font>
+114872	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003167] Ornamental</font>
+114873	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003167] Ornamental</font>
+114874	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003168] Ornamental</font>
+114875	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003168] Ornamental</font>
+118311	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003168] Ornamental</font>
+118312	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003168] Ornamental</font>
+114876	NO LOCAUnlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003168] Ornamental</font>
+114877	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003169] Ornamental</font>
+114878	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003169] Ornamental</font>
+118313	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003169] Ornamental</font>
+118314	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003169] Ornamental</font>
+118315	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003169] Ornamental</font>
+114879	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003169] Ornamental</font>
+119925	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003167]</font> Ornament & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002165]</font> Setting
+119926	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003168]</font> Ornament & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002166]</font> Setting
+119927	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003169]</font> Ornament & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002167]</font> Setting
+115332	[NOTIFICATION_CHARACTER_NAME] is happy to be among the first guests at your newly opened hotel.
+115333	[NOTIFICATION_CHARACTER_NAME] feared he would die out there and so poured out his woes to other passengers.
+120401	[THIRDPARTY_NAME] comments on the exposure and the clientel of the hotel.
+120405	[THIRDPARTY_NAME] natters about the oddities she experienced during the trip.
+117869	The [NOTIFICATION_CHARACTER_NAME] has a proposal, but you'll have to accept before she tells you.
+117870	The [NOTIFICATION_CHARACTER_NAME] promises not to bother you until problems spring up.
+117871	The [NOTIFICATION_CHARACTER_NAME] is contemplating the next big thing.
+117872	[NOTIFICATION_CHARACTER_NAME] seems not to be interested in finances. Information, however...
+117875	[NOTIFICATION_CHARACTER_NAME] explains this site dates back to the First Wave of Moon colonization.
+117876	[NOTIFICATION_CHARACTER_NAME] reveals it was planned as a tourist area before it was abandoned.
+117877	[NOTIFICATION_CHARACTER_NAME] has plans with this site and wants you to revive the project.
+117328	Project stage 1 completed
+117329	Crater hotel finished
+117330	[GUIDNAME 1003167] & [GUIDNAME 2002165] unlocked
+117331	Project stage 2 completed
+117332	War tours established
+117333	[GUIDNAME 1003168] & [GUIDNAME 2002166] unlocked
+117334	Project stage 3 completed
+117335	Opening celebration started
+117336	[GUIDNAME 1003169] & [GUIDNAME 2002167] unlocked
+114771	"The hotel was near completion when the owner got hit by a sudden case of accident. But the facade could use a little grandeur, don't you think? Fancy bait for golden fish."
+114772	"Our future guests have extraordinary taste. Our service personnel must be able to read their every wish from their eyes... and not only that. Provide me some human resources to work with here, okay?"
+114773	"We haven't even opened! And they're already flaming us about the view on the hotel rating plattforms. We better get rid of the old worker barracks at the site."
+114774	"Demolishing the worker barracks wasn't enough. Now they're screaming about wanting the 'real lunar life'. Let's just cater to their romantic ideas, okay. Give them a big, authentic lunar city."
+114775	"And here they are, our first visitors! Please, give them a fitting reception. And make sure our special guest gets the special treatment."
+114776	"Our hotel's ratings are dropping. Our guests are complaining about the lack of unique, extreme experiences. Why not give them a show? Fire them up a little."
+114777	"Give them a war and they'll perk up. The adrenaline junkies among our guests are dying to take a tour through the lunar civil war sites. Let's grant them their suicidal little wish. Just provide some bio-enhanced space suits for them."
+114778	"The civil war tour is quite popular, but we should've used more reliable vehicles. Some broke down, so we had to drag them back here. All those hours trapped in a steel box. Makes our guests talkative, I'm sure."
+114779	"I've planned a big anniversary event. It'll put our hotel on everyone's lips. But to handle that we are gonna have to ramp up our staff with Androids. Any extra hands and eyes are welcome."
+114780	"Already made sure exclusive invitations find their way to our special guests. I've set up a menu that'll tickle their palates. Let's make sure that we have enough food to deliver it."
+114781	"Check! Didn't have all that super-rare meat foodstuff on my radar. I'm not into steak and wine or whatever it's called. But only the best for our guests. Fly the stuff in."
+118316	"The hotel was near completion, when the owner was struck by a sudden case of smashup. Only the facade could use a little grandiosity. Fancy bait catches golden fish."
+118317	"Our future guests have extraordinary tastes. Our service staff has to read their every wishes from their eyes. Provide me some human ressources to work with here, okay?"
+118318	"Without shield generators we won't get far. A few meteor hits and we can kiss this hotel goodbye. We better get to building the generators now."
+118319	"We have the first bookings and the pre-orderers already cry for the 'real lunar life.' Let's cater to these romantic ideas. Give them a big, authentic lunar city."
+118320	"And here they are, our first visitors! Please, give them a fitting reception. And make sure our special guest gets the special treatment."
+118321	"Our hotel's ratings are dropping. The guests whine about the lack of unique, extreme experiences. Already have an idea, but we need navigation systems for that."
+118322	"Now available: Tours through the lunar civil war sites! The adrenaline junkies among our guests will approve. Just provide some bio-enhanced space suits for them."
+118323	"We don't have them go to actual warzones of course. Doesn't mean this never was one, though. Just demonstrate what the forgotten landmines around here are capable of."
+118324	"Give them a war and the spirits rise, huh? They're almost out for blood now. And we have a substitute. Robots demolishing robots should be an a-ok, ethically. Sort of."
+118325	"The civil war tour is quite popular. But it seems our vehicles had a... malfunctioning. All those hours trapped in a steel box. Makes our guests talkative, I'm sure."
+118326	"I've planned for a big anniversary event. That'll make our hotel a talking point. Means we gotta ramp up our staff with Androids."
+118327	"Already made sure exclusive invitations find their way to our special guests. I've set up a menu that'll tickle their palates. Make sure we'll have enough food."
+118328	"Didn't have all the super-rare meat foodstuff on my radar. I'm not into steak and wine or what it's called. But only the best for our guests. Fly the stuff in."
+118329	"Wow, these people are really digging in. Keep them steaks coming or there'll be customer complaints. I just wonder, what's so great about meat?"
+118330	"Let's get to the highlight - a buffet in zero gravity. Don't worry, we won't be paying those laundry bills. But we will be setting a trend, trust me."
+118331	"Okay, our glamourized bouncing castle needs more juice than I thought. Having the high-society fall on their backsides would disturb their animated conversations."
+109048	"What to do with this old ruin? Well, I have an idea. Of course, no 'satisfaction guaranteed or your money back'! And you'd have to invest a lot before it pays off!"
+114925	You may keep all the profits for yourself. I'm totally fine with my role as silent observer.
+115322	Reach Corporation Level of 15 to begin the second hotel expansion.
+115323	Reach Corporation Level of 30 to begin the third hotel expansion.
+120057	Create and supply the biggest tourist attraction in outer space.
+108452	"Just one slip of the pen on the form and boom, the suppliers scatter your goods all over the place!"
+108453	"Stiffin' ol' Nic on the bills! Bring those bums to me and you can have the... reminder fee."
+108454	"Let's just say it's a... special bottle message, with contents very dear to me."
+108617	"An early cargo drop! Thought we'd save some time and try a cheaper shipping method."
+108462	"The supply firm let me down here. But I know you wouldn't let ol' Nic down!"
+108463	"When they asked me about a good, reliable supplier who asks no questions... guess whom I recommended."
+108466	"Mutinary! Thankless bunch! But I'm reasonable... Drag them here and we'll talk about raises. My way."
+108467	"Has Big Five written all over it! But Nic always delivers! Or his good friends..."
+108470	"Thought ol' Nic wouldn't see it coming! The cargo hold is full of... unstable substances. Let's spring the trap!"
+108471	"Look, didn't mean no harm, when I told him you're behind the loss. But he seems... displeased."
+108474	"So many ships lost to today's violence. Would be a waste, if their packages remained unplunder... err, undelivered."
+108475	"Just threw my crates overboard! For some bad checks! Ah, good thing I got me some of those fancy tracking devices."
+108456	"It's... it's practically mine. The paperwork is... is just a little behind. Collect it, it'll be fine."
+108460	"Release is in a few weeks. But one of my customers is on pins and needles, know what I mean?"
+108618	"There're things you just shouldn't steal. Someone's gonna learn that lesson today."
+108464	"Sent those goods over and over. Confiscated every time. But with your label on them, maybe… just maybe…"
+108465	"I know, the reek... It's... ugh, just make sure it's delivered. The receiver will get the message."
+108468	"Why do those Union agents always target my ships. Got nothin' to hide... say, how discreet are you?"
+108469	"Not stolen... found it! And found a customer for it! But it seems someone misses it really badly."
+108472	"If she blows the whistle, I'd be forced to publish all my business relations. You wouldn't want that."
+108473	"Bah, postage free delivery! Let's hope this new start-up isn't caught in a series of... unfortunate events."
+121241	"So my clients decided to show up unannounced and in a bad mood. Think you can help getting their stuff to them?"
+121243	"The Big Five have been getting awfully competitive lately... Let's intercept some deliveries, they'll be busy blaming each other."
+108626	"Really, a trading partner! Came all the way out here! But err... can you pick them up while I prepare the documents?"
+108627	"Oh no... seems I lost that shipment! But if I request a retrieval team everyone will know I screwed up!"
+108628	"Express delivery. Said I didn't care where they drop off, as long as they do it quickly... well."
+108629	"Man, of all things the raiders picked my freighter! The crew got out okay, but we gotta salvage what's left of the cargo."
+108630	"Man, the Union cut the supplies for the Arctic Protection Fund again. Could you pitch in just this once?"
+108631	"I need to get on this customer's good side. The how-to guides say stuff about free giveaways. Worth a try."
+108632	"Oops, that transporter should've made it here. That's what the Custodians get for being so damn stingy about everything."
+108633	"A distress signal! Yeah, it comes from a poacher ship. But, we can't just leave those people strained, right?"
+108634	"I'm not a friend of violence, but the Custodian orders are. No raider ships allowed here. Say, could you..."
+108635	"Yo, I'm not making that up! There's a whole fleet of them in this sector! And still, no one believes me!"
+108636	"I'm supposed to check on a data cache for Dr. Meticulous, but I don't even know where to start!"
+108637	"My fellow Custodians said it's way important. Only someone reliable like I could do it. But I need help."
+108638	"Wanted to install some anti-theft trackers, but the raiders beat us to the punch. In all senses of the word."
+108639	"A fellow roped me into testing his new detection system. Got loads to do, but how could I say no?"
+108640	"Nah, only heard good things about this trader. He forgot to provide some info in the papers, but that can happen to anybody."
+108641	"Having them owe us is definitely gonna pay off for the Custodians, and boy do we need that."
+108642	"I told him not to go. Now a friend of mine is stuck in hostile waters. I'd appreciate if you kept this to yourself, 'kay?"
+108643	"Yo, those polluters, they've directly run into our trap. Why won't the Big Five leave us in peace?"
+108644	"Why isn't the Global Union doing anything about these pirate threats? Sometimes I wonder if they've forgotten about us."
+108645	"No kiddin', fellow Custodians doing business with poachers! Know where they are, but you have to keep a low profile."
+121244	"You got a minute? I'm kind of stressing out about these deliveries, I just can't figure out how to organize this!"
+121245	"The poaching is getting out of hand! I just can't catch those bastards, they've got surveillance and keep switching locations."
+108647	"One of our agents needs a get-away, stat. Can I trust you with her safety?"
+108648	"My contacts dropped off some supplies. They couldn't risk sending the coordinates, but we've got the general area."
+108649	"Had to abandon medicine supplies to get away from Orbital Watch hellhounds. But, I need those here, asap!"
+108650	"I've discovered a great place to restock. Had nearby agents dig up LEC caches, but they still need to be picked up."
+108651	"More refugees just arrived and we're missing basically everything. A small donation would be great."
+108652	"My Orbital Watch contact must replace the shipment she has sent us or she's in deep shit. We're not letting her down, right?"
+108654	"One of our rovers is acting up again. If you get it here somehow, we'll fix it on our own."
+108655	"Damn, their life support systems! No time to lose! We have to get to this fugitive rover now!"
+108656	"An intact, abandoned vehicle? There? Clearly a Orbital Watch trap, I'm not falling for."
+108657	"I need a good diversion. It's still a risk, but for their route plans I'm willing to take it."
+108658	"A lot of my trading goods come from abandoned First Wave facilities. We can't afford to be picky. Keep your eyes open!"
+108659	"We're safe to collect the caches now. After I jammed the mine field Drake had put up there. Barbaric."
+108660	"The Orbital Watch stumbled over one of my old hideouts. Get the stuff back before they realize what exactly they found."
+108661	"Yeah, go ahead, grab more of that! Orbital Watch, taking from those who have nothing left."
+108662	"Shit, surveillance drones! But my smugglers risked a lot to get here, we're not blowing this off now."
+108663	"Good, the supply delivery made it here. But one thoughtless move and the Watch got us. Counting on you."
+108664	"Our convoy drove right into an Orbital Watch trap. We're lucky no one was injured, so please make sure it stays that way."

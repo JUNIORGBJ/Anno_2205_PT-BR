@@ -1,0 +1,316 @@
+3002186	Scrap Traps
+3002187	Genealogy
+3002188	With Great Responsibility
+3002189	Just Taking What's Ours
+3002190	The Rightful Owner
+3002191	Goodwin's Contacts
+3002192	Investing in Hackers
+3002193	Turning Enemies to Friends
+3002194	Employee Enticement
+3002195	Electric Sheep
+3002196	Having Your Back
+3002197	Goodwin's Envoy
+3002198	Contingency Plan
+3003288	Goodwin's Envoy
+3003289	Contingency Plan
+3003338	Goodwin's Envoy
+3003339	Contingency Plan
+3002199	Blackmail
+3002200	Roped In
+3002415	Not Playing Along
+3002414	Save Face
+3003149	Secret Meetings
+3002203	Secret Meetings
+3003169	High Standards
+3002204	High Standards
+3002205	Wrapping Up the Truth
+3002206	Mutual Benefit
+3002207	Secrets Are Forever
+3002208	Unconventional Delivery
+3002209	The Beaumont Files
+3002210	The Moon Is Not Enough
+3002211	The Great Firewall
+3002212	Orbital Report
+3002213	An Amicable Arrangement
+3002214	Witness Protection
+3002215	Tell No Tales
+3002216	Destruction of Evidence
+3002217	Yield Increase
+3002218	Fertility Map
+3003340	Yield Increase
+3003341	Fertility Map
+3002219	Drop and Go
+3002220	Crash
+3002417	An Awkward Customer
+3002416	Survival of the Bold
+3003150	New Seeds
+3002223	New Seeds
+3003170	Second Chance
+3002224	Second Chance
+3003348	Genetic Engineering
+3003349	[GUIDNAME 3003348]
+3002225	Dirty Work
+3002226	Drastic Measures
+3002227	It Concerns All Of Us
+3002228	An Eye on the Water
+3002229	The Lazarus Project
+3002230	The Grass on the Other Side
+3002231	Say Go to GMO
+3002232	Hazardous Delivery
+3002233	In the Garden of Science
+3002234	Bacterial Cultures
+3002235	Solar Power Demonstration
+3002236	Picking on the Market Leader
+3002237	Late for Coffee
+3002238	Scatterbrain
+3002239	Better Late Than Never
+3002240	Just a Routine Check
+3002419	Your Good Name
+3002418	No More Outsourcing
+3003151	Unwanted Overtime
+3002243	Unwanted Overtime
+3003171	Short of Expectations
+3002244	Short of Expectations
+3002245	Scare Tactics
+3002246	The Best Defense
+3002247	Anti-Theft Devices
+3002248	Blackout
+3002249	Mind Your Goods
+3002250	Follow the Instructions
+3002251	Trade Secrets
+3002252	Past the Deadline
+3002253	Tough Competition
+3002254	No Routine Maintenance
+3002255	Wake-up Call
+3002256	Shooting Cans
+3002257	Employee of the Month
+3002258	Handle With Care
+3002259	Ulterior Motives
+3002260	Lacking Experience
+3002421	Public Relations
+3002420	Express Shipping
+3003152	On-Site Inspection
+3002263	On-Site Inspection
+3003172	Legal Loopholes
+3002264	Legal Loopholes
+3002265	On The Safe Side
+3002266	Protecting the Lines
+3002267	Mysterious Benefactor
+3002268	Forgot Something
+3002269	Irreplacable Goods
+3002270	Domino Effect
+3002271	Is It Sunday Already
+3002272	Don't Tell My Boss
+3002273	Shiny Things
+3002274	Dangerous Holidays
+3002275	The Drill
+3002276	Bomb Alarm
+3002277	Labor Piracy
+3002278	No Tracking Number
+3002279	Illogical Logistics
+3002280	Crate Overboard
+3002423	Retrospect Approval
+3002422	Public Appearance
+3003153	I Want to See the Manager
+3002283	I Want To See The Manager
+3003173	You Get What You Pay For
+3002284	You Get What You Pay For
+3002285	Controlled Demolition
+3002286	Counter-Strategies
+3002287	Riding the Waves
+3002288	A Glance at the Past
+3002289	Don't Lose Your Shirt
+3002290	A Sneak Peak
+3002291	Who Says Lobbyism
+3002292	Behind Closed Doors
+3002293	Con Artistry
+3002294	Just a Friendly Chat
+3002295	A Lasting Impression
+3002296	An Economical Decision
+3002297	Travelling with Style
+3002298	Examination Passed
+3002299	Lost in Transportation
+3002300	Investment Revoked
+3002425	Overnight Shipping
+3002424	Now Convince Me
+3003154	Yacht Shopping
+3002303	Yacht Shopping
+3003174	The Siren Calls
+3002304	The Siren Calls
+3002305	Looked Better On Paper
+3002306	Bad for Business
+3002307	Dealing in Antiques
+3002308	Scant Evidence
+3002309	Testing the Waters
+3002310	Unannounced Inspection
+3002311	The Right to Privacy
+3002312	No Internal Competition
+3002313	Caught in the Trap
+3002314	Ignoring Orders
+3002315	In the Mood of Parting
+3002316	The New Golf
+3002317	Lost in the White
+3002318	Scattered with the Wind
+3002319	A Case of Fly-Tipping
+3002320	Picking Up the Slack
+3002427	Supply Requirements
+3002426	Nature's Power
+3003155	Moral Obligations
+3002323	Moral Obligations
+3003175	Beginner's Mistake
+3002324	Beginner's Mistake
+3002325	Sinking for Science
+3002326	Creative Recycling
+3002327	Below Sea Level
+3002328	A Precarious Mystery
+3002329	You Bet
+3002330	Save the Whales
+3002331	An Exception
+3002332	Black Market
+3002333	Hold It Right There
+3002334	Valuable Data
+3002335	Not Alone
+3002336	Drawing the Line
+3002337	Time Is an Issue
+3002338	Data Retrieval
+3002339	Domestic Shipping
+3002340	An Unsatisfied Customer
+3002429	Experiments, Experiments
+3002428	Employee Discount
+3003156	Playing It Safe
+3002343	Playing It Safe
+3003176	Waste Not, Want Not
+3002344	Waste Not, Want Not
+3002345	Temperature Stress Test
+3002346	Warning Beacon
+3002347	Extinction Prevention
+3002348	Unsafe Storage
+3002349	Radiation Protection
+3002350	Science Gone too Far
+3002351	Touch Me Not
+3002352	Declared as Gifts
+3002353	Tampering with Statistics
+3002354	Overprotective
+3002355	Practical Survey
+3002356	Preemptive Strike
+3002357	Gasping for Air
+3002358	Not That Kind of Boom
+3002359	Keeping the Tallies
+3002360	Tough Schedules
+3002431	The Poor and the Hunted
+3002430	Bare Necessities
+3003157	Don't Panic
+3002363	Don't Panic
+3003177	Fueled by Determination
+3002364	Fueled by Determination
+3002365	Rigged
+3002366	Making Way
+3002367	Mind Your Step
+3002368	The Invisible Enemy
+3002369	Taking What They Can Get
+3002370	Fighting over Scraps
+3002371	Negotiating With Terrorists
+3002372	An Act of Solidarity
+3002373	Deadly Vacation
+3002374	Enforcing the Law
+3002375	Space Jam
+3002376	No Way Around It
+3002377	Moonwalk
+3002378	Flying Apart
+3002379	Post-Haste
+3002380	The Spoils of War
+3002433	We've Got It
+3002432	Human Contact
+3003158	Show Your Presence
+3002383	Show Your Presence
+3003178	Slowed Down
+3002384	Slowed Down
+3002385	Shoot First, Salvage Later
+3002386	Red Moon
+3002387	Ready for the Taking
+3002388	Backfired
+3002389	On Eye Level
+3002390	It's Ours Now
+3002391	On Safe Paths
+3002392	Keeping Quiet
+3002393	Know Your Enemy
+3002394	Lost in the Grey
+3002395	We Take It Seriously
+3002396	No One Will Hear You
+3000250	NO LOCA Tow Boat 1
+3000282	NO LOCA Collect 1
+3000284	NO LOCA Rescue Mission 1
+3000289	NO LOCA Picture Puzzle 1
+3000291	NO LOCA Picture Puzzle 2
+3000292	Rise of the robots
+3001998	NO LOCA Pick-Up
+3002913	NO LOCA Pick-Up
+3003313	NO LOCA Pick-Up
+3003314	NO LOCA Pick-Up
+3000143	Energy
+3000144	Energy Balance
+3000145	Workforce Balance
+3003219	Credits Balance
+3003291	Reducing Factory Maintenance
+3003292	Factory Upgrades
+3003293	Factory Upgrades
+3003294	Factory Upgrades
+3003295	Residence Promotion
+3003296	Logistics Balance
+3003297	Bridge Reminder
+3003298	Bridge Reminder
+3003010	Welcome to Anno 2205
+3003012	The Consumption Spiral
+3003014	Employee Gains
+3003228	Crisis Control
+3003229	Spaceport Storage
+3003230	Multiple Sectors
+3003231	Claiming Construction Areas
+3003232	Arctic Settlement
+3003233	Convenient Shortcuts
+3003234	Factory Upgrades
+3003235	Assignment Hunter
+3003236	Global Trade Network
+3003237	Route Management
+3003238	World Market
+3003243	HR Manager
+3003244	Upgrade Materials
+3003245	Shortage Management
+3003246	Sector Buy-out
+3003247	Lunar Settlement
+3003248	Maintenance Modules
+3003249	Economy Over Military
+3003250	Rare Materials Sources
+3003251	Expansive Trade
+3003252	Building a Mercantile Empire
+3003253	Alternative Methods
+3003254	Vote for Profit
+3003255	Energy Transfer
+3003256	Becoming a MegaCorp
+3003257	Final Advice
+3002996	[GUIDNAME 5100007]
+3000033	[GUIDNAME 5100007]
+3000482	[GUIDNAME 5100131]
+3000483	[GUIDNAME 5100132]
+3000564	[GUIDNAME 5100136]
+3000565	[GUIDNAME 5100137]
+3000566	[GUIDNAME 5100138]
+3000066	[GUIDNAME 5100031]
+3000560	[GUIDNAME 5100133]
+3000561	[GUIDNAME 5100134]
+3000567	[GUIDNAME 5100139]
+3000568	[GUIDNAME 5100140]
+3000569	[GUIDNAME 5100141]
+3000573	NO LOCA TestSession1
+3000574	NO LOCA TestSession2
+3000575	NO LOCA TestSession3
+3000805	Guilt Trip
+3000806	Stuck
+3000807	Deal with the Devil
+3000808	Personal Fleet
+3000809	Military Cooperation
+3000810	Skeleton Crew
+3000811	Arms Trade
+3000812	Just a Small Fish
+3000813	Making a Killing
+3000783	Shortcut

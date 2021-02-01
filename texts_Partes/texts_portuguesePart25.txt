@@ -1,0 +1,316 @@
+110900	For you? Like, you had to ask? Sure.
+110901	No biggie! Leave it to me!
+110902	Sure, you don't have to ask twice.
+110903	Sorry, nope, not goin' there.
+110905	What? No way.
+110906	Uh-uh, no can do.
+110907	Not gonna happen.
+110908	You know I gotta say no.
+110909	Sorry, can't help you there.
+110910	No way, not even for you.
+110911	Whoa, you know, this kinda comes at an inconvenient time!
+110912	Um... I'm don't think I'm the right one to ask. Sorry!
+110914	Hey. Could you gimme a hand?
+110915	Hate to ask, but I'm in a squeeze, know what I mean?
+110916	I could really use your help here.
+110917	My talents lie in a different field, but maybe you can do better?
+110919	I am not sure I got this right. Could you maybe figure it out?
+110918	Can I get you on board for that? Would be cool to have some back-up!
+110921	Oh hey. Since you're here, wanna take care of something for me?
+110922	Didn't expect to see you out here. Help me out?
+110923	Good thing I ran into you. Do me a solid?
+110924	Am I glad I ran into you. There's, like, this problem that came up...
+110925	Wow, you're here too? Cool! Hope you got time to help a buddy.
+110926	It's a small world for reals! Say, you familiar with stuff like this?
+110927	I knew you'd do it!
+110928	Wow! Awesome job!
+110929	That was extreme! Like, awesome!
+110930	Crazy job! Sweet!
+110931	I knew you were the right one to ask!
+110932	Incredibly, awesomely cool. Like… yeah.
+110933	Now, that's the way to kick it!
+110934	You did great!
+110935	Gotta admit, not your A-game today.
+110936	Hey, what can you do? Circumstances and stuff …
+110937	Did I throw you in over your head? Sorry...
+113441	Um... sure, I'll get along. Somehow.
+113442	If you gotta go, you gotta go.
+113443	No way I can change your mind? No? Okay...
+110938	Not pushin' or nothin', but how you doin' on that job?
+110939	Sure, take your time. Just wanted to ask how you're doing...
+110940	Sorry, kinda lost track of things. How far you got?
+110941	You don't have to, like, make reports and stuff. I'm just curious how it's gettin' along.
+110942	You're not leavin' me high and dry with that, are you? You won't, right?
+110943	Um… Hope you're good with that assignment I gave you.
+110944	Sorry if I sound all wound, but I need that job finished.
+110945	Got any news on that job for me? Just askin'.
+110946	Yeah, that's exactly the one I meant!
+110947	Uh-huh, that thing!
+110948	That's the stuff I told you about.
+110949	Bingo! That's the one.
+110950	Cool, you found it!
+110951	Nice work, Sherlock!
+110952	Looks like you've got it!
+110953	Um... wait... Yeah, that's the right one.
+110954	Yeah, that's the spot.
+110955	Never have to ask directions, huh?
+110956	Over here, keep movin'!
+110957	Yeah, that's where you gotta go.
+110958	Yeah! Dead on!
+110960	That's where I meant.
+110962	You're pretty good at the whole navigation thing!
+110963	Woah, sorry, kinda forgot. There's still something else needs to be done.
+110964	Cool. There any chance you might help me with something else?
+110965	You walked that one! Up for another?
+110966	Look, I got a job, but it might get kinda violent, you know?
+110967	Um, look, I'd go myself, but all the noise and shootin' and stuff …
+110968	This whole military bit isn't exactly my thing. Would you like to take over?
+110969	I could really use your help, but I gotta warn you. People are gonna be shooting at you.
+110970	Look, I'm no good with guns. Mind taking the field for me?
+110971	You are badass!
+110972	Talk about droppin' the hammer!
+110973	Know what? That was scary.
+116040	Thanks for retaking the Climate Stabilizers for us. Really appreciate that!
+116041	You're someone a guy can count on, for sure. Without you, those terrorists would still be in charge around here!
+116042	Ah… The climate here has stabilized again. I really owe you one.
+110974	Sorry I talked you into that. At least they didn't get you.
+110975	You got your ass whooped out there.
+110976	Just look at the bright side. You're not dead.
+116043	Aw, rats! So close! Almost got those Stabilizers back!
+116044	At least you tried. There were a lot of guns on those ships...
+116045	Hope you're okay... those terrorists will stop at nothing to keep our Stabilizers under their control.
+110977	Come on in. Got some good stuff here!
+110978	Got a new load of some really cool stuff. Come on in!
+110979	Hi! Looking for the treasures of the Arctic? Got them all!
+110980	I'm gonna make you a good price, okay?
+110981	Check out my catalogs. If somethin' catches your eye, lemme know.
+110982	Welcome to Jorgensen Super Regional! Lookin' for anything special?
+110983	If you wanna buy, I wanna sell.
+110984	Oh, hey, need something specific?
+110985	Hmm, good choice.
+110986	Anything else you need?
+110987	Thanks for supportin' my little enterprise here.
+110988	Goods are on their way! Thanks a bunch!
+110989	Okay, deal!
+110990	Sure, it's yours!
+110991	Happy doin' business with you!
+110992	Good deal! Come back anytime.
+110993	Okay, I'll send it to you.
+110994	You know how to trade!
+110995	Hot damn! Sweet price.
+110996	No way I can turn that down!
+110997	What a deal!
+110998	You got yourself a deal.
+110999	Good stuff. I'll take it.
+111001	Cool. Deal.
+111002	I'd be brain dead if I said no.
+111003	Love the price. Deal.
+111004	Fair price. I'll take it.
+111005	I like to carry a bit of everything, you know?
+111006	I have been trying to get my hands on one of those meteorite fragments. Space rocks aren't really my thing, but I've met someone... and, well, it'd be the perfect gift!
+111007	I really do like the whole trading thing. But it would be nice to go out every once in a while too... Whatever, the other Custodians will warm to me eventually.
+111008	Away from the poles, people always talk about our endless winters. But we've got endless summers too! Then again... they don't really balance. I've lived here all my live and I still dread all that darkness.
+111009	This is so cool! Buy some stuff, sell some stuff, meet new people… Tough life, man, tough life.
+111010	I'm glad you're here! Just... generally! Okay, that's creepy. I mean, my people don't like outsiders much. I don't really get it. Why would you want to see the same faces and the same scenery for the rest of your life?
+111011	Man, if you really need it, just ask a trader. It's what we do.
+111012	Historically, cultural exchange and new perspectives and fresh ideas... it all came from trade, right? Okay, nowadays it's mostly lots and lots of unstaffed ships, but sometimes there's people like you!
+111013	Man, I wonder why so many people are so uptight.
+111014	Things'd be much more relaxed if people would just chill and talk, know what I mean?
+111015	Live and let live, that's my motto.
+111016	People say I'm soft because I'd rather be in here where it's warm. Whatever.
+111017	It's mostly number crunching and waving ships through. But I do meet a lot of cool people, including you, of course.
+111018	Helping one another is just another form of trading, you know?
+111019	Life is so much better when you lay back and let it happen, man.
+111020	I love it out here, man. A little cold, but that's cool.
+113444	Not very sneaky. Just sayin', you know?
+113445	Guess you're too honest to be a sneak.
+113446	Busted!
+113447	That's the right area, keep looking!
+113448	Gotta be around there somewhere.
+113449	Almost there. Look closer!
+113450	That's it!
+113451	You got it!
+113452	You found it!
+114981	Finally, a new face around here! Ville Jorgensen. Nice to meet you! In case you're looking for an arctic trading partner, here I am... At least consider it, okay?
+115678	Don't let Dr. Grumpy put you off. I'm Ville Jorgensen. I'd be glad to do business with you. Just come on by, I have a warehouse in this sector.
+115679	Yo, sorry my colleagues are kinda giving you the cold shoulder. Ville Jorgensen, nice to meet you! I run a trading post here, but business... yeah, just consider dropping by, okay? Please.
+115680	Whoa, is that a customer? Yo, um... welcome to Jorgensen Super Regional. I'm Ville. Finest wholesale trader in the area. Have a look at my catalog!
+115681	You came! Well, welcome to Jorgensen Super Regional. Goods, stuff, technology. Whatever you're looking for, I have it... probably!
+115682	Yo! You're really expanding! Hope my branch office in this sector sees some activity now!
+115683	May I do some shameless self-advertising? Got a trading post in this sector, too. Please stop by, okay...
+115684	Cool, you're here, too! Then you can pop over to my local warehouse, if it's no trouble.
+115685	Yo, have you made up your mind about doing business with me?
+115686	Don't know if I told you, but I have this warehouse here. We could do some business.
+115687	Any chance you and I could do some trading? Please?
+115688	Yo, fancy doing Assignments for some of my other customers? They're waiting...
+115689	Hey! Things have been busy since you showed up. Got a bunch of paying Assigments coming in for you.
+115690	A company should never be short of Assignments. I could help you get some.
+115880	Yo, heard the news! That's so cool! And I worked with you!
+115857	Hello. Do you read me? Please come in.
+115856	I'm Zandra Haynes, Sorry to invade your territory, but as I see it, we have the same enemy. I speak for the Lunar Excavation Corp. If you still acknowledge it.
+115858	If you allow us to stay, I can sell you the remaining stock from the LEC warehouses. We won't bother you, you have my word.
+115960	Don't let them get you. Full speed ahead!
+115859	A fusion energy reactor? True, the LEC did research on that. But after Virgil Drake took over, the data disappeared from all LEC servers. Don't know what he plans to do with it.
+115861	Oh, one piece of advice: Drake is capable of anything. You should increase your security level. We should have.
+115959	Yeah, that looks like the LEC fusion research data. Well, as far as I can tell, anyway.
+116355	Those are fusion weapons. I'd heard that Drake was up to something like that.
+116356	He wants to arm the Moon with them so it has a military advantage over Earth. He calls that "equal opportunity".
+116357	I know for sure he doesn't produce those weapons here. That wouldn't have slipped past my spies.
+115378	New fugitives are heading to the camp! Lend me a hand here!
+115379	Come over! There are new problems we have to tackle!
+115380	We have to get going! There's no time to lose!
+115381	Hello? Are you there? Meet me outside your settlement!
+115382	Don't ignore us! We need your help!
+115383	Just listen to what I have to say! Not for me, for my people!
+114959	Thanks. Look, I don't have much time. The Orbital Watch is already on our trail.
+114960	Since they took over, they hunt down anyone, who doesn't accept their authority. Many people have been driven out of their homes. And that's synonymous to a death sentence here.
+114961	I know you're in a position to help those people. To provide them shelter. Please, don't let them down.
+115237	News of this safe haven are spreading. Even the hesitant are willing to take a chance to escape, now that they have a place to head to. I'll let you know when more refugees arrive.
+115238	The people in the camp are well supplied. I'll let you know when there are new arrivals.
+115246	You saved many lives. And the more refugees we gather here, the more the Orbital Watch's foundation will crumble. I'll spread the word.
+116341	I hear there are new refugee columns forming as we speak. I'll let you know when they arrive.
+115247	Okay, bring them in and we'll assign them a nice clean home. And... wait, what's that?
+115248	The disease is under control. And our guards are watching the borders at all times now. The people here have endured the worst, but you gave them new life, new hope.
+116312	Hello... Oh, finally... listen, I... I don't know where else to send them! You must help them! There are lives at stake! I will repay you, I promise.
+116313	All those people would be dead now, if it wasn't for you. We'll do our best to reciprocate! I promise, everyone here will pitch in to help.
+116342	Quarantine the area! No one leaves their homes! This is a medical emergency! We have to enact countermeasures!
+115797	Look, I don't know you, but I'm going to assume you're preferable to Virgil Drake. I'm Zandra Haynes. You could say I'm in charge of what remains of the Lunar Excavation Corp. If you want to trade goods, get in touch.
+115798	Glad we found you. There are only few LEC colonies not controlled by the Orbital Watch. I can sell you the remaining stock from our warehouses and use the credits to buy supplies. I'd appreciate the business.
+115799	You're not with them. Otherwise you'd know my face. Zandra Haynes. And I speak for the Lunar Excavation Corp. Provided you still acknowledge it.
+115800	I hope no one followed you. Here, that's all that remains of the LEC stock. And it's all for sale.
+115801	I'm always on the move, supplying the LEC colonies still resisting the Orbital Watch. You want to help supply them, too? Then trade with me here.
+115802	Glad you're founding more colonies out here. Safe stopovers for our convoys. Plus, you can always trade with us whenever we're here.
+115803	I'm glad we're not on our own. But I really can't offer you any more than the remnants from the LEC warehouses. If you want to trade, I'll be here.
+110508	That's good.
+110509	As good as it gets, I guess.
+110510	More of that'd be OK.
+110511	Good news for a change, huh?
+110512	Not bad.
+110513	Reason to hope.
+110514	I feel better.
+110515	Hmm, useful.
+110516	If only it always went like this.
+110517	Couldn't have expected anything better.
+110518	I thought it'd always stay like this.
+110519	That eases our load a little.
+110520	That's something off my shoulders.
+110521	That helps.
+110522	Thanks.
+110523	Good move.
+110524	You did us a favor.
+110525	At least we can rely on you.
+110526	I don't know where we would be now, if it wasn't for you.
+110527	Huh, today can still turn into a good day, thanks.
+110528	I respect you, you should know that.
+110529	Thanks for your support.
+110530	I hear good things about you.
+110531	Not helpful.
+110532	Could things get any worse?
+110533	Ahhhh... of course...
+110534	Life goes on. Has to.
+110535	There's never a shortage of bad news.
+110536	Why now?
+110537	Please no.
+110538	As if there wasn't enough crap going on up here.
+110539	Well, what use is complaining?
+110540	Bad news always travels fast.
+110541	You have any idea what that means for us?
+110542	It's stuff like that that will end us.
+110543	I'm straining to keep things together and you... bah...
+110544	What was that for?
+110545	I can't believe you let that happen.
+110546	Say, whose side are you on?
+110547	Just forget it.
+110548	Oh no, you didn't...
+110549	Hard to make a difference here, huh?
+110550	Just trying isn't enough, you know...
+110551	Huh, a friendly face.
+110552	How am I? Surviving.
+110553	I hope nobody followed you.
+110555	Not a word about this place; right?
+110560	You can't stay long. We have to keep moving.
+110561	This place is a mess, I know. But it's all we have left.
+110562	Hey there, everything all right?
+110563	Be honest. How bad is it out there?
+110564	Tell me you've got good news.
+110565	I'm glad you made it.
+110566	We do what we can.
+110570	We just have to try.
+110571	We'll get started on it.
+110572	Some things must be done.
+110575	It won't hurt, I guess.
+110577	My word's my word!
+110578	Sure. Hope I can count on you too.
+110579	I'll try. But I really can't promise anything.
+110580	I'll take the risk.
+110581	I will.
+110582	No. I have reasons.
+110583	That would attract too much attention.
+110584	I don't have the resources.
+110585	Not a chance.
+110586	Can't right now.
+110587	And how do you picture that?
+110588	You know our situation. .
+110589	You know I would. If things were better.
+110590	Why are you asking? It's obvious, I can't.
+110591	I can't, and you know it.
+110592	You're alone? Good. Here's what I want.
+110593	Good you contacted me. Things are bad here.
+110594	Thank goodness, you came. We can't cope with that.
+110595	We can use all the help we can get.
+110596	This will affect you as much as it affects us. Will you step in?
+110597	This situation could break our backs. We really need your support.
+110598	Please. There's no one else I can to turn to.
+110599	I can't stay long. So, make your choice quickly.
+110600	We aren't equipped for this. That's why I came to you.
+110601	I mustn't be seen or they'll know I asked you.
+110602	Good I found you. Please, this is important!
+110603	It was tough getting here. I hope it wasn't for nothing.
+110604	You saved our lives!
+110606	It's early days yet, but I think it's really helped!
+110607	You really stood up for us.
+110618	You've done a lot for us. Thanks.
+110619	Thanks. That means a lot.
+110620	We won't forget that.
+110621	I wish we could give more in return.
+110622	We thank you.
+110623	Why should things ever get better?
+110624	Good thing we're used to disappointments.
+110625	That's bad. But we have to carry on.
+110626	We pinned our hopes on you.
+110627	So, you're giving up?
+110628	It's easy to let someone down when they're already on the bottom, huh?
+110630	I'm relying on you here, you know.
+110631	This is important, and not just for us.
+110632	Tell me, what's the status out there?
+110633	Come on, now. This can't wait forever.
+110634	I hope the Orbital Watch doesn't find out what we're up to.
+110635	You're our only hope, you know that.
+110636	You haven't given up on us, have you?
+110637	Is there still hope?
+110668	Positive. That's it.
+110669	I know one when I see one.
+110680	That should be it.
+110691	Handle it carefully.
+110702	That's what you were searching for, right?
+110713	You found it.
+110724	Check.
+110735	It's the right one.
+110736	You're right on track.
+110737	That is the place.
+110738	Trust me, I know this area.
+110739	Well, let's go!
+110740	The nav system points there.
+110741	No doubt, there it is.
+110742	Careful when you approach.
+110743	This is where you have to go.
+110744	Thank you but there's something else…
+110745	Problems are piling up here... we need still need your help.
+110746	Now that is dealt with, we need your support more than ever.
+110747	We are not equipped to deal with this kind of a threat!
+110748	It's a matter of life and death!
+110749	They are closing in on us! Please, help!
+110750	All the endless violence. Something must be done.
+110751	We tried to fight back... But we don't have your options!
+110752	You brought us peace. Thank you.
+110753	They are not invincible. You have proven that.

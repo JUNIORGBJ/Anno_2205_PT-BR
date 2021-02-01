@@ -1,0 +1,316 @@
+14001572	You are about to establish yourself as the agriculture industry leader.
+14001603	Hold your Dominance in this industry branch
+14001599	Hold your Dominance in the Biotecnología Industry
+14001556	Hold your Dominance in the Electronics Industry
+14001600	Hold your Dominance in the Energy Industry
+14001601	Hold your Dominance in the Heavy Industry
+14001602	Hold your Dominance in the Agricultural Industry
+14001557	Disrupt your competitor's Dominance by buying shares or building facilities
+14001604	Disrupt your competitor's Dominance in the Biotecnología Industry by buying shares or building facilities
+14001605	Disrupt your competitor's Dominance in the Electronics Industry by buying shares or building facilities
+14001606	Disrupt your competitor's Dominance in the Energy Industry by buying shares or building facilities
+14001607	Disrupt your competitor's Dominance in the Heavy Industry by buying shares or building facilities
+14001608	Disrupt your competitor's Dominance in the Agricultural Industry by buying shares or building facilities
+14001643	Keep your Industry Dominance at least at: [CONDITION_AMOUNT_COUNTER_AMOUNT]%
+14001640	Push your competitor's Industry Dominance below: [CONDITION_AMOUNT_COUNTER_AMOUNT]%
+14001033	Dominance Gains
+14001032	Industry Dominance
+14001558	[NOTIFICATION_CHARACTER_NAME] encourages you to hold your market position.
+14001559	[NOTIFICATION_CHARACTER_NAME] is striving for industry dominance.
+14001609	Current Industry Dominance:
+14001664	Impending Dominance
+14001670	Approaching Dominance
+14001671	Competitor-Dominated
+14001682	[GUIDNAME 121480]
+14001687	Open Market
+14001683	Market Leader
+14001820	Domination at 75%
+14001134	The Stock Market
+14001136	Join the Trading Floor
+14001137	Promote more employees by providing access to Trading Floors in your cities. Trade and buy your rivals' shares to maximize both your revenue and production!
+14001138	Influence Auctions
+14001139	The highest bidder takes it all! Use your Influence to secure the Big Five's most valuable assets and to defend yourself against being bought out.
+14001140	Hire Insiders
+14001141	Place insiders within the Big Five's ranks to gather intel and to sabotage their next moves.
+14001142	Take Over the Big Five
+14001143	Dominate the markets and outplay your enemies to be the last corporation standing!
+14001144	Join the Stock Market
+14001153	[NOTIFICATION_CHARACTER_NAME] informs you that your Corporation is ready to join the stock market.<br />
+14001154	[NOTIFICATION_CHARACTER_NAME] explains that in return for half of its shares your corporation can now be traded publicly.<br />
+14001155	[NOTIFICATION_CHARACTER_NAME] mentions that cities with Trading Floors can hold additional high ranked employees.<br />
+14001156	[NOTIFICATION_CHARACTER_NAME] is satisfied with the recent purchase.<br />
+14000928	[PERMANENT_SECTOR_EFFECT]
+14000929	[TEMPORARY_SECTOR_EFFECT]
+14000932	[PERMANENT_SECTOR_EFFECT_DESCRIPTION]
+14000933	[TEMPORARY_SECTOR_EFFECT_DESCRIPTION]
+14001012	[PERMANENT_SUB_SECTOR_EFFECT]
+14001013	[PERMANENT_SUB_SECTOR_EFFECT_DESCRIPTION]
+14001274	[BUILDING_EFFECT_DESCRIPTION]
+14001764	(Remaining Time Temporary Sector Effect)
+14002013	[CORPORATION_CREDIT_MAX_EXTENSION]
+14001040	Changed My Mind
+14001042	Relocation Service
+14001158	Interior Decorator
+14001161	Eco Evangelist
+14001163	Chief Optimizer
+14001165	Narcissist
+14001169	Investment Banker
+14001167	Cross-Shareholder
+14001171	The One Percent
+14001174	Fully Automated
+14001196	Not On My Watch!
+14001183	Subdue the Earth
+14001185	Urban Gardening
+14001188	Cosmic Radiation
+14001190	Polar Survivor
+14001192	Flood Control
+14001194	Updating Firewall
+14001198	No Pressure
+14001200	Anno Day
+14001202	The Old School
+14001204	Anything But the Kitchen Sink
+14001235	Courier of the Year
+14001237	Bodyguard
+14001041	Spend 100,000 credits demolishing buildings.
+14001043	Spend 1,000,000 credits relocating buildings.
+14001160	Construct each ornamental building at least once.
+14001162	Reach a population of 1,000,000 over all sectors without constructing Gas Power Stations or Fusion Reactors.
+14001164	Construct 100 Maintenance Modules in a single sector.
+14001166	Construct the Veteran Statue.
+14001170	Buy one share of any corporation.
+14001168	Buy one share of each corporation.
+14001172	Buy all shares of all Big Five corporations and leave no sectors controlled by them.
+14001175	Have a credit balance of +10,000 without any employees.
+14001197	Complete any Calamity Counter Measure.
+14001184	Complete 10 Calamity Counter Measures.
+14001187	Complete 5 Smog Counter Measures.
+14001189	Complete 5 Solar Flare Counter Measures.
+14001191	Complete 5 Polar Night Counter Measures.
+14001193	Complete 5 Climate Warfare Counter Measures.
+14001195	Complete 5 Hacker Attack Counter Measures.
+14001199	Complete the Lunar Licensing Program on Veteran difficulty in under 10 hours according to the corporation playtime.
+14001201	Play on the 22nd of May.
+14001203	Reach a population of 2,000,000 on Veteran difficulty.
+14001205	Run 30 Trade Routes from a single sector.
+14001236	Complete 10 distribution Assignments.
+14001238	Complete 10 escorting Assignments.
+14001218	[NOTIFICATION_CHARACTER_NAME] is outraged at your attempted sabotage.
+14001220	[NOTIFICATION_CHARACTER_NAME] appreciates your covert support.
+14001688	[NOTIFICATION_CHARACTER_NAME] initiates an auction.
+14001689	[NOTIFICATION_CHARACTER_NAME] is leading the auction.
+14001690	[NOTIFICATION_CHARACTER_NAME] aknowledges your winning bid.
+14001691	[NOTIFICATION_CHARACTER_NAME] aknowledges your winning bid.
+14001692	[NOTIFICATION_CHARACTER_NAME] made the winning bid.
+14001693	[NOTIFICATION_CHARACTER_NAME] is happy to hold stocks in your company.
+14001694	[NOTIFICATION_CHARACTER_NAME] is wary of your strategy.
+14001695	[NOTIFICATION_CHARACTER_NAME] begrudgingly accepts the takeover.
+14001696	[NOTIFICATION_CHARACTER_NAME] sees this as a sound investment.
+14001701	[NOTIFICATION_CHARACTER_NAME] is annoyed at your interference.
+14001748	[NOTIFICATION_CHARACTER_NAME] congratulates you on taking over the Big Five.
+14001697	[NOTIFICATION_CHARACTER_NAME] is close to reaching market dominance.
+14001698	[NOTIFICATION_CHARACTER_NAME] monopolized the market.
+14001699	[NOTIFICATION_CHARACTER_NAME] reluctantly congratulates you.
+14001749	[NOTIFICATION_CHARACTER_NAME] urges you to defend your market dominance.
+14001639	[CONDITION_AMOUNT_COUNTER_CURRENT_AMOUNT]%
+14001272	Maintain enough Parks, Gardens, Trees, or Preserves
+14001291	Vote for Lei Sheng in the Council
+14001292	Sell one of your Lei Sheng shares
+14001293	Transfer a patent to Lei Sheng through Espionage
+14001776	Your counter measure was unsuccessful
+14001779	You supported Lei Sheng's competitor
+14001780	Your actions harmed Lei Sheng
+14001794	Construction can now be resumed
+14001795	Energy Transfer Routes now operate losslessly
+14001984	Enter the Sector: [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001294	[NOTIFICATION_CHARACTER_NAME] offers to help your ailing account.
+14001295	[NOTIFICATION_CHARACTER_NAME] implores you to fight the root cause of the deluge.
+14001296	[NOTIFICATION_CHARACTER_NAME] knows who is behind this data breach.
+14001297	[NOTIFICATION_CHARACTER_NAME] wants to help you meet the new safety standards.
+14001298	[NOTIFICATION_CHARACTER_NAME] warns you to take care of your employees' health.
+14001299	[NOTIFICATION_CHARACTER_NAME] observed your struggles and offers a deal.
+14001300	[NOTIFICATION_CHARACTER_NAME] is exasperated about the air quality.
+14001420	[GUIDNAME 121399]: [GUIDNAME 121421]
+14001395	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121422]
+14001396	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121423]
+14001403	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121424]
+14001407	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121425]
+14001408	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121426]
+14001409	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121427]
+14001410	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121428]
+14001411	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121429]
+14001412	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121430]
+14001775	"If you decide to blunder around there isn't much I can save. But you're loaded anyway, right?"
+14001778	"So that's how you choose to respond to our generous offer."
+14001796	"Alright! I got the new scaffolding set up and supplied your staff, new construction work is good to go."
+14001797	"Excellent. And now, for our part of the bargain we've extended our magnetic shielding to your transfer routes."
+14001284	"Huh, Usoyev seems way too old-fashioned to employ this level of ingenuity, but no doubt it's them. I think bribing Volodin with his precious oil is your best chance here."
+14001285	"Oh you found Ibarra-FoxCom's newest transmitters! Get me the rest and I can reprogram them to kick out the intruders. And I get state-of-the-art tech! Win-win."
+14001286	"Cassian Industries has been really agressive lately, must be their merger preparations. I don't think they'll back down easily. I propose taking an eye for an eye or something."
+14001287	"Sorry, Lei Sheng are pretty much professionals at this. Other than getting on Tian's good side, you don't stand a chance stopping this, let alone taking it to court."
+14001288	"You don't seriously think Saayman got their lead position by playing nice? Maybe if you properly scare them they'll learn not to mess with you."
+14001260	"This isn't regulated rainfall, this is the Orbital Watch controlling our Climate Stabilizer! You have to act before it turns worse."
+14001261	"My friend, are you trying to choke your citizens? I can't do business like this! Here's a tip, free of charge: a metropolis needs greenery to breathe."
+14001262	"Looks like a pretty sophisticated data breach. It'll be far easier to find the culprits first. If you knock out the jammers I can tell you who's to blame."
+14001264	"Sorry, Custodian safety laws won't let you build during the polar night just like that. You'll need to reinforce your equipment against the extreme cold."
+14001265	"Upgrading your machines isn't enough, though. Not seeing the sun for so long always makes me seriously cranky! Your staff needs some additional nutrients, too."
+14001266	"Electricity is our business and solar flares are a danger Lei Sheng is well-prepared for. Show your support and I'll arrange for a shared use of our artificial magnetic field."
+14001613	[GUIDNAME 109065] [GUIDNAME 14001555]
+14001614	[GUIDNAME 109065] [GUIDNAME 14001565]
+14001615	[GUIDNAME 109065] [GUIDNAME 14001566]
+14001616	[GUIDNAME 109065] [GUIDNAME 14001567]
+14001617	[GUIDNAME 109065] [GUIDNAME 14001568]
+14001618	[GUIDNAME 109075] [GUIDNAME 14001555]
+14001619	[GUIDNAME 109075] [GUIDNAME 14001565]
+14001620	[GUIDNAME 109075] [GUIDNAME 14001566]
+14001621	[GUIDNAME 109075] [GUIDNAME 14001567]
+14001622	[GUIDNAME 109075] [GUIDNAME 14001568]
+14001623	[GUIDNAME 109078] [GUIDNAME 14001555]
+14001624	[GUIDNAME 109078] [GUIDNAME 14001565]
+14001625	[GUIDNAME 109078] [GUIDNAME 14001566]
+14001626	[GUIDNAME 109078] [GUIDNAME 14001567]
+14001627	[GUIDNAME 109078] [GUIDNAME 14001568]
+14001628	[GUIDNAME 109081] [GUIDNAME 14001555]
+14001629	[GUIDNAME 109081] [GUIDNAME 14001565]
+14001630	[GUIDNAME 109081] [GUIDNAME 14001566]
+14001631	[GUIDNAME 109081] [GUIDNAME 14001567]
+14001632	[GUIDNAME 109081] [GUIDNAME 14001568]
+14001633	[GUIDNAME 109084] [GUIDNAME 14001555]
+14001634	[GUIDNAME 109084] [GUIDNAME 14001565]
+14001635	[GUIDNAME 109084] [GUIDNAME 14001566]
+14001636	[GUIDNAME 109084] [GUIDNAME 14001567]
+14001637	[GUIDNAME 109084] [GUIDNAME 14001568]
+14002099	Unlimited branded modules for Biotecnología Facilities
+14002100	Unlimited branded modules for Electronics Facilities
+14002101	Unlimited branded modules for Energy Facilities
+14002102	Unlimited branded modules for Heavy Industry Facilities
+14002103	Unlimited branded modules for Agriculture Facilities
+14000023	[GUIDNAME 14000026]
+14000098	Competitor Influence
+14001037	[GUIDNAME 14001130]
+2002511	Inside Jobs
+2002512	[GUIDNAME 121562]
+2002516	[GUIDNAME 121563]
+2002518	[GUIDNAME 121564]
+2002519	[GUIDNAME 121566]
+14001979	DQ Player Lose Dominance - Biotecnología
+14001980	DQ Player Lose Dominance - Electronics
+14001981	DQ Player Lose Dominance - Energy
+14001982	DQ Player Lose Dominance - Heavy
+14001983	DQ Player Lose Dominance - Agriculture
+14001513	[GUIDNAME 14001560]
+14001514	[GUIDNAME 14001561]
+14001515	[GUIDNAME 14001562]
+14001516	[GUIDNAME 14001563]
+14001031	[GUIDNAME 14001564]
+14001518	[GUIDNAME 14001560]
+14001519	[GUIDNAME 14001561]
+14001520	[GUIDNAME 14001562]
+14001521	[GUIDNAME 14001563]
+14001517	[GUIDNAME 14001564]
+14001524	[GUIDNAME 14001560]
+14001525	[GUIDNAME 14001561]
+14001526	[GUIDNAME 14001562]
+14001527	[GUIDNAME 14001563]
+14001523	[GUIDNAME 14001564]
+14001529	[GUIDNAME 14001560]
+14001530	[GUIDNAME 14001561]
+14001531	[GUIDNAME 14001562]
+14001532	[GUIDNAME 14001563]
+14001528	[GUIDNAME 14001564]
+14001534	[GUIDNAME 14001560]
+14001535	[GUIDNAME 14001561]
+14001536	[GUIDNAME 14001562]
+14001537	[GUIDNAME 14001563]
+14001533	[GUIDNAME 14001564]
+14001539	[GUIDNAME 14001560]
+14001540	[GUIDNAME 14001561]
+14001541	[GUIDNAME 14001562]
+14001542	[GUIDNAME 14001563]
+14001538	[GUIDNAME 14001564]
+14001305	[GUIDNAME 14001283] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001307	[GUIDNAME 14001283] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001311	[GUIDNAME 14001283] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001319	[GUIDNAME 14001283] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001323	[GUIDNAME 14001283] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001335	[GUIDNAME 14001283] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001777	[GUIDNAME 14001283] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001259	[GUIDNAME 14001247] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001337	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001988	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001344	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001989	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001990	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001991	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001994	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001996	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001345	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001346	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001992	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001993	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001995	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001998	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001997	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001999	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001793	[GUIDNAME 14001255] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001349	[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001350	[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001351	[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001352	[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14002000	[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14002001	[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14002002	[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001782	[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001783	[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001798	[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001270	[GUIDNAME 14000002] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001499	[GUIDNAME 14000002] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001500	[GUIDNAME 14000002] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001501	[GUIDNAME 14000002] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001551	[GUIDNAME 14000002] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001977	[GUIDNAME 14000002] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001573	[GUIDNAME 14000002] : [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001215	Qualquer corporação dos Big Five
+14001223	Qualquer missão de contramedida
+14001494	Qualquer missão de contramedida para erupções solares
+14001495	Qualquer missão de contramedida para ataques de hackers
+14001496	Qualquer missão de contramedida para noites polares
+14001702	Qualquer missão de contramedida para poluição atmosférica
+14001240	Qualquer missão de distribuição
+14001241	Qualquer missão de escolta
+14001271	Qualquer parque, jardim ou árvore
+14001498	qualquer instalação de produção na região temperada (exceto agricultura, energia ou água)
+14001253	Benefícios eletrônicos
+14001703	[GUIDNAME 14001253]
+14001704	[GUIDNAME 14001253]
+14001705	[GUIDNAME 14001253]
+14001706	[GUIDNAME 14001253]
+14001707	[GUIDNAME 14001253]
+14001708	[GUIDNAME 14001253]
+14001709	[GUIDNAME 14001253]
+14001710	[GUIDNAME 14001253]
+14001711	[GUIDNAME 14001253]
+14002280	Agriculture Benefits
+14002281	[GUIDNAME 14001252]
+14002282	[GUIDNAME 14001252]
+14002283	[GUIDNAME 14001252]
+14002284	[GUIDNAME 14001252]
+14002285	[GUIDNAME 14001252]
+14002286	[GUIDNAME 14001252]
+14002287	[GUIDNAME 14001252]
+14002288	[GUIDNAME 14001252]
+14002289	[GUIDNAME 14001252]
+14002320	Agriculture Benefits
+14002321	[GUIDNAME 14001252]
+14002322	[GUIDNAME 14001252]
+14002323	[GUIDNAME 14001252]
+14002324	[GUIDNAME 14001252]
+14002325	[GUIDNAME 14001252]
+14002326	[GUIDNAME 14001252]
+14002327	[GUIDNAME 14001252]
+14002328	[GUIDNAME 14001252]
+14002329	[GUIDNAME 14001252]
+14001250	Heavy Industry Benefits
+14001712	[GUIDNAME 14001250]
+14001713	[GUIDNAME 14001250]
+14001714	[GUIDNAME 14001250]
+14001715	[GUIDNAME 14001250]

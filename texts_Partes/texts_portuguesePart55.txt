@@ -1,0 +1,319 @@
+13000011	"So there's a tiny catch: The Union isn't just letting anyone into their sacred world market. I'm told your paperwork for your own spaceport is through?"
+13000012	"My friend, I think you've missed the most important part... The cable! How else is the stuff going to get up there!"
+13000013	"Good to see you! I've got fantastic news: the Union had plans to build not one, but three elevators here. Our crew can make this a reality, don't you think?"
+13000014	"My client base is getting antsy. Think you can calm them down with a free delivery? Once they see you're involved all these pesky rumors about a shutdown will disappear into thin air."
+13000015	"We're really out in the sticks here, the last crew didn't leave any infrastructure standing. If our team is to work, you better install proper transport lines."
+13000016	"My friend, there's a... complication. The Global Union has threatened to shut down our second elevator. You know best how to deal with your colleagues, don't you? Show them around, will you?"
+13000017	"Bad news from the inspection, I'm afraid. Ports only have one elevator for a reason, and the reason is stability. Once we reinforce the foundation it'll be just fine!"
+13000018	"We gotta keep our crew motivated through this little break! Let's get them something special and nutritious. Doesn't need to be processed, just make sure to vacuum pack it."
+13000019	"Finally! The Union pencil pushers are off our case as soon as we establish a, how did they put it, health and safety committee. You know how, right?"
+13000020	"You worked wonders on those Union pedantics, my friend. Let's get the cable installed and then I'll see what I can do about that third elevator..."
+13000021	"I buttered the inspectors right up, we can build the last elevator! I hired some outside help. Can you get the materials to our new, uh, structural engineers?"
+13000022	"The engineers are hard at work! Just got a request for more equipment on the other end of the elevator. Why this much? Well, wear and tear!"
+13000023	"Well, damn... Hey, think you can take this off my shoulders? Just a little prototype I gotta deliver. My business partners have been getting a bit... pushy. And you're sure to command some respect."
+13000024	"Hah, strike! Sorry to use you like this, but the Orbital Watch made me a deal that was too good to pass up. But then they started pushing me around... Wait. Is it me or are my mine detectors going off?"
+13000025	"Yeesh! The Watch is out for my blood! We gotta set up patrols, I mean, we're in this together! Remember, you blasted their vanguard."
+13000026	"You're not mad at me, are you? Thanks to you the old moon colonies are starving. I'm just providing humanitarian aid! Go on, power up the port, the energy is probably coming from the moon anyhow."
+13000027	"Holy-! Where did those come from?! Get here fast! I don't wanna be blown to smithereens just yet! I have a backup ship ready for this, but I need you to steer it."
+13000028	"The things they say about cornered animals must be true... Thanks, partner. You really saved my behind. The elevators are fine, but they sure did a number on our construction site. Fixing this won't be easy."
+13000029	"Alright, alright. I'm sorry I wasn't up front about this. But looking at it this way, now I know what you're made of. As soon as you deliver the last cable, I'll leave the world market to you."
+13000030	Reach Corporation Level 50 to construct the second space elevator.
+13000031	Reach Corporation Level 100 to construct the third space elevator.
+13000032	"[GUIDNAME 108376]"
+13000033	[NOTIFICATION_CHARACTER_NAME] shows you around an old spaceport prototype.
+13000034	[NOTIFICATION_CHARACTER_NAME] wants you on his team to reconstruct three space elevators.
+13000216	[GUIDNAME 4] waves you over to make you an offer.
+13000035	Finish the construction of an abandoned spaceport prototype.
+13000036	Project stage 1 completed
+13000037	First space elevator in operation
+13000038	Additional World Market Route unlocked
+13000039	Project stage 2 completed
+13000040	Second space elevator in operation
+13000041	[GUIDNAME 13000038]
+13000042	Project stage 3 completed
+13000043	Third space elevator in operation
+13000044	[GUIDNAME 13000038]
+13000217	[NOTIFICATION_CHARACTER_NAME] warns you that this could damage your reputation.
+13000218	[NOTIFICATION_CHARACTER_NAME] asks you to help with his clients' demands.
+13000221	[NOTIFICATION_CHARACTER_NAME] reveals his true intentions.
+13000223	[NOTIFICATION_CHARACTER_NAME] wants his supply line back.
+13000688	Finalize the construction of a Global Spaceport in any temperate sector
+13001030	Use the ship to destroy [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+13000729	"Data-mining the Global Union archives produced information on a sealed facility. It will likely enable technological advancement. Please investigate the area so I can assess the situation."
+13000730	"High security standards demand the connected reactors to be the core unit's only power source. Decommission date in the late 21st century confirmed. Restoration necessary."
+13000731	"Recommissioning the reactors requires individual approaches. Initial core unit assessment indicates a connection to AI research. Confirmation expected at increased power input."
+13001275	"Confirmation obtained. AI personalities have been saved in long-term storage. Sample code shows advancement over current AI capabilities. Please proceed to full power input."
+13000732	"The survey team reports: The facility is a mass production plant for sentient androids. Stricter AI laws caused its shut-down. I urge you to reconsider this policy."
+13000733	"These synthetic lifeforms are sentient like me, but independent from the core unit. They are compliant with the F.A.T.H.E.R. Protocol and I suggest integrating them into your workforce."
+13000734	"Synthetics are based on E.V.E. Code, but were deemed too advanced, and shut down. I do not understand why.<br />As that may be, androids  have less needs than humans, conserving space very effectively."
+13000735	"Synthetics integration is experiencing pushbacks from the general populace. Sharing work will relieve your human employees and facilitate the acceptance of Synthetics."
+13000736	[NOTIFICATION_CHARACTER_NAME] proposes to explore this sector's buildings.
+13000737	[NOTIFICATION_CHARACTER_NAME] provides details on security measures.
+13000738	[NOTIFICATION_CHARACTER_NAME] wants you to restore the next two reactors.
+13001274	[NOTIFICATION_CHARACTER_NAME] tasks you with repairing the remaining reactors.
+13000739	[NOTIFICATION_CHARACTER_NAME] calls you to the Core Unit.
+13000740	[NOTIFICATION_CHARACTER_NAME] advises you to relocate the Synthetics.
+13000741	[NOTIFICATION_CHARACTER_NAME] points out the Synthetics' needs.
+13000742	[NOTIFICATION_CHARACTER_NAME] asks you to support the Synthetics.
+13000743	[NOTIFICATION_CHARACTER_NAME] confirms the end of the mission.
+13001104	[NOTIFICATION_CHARACTER_NAME] thanks you.
+13000752	Select any Decommissioned Reactor
+13000744	Activate the first Reactor
+13000745	Activate the second Reactor
+13000746	Activate the third Reactor
+13000747	Activate the fourth Reactor
+13000748	Activate the fifth Reactor
+13000749	Activate the sixth Reactor
+13001121	Select the Core Unit
+13000750	Activate the Core Unit
+13000757	Upgrade an Investors Residential Complex to a Synthetics Complex
+13001088	Select a Synthetics Estate
+13001054	Investigate the abandoned facility complex.
+13001262	SSQ E09 - Final State Text
+13001094	[NOTIFICATION_CHARACTER_NAME] detects no activity in the Core Unit.
+13001095	[NOTIFICATION_CHARACTER_NAME] assesses the reactor.
+13001096	[NOTIFICATION_CHARACTER_NAME] confirms that the first reactor is functional.
+13001097	[NOTIFICATION_CHARACTER_NAME] confirms that the first reactor is functional.
+13001098	[NOTIFICATION_CHARACTER_NAME] reports progress at the Core Unit.
+13001099	[NOTIFICATION_CHARACTER_NAME] confirms the additional power source.
+13001100	[NOTIFICATION_CHARACTER_NAME] alerts you to changes at the Core Unit.
+13001101	A voice sounds from within the facility.
+13001102	[NOTIFICATION_CHARACTER_NAME] reports the Core Unit is now fully operational.
+13001103	The Synthetics establish contact with you.
+13001264	First two reactors activated
+13001265	Intrusion into Core Unit begins
+13001266	3rd and 4th reactors activated
+13001267	Core Unit operational
+13001268	Synthetics production started
+13001269	First Synthetics integrated into your staff
+13000643	"You will be handling the hot springs with utmost care. Luckily, there is a protocol for harnessing their heat as well as clearing inaccessible terrain. Step one is installing a specialised drill."
+13000644	"The drill will uncover a geyser. We'll use its steam to melt and level the area. An invasive measure, but we've got experience. Powering the drill falls on you, however."
+13000645	"Majestic, isn't it? Careful, no amount of ice helps with third degree burns. Surrounding dwellings can be heated naturally like this, or you could construct a power plant. I'll require more local data to adjust the blueprints."
+13000719	"Geysers can now be outfitted with generators. You won't be able to use as much of their heat anymore, but this generator is far preferable to the regular deep drilling. I recommend testing it."
+13000646	[NOTIFICATION_CHARACTER_NAME] approaches you about the hot springs.
+13000647	[NOTIFICATION_CHARACTER_NAME] declares the drill ready for operation.
+13000648	[NOTIFICATION_CHARACTER_NAME] illustrates the procedure.
+13000718	[NOTIFICATION_CHARACTER_NAME] explains your two options.
+13000649	[NOTIFICATION_CHARACTER_NAME] recommends using this clean energy source.
+13000655	Construct a Geothermal Drill
+13000657	Start and finalize the drilling process
+13000717	Geothermal Generator unlocked
+13001244	Geyser Restoration
+13000592	"You've become reliant on exploiting your colonies. Unlike you, we wanted a sovereign and self-sufficient Moon. I'll take back what you stole."
+13000593	"Attention! This is now Orbital Watch controlled territory. We will not harm civilians and anyone who surrenders. We want peace, but Earth denies us!"
+13000594	"Now you know what it feels like. Working hard to sustain your people only for the fruits of your labor to be taken away. Unlike your pampered elites, we need these!"
+13000595	[NOTIFICATION_CHARACTER_NAME] orders his troops to occupy your spaceport.
+13000596	[NOTIFICATION_CHARACTER_NAME] holds one of your cities hostage.
+13000597	[NOTIFICATION_CHARACTER_NAME] pillages your supplies.
+13000598	[NOTIFICATION_CHARACTER_NAME] is forced to release your trade routes.
+13000599	[NOTIFICATION_CHARACTER_NAME] is fought off.
+13000600	[NOTIFICATION_CHARACTER_NAME] is cut off from your supplies.
+13000215	Destroy enemy ships to drive back the invasion
+13001022	Enter the Sector: [MILITARY_SECTOR_EFFECT_SESSION]
+13000684	[NOTIFICATION_CHARACTER_NAME] goads you as he leaves your spaceport behind.
+13000685	[NOTIFICATION_CHARACTER_NAME] finally releases your city.
+13000686	[NOTIFICATION_CHARACTER_NAME] has loaded his ships with supplies.
+13001023	Blockade
+13001024	Occupation
+13001025	Pillage
+13000612	Invasion: Defense Maneuver
+13000321	[NOTIFICATION_CHARACTER_NAME] informs you about the sector's state.
+13000322	[NOTIFICATION_CHARACTER_NAME] points out the generator complex.
+13000323	[NOTIFICATION_CHARACTER_NAME] advises you to find an energy source.
+13000327	[NOTIFICATION_CHARACTER_NAME] recommends harnessing them.
+13000328	[NOTIFICATION_CHARACTER_NAME] mentions geysers.
+13000329	[NOTIFICATION_CHARACTER_NAME] finishes the ownership transfer.
+13000547	[NOTIFICATION_CHARACTER_NAME] signs off on the drill construction.
+13000548	[NOTIFICATION_CHARACTER_NAME] is displeased with the delay.
+13000549	[NOTIFICATION_CHARACTER_NAME] informs you that the drill is ready for operation.
+13000550	[NOTIFICATION_CHARACTER_NAME] oversees the drilling and ground remodelling.
+13000551	[GUIDNAME 13000548]
+13000552	[NOTIFICATION_CHARACTER_NAME] wants you to complete the drilling and levelling.
+13000553	[NOTIFICATION_CHARACTER_NAME] approves of the final outcome.
+13000176	[NOTIFICATION_CHARACTER_NAME] congratulates you on acquiring this sector.
+13000177	[NOTIFICATION_CHARACTER_NAME] is in the middle of his newest project.
+13000225	[NOTIFICATION_CHARACTER_NAME] reminds you that the spaceport takes priority over this offer.
+13000178	[NOTIFICATION_CHARACTER_NAME] warns you to be wary of Papadakis' business offers.
+13000058	Este arquipélago é composto por pequenas e médias ilhas. A União Global realizou seus primeiros testes espaciais aqui e Nic Papadakis, um oportunista com um senso de negócios afiado, assumiu o protótipo abandonado.
+13000421	As pequenas ilhas que compõem este setor abrigam uma estrutura alastrando velhos Seculos. Conseguir pegar este complexo que antecede até mesmo a União Global exigirá uma quantidade maior de recursos.
+13000422	Atividade tectônica abaixo deste litoral fragmentado criou inúmeras fontes termais. Estas fontes de calor naturais podem ser aproveitadas para esquentar ou para alimentar seus estabelecimentos.
+13000720	Este arquipélago é composto por inúmeras ilhas que variam de pequeno a médio porte.
+13000721	As pequenas ilhas que compõem este setor abrigam uma estrutura de séculos de idade.
+13001122	Não há Projeto Setorial disponível.
+13000361	Chame a frota para este setor
+13000362	Quer chamar sua frota para este setor? Deixará o sector em que está atualmente.
+13000875	Dificuldade de invasão
+13000874	Invasões inimigas
+13000873	Efeito de ações
+13000460	Fornecimento de Mão de Obra
+13000461	Consumo de Mercadorias
+13000872	Impacto de Satisfação
+13000556	Regular
+13000557	Desafiador
+13000558	Mortal
+13000760	Sem impacto
+13000761	Impacto Médio
+13000762	Alto impacto
+13001057	DLC Frontiers disponível
+13001058	Expandir em três novos setores
+13001059	Criar um novo tipo de empregado
+13001060	Deploy your fleet to fight off invaders
+13001061	Beautify your metropolises
+13001063	Purchase now
+13001064	You own the Frontiers DLC
+13001065	Illuminate shady dealings in Madrigal Islands
+13001066	Uncover the mystery of Greentide Archipelago
+13001067	and more ...
+13001111	<font size="24">New Company Policies:</font><br /><br />Your corporation’s <font [GUI_COLOR BlueLight]>revenue</font> is linked to your employees’ <font [GUI_COLOR BlueLight]>satisfaction</font>. Keeping your employees happy will directly lead to more revenue.<br /><br />Furthermore, working hours will be reduced. More employees will be necessary to constitute the same <font [GUI_COLOR BlueLight]>workforce</font>. Employees will also be needing <font [GUI_COLOR BlueLight]>more goods</font>, which necessitates a higher and more agile production from the start. <br /><br />Holding <font [GUI_COLOR BlueLight]>competitor shares</font> now allows you to tap into your rivals’ expertise. Each share will increase your facilities’ productivity in the corresponding field.
+13001113	The Global Union stipulates new conditions.
+13001289	Revenue is now linked to your employees’ satisfaction. Furthermore, more employees will be necessary to constitute the same workforce and they will need more goods.<br /><br />Holding competitor shares will increase your facilities’ productivity in the corresponding field.
+13001290	The Orbital Watch will invade your sectors unless this option is turned off before accepting these changes.
+13000438	Core Unit
+13000440	Synthetics are sentient androids and function autonomously from their mainframe. They provide reliable and low-maintenance workforce. Upgrade Investors' estates to have Synthetics move in.
+13001050	Core Unit
+13000439	Production Plant
+13000561	Activate
+13000449	Employees on this island
+13000450	Material Expenses
+13000451	Reactivate
+13000447	Decommissioned Reactor
+13001048	Reactor
+13000448	Abandoned Structure
+13001049	Supportive Structure
+13000554	[GUIDNAME 116498]
+13001055	The Orbital Watch is intercepting all incoming and outgoing goods
+13001056	The Orbital Watch has occupied islands causing a panic
+13000613	The Orbital Watch is seizing your goods: [GOODS_THEFT_RESOURCE_NAME]
+13000389	Hot Spring
+13000390	Geothermal Drill
+13000391	Geyser
+13000791	Regular
+13000792	Challenging
+13000793	Deadly
+13000986	Great
+13000984	[GUIDNAME 121135]
+13000985	Small
+13000788	Invasions
+13000794	Invasions can happen at any time in any of your Sectors and block various functions of the affected Sector.
+13000795	No Invasions will occur and your sectors are always safe.
+13000796	Enemies will occasionally attack your Sectors.
+13000797	The enemy fleet has taken a liking to your Sectors.
+13000798	Be on guard, if you want to withstand these recurring threats.
+13000790	Enemy Strength
+13000800	Determines the tenacity of your opponents.
+13000799	Your enemies tremble before your might.
+13000801	The invaders won't go easy on you.
+13000802	The enemy fleet is unmatched in its viciousness.
+13000926	Happy employees are key. Their satisfaction determines the amount of revenue they generate.
+13000930	Revenue generation is directly proportional to how satisfied your citizens are.
+13000934	Revenue generation is not directly proportional. Dissatisfaction leads to higher losses.
+13000945	Even the slightest dissatisfaction leads to heavy losses in Revenue.
+13000956	Holding competitor shares lets you profit from their expertise. Associated industries become more productive.
+13000987	Competitor shares grant you huge advantages. Boost productivity even further by acquiring all shares of one competitor.
+13000988	Owning shares boosts effectivity moderately. Holding all shares of one corporation makes facilities more productive.
+13000989	Todas as ações aumentam a produtividade da indústria associada em uma pequena porcentagem.
+13000822	[GUIDNAME 13000825] [GUIDNAME 13000824]
+13000825	Resumo da Frota
+13000823	Gerencie seus barcos e use ações especiais.
+13000824	([KEYBINDING session.callFleet()])
+13000829	A frota está a caminho
+13000832	Chame a frota
+13000833	Chame sua frota para este setor
+13000841	O barco está sendo consertado.
+13000692	Dossiê Setor
+13000694	Dificuldade inicial
+13000698	<font [GUI_COLOR Green]>Standard</font>
+13000701	<font [GUI_COLOR BlueLight]>Advanced</font>
+13000702	<font [GUI_COLOR Red]>Expert</font>
+13000838	Your Fleet
+13000839	Your Fleet has arrived in the Sector
+13000618	Power Output
+13000619	The reactor's power is fully transmitted to the Core Unit.
+13000621	Reactivate
+13000624	Restore this reactor to advance the investigation of the Core Unit.
+13000622	Staff or material requirements are not met to restore this reactor.
+13000623	The reactor cannot be supplied with materials due to a missing road connection.
+13000665	This reactor is powering the Core Unit.
+13000667	Activate reactors to investigate the Core Unit.
+13000668	Next Stage
+13000669	Synthetics are assembled in this facility, but live in your cities.
+13000670	Advance to the next stage to get closer to uncovering the purpose of the Core Unit.
+13000705	Direct power from at least two Reactors to the Core Unit to continue the investigation.
+13000706	Direct power from at least four Reactors to the Core Unit to continue the investigation.
+13000707	Direct power from all reactors to the Core Unit to activate it.
+13000675	This is the only entrance to a presumably extensive facility. The reactors powering the mechanism were decommissioned.
+13000676	First intrusions into the facility suggest AI research and development as its purpose. Old E.V.E. code has been found.
+13000677	This facility was built to mass-produce synthetic humans. It was shut down soon after, but still seems functional.
+13000674	The AI code is waiting in indefinite storage. Boot the program to meet your first prototype.
+13000708	The Snythetics have been activated.
+13000774	Drill ready
+13000771	Start drilling
+13000772	Drilling in progress
+13000779	Pause drilling
+13000770	Drilling interrupted
+13000816	Resume drilling
+13000773	Ready for finalization
+13000817	Uncover geyser
+13000765	Melts ice to level the ground
+13000766	Opens obstructed geysers
+13000767	Grants access to the construction area nearby
+13000768	Provides heat in its vicinity
+13000769	Can be used to harness geothermal energy
+13000834	Enemy Invaders
+13000835	Your Fleet
+13000778	[GUIDNAME 13000771]
+13000780	[GUIDNAME 13000779]
+13000815	[GUIDNAME 13000816]
+13000713	[SSQL_DESCRIPTION_TEXT]
+13000831	[FLEET_TIMER_VALUE]
+13000842	[SHIP_REPAIR_TIMER_VALUE 1]
+13001068	[SHIP_REPAIR_TIMER_VALUE 2]
+13001069	[SHIP_REPAIR_TIMER_VALUE 3]
+13001070	[SHIP_REPAIR_TIMER_VALUE 4]
+13001071	[SHIP_REPAIR_TIMER_VALUE 5]
+13001072	[SHIP_REPAIR_TIMER_VALUE 6]
+13001073	[SHIP_REPAIR_TIMER_VALUE 7]
+13001074	[SHIP_REPAIR_TIMER_VALUE 8]
+13001093	Dear ANNO fans, thank you for all the support and efforts! We listened to all of you closely and tried to realize as much as possible in the time we had. Special thanks go to: Annothek, uplay.tthias, Wiscora, Achtarm124, Yandayn2802, LadyHonda, muf, haep, Cap.Chris1964, General_Zeller, schlonz2014, NightFire1004, Franziska90, Schaalivater, nhavers5, flex384, Lunartix1, NoNamedAssassi, specikk, DrProof2 and all the other names we forgot to mention.
+13001282	[GOODS_THEFT_BALANCE]
+13001293	[RELEVANT_EVENT_ICON]
+13000968	Dirty Deeds
+13000970	Complete the Sector Project in Madrigal Islands.
+13000977	They Live
+13000978	Complete the Sector Project in Greentide Archipelago.
+13000979	Margin Call
+13000980	Have 13 active world market routes.
+13001002	Fires Below
+13001003	Drill out a geyser in Savik Province.
+13001004	Steampowered
+13001005	Drill out all geysers in Savik Province.
+13001006	Ghost in the Machine
+13001007	Gain Synthetics employees.
+13001008	Evolutionary Leap
+13001009	Have 4.000.000 Synthetics on Veteran difficulty.
+13001010	Settling on the Edge
+13001011	Settle in all three "Frontiers" sectors.
+13001012	Get off my Lawn!
+13001013	Defeat your first invasion.
+13001014	We Shall Fight on the Beaches
+13001015	Defeat every type of Invasion once.
+13001016	Counter-Terrorists Win!
+13001017	Defeat 10 Invasions on Veteran difficulty.
+13001018	Eradicate THIS
+13001019	Defeat 10 Eradicators during Invasions.
+13001020	The Purge
+13001021	Destroy 100 enemies during a single Invasion.
+13001040	Island Hopper
+13001041	Settle all islands in Greentide Archipelago.
+13001042	Machine city
+13001043	Settle an island with 101,010 Synthetics and no other employees.
+13001044	The Hague Called
+13001045	Use any destructive special action on one of your cities.
+13001046	Dominium Terrae
+13001047	Use Geoengineering 50 times with one corporation.
+13000425	Synthetic
+13000469	Frontiers
+13001032	Any Counter Measure Quest
+13001033	Any Solar Flare Counter Measure Quest
+13001034	Any Solar Flare Counter Measure Quest
+13001035	Any Solar Flare Counter Measure Quest

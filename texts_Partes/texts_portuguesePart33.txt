@@ -1,0 +1,316 @@
+112798	Not at the moment.
+112799	I am sorry, but I am very busy.
+112800	Sorry, I have too much on my desk as it is.
+112801	I'm sorry, but I have to disappoint you.
+112802	Please, don't count on it happening.
+112803	You have to understand that the department needs my full attention.
+112804	Sorry, I don't have any staff I can spare you right now.
+112805	I hate to cancel on you, but I must.
+112806	I don't want the responsibility. This is for you to look after.
+112807	That is a top-level issue.
+112808	The time has been assigned to leave you free to take care of everything.
+112809	It's already making itself felt on the markets. You have to act.
+112810	Our shareholders would like you to interpose.
+112811	Our staff is growing nervous about this.
+112812	You really should give yourself a bonus for that!
+112813	Our company stands for excellence. And so does our CEO.
+112814	You are the future of the world economy!
+112815	Thank you! Everybody will profit from that!
+112816	What can I say? Excellent!
+112817	Please accept my congratulations.
+112818	Everything looks very good. Thank you!
+112819	I suppose it pays to leave these matters to the boss!
+112820	I hope we are covered legally.
+112821	From bad to worse.
+112822	Now, how am I supposed to explain this to our shareholders?
+112823	Schedule difficulties, I presume?
+112824	We cannot procrastinate forever.
+112825	Fine, I'll have everything canceled.
+112826	So, what are the prospects?
+112827	The prognoses look promising. How far along are you with the implementation?
+112828	Of course. Here is another dossier on the matter...
+112829	You want to discuss this matter again?
+112830	The press has been asking. What can I tell them about your progress?
+112831	I don't want to seem impatient, but I have to report back to the shareholders.
+112832	What is the status on that assignment?
+112833	Several departments are demanding updated information. Any news?
+112834	This is the one, I suppose.
+112835	You have located it.
+112836	Everything's where it's supposed to be.
+112837	All ready for delivery.
+112838	Exactly.
+112839	Nothing escapes you, it seems.
+112840	It seems like the one on the assignment form.
+112841	Please, take care of this one.
+112842	Everybody is preparing for your arrival, I hear.
+112843	It seems you don't need directions.
+112844	This way.
+112845	My secretary has already announced your arrival.
+112846	You are awaited.
+112847	Yes, this the exact location.
+112848	I cannot send someone. You have to go yourself.
+112849	This is the place mentioned.
+112850	They have found us.
+112851	We're not spending enough on camouflage systems, it seems.
+112852	You acted too suspicious.
+112853	You are on the right path.
+112854	Yes, it must be in the vicinity.
+112855	Our search will soon be at an end.
+112856	That's what we were looking for.
+112857	That seems to be it.
+112858	Definitely. That must be it.
+112859	Thank you. Now that I have your ear, could you see about this as well?
+112860	Very good. But this matter requires some additional attention.
+112861	I see this requires a multi-step solution.
+112862	These people are a danger to the company!
+112863	This threatens our routes as well. I hope you intervene soon.
+112864	I'm afraid we will not solve this issue without military action.
+112865	The staff hopes you won't turn a blind eye to this menace.
+112866	Our shareholders demand that you put an end to this violence.
+112867	I congratulate you on this victory.
+112868	Hm, your strategies pay off on the battlefield, as well.
+112869	A heavy-handed response, I would say.
+112870	This will burn a hole in our military budget.
+112871	Such a loss.
+112872	We underestimated the opposition.
+112873	Everyone is always complaining! I am sick and tired of it!
+112874	Overtime again! Someone must smooth out all the directors' mistakes!
+112875	Please, if you'll excuse me, I have to go fire some people!
+112877	It's my job to make decisions for them. But I am just as helpless against this... hysteria.
+112878	The responsibility nags at you, now that everything is going to the dogs...
+112880	If it keeps going on like this, I'll take it to the labor court.
+112881	Expenses this high and no comfort to show for them, either!
+112882	You're playing with peoples' livelihoods here!
+112876	My employees constantly ask me about their futures! Do I look like I have the answers?
+112884	They say we decision makers sit around all day. But it's still work.
+112887	Between us, this enterprise could be so much more!
+112889	My career just goes round in circles. But never mind.
+112891	I had imagined a leadership position to be more... satisfying.
+112883	The numbers look alright. I won't complain.
+112885	I think everything is well organized here.
+112886	I've been in worse companies, certainly.
+112888	The atmosphere? About what you'd expect.
+112890	A meeting? I wouldn't know what to talk about.
+112892	What is to say? Everything is the way it always is.
+112893	I thought about a home office. But then I wouldn't get out to see the beautiful cityscape.
+112894	I got a bonus recently, so yes, I'm doing fine!
+112895	I had the complaint box removed. It was always empty anyway.
+112896	We're doing some good business at the moment. Sure, that affects our mood.
+112897	I have built myself quite a good life here, wouldn't you say?
+112898	I had big windows installed in the meeting rooms. Seeing this skyline creates ideas.
+112899	People often approach me for raises. I'm glad I can grant them.
+112900	What's not to like about this company?
+112901	Business trips? Yes. But I would miss the office, certainly.
+112902	I really like it here. This atmosphere of contentedness.
+112903	No matter what perks they offer me... I wouldn't work for anyone else!
+112904	Cancel all my appointments! I have to buy this incredible CEO here a lunch!
+112905	You really are exemplary! Both as an employer and as a person!
+112906	I am certain there will be lots of opportunities for us all in the future!
+112907	The company is just like one big family! And I'm a family kind of person, you know?
+112908	I always wanted a job with guaranteed chances of advancement!
+112909	Thanks for all you have done for us!
+112910	I don't know how you do this!
+112911	All the important decisions! And I have a voice in them!
+112912	What a city!
+112913	A good choice! We don't have enough of those.
+112914	I take it you read the infrastructure reports. Very good!
+112915	That will take the edge off rush hour. Thank you!
+112916	May I introduce myself?
+112917	I am looking forward to working with you.
+112918	Thank you for the opportunity.
+112919	The Big Five divided the world markets amongst themselves. So we'll just open new markets in space, right?
+112920	I saw a computer simulation of how they did business in the 15th century. I should definitely get myself a sailing ship.
+112921	Between you and me, the big enterprises are the powers that be in the world today. We shouldn't miss our chance.
+112922	The energy market will likely collapse soon. I'm glad I get my electricity directly from you and not from Liu Xing.
+112923	Sometimes I get tired of all the old clichés: All managers fly sports cars and play PlasmaTag all day.
+115565	A small miracle the economy hasn't collapsed yet.
+115566	Cutting salaries isn't fun for me, either.
+115567	Alright, but just a short lunch break.
+115568	Why won't the baby sitter pick up?
+115569	This city is beautiful, I should go out more.
+115570	Smaller than Earth, but so impressive...
+115571	Can't wait for the trip, better get ready!
+115572	I feel like I should try cooking tonight.
+115595	We'll order more desinfectants.
+115606	We'll see what we can do.
+115609	No! I almost made it! This is illogical!
+115977	Well, that's quite a sum... but, your stellar career should be guarantee enough that our money is well-invested.
+115294	My, what a lovely atmosphere! Figuratively speaking, of course.
+115295	I've seen many familiar faces amongst the other guests. All celebrities from the world of business and politics.
+115296	I hope we don't have to eat out of plastic bags as well. These natives simply don't understand culinary culture.
+115302	I don't understand. The battery indicator said we could go another mile.
+115306	There are a lot of cameras in this vehicle. Can I buy a video of this later on?
+115307	There's always a risk involved in such trips. I'm just glad I don't need to listen to people telling me their life story anymore.
+112956	Wow, what can I say...
+112957	Very pleasing to hear.
+112958	Kudos!
+112959	That exceeded my boldest assumptions.
+112960	Good!
+112961	Outstanding!
+112962	Bravo!
+112963	My recommendations!
+112974	Very well done!
+112975	Superb!
+112976	This is the outcome I was hoping for.
+112977	A change like this was long overdue.
+112978	At last.
+112979	You never fail to impress me!
+112980	Here's to you!
+112981	A toast to your success!
+112982	Allow me to congratulate you.
+112983	My compliments to you.
+112984	Don't be modest!
+112985	You have not disappointed me.
+112986	You brightened my day.
+112987	I like your style of leadership!
+112988	Well, you do live up to your reputation.
+112989	What next!
+112990	What a pity.
+112991	I'd rather not think about the consequences.
+112992	Outrageous!
+112993	Unacceptable!
+112994	A catastrophe!
+112995	I suppose I celebrated too soon.
+112996	So much for my good mood.
+112997	Oh, please...
+112998	All I can do is shake my head.
+112999	And I always believed in you...
+113000	Excuse me, but are you out of your mind?
+113001	At least you tried.
+113002	I'm sure you meant well.
+113003	That was a complete flop, you know.
+113004	How dare you!
+113005	I could find words to make you feel better, but I won't...
+113006	Don't even try to justify your performance.
+113007	Go ahead, explain yourself!
+113008	And I thought you were more of a winner.
+113009	Please, be my guest.
+113010	Now that is a familiar face...
+113011	Do we know each oth... oh, yes, it's you, of course.
+113012	I'm sure it's important...
+113013	The pleasure is all mine.
+113014	I would have sent for you anyhow.
+113015	Oh, what a pleasant surprise!
+113016	It's no bother. I enjoy playing host.
+113017	Of course, stay as long as you like.
+113018	Well, I can spare some time. What do you need?
+113072	Very well, then.
+113073	I've made up my mind. Yes.
+113074	I'll see what I can do.
+113075	Well, I wouldn't want to disappoint you, so sure...
+113076	I have the means, so why shouldn't I?
+113077	You have my full support.
+113078	But just this once, you hear me.
+113079	As long as you don't expect me to delight in it.
+113080	Well, if you ask so blatantly.
+113081	You're welcome.
+113082	The very idea!
+113083	Absolutely not!
+113084	That is beyond my power.
+113085	I have to firmly reject this.
+113086	I don't promote things like this.
+113087	You cannot demand such a thing.
+113088	You cannot possibly be serious!
+113089	Don't expect me to support you in this matter.
+113090	Sorry. You can't always get what you want.
+113091	I like your sense of humor... oh, you're serious...
+113092	The whole world is watching this matter unfold. We should seize the opportunity.
+113093	Now you can show your true worth.
+113094	Can I entrust you with something this important?
+113095	I would be more comfortable if I knew the matter was in good hands.
+113096	This has the highest priority.
+113097	Please, take care of the details.
+113098	What you accomplished here was most admirable.
+113099	I see you can be relied upon!
+113100	Apparently, my confidence in you was justified.
+113101	I assure you of my gratitude.
+113102	You have surpassed even yourself.
+113103	You have a way of solving problems that I find very refreshing!
+113104	You have accomplished all there is to accomplish!
+113105	Your diligence deserves respect.
+113106	[Sigh] So much misguided potential!
+113107	You should ask yourself why...
+113108	Well, curiosity kills the company, or something like that.
+113109	I already pumped money in to this project!
+113110	It's back and forth with you.
+113111	I demand an explanation.
+113112	Thank you for keeping me informed. Is there anything new?
+113113	I am certain you are making every effort to find a solution.
+113114	I have other appointments, so are we done? Or are you, for that matter?
+113115	Finish what you start. You are familiar with that saying, I hope?
+113116	Here again? I don't know if I should feel flattered or let down.
+113117	You take the matter seriously, I hope.
+113118	I can see progress... Slow, but it is progress.
+113119	Give me an estimate. How much longer will this take you?
+113120	This is it, most certainly.
+113121	Yes.
+113122	Good. You found it.
+113123	Impossible to overlook, isn't it?
+113124	Well, seek and ye shall find.
+113125	Please, be very careful with it.
+113126	You have a good eye for such things.
+113127	Well, you have this for a start.
+113128	Did you invest in a modern navigation system?
+113129	This is your destination, yes.
+113130	Your destination.
+113131	That is where I expect you to go.
+113132	I hope you reach it in time.
+113133	Please, set out immediately.
+113134	It won't take you long, I hope.
+113135	What are you waiting for?
+113136	You're not to be overlooked, are you?
+113137	Very sneaky, oh yes...
+113138	Oh no, they've detected you.
+113139	From here, it is only a short distance.
+113140	Hurry. You almost have it.
+113141	You have come to this point. Now go on.
+113142	This far and no further.
+113143	I must say, you are something of a treasure hunter.
+113144	Very good. You found it at least.
+113145	Outstanding. Now, if you could turn your attention to this...
+113146	Bravo! But the matter is not yet completely resolved.
+113147	Ahead of schedule. You should have enough time for this as well, then.
+113148	I demand that you show no mercy!
+113149	All talks have failed. Still, actions speak louder than words.
+113150	Take the appropriate measures, however dire they may be.
+113151	This threatens more than just our profits, if you get my drift.
+113152	Someone must put a stop to this warmongering!
+113153	Your will to prevail certainly deserves praise!
+113154	Formidable. In every sense of the word.
+113155	So much dedication!
+113156	The loss of lives. How sad.
+113157	Could you refrain from such... fatal adventures in the future?
+113158	I've prepared letters of condolence.
+113159	You are responsible for this!
+113160	Seriously? This is what I invested in?
+113161	Not to put too fine a point on it... horrible.
+113162	Leave me alone! Or is privacy a scarcity as well?
+113163	Not another word about my living conditions!
+113165	I've been in golf clubs that are more livable.
+113166	A booming city. I can hear crashing and exploding all around me!
+113167	This place is... unacceptable.
+113168	This life, it... it stretches me to the limit.
+113170	You know, there is nothing overly positive to say...
+113177	Don't tell me you consider yourself truly satisfied with this.
+113164	A little savoir vivre! Is that asking too much?
+113172	Well, I am used to more amenities.
+113169	Not the center of the world, but I don't demand that, either.
+113171	There are no capital problems, if that is what you are alluding to.
+113173	A little... boring here, don't you think?
+113174	Ordinary.
+113175	Living here has some merit. Some.
+113176	Well, I haven't complained, have I?
+113178	Presentable, at least.
+113179	So, my investments did pay off.
+113180	Am I smiling? Of course!
+113181	It is a good life here, certainly.
+113182	Well, your city leaves little to be desired.
+113183	Just you wait. In a few years, this might be the place to be.
+113184	Oh, I like investing in your city. I can see how it benefits everyone.
+113185	I have apartments in many cities around the globe. But why leave?
+113186	Decay of urban culture? I see nothing of that sort around here.
+113187	I am hard to please, so you should feel proud.
+113188	You're on the right path, I can say that much.
+113189	I saw the greatest of all cities... well, actually I'm looking at it right now.
+113190	I may be dressed for success, but you seem to be made for it!
+113191	I know a rainmaker when I see one. When you're around, I always carry an umbrella.

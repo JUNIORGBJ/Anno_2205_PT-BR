@@ -1,0 +1,316 @@
+117467	Mova os materiais raros coletados de "Anno 2205 - Asteroid Miner" ou Club Rewards para sua corporação atual?
+100194	Pular
+117744	Olá.
+100581	Você realmente quer sair do "Anno 2205"?
+100582	Sair do Jogo
+108574	Retornar ao Jogo
+116443	[LOGISTICICON_RESIDENCE 0][LOGISTICICON_RESIDENCE 1]
+116444	[LOGISTICICON_FACTORY 0][LOGISTICICON_FACTORY 1]
+119928	Erro!
+119929	Erro desconhecido.
+119985	Carregando...
+120749	Cancel Corporation Creation
+120750	Do you really want to cancel corporation creation?
+120788	Tem certeza que deseja aplicar as configurações padrão?
+119986	Novo Dono
+120789	Aplicar configurações padrão
+100731	Player vehicle
+100732	Enemy vehicle
+100733	Enemy structure
+100734	Destructible structure
+100737	Vehicle creator
+100735	Strategic target
+100738	Collectable object
+102715	Allied vehicle
+105090	Neutral vehicle
+105806	Object for assignment
+119982	Destructible storage
+100754	Straight
+100755	Arc
+100707	Mission failed!
+100706	Mission accomplished!
+100715	Mission Objective
+100716	You failed to achieve the objective:
+100717	<font face="Roboto Medium">Leave</font> Mission
+100718	Rewards Summary
+100720	Hitpoints
+102675	Current rewards:
+102679	Results
+102681	Select All
+102725	The Orbital Watch turns the Arctic sea into a battlefield. From a secret outpost concealed between glaciers and pack ice, the terrorists send out armed ships. Their mission: Forage along the Arctic Custodian trade routes and block the transport of the precious polar resources needed by the Global Union space program.
+102861	Max
+102932	<font face="Roboto Medium">Return</font> to Mission
+105659	<font face="Roboto Medium">Leave</font> Mission
+116693	Military Level
+116749	Assignment was not accepted
+116827	Your Military Level is now XX!
+117375	Upgrade your ships here
+117967	Padrão
+117968	Avançado
+117969	Especialista
+100151	Produz
+100396	Gera
+100466	Mão de Obra
+100397	Fornece
+100426	Conexão de tráfego
+100152	Custos
+100736	Fertilidade necessária: [FERTILITY]
+102712	Produção por minuto
+102713	Consumo por minuto
+100170	[GOODS_CONSUMPTION_AMOUNT] t
+105209	< 1
+105383	Custos de Construção
+105537	Para Desbloquear
+119912	Empregados
+105628	Detalhes da construção
+105629	Casas para até [CONSTRUCTION_RESIDENTS_CAPACITY] empregados
+119877	Fornecer Mão de Obra
+119876	Gerar receita
+108516	Requer construção costeira
+108517	Requer construção montanhosa
+108518	Requer um edifício especial
+115457	([KEYBINDING game.startBuild(100009)])
+116905	<font [GUI_COLOR Green]>Na última reunião do Conselho, foi escolhida uma redução de preço</font>
+120416	[GUIDNAME 120589]
+121039	Satisfazer
+121146	[GUIDCATEGORY]
+121237	Licenças de construção restantes
+121663	Operada por
+121664	Limitações
+102987	Área deshabitada
+102988	Custos de reclamação
+121311	Custos totais
+121161	Taxa de expansão
+102664	[COMMANDO_VEHICLE] é muito longe para reivindicar esta zona de construção.
+102665	O próximo espaçoporto precisa ser melhorado
+105759	Você primeiro tem que reivindicar uma das ilhas vizinhas.
+121140	You must gain access to the adjacent building ground first
+121177	The expansion fee is based on your corporation level and islands already you possess.
+122109	Island is occupied by the Orbital Watch
+102969	Construction Costs
+102970	Construction Costs
+102971	Finalization costs
+102974	Upgrade
+121152	Drainage Costs
+103127	Spaceport Details
+103128	Transfer
+104993	Committed Workforce
+103131	Incoming Transfer Routes
+103132	Outgoing Transfer Routes
+103133	Supported Warehouses
+103134	Storage Capacity
+103140	Upgrade time left:
+117858	Upgrade duration
+115459	([KEYBINDING session.upgradeSelected(0)])
+103142	Ready for finalization
+120017	State of the Process
+120025	Completion
+120026	[UPGRADE_PROGRESS]%
+120028	Não há recursos suficientes para iniciar o aprimoramento
+120029	Não há recursos suficientes para continuar o aprimoramento
+120030	Não há recursos suficientes! O processo de construção diminuiu.
+120039	[UPGRADE_INPUT_MAX]
+120040	Entrada Ótima
+121055	Aprimoramento manualmente interrompida
+121056	Tempo restante
+121148	Not enough resources to initiate the construction process
+121150	Complete the process using Rare Materials
+108879	Entrada Ótima
+114449	Infinito
+120072	Additional input required
+121160	Unlock [GUIDNAME] in the [PRODUCT_REGION_NAME] Region.
+121543	Recursos naturais são convertidos pelo reator. Sua oferta é infinita.
+108880	Saída ótima
+120428	Fornece
+120433	Consome
+120434	<font [GUI_COLOR BlueLight]>Produz [GUID_BUILDING_OUTPUT_TEXT]</font>
+119997	Taxa de produção
+120071	Efeitos do módulo
+121497	Produção Padrão
+121558	Entrega de Produção
+119998	Manutenção Padrão
+119999	Efeitos do módulo
+120000	Custo de distância
+120697	[PRODUCTION_MAINTENANCE_INACTIVE_COSTS]/[PRODUCTION_MAINTENANCE_BASE_COSTS]
+120700	[PRODUCTION_MAINTENANCE_MODULE_EFFECTS]
+120702	0/[PRODUCTION_MAINTENANCE_LOGISTIC_DISTANCE_COSTS]
+105379	Limite do tipo de módulo atingido
+109499	Efeitos do módulo
+109536	Custos de Construção
+119752	Limite do módulo
+119753	Módulos de produção
+119754	Módulos de manutenção
+120928	Módulos de Tundra
+119755	[PRODUCTION_OBJECT_PRIMARY_MODULE_COUNT]/[PRODUCTION_OBJECT_PRIMARY_MODULE_MAX]
+119756	[PRODUCTION_OBJECT_SECONDARY_MODULE_COUNT]/[PRODUCTION_OBJECT_SECONDARY_MODULE_MAX]
+120929	[PRODUCTION_OBJECT_TUNDRA_MODULE_COUNT]/[PRODUCTION_OBJECT_TUNDRA_MODULE_MAX]
+120065	Custos de Manutenção
+120942	<font [GUI_COLOR GreyLight1]>Shift-click to construct regular modules</font>
+121165	x2
+120607	<font [GUI_COLOR GreyLight1]>Click to resume production ([KEYBINDING session.getSelectedFactory().toggleStopProduction(0)])</font>
+120606	<font [GUI_COLOR GreyLight1]>Click to pause production ([KEYBINDING session.getSelectedFactory().toggleStopProduction(0)])</font>
+117746	Retomar a produção ([KEYBINDING session.getSelectedFactory().toggleStopProduction(0)])
+117745	Pausar a produção ([KEYBINDING session.getSelectedFactory().toggleStopProduction(0)])
+108881	Produção Ótima
+108882	Produção Reduzida
+108978	Produção Crítica
+108883	Produção Pausada
+108884	Produção Interrompida
+116597	Edifício inoperante
+108886	Entrada de mercadorias insuficiente
+114571	Falta de Mão de Obra
+114573	Energia necessária
+114574	Logística inadequada
+120075	Nenhuma produção saindo
+120076	Produção esta reduzida
+120418	Módulos HQ
+120544	Custos de manutenção muito altos
+120639	Entrada de mercadorias muito baixa
+120640	Faltando energia
+120641	Falta de Mão de Obra
+120642	Falta logística
+120777	[GUIDNAME] faltando neste setor.
+120696	Produção em pausa.
+120704	Sem custos de manutenção porque a produção pausa
+121591	[GUIDNAME] faltando nesta área.
+103214	Fornecem
+108885	Saldo do setor
+120432	<font [GUI_COLOR BlueLight]>Forneça Energia</font>
+105104	Build a mountain facility here to access underground resource deposits.
+105921	Build a coast facility here to access underwater resources.
+102793	Build a bridge to claim an Island and gain access to new building ground
+105922	Establish a Warehouse here to gain access to the Island.
+117874	Establish a Warehouse here to gain access to the area.
+105923	Establish a Lunar Warehouse here to gain full access to the crater.
+105989	Finish this bridge and connect it to your traffic network to access a new construction area.
+105993	Conclua esta ponte para reivindicar uma nova zona de construção.
+106000	Interrompe a construção da ponte.
+113967	[LOGISTIC_TRANSPORTER_TYPE] available
+113968	Detalhes comerciais
+116910	Transportador
+115428	Drones de difusão
+115429	Patrulhas de segurança
+115430	Unidades de mobilidade
+115431	Robôs de entretenimento
+115432	Unidades de ajuste
+115433	Robôs médicos
+115434	Veículos de neve
+115435	Drones de vigilância
+116858	Calor
+114928	Recompensas
+116436	Detalhes do gerador de escudo
+116437	Geradores de escudo oferecem saída contra radiação cósmica e chuvas de meteoros, algo que as residências não podem fornecer por conta própria.
+116600	<font [GUI_COLOR BlueLight]>Gerando [GUID_BUILDING_OUTPUT_TEXT]</font>
+116601	Armazém cheio
+120595	Gradualmente produz pequenas quantidades de [GUID_BUILDING_OUTPUT_TEXT].
+120622	The material is stored locally, to be picked up and transfered to your stock.
+120625	<font [GUI_COLOR OrangeHighlight]>Awaiting completion of the next sector project phase</font>
+120626	Expands on the amount of transporters that can be deployed on every island at the same time
+120627	Fornece energia adicional a este setor.
+120628	Dê mão de obra extra para administrar suas fábricas.
+121001	Maior capacidade de fornecimento
+121002	Manutenção da sede
+120997	Aumenta a capacidade de fornecimento
+120998	Fornecimento básico
+120999	Fornecimento de Módulo
+121000	Fornecimento Total
+121501	Empregados nas proximidades
+121502	As residências circundantes determinam a eficiência deste edifício.
+121503	Current Use
+121512	[GUIDNAME 121510] / [GUIDNAME 121511]
+121504	Effectiveness
+121505	Increase the buildings' effectiveness by attracting more employees to its vicinity.
+121506	This building grants additional promotion rights for your employees.
+121507	Current Benefits
+121508	Additional Promotions
+121679	[BONUS_ASCENSION_RIGHTS_SELECTED] / [MAX_BONUS_ASCENSION_RIGHTS_SELECTED]
+103317	Basic island supply
+105064	Custos de Manutenção
+113979	Slots disponíveis
+102852	Dispara mísseis.
+108302	Dispara um míssel devastador.
+102853	<font [GUI_COLOR GreyLight1]>Clique para definir o alvo</font>
+102854	Repara barcos danificados
+108303	Envia uma bóia para reparar os barcos danificados.
+102855	<font [GUI_COLOR GreyLight1]>Clique para definir o alvo</font>
+102856	Chama uma frota submarina aliada.
+108304	Chama um submarina aliada.
+102857	<font [GUI_COLOR GreyLight1]>Clique para definir o alvo</font>
+102859	Ativa escudos de proteção e intensificadores em todos os barcos.
+108305	Ativa os escudos de proteção e os intensificadores de barril para todos os barcos
+102858	<font [GUI_COLOR GreyLight1]>Clique para definir o alvo</font>
+105772	Evita o movimento e danifica lentamente todos os barcos.
+108306	Evita o movimento e danifica continualmente todos os barcos.
+105773	<font [GUI_COLOR GreyLight1]>Clique para definir o alvo</font>
+105774	Danifica os navios e os afasta.
+108307	Danifica navios e os aproxima.
+105775	<font [GUI_COLOR GreyLight1]>Clique para definir o alvo</font>
+102834	[SPECIAL_ACTION_NAME]
+102835	([SPECIAL_ACTION_SHORTCUT])
+102838	[SPECIAL_ACTION_DESCRIPTION]
+102839	[SPECIAL_ACTION_RESOURCE_COST_TEXT] [SPECIAL_ACTION_RESOURCE_COST]
+102958	Costa de [INLINE_ICON 1001567] [GUIDNAME 1001544]
+102957	Uso disponível:
+102840	[SPECIAL_ACTION_USAGE]
+102841	[EVENT_VEHICLE_NAME]
+102843	[EVENT_VEHICLE_CLASS]
+102844	([EVENT_VEHICLE_SHORTCUT])
+102845	Pontos de Impacto: [EVENT_VEHICLE_HITPOINTS]
+102846	<font [GUI_COLOR GreyLight1]>Clique para selecionar</font>
+102847	NO LOCA InfoTip EventVehicle Usage Text 2
+102934	[EVENT_OBJECT_DESCRIPTION1]
+102935	[EVENT_OBJECT_DESCRIPTION2]
+102936	[EVENT_OBJECT_DESCRIPTION3]
+102952	[INLINE_ICON 1001567] Fuel
+102953	[MANA_RESOURCE_CURRENT]/[MANA_RESOURCE_MAX]
+102955	Selecionar veiculo
+102956	([KEYBINDING session.selectNextObject(False)])
+105967	Finalizar esta missão agora. Voçê permanece com as recompensas já ganhas.
+108608	Finalizar Missão
+121187	Este barco foi destruída. Você recebeu um substituto sem classificação.
+103435	Fornece os alimentos orgânicos de que seus empregados precisam.
+103438	Fornece fibras de linho para continuar o processamento.
+103439	Fornece bio-resinas para continuar o processamento.
+103440	Fornece frutas para continuar o processamento.
+103441	Fornece algas para continuar o processamento.
+103442	Fornece vinho para continuar o processamento.
+103443	Utiliza soja para produzir vitela e continuar o processamento.
+103444	Fornece soja para o processamento.
+103445	Utiliza algas para produzir células sintéticas e continuar o processamento.
+103446	Utiliza células sintéticas para produzir os rejuvenescedores que seus empregados pedem.
+103447	Utiliza bio-resinas e silício para produzir circuitos sinápticos e continuar o processamento.
+103448	Fornece a água de que seus empregados precisam.
+103449	Utiliza silício para produzir microchips e continuar o processamento.
+103450	Utiliza microchips e fibras de linho para produzir o InteliRopa que seus empregados pedem.
+103451	Utiliza microchips e prismas de espectro múltiplo para produzir os replicadores que seus empregados pedem.
+103452	Utiliza células sintéticas e circuitos sinápticos para produzir os andróides que seus empregados pedem.
+103453	Utiliza arroz para produzir os alimentos orgânicos que seus empregados pedem.
+103454	Utiliza frutas para produzir as bebidas vitamínicas que seus empregados pedem.
+103455	Utiliza arroz e peixe para produzir os alimentos de qualidade que seus empregados pedem
+103456	Utiliza carne e vinho para produzir os alimentos luxuosos que seus empregados pedem.
+105852	PARA ELIMINAR
+103457	Utiliza bio-resina para produzir biopolímeros usados ​​para construção.
+103458	Utiliza molibdênio para produzir biopolímeros usados ​​na construção.
+103459	Utiliza diamantes para produzir prismas de espectro múltiplo e continuar o processamento.
+103460	Fornece nano-cerâmicas para o processamento.
+103461	Fornece diamantes para continuar o processamento.
+103462	Fornece silício para continuar o processamento.
+103463	Fornece cobalto para continuar o processamento.
+103464	Fornece deutério para continuar o processamento.
+103465	Utiliza molibdênio para produzir processadores QUbit e continuar o processamento.
+103466	Utiliza molibdênio para produzir os implantes neurológicos de que seus empregados pedem.
+103467	Utiliza processadores QUbit e supercoolers para produzir os computadores quânticos de que seus empregados pedem.
+103468	Fornece peixes para continuar o processamento.
+103469	Fornece corais de alto mar para continuar o processamento.
+103470	Utiliza corais do fundo do mar para produzir os estimulantes de que seus empregados pedem.
+103471	Utiliza peixes para produzir os alimentos enlatados de que seus empregados pedem.
+103472	Utiliza alumínio para produzir espuma de metal usada para construção.
+103473	Utiliza metano e hidrato de deutério para produzir supercoolers e continuar o processamento.
+103474	Utiliza fibras de linho e células de energia de fusão para produzir as estruturas térmicas de que seus empregados pedem.
+103475	Fornece hidrato de metano para continuar o processamento.
+103476	Fornece molibdeno para continuar o processamento.
+103477	Fornece alumínio para continuar o processamento.
+103478	Utiliza elementos raros da Terra para produzir os intensificadores biológicos de que seus empregados pedem.
+103479	Utiliza gelo lunar para produzir o oxigênio que seus empregados pedem.
+103480	Utiliza hélio 3 e deutério para produzir células de energia por fusão e continuar o processamento.
+103481	Utiliza gelo lunar para produzir colheitas lunares e continuar o processamento.

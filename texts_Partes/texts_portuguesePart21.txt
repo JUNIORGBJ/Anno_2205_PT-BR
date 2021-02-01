@@ -1,0 +1,316 @@
+111169	Good to know we have one supporter in this area, right?
+111170	An Arctic wholesaler? His cooperation could prove profitable.
+111167	So you decided to keep working with Papadakis. Well, don't say I didn't warn you.
+111168	I get it. I'll keep my nose out of your business with Papadakis from now on.
+111161	I can't always cover up your... little deals with Papadakis. You know that.
+111162	My superiors are starting to ask questions about you and Papadakis.
+111163	Be careful, your dealings with Papadakis could get us in to hot water.
+111160	Papadakis could be trouble. You should be careful.
+111233	Buhari seems be very professional. You're right about checking the possibilities for cooperation.
+111234	Saayman is the world's biggest food supplier. I'm sure we will have more to do with them in the future.
+111235	Saayman is a company with a very political agenda. Don't allow them to exploit you.
+111237	Saayman is a very powerful company, so helping them reflects positively on you.
+111241	Lei Sheng is the leading international energy supplier. No wonder they're making advances to the competition.
+111244	Be careful. I'm sure Lei Sheng has reasons for working so closely with us.
+111245	It seems to be true that Lei Sheng's star is waning. Why else would they outsource so many projects?
+111246	May Tian, of course! She used to work for a number of intelligence services. Beware of corporate espionage.
+111247	One thing is certain, Lei Sheng needs us to get their business straight. This may be useful one day.
+111248	Well, if Tian really is spying on us, at least you had a good look into her company as well.
+111249	Usoyev Incorporated is the old pro of the chemicals industry. They will be a valuable partner.
+111252	Believe me, Volodin knows just how to handle people. Don't mistake his friendliness for altruism.
+111254	You have a good rapport with Usoyev. But don't let them take advantage of you.
+111255	So many joint projects with a company that's been around for so long... That just goes to show that you can even cope with the Big Five.
+115446	A cold fish. But I'm glad you haven't given up diplomatic efforts.
+115447	The Arctic Custodians keep our planet habitable. They deserve our support.
+115449	Dr. Young offers your corporation more and more Assignments. He seems to be thawing!
+115450	The Custodians are withdrawn, yes. But they never forget a favor.
+115451	You should keep in Dr. Young's good books. It'll help you gain a better foothold here.
+115452	Dr. Young is the loudest critic of privatization in the Arctic. But thanks to you, he seems to be starting to recognize the benefits.
+115454	He doesn't show it, but I'm sure Dr. Young is grateful for all the things you did.
+115455	Your helpfulness has brought us closer to the Custodians than politics ever could.
+116762	So, an agent of the Big Five approached you. Not surprising. The Big Five are the most influential corporations on Earth. And you are at the forefront of the Lunar Licensing Program. Don't let them fleece you.
+116761	So, an agent of the Big Five approached you. Not surprising. The Big Five are the most influential corporations on Earth. But they're exempt from the Lunar Licensing Program. Don't let them fleece you.
+111257	They got you! Call the mission off!
+111258	And you were so careful... too bad.
+111259	Maybe we should have approached them in the open right away.
+111260	You seem to be getting close.
+111261	It should be somewhere around here.
+111262	I'm sure it's not far away.
+111263	Very good! You found it!
+111264	This must be what we're after.
+111265	You have an good eye.
+111266	May I make a suggestion? I think we should proceed as follows...
+111267	I have some clarifying information for you...
+111268	Our protocol calls for the following in cases like this...
+111269	Now let's talk about the next few steps...
+111270	I hope this helps you.
+111271	See? It's working now...
+111272	Good. We should keep this procedure in mind in future.
+111273	Very good. We should standardize the process.
+111274	A consignment from your asteroid mining drones.
+111275	External delivery. Just came in from the asteroid belt.
+111276	It seems your asteroid mining operation is making a profit.
+111277	No doubt about it, your company has a bright future!
+111278	The competition had better keep an eye on you!
+111279	I'm convinced. Your company will be one of the pioneers of the Space Age.
+111280	Congratulations on such a rapid rise!
+111281	Your rapid increase in importance should be a warning to the Big Five!
+111282	Your corporation just keeps growing! The Big Five can't ignore this much longer.
+111283	You'll be one of this century's most remembered faces!
+111284	I must say, your progress is remarkable.
+111285	My superiors are truly impressed by your accomplishments. So am I.
+111286	An ideal location for the next branch office. Well chosen!
+111287	Make sure everything that happens on your new island conforms to regulations.
+111288	Paperwork's done. It's yours!
+111289	Very good! The Custodians already gave you clearance!
+111290	Good thinking! Another arctic branch office will certainly prove useful.
+111291	Of all the chunks of ice out here I would have chosen this one, too.
+111292	The Big Five are reaching for the Moon. And you're leading the way!
+111293	Good thinking, making room now for more colonists.
+111294	Approved. This crater is officially yours.
+111295	Your finances are in free fall. Time to act.
+111296	Our shareholders are getting nervous about your financial status.
+111297	Our guidelines recommend radical cuts during a financial crisis like this.
+111298	Your request for another loan was declined. You must act now...
+111299	You're running your business way into the red, here...
+111300	If you don't do something right now, your corporation will go broke! Understand me? Broke!
+111301	Time is running out. You have to improve your financial situation right away!
+111302	Your reserves are nearly depleted! If you don't do something immediately, you'll go broke.
+111303	We've granted you additional resources. Please use them sparingly.
+111304	Our investors want to keep your project going. In spite of your financial difficulties.
+111305	Don't ask me how I arranged this, but you will be granted a special loan.
+111306	Official funding. Let's hope it's enough to rebalance the books.
+111308	You have your finances well in hand after all.
+111309	I told them not to write you off prematurely!
+111310	The fact you managed to turn this around gives me new hope.
+111311	No one should doubt your foresight.
+111312	Back in the black. No one should have doubted your financial expertise.
+111313	Even back in college, I wanted to work in politics. I just wanted to leave my mark on the world, make peoples' lives better... Well, in hindsight I should have joined a private enterprise to fulfill these goals.
+111314	This space program regulations catalog is so overcomplicated... don't get me started.
+111315	Everyone claims the Big Five don't have a political agenda. But when you see how they lobby our committees, I find that hard to believe.
+111316	The Lunar Licensing Program? Likely the most far-sighted program of all time. And it only took 16 years to be implemented…
+111317	Me? Well, there's not much to say. I go quad biking, I like dogs and those old 2D movies, rats are gross and... wait, are you taking notes?
+117674	Streets... well, there are streets for many reasons. First there's the magnetic inductors keeping the Aeromobiles in the air. But more importantly, the conservative parties in the Union don't want them to be done away with.
+111318	It was only a matter of time before the LEC lost their monopoly. Lunar resources are simply too important these days…
+111319	My employer? They're great, really... ah, okay. Between us, I have the feeling I've been sidelined here. But why complain, it gave me the chance to work with you.
+111320	Working as a representative for the Orbital Affairs Ministry... I remember times when you were laughed at just for mentioning it. But now, with the Lunar Licensing Program, the job has become a lot more prestigious. And influential.
+111321	We support the Arctic Custodians in their duties as protectors of the climate. But the diplomatic wrangling needed to get them to open their territories to us... you have no idea!
+111322	The world moves faster and faster every day. Sometimes you have to take a moment and quietly look at what you've accomplished. Like... the amazing skyline built in your name.
+111323	And so time goes by. I wish your corporation a prosperous new year. May all your projects pay off.
+111324	The year is still young and you're already back in the office. That's dedication!
+111326	A spooky Halloween to you! I hope you don't mind me not wearing a costume.
+111327	I don't know if you celebrate them, but just in case... Happy holidays!
+111328	Happy Easter. And no, I didn't hide any baskets in the head office.
+111329	I would like to cordially congratulate you on your birthday! All the best wishes!
+115464	Now your corporation has grown, you've been invited to take part in the upcoming global industry summits.
+116604	I'm sure you have many questions. If you want more information on the assignments or practices of the Lunar Licensing Program, just come to the Global Union headquarters.
+117532	Welcome to the Global Union headquarters. I've compiled you an overview on all the tasks and requirements of the space program. Have a look if you like.
+117533	All the building options, production sequences, staff requests... that can be overwhelming. But A.D.A.M. operates a database, where you can access all relevant information on these things.
+117534	The Global Union files video footage from all the major steps of the Lunar Licensing Program. It's all accessible from here.
+116818	You didn't tell me you're investing in an asteroid mining project. Very foresightful. The first delivery already came in.
+117522	A new delivery from your asteroid mines is here. I had it transferred to your storage.
+117523	This just came in from your asteroid mining facilities.
+117524	Cargo shuttles from your asteroid mines have arrived. I hope it is a good yield.
+117525	Another delivery from your asteroid mines. It's already unloaded.
+117526	Your asteroid miners brought in a few cargo containers. They were send to your storage.
+117527	On part of the Global Union, you're free to expand into other sectors. It might be about time.
+117528	Your corporation is growing at a steady pace. You should consider expanding into other sectors.
+117529	Some of your rivals have financial problems in their sectors. Maybe you can renegotiate the usage rights, if you get my drift.
+117530	Opening locations in additional sectors will improve your prospects on the market. Think about it.
+117531	Even the richest corporations have to part from their sectors sometimes, to remain in the black. You shouldn't miss those opportunities.
+117655	You're becoming a global player. You should think about expansion. I'm positive some of your competitors will leave their sectors to you, if you pay them off.
+117656	Congratulations on your new territory. I don't know if you registered this sector takeover properly. But we don't have to be that exact, right?
+116603	Oh, I see you have obtained a few tons of rare materials. Those are essential for setting up an advanced modular industry. Put them to good use in your production facilities.
+117657	It's advisable you keep your production machinery up to date. Industrial modules are the leading edge currently.
+117658	To cope with the competition, you must optimize your production processes. Modules are a great way to do that!
+117659	In the industry, it's all about optimization. Modules can help keep costs low and productivity high.
+116605	Before I forget, I persuaded my superiors to assign you a ship from the Global Union fleet. It awaits your orders.
+116758	Your corporation's influence is undeniable. The Global Union grants you elective franchise at the upcoming global industry summit. Your vote could change the future of the economy.
+117141	This spot here is perfectly suited to support a bridge to the other side. Building one here will give you access to new construction ground.
+117660	Good news! You have the official permit of the Global Union to build bridges at designated spots.
+117661	Your command ship. Officially for Lunar Licensing Program tasks only. But if you use it for your own business assignments too, I won't be hypercritical.
+117675	Very well. Help others to help yourself. Business assignments can be very profitable in terms of materials and resources.
+116606	Good, you have bought yourself some time. Now straighten your balance out.
+116609	Bankruptcy is avoided for now. But you still have to bring your balance into line.
+116610	Your finances seem to be recovering. That's a start.
+117138	This requires your attention.
+117139	This is important. Please have a look at it.
+117140	Please, direct your attention here for a moment.
+117142	You did have the best intentions, but you're well on your way to bankrupcy again.
+117143	Your creditors are unimpressed by your measures. Your insolvency is under discussion again.
+117639	If you meant to get back into the black by that, I'm afraid you achieved the contrary.
+117662	I thought you'd regain your feet. But you're again threatened by the liquidator!
+117188	You have change requests?
+117189	Oh, I shall adjust something?
+117190	I know. All those forms. Errors happen.
+117191	It's just paperwork, really. Nothing to ponder over long.
+117192	Going through everything, yes? Alright, I won't rush you.
+117193	Don't want to be rude, but we have a tight schedule.
+117593	I can't fail to be impressed. Even the mighty Big Five are just small fry for you. The world economy is firmly in your hands.
+117647	It wasn't only a great year for Global Union, but for all humanity.
+117648	Ladies and Gentlemen, I think we all agree. The Orbital Watch is still a thread for the free world!
+117649	Believe me, the Global Union is working on a solution for the LEC fugitive situation.
+117650	Everyone, I thank you for your participation in the Lunar Licensing Program!
+117651	I may not give away any details, Lauren. The new program is still under tight wraps.
+117652	Yes, we will continue to work together with this corporation.
+117653	If my party backs me up, I might be standing for election. I'm considering it.
+117654	This is Hawk1! Position is 4.17, 8.25! Preparing for touchdown!
+117663	I tried everything, but my superiors decided not to take any more risks. I'm sorry, but I have to revoke your participation in the Lunar Licensing Program.
+117664	I'm sorry. But the risks are simply too high. I fear your corporation would fail with the pressure of the Lunar Licensing Program on it. I have no other choice but to revoke your participation.
+117665	I know, it's a lot of things to keep in mind. But A.D.A.M. compiled you a database where you can access all the information you need.
+117666	No energy, no industry. At the moment, you're not providing enough.
+117667	Your facilities are consuming more energy than you are providing. This reduces their productivity.
+117668	Your industry suffers from a shortage of workforce. This impairs productivity.
+117669	Your logistics network doesn't meet the demands of your industry. Your facilities are less productive that way.
+117670	You should consider investing in modular industry facilities. Give it a try.
+117671	As I see it, your residents aren't satisfied with their life here. Give them material incentives.
+117672	Heating is a big topic here in the Arctic. Put your residents' homes near production facilities. They give off warmth.
+117673	Meteor impacts are a constant thread for your lunar population. Build shield generators to protect them.
+115384	We're ready to proceed. Just say the word.
+115385	Alright. You can take over again.
+115386	Patience pays. Everything is prepared for the next phase.
+115387	I have a golden opportunity for you. Don't pass it up.
+115388	You are being asked for your support. I await your answer.
+115389	There are great plans for this sector. Contact me for details!
+115779	More than ever there are challenges to be faced in this era. What the people need right now is a confident, steadfast leader. And you can help us convey that message.
+115780	We want to commemorate the First Wave taking place a century ago. With the Lunar Licensing Program starting, what better time is there to remind humanity of its potential?
+115781	Building a breathtaking monument is a tremendous responsibility. Beaumont already speaks highly of you and when you're done, I'm sure everyone else will, too.
+115782	Good day to you. Work has started on a project that will lead the way for generations to come. Will you rise to the occasion?
+115783	I knew my trust wasn't misplaced. This is a wise long-term investment, and I'm excited to see how it pays off once the construction has been concluded.
+115784	The foundation is looking good already. If you'll excuse me, I'll be preparing the next phase. You'll be hearing from me.
+115785	Bad news. I am needed elsewhere.
+115786	I'll contact you when time allows. Now, if you'll excuse me.
+115787	Truly a testament to resilience and longevity! I thank you for your cooperation. This is badly needed publicity.
+115788	The monument has definitely become a landmark. The Lunar Licensing Program's popularity has skyrocketed!
+115647	Sorry, but I'm short on time. Anthony Goodwin. Secretary of Pan-Terrestial Commerce. It's my duty to inform you that your company is now listed on the world markets. Come to my office and we'll talk details.
+115648	Welcome to the center of global commerce. As a registered company, you may directly import and export goods at the current world market values.
+115706	Your corporation's value is not to be underated. Make your presence felt on the world markets.
+115716	There are many opportunities to be seized on the world markets. Do not miss them.
+115717	A CEO such as yourself should show their presence on the world markets every now and again.
+115725	Import and export are the Alpha and Omega of business success.
+114171	Excellent.
+114172	Well done.
+114173	Very good.
+114174	Ahhhh. Good, good.
+114175	That's some good news, for a change.
+114176	One less problem.
+114177	Well, we can close that file now.
+114178	One less distraction. Very good.
+114179	Good, that's one less thing to worry about.
+114180	Happy to hear that's over.
+114181	Good to know that's settled.
+114182	Now that it's over, maybe the markets will stabilize.
+114183	Good to see that finished.
+114184	I must admit, you did live up to our expectations.
+114185	So, I see you took care of it.
+114186	Your solution made sense. Refreshing.
+114187	Now that turned out well.
+114188	An economical solution. You do good work.
+114189	Good thinking. I like the way you work.
+114190	Good job! You did it without bankrupting us.
+114191	Sam told me you do good work. Glad to see she was right.
+114192	You were spot on with that one.
+114193	You think outside of the box and you get it done.
+114194	Oh please! Give me a break.
+114195	Tell me it isn't so.
+114196	Tell me that didn't just happen.
+114197	That is not what I'd hoped to hear.
+114198	Very well, time to look at our contingency plans.
+114199	I was expecting better results.
+114200	Let's hope that doesn't cost us too much.
+114201	Oh, for crying out loud…
+114202	What was that supposed to be?
+114203	That just means more work in the long run.
+114204	Are you trying to ruin our market value?
+114205	You did what? What were you thinking?
+114206	And I had heard so many good things about you...
+114207	Do you have any idea what that just cost us?
+114208	You know, you had every opportunity.
+114209	To put it bluntly, you have wasted valuable resources.
+114210	How am I supposed to increase your net worth when you pull stunts like that?
+114211	I know! You're just testing me, right? Please say I'm right.
+114212	I can only do my job if you do yours.
+114213	You do know we only make money when you succeed, right?
+114214	Wait a second. I just have to finish analyzing these reports.
+114215	Skip the small-talk! Too much going on today!
+114216	So what's the story? I don't have time to waste.
+114217	Anything in particular you wanted to talk about?
+114218	So, what do you want?
+114219	Let me just close this file then you can proceed!
+114220	Let's get to the point, shall we?
+114221	I'm watching the market reports, so be brief.
+114222	I'm listening.
+114223	Yes, come in. What is it?
+114224	I'll get someone onto it.
+114225	I'll see it gets done.
+114226	Of course.
+114227	So be it.
+114228	I know who to talk to.
+114229	Approved. Leave everything else to me.
+114230	Fair enough. I'll support that.
+114231	Just leave it to me.
+114232	Do you mind? That's my responsibility.
+114233	I'll see what I can do for you.
+114234	Rejected.
+114235	Definitely not!
+114236	Oh no, that's not going to happen.
+114237	I don't think so.
+114238	Forget it!
+114239	You don't know how things work around here.
+114240	That completely defies our guidelines. So no.
+114241	I cannot afford that. Politically speaking.
+114242	Sorry. I'm sticking to the guidelines.
+114243	I cannot give you a green light on this.
+114244	The way you handle this will have an immense effect on your market value.
+114245	I have something here that could let you add a lot of value to your company.
+114246	An urgent matter. I'd be glad to assign it to your corporation.
+114247	A volunteer is needed to take care of this issue.
+114248	An assignment from the very top. I hope you don't disappoint us.
+114249	It looks like you're going to be trusted with that.
+114250	So, Sam was right about you.
+114251	Flawless execution. I have to admit that.
+114252	I can see why everybody is talking about you.
+114253	Entrusting you with that was a good decision.
+114254	You are to be complimented on your success.
+114255	Well done. We'll keep you in mind for future assignments.
+114256	Good to know you're willing to do what has to be done.
+114257	You completed that effectively. Not many could.
+114258	That failure will cost us...
+114259	Unacceptable.
+114260	There will be a public outcry, be aware of that.
+114261	You're a little late for a refusal...
+114262	Why didn't you just say no in the first place?
+114263	So much for your oh-so-famous reliability.
+114264	How is the situation developing?
+114265	You have anything to tell me about the assignment?
+114266	Can you give me a status report?
+114267	Don't disappoint us.
+114268	Bring me up to date.
+114269	How far along are you? I have to plan.
+114270	Give me an estimate.
+114271	Can I tell the Senate you are working on it?
+114272	Yes, that's what they look like.
+114273	Yes, that's what I meant.
+114274	Exactly. You know what to do.
+114275	Good, you found it.
+114276	I suppose my description was pretty close. That's it!
+114277	That's the place!
+114280	Now that you know your destination, please proceed.
+114282	Those are indeed the coordinates.
+114283	Right. That's your waypoint.
+114285	That's the place I meant, yes.
+114286	Correct. Now, if you'd just proceed there.
+114287	Yes, that's where you need to go.
+114288	You call that stealthy?
+114289	It's not always about standing out from the crowd, you know.
+114290	Very discreet.
+114291	You're getting close.
+114292	You're close, very close.
+114293	You're approaching the area now.
+114294	You're there. Do it!
+114295	Hmmm. You seem to have a good sense of direction.
+114296	Good, we can trust your instincts. You found it.
+114297	I have more work for you.
+114298	Now that you've laid the foundation. it's time to get down to business.
+114299	So, that's one down and now another one just like the other one.
+114300	It has been decided. You are authorized to use force.

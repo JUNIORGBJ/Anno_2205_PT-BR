@@ -1,0 +1,316 @@
+116803	Configuração Avançada
+116804	Iniciar
+116838	Ativar Modo História
+116839	Desbloquear tudo
+116843	Mão de Obra
+117111	Digite um nome mais curto
+117112	Não use caracteres especiais
+117987	Esta corporação já existe.
+119846	1. Nome da corporação
+119847	2. Logo da corporação
+119848	3. Setor de Inicio
+119849	4. Dificuldade do Jogo
+120372	<font face="Roboto Medium">Opções Globais de Jogo</font> - Pode ser alterado a qualquer momento
+121382	Dificuldade
+121384	Modos de Indústria <font [GUI_COLOR BlueLight]>(Desbloqueado por conseguir domínio da indústria com uma corporação anterior)</font>
+121392	Crescimento dos concorrentes
+121393	Leilões de instalações
+121394	Modo Agrícola
+121395	Modo BioTec
+121396	Modo Eletrônico
+121397	Modo de Energia
+121398	Modo de indústria pesada
+121191	Os custos de administração aumentam com o total de empregados e a quantidade de rotas de transferência. A construção de novos Centros de Distribuição exige uma taxa de expansão que aumente com a quantidade dos já existentes.
+100552	PHENIX ENTERPRISE
+114629	Apagar corporação
+114630	Quer realmente apagar esta corporação?
+119757	Padrão
+100822	Tarefas
+100825	Pedidos opcionais
+100829	Em breve, novos pedidos
+100830	Recompensas
+100831	Completado
+100832	Disponível
+100833	Recompensas coletadas!
+100834	Em andamento
+101031	Objetivos
+102520	[QUEST_ACT_TEXT] - [QUEST_CHAPTER_TEXT]
+102731	Missão obrigatória
+102758	Novo pedido para [GUIDNAME]
+102759	Colete
+103019	Recusar
+103020	Colete
+100823	Doca
+103123	Frota da <font face="Roboto Medium">Earth</font> Fleet
+103124	Frota da <font face="Roboto Medium">Arctic</font> Fleet
+103125	Frota da <font face="Roboto Medium">Moon</font> Fleet
+103179	Detalhes do veículo
+103215	Reparar
+103242	Custo de construção
+103244	Excluir barco
+103245	Criar barco
+103246	Veículo atual
+105165	Gestão de frota
+105166	Investigação militar
+105253	Terra
+105254	Ártico
+105256	Lua
+105760	Aprimorar Frota
+105761	Aprimorar ação especial
+105762	Veículos comerciais e de construção
+105763	Módulos do espaçoporto
+105764	Veículos comerciais e módulos
+117943	Crédito inicial
+117939	Receita
+117948	Liberação de armazém
+117935	Empréstimos de emergência
+117944	Reembolso de custo de construção
+117949	Frequência personalizada opcional
+117953	Recompensas de encargo opcional
+117954	Recipientes ocultos
+117956	Progresso militar
+117959	Realocar edifícios
+121213	Custos inativos
+121214	Tempo de pedido
+117940	Abundante
+117941	Médio
+117942	Pouco
+121138	Escasso
+121184	Escasso
+117937	Condições Fáceis
+117938	Condições Difíceis
+117936	Sem Empréstimos
+117945	Cheio
+117946	Metade
+117947	Nenhum
+121211	Taxa
+117950	Frequentemente
+117951	Normal
+117952	Desligado
+117955	Ligado
+117957	Rápido
+117958	Lento
+121134	Barato
+121135	Moderado
+121136	Caro
+121137	Muito caro
+121215	Sem limite
+121216	Longo
+121217	Médio
+121218	Curto
+121259	Raramente
+121260	Regular
+121261	Freqüente
+103032	Perfil da corporação
+105627	Limite da conta
+105820	Padrão
+105821	Avançado
+105822	Especialista
+121118	Veterano
+106006	<font face="Roboto Medium">Recomendado para construtores</font>
+106007	<font face="Roboto Medium">Recomendado para estrategistas</font>
+106008	<font face="Roboto Medium">Recomendado para experientes</font>
+121185	<font face="Roboto Medium">Recomendado para perfeccionistas</font>
+105828	100.000 Capital Inicial
+105829	Produção do armazém elevada
+105830	Receita por empregado Elevada
+121192	Reembolso total da construção
+121193	Mudança de edifício livre
+121194	Resgate e não falência
+108234	75.000 Capital Inicial
+108235	Produção do armazém regular
+108236	Receita por empregado regular
+121195	Reembolso total da construção
+121196	Custo para realocar edifício
+121197	Resgate e não falência
+108237	50.000 Capital Inicial
+108238	Produção do armazém reduzida
+108239	Receita por empregado reduzida
+121198	Reembolso total da construção
+121199	Custo para realocar edifício
+121200	Não á resgates, falência leva à perda permanente de sua corporação
+117778	Seleção de corporações
+105768	NO LOCA Trader Vehicles
+119964	Dificuldade [DIFFICULTY_NAME_CORPORATION_CREATION]
+119965	Classifica a dificuldade com base nas configurações de privilégio selecionadas atualmente.
+119983	Criar corporação?
+121201	50,000 Capital Inicial
+121202	Produção do armazém reduzida
+121203	Receita por empregado reduzida
+121204	Custa para Demolir
+121205	Não pode realocar edifício
+121206	Não á resgates, falência leva à perda permanente de sua corporação
+120933	Empresa sem nome
+122135	Micro-empresa
+122136	Negócio local
+114487	Empresa-Starup
+114490	Dicas do Informante
+114489	Concorrente Local
+114496	Clientes Favoritos
+114488	Empresa pequena
+122137	Sucesso Surpresa
+114491	Líder Local
+114492	Empresa média
+122138	Secreto
+122139	Produtor de Sucesso
+114493	Concorrente Nacional
+122140	Estrela em ascensão
+114494	Desafio de mercado
+122141	corporação Disruptiva
+114500	Detentor do monopólio
+122142	Líder Nacional
+122143	Sindicato de Produção
+114495	Chefe da corporação
+114498	corporação de Capital
+122144	Mão invisível
+122145	Consorcio Politico
+114503	Empresa modelo
+122146	Sindicato Financeiro
+114504	Esmagador de Cartel
+114497	Empresa icônica
+114505	Substituto do governo
+122147	Modelador de historia
+114502	Mega corporação
+114501	Empresa Interplanetária
+114499	Batedor do mundo
+122148	Sindicato Metanacional
+122149	Acelerador Planetário
+122150	Capitalista Apex
+122151	corporação internacional
+122152	Modelador futuro
+114506	corporação intercósmica
+122153	Acelerador Evolutivo
+122154	Consórcio Planetário
+103034	Total de funcionários necessários para o próximo nível
+103035	Acionar amigo
+103070	Classificação
+114486	Nível
+119984	Pontos de conquista
+120946	Classificação
+103071	Gráficos
+120945	Gráfico desbloqueado
+108438	Votação
+108439	Efeitos atuais
+108957	<li>[GUIDNAME 108962]</li><br /><li>[GUIDNAME 108963]</li>
+108958	<li>[GUIDNAME 108965]</li><br /><li>[GUIDNAME 108966]</li>
+108959	<li>[GUIDNAME 108968]</li><br /><li>[GUIDNAME 108969]</li>
+108960	<li>[GUIDNAME 108971]</li><br /><li>[GUIDNAME 108972]</li>
+108961	<li>[GUIDNAME 108974]</li><br /><li>[GUIDNAME 108975]</li>
+108962	[GUIDNAME 109074] facilities construction cost discount
+108963	[GUIDNAME 109074] goods become cheaper on the world market
+108965	[GUIDNAME 109077] facilities construction cost discount
+108966	[GUIDNAME 109077] goods become cheaper on the world market
+108968	[GUIDNAME 109080] facilities construction cost discount
+108969	[GUIDNAME 109080] goods become cheaper on the world market
+108971	[GUIDNAME 109083] facilities construction cost discount
+108972	[GUIDNAME 109083] goods become cheaper on the world market
+108974	[GUIDNAME 109087] facilities construction cost discount
+108975	[GUIDNAME 109087] goods become cheaper on the world market
+114599	[NOTIFICATION_CHARACTER_NAME] oferece a você para votar nas eleições do Conselho na estação espacial Global Union.
+114600	[NOTIFICATION_CHARACTER_NAME] expressa sua gratidão pelo seu apoio durante o último ciclo eleitoral.
+114601	[NOTIFICATION_CHARACTER_NAME] Sua falta de fé é alarmante.
+115465	[NOTIFICATION_CHARACTER_NAME] Ele quer que você participe dos votos do Conselho para influenciar os Cinco Grandes.
+115466	[NOTIFICATION_CHARACTER_NAME] Te dá boas vindas.
+115469	[NOTIFICATION_CHARACTER_NAME] ele percebe que você ainda não se decidiu.
+115470	[NOTIFICATION_CHARACTER_NAME] incentiva você a exercer seu direito de voto na próxima vez.
+100144	O Conselho
+108284	Módulos
+108285	Descontos
+108288	Voto
+108457	O mandato para a eleição do Conselho termina em
+108459	Os efeitos terminam em
+108503	Módulos marcados disponíveis
+108504	Colete módulos
+108568	Você receberá materiais raros se votar neles.
+108951	Processando dados para o próximo período de votação. Volte mais tarde, por favor.
+108956	Recompensas de votação
+108977	Módulos marcados
+114597	Soborno
+116711	ModulePermitIcon
+116712	MarketPriceIcon
+116713	BuildCostIcon
+108737	Conquistas
+108738	Pontos de Conquista
+108739	Pontos
+108740	Completado em
+120940	Conquistas desbloqueadas
+120990	[ACHIEVEMENT_COUNT_CUR] / [ACHIEVEMENT_COUNT_MAX]
+119728	[INLINE_ICON] [GUIDNAME] [NEWS_TICKER_PRODUCT_ARROW] [NEWS_TICKER_START_COLORED_VALUE_TAG][NEWS_TICKER_PRODUCT_PRICE] [INLINE_ICON 2001001] [NEWS_TICKER_PRODUCT_PRICE_CHANGE]%</font>
+120944	[INLINE_ICON [WORLD_MARKET_EVENT_ACTOR_ICON]] [WORLD_MARKET_EVENT_ACTOR] - [WORLD_MARKET_EVENT_TEXT] - [GUIDNAME] [WORLD_MARKET_EVENT_PRICE_DEVELOPMENT] - [INLINE_ICON] [GUIDNAME] [NEWS_TICKER_PRODUCT_ARROW] [NEWS_TICKER_START_COLORED_VALUE_TAG][NEWS_TICKER_PRODUCT_PRICE] [INLINE_ICON 2001001] [NEWS_TICKER_PRODUCT_PRICE_CHANGE]%</font>
+119729	|
+119730	<font [GUI_COLOR TorquoiseComplementaryLight6] face="Roboto Medium">
+119731	<font [GUI_COLOR Red] face="Roboto Medium">
+119732	[INLINE_ICON 2001998]
+119733	[INLINE_ICON 2001999]
+120331	NewsTicker
+120799	[INLINE_ICON 2002380] NOTÍCIAS DO MERCADO MUNDIAL:
+119897	Aprimoramento disponível
+119898	Não há aprimoramento disponível
+100017	Notícia
+100018	Regiões
+100019	Centro de Tarefas
+100021	Perfil corporativo
+100022	Laboratório
+100024	Docas
+100025	Armazém Global
+100020	Sala de reuniões
+100156	NO LOCA Comércio direto
+100157	NO LOCA Adicionar um item
+100158	NO LOCA Pronto
+100159	NO LOCA Esperando que o jogador esteja pronto
+100160	NO LOCA Comércio
+100164	NO LOCA Selecionar objeto
+100162	NO LOCA Adicionar um item para trocar
+100165	NO LOCA Selecionar a mercadoria
+100166	NO LOCA Trocar este item
+100167	NO LOCA Tipo de produto
+100168	NO LOCA Quantidade
+100169	NO LOCA Restante
+100534	NO LOCA Annolyzer10
+100535	NO LOCA Schneider
+100536	NO LOCA SoyDean000
+100537	NO LOCA ClickSt@cker
+100538	NO LOCA island_hopper
+100539	NO LOCA Global Union
+100540	NO LOCA Roxxeur321
+100541	NO LOCA mel_langert_79
+100542	NO LOCA MisterMinister
+100543	NO LOCA BiLLdaR
+100544	NO LOCA 4NN0-M4NN0
+100545	NO LOCA Barbicain
+100546	NO LOCA M00nwalker
+100547	NO LOCA TwentyTwenty20
+100548	NO LOCA Arctic Custodians
+100727	Create an Offer
+100729	Quantity
+100704	Market rate
+100730	Price
+100145	Search
+100146	Buy Items
+100147	System Offer
+100148	Latest Offers
+100345	Sell Items
+100721	Latest Offers
+100724	My Offers
+100346	Online Market
+100356	Item purchased
+100357	Global Union
+100358	Arctic Custodians
+100359	Orbital Watch
+100560	x [TRADE_ITEM_AMOUNT]
+100698	Create new offer
+100699	Next Corporation Level required
+100700	My Offers
+100701	[TRADE_ITEM_PRICE]
+100702	Duration:
+100703	Collect
+100740	[TRADE_ITEM_HEADLINE]
+100761	Search Offer
+100851	Online Market
+102525	Level [TRADE_SLOT_UNLOCK] required
+102693	Buy Item
+100314	NO LOCA Population:
+100315	NO LOCA Productivity:
+100316	Goods:
+100349	<font face="Roboto Medium">NO LOCATerrorist</font> Attack
+100350	<font face="Roboto Medium">NO LOCAContinue</font> Last Session

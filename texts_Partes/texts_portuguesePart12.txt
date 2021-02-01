@@ -1,0 +1,316 @@
+103482	Utiliza arroz e gelo lunar para produzir os pacotes de subsistência que seus empregados pedem.
+103483	Utiliza Colheitas Lunares para produzir o Alimento Lunar de que seus empregados pedem.
+103484	Utiliza titânio para produzir placas de titânio usadas para construção.
+103485	Utiliza células de energia de fusão e elementos raros de terra para produzir os compensadores anti-g de que seus empregados pedem.
+103486	Utiliza nano-cerâmica e cobalto para produzir robôs de construção usados ​​na construção.
+103487	Fornece hélio 3 para continuar o processamento.
+103488	Fornece gelo lunar para continuar o processamento.
+103489	Fornece elementos raros da Terra para continuar o processamento.
+103490	Fornece titânio para continuar o processamento.
+102766	Fornece energia para abastecer fábricas. </br>A produtividade cai quando as zonas efetivas de vários parques eólicos se sobrepõem.
+105814	"Preocupações com a energia, sumiram com o vento."
+102808	Fornece energia para abastecer fábricas.
+102810	Fornece energia para abastecer fábricas.
+102809	Fornece energia para abastecer fábricas.
+102811	Fornece energia para abastecer fábricas ao consumir hidrato de metano.
+102812	Fornece energia para fábricas de energia consumindo células de energia de fusão.
+102739	Os empregados fornecem créditos e mão de obra em troca de bens de consumo básicos.
+102740	[GUIDNAME 102739]
+102741	Os operários fornecem créditos e mão de obra em troca de bens de consumo avançados.
+102744	[GUIDNAME 102741]
+102745	Os executivos fornecem créditos e mão de obra em troca de bens de consumo sofisticados.
+102746	[GUIDNAME 102745]
+102748	Os investidores fornecem créditos e mão de obra em troca de bens de consumo luxuosos.
+102749	[GUIDNAME 102748]
+102750	Os empregados fornecem créditos e mão de obra em troca de bens de consumo básicos.
+102751	Os cientistas fornecem créditos e mão de obra em troca de bens de consumo refinados.
+102752	Os empregados fornecem créditos e mão de obra em troca de bens de consumo básicos.
+102753	Os oficiais fornecem créditos e mão de obra em troca de bens de consumo refinados.
+105095	Totalmente satisfeitos [POPULATION_LEVEL] podem ser promovidos.
+105496	Os empregados com nível de satisfação superior a 80% estão entusiasmados. Empregados eufóricos podem passar para o próximo nível de carreira.
+105497	Os empregados abaixo de 40% de satisfação ficam com raiva. Empregados furiosos se mudam.
+102707	Fornece serviços logísticos às suas fábricas para manter a produtividade elevada.
+102787	Fornece uma quantidade básica de mão de obra e energia para abastecer um novo assentamento. Todos os edifícios em uma ilha devem ter uma conexão de tráfego com seu depósito.
+102813	Fornece uma quantidade básica de mão de obra e energia para abastecer uma nova colônia. Todos os edifícios em uma cratera devem ter uma conexão de tráfego com seu depósito.
+108546	Aumenta a área edificável em uma cratera.
+117226	Satisfaz todas as necessidades públicas de seus cidadãos. Ideal como Centro da Cidade.
+102779	Satisfaz a necessidade de informação. Coloque-o próximo a residências para fornecer este serviço.
+102780	Satisfaz a necessidade de segurança. Coloque-o próximo a residências para fornecer este serviço.
+102781	Satisfaz a necessidade de mobilidade. Coloque-o próximo a residências para fornecer este serviço.
+102782	Satisfaz a necessidade de entretenimento. Coloque-o próximo a residências para fornecer este serviço.
+102783	Satisfaz a necessidade de provisão. Coloque-o próximo a residências para fornecer este serviço.
+102784	Satisfaz a necessidade de confidencialidade. Coloque-o próximo a residências para fornecer este serviço.
+102785	Satisfaz a necessidade de reparos. Coloque-o próximo a residências para fornecer este serviço.
+102786	Satisfaz a necessidade de cura. Coloque-o próximo a residências para fornecer este serviço.
+105767	Conecta áreas de construção remotas com sua rede de tráfego permitindo o estabelecimento de assentamentos.
+102794	Reduz o número de transportadores necessários para esta fábrica.
+102795	Reduz a quantidade de trabalho necessária para esta fábrica.
+102796	Reduz a quantidade de energia necessária para esta fábrica.
+102797	Aumenta o desempenho geral do local.
+102798	Reduz os custos de crédito investidos na manutenção desta fábrica.
+105380	Alcançado o número máximo de módulos para este tipo.
+109089	[MODULE_SLOT_NAME] aumenta a produtividade das instalações em
+109091	[MODULE_SLOT_NAME] reduz o custo do crédito em
+109092	[MODULE_SLOT_NAME] reduz o consumo de energia em
+109093	[MODULE_SLOT_NAME] reduz a logística necessária em
+109094	[MODULE_SLOT_NAME] reduz as necessidades de mão de obra em
+115377	[MODULE_SLOT_NAME] foi ativado
+116465	Embeleze seu assentamento.
+120871	Embeleze seu assentamento. <br/>Símbolo de como as férias de inverno aproximam seus empregados.
+121433	Concede direitos promocionais adicionais dependendo do número de residências em seu entorno.
+102735	Edifícios residenciais acomodam <font [GUI_COLOR OrangeHighlight]>employees</font> and provide<font [GUI_COLOR OrangeHighlight]>credits</font> and <font [GUI_COLOR OrangeHighlight]>workforce</font>.
+102767	Conecta edifícios e transporta mercadorias. Todos os edifícios devem ter uma conexão com um depósito.
+102768	NO LOCA [DUMMYTAG] extract [DUMMYTAG 2]. They can only be build on a <font [GUI_COLOR OrangeHighlight]>mountain building site</font> in sessions with <font [GUI_COLOR OrangeHighlight]>[DUMMYTAG 3]</font> deposits.
+102772	[NO LOCA DUMMYTAG] cultivate [DUMMYTAG 2]. They can only be build in sessions with a <font [GUI_COLOR OrangeHighlight]>[DUMMYTAG 3]</font> fertility.
+102777	Conselho descr. no menu de construção Produção de material de construção
+102773	NO LOCA [DUMMYTAG] harvest [DUMMYTAG 2]. They can only be build on a <font [GUI_COLOR OrangeHighlight]>coastal building site</font> in sessions with a <font [GUI_COLOR OrangeHighlight]>[DUMMYTAG 3]</font> fertility.
+102774	NO LOCA [DUMMYTAG] gather [DUMMYTAG 2]. They can only be build on a <font [GUI_COLOR OrangeHighlight]>coastal building site</font> in sessions with a <font [GUI_COLOR OrangeHighlight]>[DUMMYTAG 3]</font> deposit.
+102776	As usinas de energia das marés fornecem a <font [GUI_COLOR OrangeHighlight]>energia</font> que as fábricas e edifícios públicos precisam. Eles só podem ser construídos em um <font [GUI_COLOR OrangeHighlight]>zona de construção costeira</font>.
+102754	This residential building can house more <font [GUI_COLOR OrangeHighlight]>employees</font> than its smaller counterpart. It provides <font [GUI_COLOR OrangeHighlight]>credits</font> and <font [GUI_COLOR OrangeHighlight]>workforce</font>.
+109002	Your Building is missing a Connection to the Island's Logistics Network
+105831	"Básico e biótico."
+105832	"O tecido do passado, reinventado."
+105833	"Altamente adhesivo."
+105834	"O gosto do sol."
+105835	"Esta planta é uma maravilha das profundezas."
+105836	"Esta libação mostra sua estação."
+105837	"Carne ao ponto de ossos autênticos."
+105838	"Feijão altamente nutritivo."
+105839	"Substituto para tecidos polivalentes."
+105840	"E amanhã você será como ontem"
+105841	"As mentes aceleradas da bioinformática."
+105842	"Frescura do maior poço da Terra."
+105843	"Grandes inovações vêm em pequenas formas."
+105844	"Confie no seu estilo, você sabe melhor o que combina com você."
+105848	"Impressora de pequeno porte."
+105849	"Refutação diligente da singularidade da humanidade."
+105850	"O básico da biótica."
+105851	"Bem-estar nas bolsas."
+105853	"O gosto que vinha do frio."
+105854	"Prove o gosto da nostalgia."
+105856	"Porque o plástico é uma coisa de 2070."
+105857	"Supremo, superior, superaleaciones!"
+105858	"Continue brilhando, diamante de alta tecnologia."
+105859	"Para máquinas de alta precisão."
+105860	"Os melhores amigos de um investidor."
+105861	"Don't be silly, use silicon!"
+105862	"A unique kind of blue."
+105863	"When regular water is not enough."
+105864	"Quantum power, toenail-sized."
+105865	"A different pair of eyes."
+105866	"The breakthrough to a new era of computing."
+105867	"Half extinct, fully delicious."
+105868	"Medicine from the icy rifts."
+105869	"Three a day keep the doctor away."
+105870	"Tidbits from the tin."
+105871	"The foam that builds your home."
+105872	"Arctic cold, destilled for home use."
+105873	"This winter's hottest fashion statement."
+105874	"Burning ice, what else is there to say?"
+105875	"Unutterably useful."
+105876	"Your metallic allrounder."
+105877	"Evolution through superior technology."
+105878	"Quality you can breathe."
+105879	"Unlimited energy in hand-held form."
+105880	"Food from the lunar garden."
+105881	"Food reduced to its basics."
+105882	"Real meals for real pioneers."
+105883	"Guaranteed comet-proof."
+105884	"Oh gravity, thou art a portable device."
+105885	"Builder's trusted tools."
+105886	"The fuel of the future."
+105887	"Frozen life."
+105888	"So rare that we have to search the stars."
+105889	"Withstands any environment."
+116772	Improved command ship with better armor and missiles. Slightly increases the fuel bar of your fleet.
+116773	Battle-hardened command ship with striking missiles and formidable defense. Increases the fuel bar significantly.
+116774	A command ship of the highest honors. Hardly matched in both offense and defense. Adds a large amount of power by default.
+116775	An armored ship that is harder to defeat, equipped with faster torpedoes that deal more damage against vehicles.
+116776	Durable, armored ship with improved plating. It fires its Torpedos even faster to deal bonus damage to vehicles.
+116777	A nearly indestructible armored ship, plated with experimental nanomaterials. Its torpedoes are devastating to enemy vehicles.
+116790	Resilient catamaran with more destructive chain sparks, which greatly damage all enemies nearby.
+116791	Vastly improved Catamaran rapidly firing chain sparks to damage several enemies at one go.
+116792	The most powerful Catamaran, armed with unavoidable chain sparks. It deals enormous damage to all enemies in its vicinity.
+116781	Better plated artillery ship with higher perseverance. Reloads it's mortars noticeably faster to destroy enemy structures.
+116782	Rapid-firing artillery ship which mortars dealing effective damage against enemy Structures. Carbon coating improves its defenses significantly.
+116783	Formidable artillery ship that decimates entire groups of enemies. It razes structures in record time thanks to devastating mortar cannons.
+116778	[GUIDNAME 116790]
+116779	[GUIDNAME 116791]
+116780	[GUIDNAME 116792]
+116787	[GUIDNAME 116775]
+116788	[GUIDNAME 116776]
+116789	[GUIDNAME 116777]
+116793	[GUIDNAME 116781]
+116794	[GUIDNAME 116782]
+116795	[GUIDNAME 116783]
+116784	[GUIDNAME 116790]
+116785	[GUIDNAME 116791]
+116786	[GUIDNAME 116792]
+102944	Large command ship that excels in both defense and offense. It's armed with missiles.
+102945	Firepower: High
+102946	No bonus
+102937	Armored, close-combat ship built for enduring enemy fire. Armed with slow torpedos, that deal bonus damage against vehicles.
+102938	Firepower: Low
+102939	Bonus vs. vehicles
+108359	Fast but fragile catamaran attacking with experimental chain spark projectiles, which branch off to hit multiple enemies.
+108360	Firepower: Medium
+108361	No bonus<br />Hits multiple enmies
+108365	Vulnearable artillery ship that increases a fleet's offense with wide-range mortar, which are effective against Structures.
+108366	Firepower: Highest
+108367	Bonus vs. Structures<br />Hits multiple enemies
+102940	[GUIDNAME 108359]
+102942	[GUIDNAME 108360]
+102943	[GUIDNAME 108361]
+108362	[GUIDNAME 102937]
+108363	[GUIDNAME 102938]
+108364	[GUIDNAME 102939]
+103257	[GUIDNAME 108365]
+103258	[GUIDNAME 108366]
+103259	[GUIDNAME 108367]
+108356	[GUIDNAME 108359]
+108357	[GUIDNAME 108360]
+108358	[GUIDNAME 108361]
+105926	Employees demand specific services. This need for infrastructure can be met by erecting public buildings.
+105930	Workers demand basic supplies. Produce specific consumer goods to meet this need.
+105931	Operators and Executives ask for a wider range of products. Produce specific consumer goods to meet this need.
+105932	Investors want to wallow in luxury. Produce specific consumer goods to meet this need.
+105933	Protectors demand basic supplies. Produce specific consumer goods to meet this need.
+105934	Scientists ask for a wider range of products. Produce specific consumer goods to meet this need.
+105935	Miners demand basic supplies. Produce specific consumer goods to meet this need.
+105936	Officers ask for a wider range of products. Produce specific consumer goods to meet this need.
+105944	InfoTip GlobalBar Descr. Session
+108553	InfoTip Needs Descr. Information
+108554	InfoTip Needs Descr. Security
+108555	InfoTip Needs Descr. Mobility
+108556	InfoTip Needs Descr.
+108557	InfoTip Needs Descr.
+108558	InfoTip Needs Descr. Forbidden Science
+108559	InfoTip Needs Descr. Colony Safety
+108560	InfoTip Needs Descr. Health Care
+110392	Necessidades Básicas
+110393	Necessidades Avançadas
+110394	Necessidades Sofisticadas
+110395	Necessidades Requintadas
+108570	- Houses employees<br />- Provides workforce
+108571	- Generates energy
+114570	<font [GUI_COLOR OrangeHighlight]>Lowered maintenance costs<br />No production output</font>
+115071	<font [GUI_COLOR OrangeHighlightDark1]>Overlapping influence zones</font>
+113527	Construção em Montanhas
+113528	Construção Costeira
+113978	Construção de Armazém
+114979	Construção de Pontes
+114379	Decreased productivity
+114380	Demands not fulfilled
+114381	Monuments
+114385	Ready
+114386	Paused
+116828	Disable all Fireworks.
+116829	Activates the fireworks and has them display cool colors.
+119914	Activates the fireworks and has them display warm colors.
+119915	Activates the fireworks and has them display shining colors.
+119916	Activates the fireworks and has them display hearts.
+117125	The default weather setting.
+117126	The Climate Stabilizer creates more snow in the arctic and more rain in the temperate zone.
+117127	The climate stabilizer creates snowstorms and extensive rainfall.
+117128	The climate stabilizer creates strong blizzards and stormy monsoons.
+117129	O estabilizador climático cria climas catastróficos. Quer mesmo enfrentá-los?
+119917	Desativar todas as luzes.
+119918	Ativa o show de luzes e exibe cores frias.
+119919	Ativa o show de luzes e exibe cores quentes.
+119920	Ativa o show de luzes e exibe cores brilhantes.
+119921	Ativa as atrações e muda sua iluminação para dourado.
+117798	Desbloqueia a região [GUIDNAME 5000001]
+117788	Permite Transferência.
+117790	Obtém acesso ao mercado mundial.
+117799	Desbloqueia a região [GUIDNAME 5000002]
+117789	Permite transferência lunar.
+117787	Permite transferência de energia.
+102789	Fornece o armazenamento de mercadorias.
+103254	Iniciar construção do [NEXT_LEVEL_GUIDNAME]
+117982	Pausar construção do [NEXT_LEVEL_GUIDNAME]
+117978	Retomar construção do [NEXT_LEVEL_GUIDNAME]
+117977	Completa construção do [NEXT_LEVEL_GUIDNAME]
+120709	Todos os requisitos para iniciar o processo de aprimoramento são atendidos.
+121149	Todos os requisitos para iniciar o processo de construção foram atendidos.
+121151	Iniciar a drenagem do pântano
+121153	O pântano pode ser drenado
+121154	Desbloquear novo terreno de construção.
+121155	Pausar drenagem
+121156	Continuar drenagem
+121157	Drenagem completa
+122129	Remova a bomba de drenagem
+103316	Detalhes do armazém
+103329	Alcançado na última subida de nível
+103330	Recompensas na última subida de nível
+105014	Detalhes de residência
+105105	Zona de construção de montanha
+108921	<font [GUI_COLOR White]>Requer [PRODUCTION_REQUIRED_SLOT_TYPE]</font>
+116442	Eficiência
+105777	Em estoque
+105778	Transferência de mercadorias
+105780	Setor de fornecimento
+105783	Produção
+105784	Consumo
+105785	Importar
+105786	Exportar
+105798	NO LOCA 105781
+117361	Essas mercadorias não estão em seu armazém.
+105892	Transportadores fornecidos
+105900	Transportadores gratis
+105910	Necesidades
+105894	Saldo de [GUIDNAME]
+105893	Transportador en uso
+114584	Não há oscilação em sua conta bancária.
+120109	Número de empregados
+114585	Você ainda não contratou ninguém.
+117395	É obtido principalmente por meio do cumprimento de tarefas e missões em um setor em crise.
+119737	Empregados que trabalham para [CORPORATION_NAME]
+108422	NO LOCA Não há fertilização adequada nesta sessão
+120633	[GUIDNAME 100796]
+120634	Consumida
+120635	Fornecida
+120636	Requerida
+120637	Fornecida
+120638	Requerida
+120667	Créditos
+120668	Receita
+120690	corporação
+120691	Empregados
+120674	Receita
+120675	Despesa
+120676	Equilíbrio
+120715	Saldo de Credito
+121278	Atualmente
+121355	[STOCKAMOUNT]/[SESSION_STORAGE_MAX]
+116628	Promoção de Empregados
+116629	Ativar promoção automática
+120545	A quota da corporação permite [ASCENSION_RIGHTS] mais promoções
+120555	<font [GUI_COLOR GreyLight1]>Precione a tecla Shift  para promover o maior número de funcionários possível</font>
+120559	Promoção negada
+120560	A quota da corporação exige que você adquira mais [POPULATION_LEVEL_REFERENCE] antes de emitir promoções adicionais neste campo.
+120561	As necessidades de [POPULATION_LEVEL_REFERENCE] não foram satisfeitas ou falta material de construção.
+120562	Você está prestes a promover os [ASCENSION_RIGHTS_USABLE] [RESIDENCE_NAMES]
+120563	Promover para [NEXT_LEVEL_GUIDNAME_REFERENCE]
+100176	NO LOCA Esta fertilização permite cultivar::
+100340	Mapa
+102513	Filtros
+108922	Ocioso
+108923	Movendo
+108939	Coletando
+116607	Movendo para o alvo
+116608	Aguardando ordens
+116729	Requer
+120598	Obtained by completing optional assignments or finishing mission Assignments.
+120805	<font [GUI_COLOR OrangeHighlight]>[GUIDNAME 112925]</font>
+116860	<font [GUI_COLOR White]>Área bloqueada</font>
+116861	<font [GUI_COLOR White]>Fora da Área</font>
+119845	<font [GUI_COLOR White]>Área não reivindicada</font>
+120806	<font [GUI_COLOR OrangeHighlight]>Sem fonte de calor nas proximidades</font>
+120807	<font [GUI_COLOR White]>Limite alcançado</font>
+120812	Ganho
+120852	Reembolso
+120941	Missing Construction Material
+121220	[GUIDNAME 100152]
+121638	Todas as Indústrias
+121669	Nenhum edifício selecionado
+103018	Não á mercadoria disponivel!

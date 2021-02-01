@@ -1,0 +1,316 @@
+7001172	You're my best bet when it comes to getting stuff done!
+7001176	Well, you tried.
+7001177	One step forward, two steps back... Oh well.
+7001179	Fine, I'll get it done one way or another.
+7001180	Suit yourself.
+7001182	The task isn't going anywhere, but it's still important.
+7001183	We all have our cross to bear, and yours is that task I gave you.
+7001184	I'd be taking care of it myself if I could.
+7001206	That's taken care of... More work ahead!
+7001207	That's good work, but we're not in the clear yet.
+7001208	If we want to weather this storm, we need to stay focused.
+7001587	I can see the light at the end! Just a little push now.
+7001588	I hate to say this, but... one more thing.
+7001280	The new batches are in the analyzer, I'm going for a smoke. And before you say anything - I know all about the Custodian's policy. Health this, nature that! I need a break.
+7001281	My nephew is up there on the Moon and hasn't called in weeks. I'm afraid that the Orbital Watch is coming after him... or worse, that he's buying their propaganda. Damn, what has that idiot gotten himself into?
+7001282	Howard really does love his job. You could've fooled me though - he's always so sour about everything. Then again, maybe that's his natural face.
+7001283	Jorgenson is the odd one out among the Custodians. Glad he's the one manning the trading around here, makes the area a bit livelier. I met his boyfriend too, they make a cute couple.
+7001284	The reclusive Arctic Custodian lifestyle just isn't for me. I think they misinterpreted the Eco's mission statement and took the austerity a bit too personally.
+7001288	This vault was built following the Ebashi Trench catastrophe and its tsunamis. Things were looking pretty grim back then and people became obsessed with leaving legacies that would last.
+7001289	While we Custodians are technically the Eden Initiative's successors, most of their records regarding the vaults and their contents were lost. Breaking into the vault will involve some risky trial and error.
+7001589	Howard is keen on getting corporations out of the arctic. He doesn't care much what happens to the tundra plains as long as his miles of pristine snow are safe.
+7001299	Alright, I know how to take care of the ice. I'm just waiting for you.
+7001300	Preparations complete! I can't start working on the generator without you, though.
+7001301	I've got news on the virus. You'd better get over here.
+7001626	We're both eager to get into the seed vault, but first we'll need local researchers to deal with anything we find here.
+7001627	Perfect. And don't worry, the nearby volcano isn't going to erupt and bury your settlement. I'm monitoring it.
+7001628	But there's an actual reason to worry: we're dealing with a virus. Quarantining the sector is not an option, as we rely on outside food supplies. But with your spaceport as gateway we're on the safe side.
+7001629	Good, we'll need your full corporate network if I'm right. If this is an ancient pathogen and reaches a major population center, we're in trouble.
+7001630	We'll need a larger research division, but settle on that marsh and you'll be dug out in a few centuries. So first we'll have to pump it dry.
+7001637	Howard is not going to like these pumps, but what's he going to do besides waggle his finger? Colonizing the tundra was his idea, after all.
+7001638	The other Custodians are keen to redirect settlers over to my jurisdiction. But not on my watch, I'm only authorizing specialists. We'll need a team of experts to combat the virus.
+7001639	The staff will be fine, so far the symptoms have only been observed in animals. But I'm keeping an eye on it, it's nothing that I've ever seen before.
+7001640	The team was able to extract the first samples from the vault, but so far no luck in finding the virus or proving my theory. I need fresh pairs of eyes running tests on this.
+7001641	The seeds the new team was able to recover show no traces of the virus. However, there's good news for you.
+7001642	We've sampled a sprawling, but non-native moss species and I'm fairly certain it came from the vault. To strengthen our relationship, I've engineered a module that exploits the moss's exponential growth. Try it out!
+7001643	Neat, isn't it? Just think what we'll be able to do when we secure the entire vault.
+7001662	The seed vault is our goal, but we can't go waltzing in. If we repair the temperature control, we'll thaw the vault without risking the virus getting out of control.
+7001663	Installing a heater for a freezer sounds paradoxical, but remember the 21st century was the era of climate change and the 22nd of climate correction. Think of this as some kind of stabilizer.
+7001664	I managed to get the classified climate stabilizer blueprints. We're not copying them of course, but with enough staff we can give the old tech an overhaul.
+7001666	Oh, did I say the volcano is safe? Hah, well, it is now. The Eden Initiative thought nothing would happen, but it erupted not long afterwards and buried the ventilation shafts. We'll need to clear them.
+7001674	I just came back from checking on the old temperature modules and... No chance, completely fried. Global warming and climate correction took their toll. We'll need new ones.
+7001676	Fuelling this machinery is anything but eco-friendl; after all we need enough power to thaw an ice layer. It's unavoidable, so let's do this right.
+7001677	Good, all set to boot up!
+7001678	Let's hope this goes smoothly, for all our sakes. I had the team clear out so flip the lever once you're ready.
+7001679	It worked, the vault climate is stable! Wait till we fix the nuclear reactor, we'll need the temperature control for that.
+7001680	When the reactor blew up my bosses just slapped a 'Do Not Enter' sign on the sector and now most of the wreckage is still lying around. We've really got our work cut out for us.
+7001681	Good start. The vault and the virus will have to wait until we've taken care of this health hazard.
+7001682	The reactor was built to last, but certainly not to withstand a volcanic eruption. It ruptured the cooling system and that's the first part we'll have to reconstruct.
+7001683	Cleaning out all this radioactive waste is no small logistical feat, but it has to be done. No wonder closing off the sector was the easier solution.
+7001684	The wreckage is mostly cleared and the cooling systems are good to go. We can get the team started on the generator itself now, just give them a lift first.
+7001685	The generator is necessary to open the vault doors without destroying them. And we might have to close them again. Keep the power coming, the generator needs a push to start up.
+7001687	Alright, we've got green light, we're-- hold on, I'm getting an emergency call. ... Okay, hit the activation button, we've got no time to lose. Our team just found a mutated virus strain.
+7001775	Good, the nuclear reactor is stable and the doors are operational! The team is collecting samples as we speak.
+7001689	Just as we suspected: It's Sprawl Fever, a formerly extinct disease with a high mortality rate that causes malignant growths. I'll need more live samples to study the mutations.
+7001691	Damn. Field researchers just reported the onset of symptoms. Hurry up, you need to relocate them asap!
+7001693	I'm in the middle of engineering a vaccine, but in the meantime we need medication to boost our patients' immune systems. The Arctic Custodian main branch has been informed.
+7001776	You've saved many lives. And I bring good news, too!
+7001701	Howard's on our side. He suggested we ship out the seeds to a better-equipped Custodian lab. Analyzing the virus is a lot harder than I thought.
+7001703	My colleagues are having headaches over the virus strains, we'll need to back them up locally! Apparently one of the seed containers isn't just carrying what it says on the label.
+7001704	Results are in. The irregularity they found used to be a pasta dish. I can't believe all this happened because someone dropped their lunch...
+7001705	I can guess what happened. The volcano damaged the vault leaving the infected seeds exposed and voila, germination! Time to weld those leaks shut.
+7001706	With the root cause of infections stamped out, we still have the mosquitoes. They're carriers of the disease and will continue to spread it until we dry out their marshes.
+7001708	Excellent news! My experimental vaccine is showing promise, I'll have it deployed amongst the staff right away. The animals will have to be treated individually in the wild, however.
+7001709	New infections are a risk as long as the virus is still affecting who knows how many seed containers. We'll have to expand our team to catalog them all.
+7001710	The Custodians are waiting for us to clean out the vault and I've finally got something ready. Sort of a spray-on antidote and disinfectant in one. It should work.
+7001777	And Howard owes you too, even though he'd never admit it.
+7001716	This germinating seed is unbelievable! See how its cold-resistant properties make reactions possible at these temperatures?
+7001717	So what's the new module doing for your arctic facilities? Don't tell me you haven't even installed it yet!
+7001718	There was one good thing to come out of this nuclear disaster, gamma-ray absorbing organisms!
+7001719	You've still got to shield your new module from meteorites, but it'll boost your production on the moon all on its own. Well, if you feed it enough.
+7001720	See? This last module is the most effective! The vault is like the library of Alexandria, except we saved it.
+7001721	And here I thought you were only helping me out to get your hands on the module? Maybe I was wrong about you.
+7001624	My Arctic Custodian colleagues have been talking about you. If half of what they're saying is true you'll be very interested in what I've come across.
+7001305	Pleased to meet you! I'm Esther Nylund, Arctic Custodian chief biologist and in charge of the Seed Vaults here. Extinct species isn't the only thing they preserved. Help me out and you'll get exclusive access.
+7001623	Sorry, no entry for laypersons. You need to show some scientific background or my hands are tied.
+7001306	Glad you could make it. This is a beautiful place, but isolated.
+7001307	That might be the reason the Eden Initiative chose this place. Two centuries ago, they built a Seed Vault here to preserve now extinct species. That's what we're after.
+7001308	However, the vault hasn't been maintained properly and has leaks. It's brought something else with it from the past, something dangerous.
+7001312	I'm a scientist, not a miracle worker!
+7001315	I'm not a physicist myself, but that's what our team is for. Still, we're not ready.
+7001350	I'm working round the clock, but glaring at the centrifuge won't make it spin any faster, believe me.
+7001318	Thanks. I mean it.
+7001711	But before we can get into the vault proper we've got to fix the blown temperature control. I'll get the plans ready, stay tuned.
+7001712	I'll get the operation ready. In the meantime I've got good news: the team engineered a cold-resistant module using their new findings!
+7001713	Now it's my turn. I'll let you know once I have the first results on those mutated strains. For now you can test the new modules, we've modified them for lunar operation.
+7001714	We've already got results. You can now install new modules that are especially effective in moderate climates.
+7001715	We've defeated the virus, once and for all! The team is archiving centuries of samples. Looks like the Eden Initiative's endeavor wasn't for nothing!
+7001578	That's going to be a cakewalk, right?
+7001579	I'm sure you'll manage just fine.
+7001580	Make sure to be thorough.
+7001581	Thanks!
+7001582	Much appreciated!
+7001583	Ta!
+7001584	Well then, let's get to work!
+7001585	No time to waste, let's get right to it.
+7001586	I'll leave you to do your thing, then.
+7001590	We both do what we have to do, I get it.
+7001591	Playing by the books in the arctic and not a single care out here?
+7001592	And here I thought your energy production didn't rely on fossil fuels.
+7001593	It took well over a hundred years to get the arctic back, but sure, burn away.
+7001594	I'm already looking the other way. Now it seems I also need a pair of earmuffs.
+7001595	If this is the price I have to pay to get this sector secured...
+7001596	Back already from corporate meetings? I'm not complaining.
+7001597	I told you before, without my clearance no one's--Oh! You're not Howard.
+7001598	I've been holding the fort, now it's time for a change of the guards.
+7001599	There you go.
+7001600	Need anything else?
+7001601	And I thought you'd had enough of that.
+7001602	I'll check in the back for more later.
+7001604	Seems useful.
+7001605	Waste not, want not.
+7001606	Oh, I've been meaning to stock up on that!
+7001607	It's costly to ship anything out here, so thanks.
+7001608	The swamp's been cleared of wildlife, so go ahead.
+7001609	Navigating the marsh is tricky. It'll take a while to set up the pump.
+7001610	Quite the expansion, eh?
+7001611	You can get the drainage started now.
+7001612	You'll need to turn the pumps on, too.
+7001613	Don't keep the swamp waiting.
+7001614	This will take a while, grab a chair.
+7001615	All that water has to go somewhere!
+7001616	The pumps are doing their thing.
+7001617	Less marsh, more soil.
+7001618	Finally. The pumps were a real eye-sore.
+7001619	Well done, Moses.
+7001741	Wading through mud is fun, but not that fun.
+7001742	What's the hold-up?
+7001743	You can afford this, right?
+7001747	The marsh is as dry as a conversation with Howard. Time to dismantle the pump.
+7001748	The ground won't get any drier.
+7001749	No more danger of sinking!
+7001761	See that? The symptoms are visible even to laypeople.
+7001762	Don't get too close.
+7001763	We're monitoring it. There's nothing more we can do right now.
+7001754	[NOTIFICATION_CHARACTER_NAME] is confident you'll succeed.
+7001755	[NOTIFICATION_CHARACTER_NAME] thanks you.
+7001756	[NOTIFICATION_CHARACTER_NAME] is wary of your facilities' environmental impact.
+7001757	[NOTIFICATION_CHARACTER_NAME] worries about your fuel consumption.
+7001758	[NOTIFICATION_CHARACTER_NAME] eyes your mine critically.
+7001759	[NOTIFICATION_CHARACTER_NAME] is relieved to see you back.
+7001760	[NOTIFICATION_CHARACTER_NAME] is relieved to see you back.
+7001764	[NOTIFICATION_CHARACTER_NAME] oversees the pump construction.
+7001765	[NOTIFICATION_CHARACTER_NAME] is confused about the delay.
+7001766	[NOTIFICATION_CHARACTER_NAME] reports that the pump is operational.
+7001767	[NOTIFICATION_CHARACTER_NAME] makes sure the draining goes smoothly.
+7001768	[NOTIFICATION_CHARACTER_NAME] is waiting for you to finish up the drainage.
+7001769	[NOTIFICATION_CHARACTER_NAME] confirms that the area is ready for construction.
+7000410	Os ventos frios varrem as largas planícies de Vanha Plains, onde o gelo ártico dá lugar a florestas de madeira. Há sementes armazenando dados genéticos de espécies extintas há muito tempo é apenas um tesouro nesta área.
+7001447	Atraia Executivos na Região Temperada
+7001450	DLC necessário
+7001451	Desbloquear Pré-Condição
+7001452	Executivos Requeridos
+7001453	Seus Executivos
+7001910	DLC Tundra Disponivel
+7001911	Explore a Vanha Plains
+7001912	Transform marshes into arable land
+7001913	Discover a dangerous legacy
+7001914	Establish new production chains
+7001915	Boost your global economy
+7001916	Purchase now
+7001992	You just got the Tundra DLC
+7001993	Enjoy the new epic landscape
+7001994	Achieve success in a new sector project
+7001995	and more ...
+7001424	Drainage Pump
+7001836	"For light bulbs? What are those?"
+7001837	"Smaller than the eye can see."
+7001838	"Humankind's reliable sidekick."
+7001839	"Doctors literally in your blood."
+7001840	"Ignore the smell."
+7001841	"Ordinary, but astonishingly nutritious."
+7001842	"Warm and now odor-free."
+7001843	"Water and cold-repellent."
+7001844	"Agents of life."
+7001845	"Not quite air."
+7001890	Não funciona com [GUIDCATEGORY_SELECTED] ainda
+7001852	Prosseguir com o Projeto da Dr. Esther Nylund no Tundra
+7001893	Provides moss for further processing.
+7001897	Provides vitamin drinks needed by your employees.
+7001899	Provides tungsten for further processing.
+7001900	Uses tungsten to produce nanochips for further processing.
+7001901	Uses nanochips and cobalt to produce smartdrones demanded by your employees.
+7001902	Provides natural gas for further processing.
+7001903	Uses moss and bioresin to produce biocatalysts for further processing.
+7001904	Uses cobalt and natural gas to produce aerogel for further processing.
+7001905	Uses moss and water to produce wool for further processing.
+7001906	Uses wool and flax fibers to produce all-weather parkas demanded by your employees.
+7001907	Uses nanochips and synthcells to produce medibots demanded by your employees.
+7001908	Provides energy to power factories by consuming natural gas.
+7001998	Dries out marshes and provides access to adjacent building grounds.
+7001544	Preservation Society
+7001545	Complete the sector project in Vanha Plains.
+7001546	Quiet Work Environment
+7001547	Settle Tundra Scientists in one of your cities.
+7001548	Hedgehopper
+7001549	Complete 10 Assignments for your Vanha Plains employees.
+7001550	I lost my glasses down there
+7001551	Drain a swamp.
+7001552	I. Drink. Your. Smoothie.
+7001553	Drain all swamps in Vanha Plains.
+7001554	Industrial Adulteration
+7001555	Construct a Tundra Module in every region.
+7001556	What's That Smell?
+7001557	Construct 10 Musk-ox Ranches in Vanha Plains.
+7001558	Eden's End
+7001559	Construct 10 Drilling Rigs in Vanha Plains.
+7001560	It's a Kind of Magic
+7001561	Produce Biocatalysts and Aerogel.
+7001562	Globalization... Complete
+7001563	Run 10 transfer routes out of Vanha Plains.
+7001469	Bio catalizador agrícola
+7001872	Bio catalizador tecnológico
+7001468	Aerogel de energia
+7001875	Aerogel de industria pesada
+7001876	Aerogel eletrotônico
+7000007	Moradia Tundra
+7000008	Moradia Tundra
+7000012	[GUIDNAME 1000245]
+7000013	[GUIDNAME 1000246]
+7000041	Plantação de musgo
+7000045	Rancho de Musk-ox
+7000038	Plantação de linho
+7000043	Fazenda de girassol
+7000253	Fazenda de Algas
+7000048	Biorreator Avançado
+7000047	Câmara de Ionização
+7000257	Synthcell Incubator
+7000027	Desalinization Plant
+7000029	Nanoprecision Factory
+7000028	Boreal Tailor
+7000250	Drone Hive
+7000251	Microbotics Center
+7000030	Windpark
+7000256	Fossil-fuel Power Plant
+7000039	Vitamin Extractor
+7000051	Drilling Rig
+7000252	Robot Assembly Hall
+7000049	Biopolymer Factory
+7000254	Feldspar Quarry
+7000032	Tungsten Mine
+7000255	Cobalt Mine
+7000042	Moss Bed
+7000261	Musk-ox Paddock
+7000263	[GUIDNAME 1000365]
+7000262	[GUIDNAME 1000366]
+7000313	[GUIDNAME 1000368]
+7000302	Reactor Chambers
+7000303	High Pressure Chamber
+7000305	[GUIDNAME 1000372]
+7000306	[GUIDNAME 1000376]
+7000307	Antistatic Room
+7000304	Precision Mill
+7000308	Assembly Floor
+7000309	Autoclave
+7000310	[GUIDNAME 1000392]
+7000311	[GUIDNAME 1000391]
+7000312	[GUIDNAME 1000403]
+7000314	Drill Tower
+7000316	[GUIDNAME 1000383]
+7000315	[GUIDNAME 1000417]
+7000318	[GUIDNAME 1000426]
+7000317	Tungsten Shearer
+7000319	[GUIDNAME 1000889]
+7000285	[GUIDNAME 109065] [GUIDNAME 102701]
+7000286	[GUIDNAME 109065] [GUIDNAME 102703]
+7000287	[GUIDNAME 109065] [GUIDNAME 102702]
+7000288	[GUIDNAME 109075] [GUIDNAME 102701]
+7000289	[GUIDNAME 109075] [GUIDNAME 102703]
+7000290	[GUIDNAME 109075] [GUIDNAME 102702]
+7000291	[GUIDNAME 109078] [GUIDNAME 102701]
+7000292	[GUIDNAME 109078] [GUIDNAME 102703]
+7000293	[GUIDNAME 109078] [GUIDNAME 102702]
+7000294	[GUIDNAME 109081] [GUIDNAME 102701]
+7000295	[GUIDNAME 109081] [GUIDNAME 102704]
+7001917	[GUIDNAME 109081] [GUIDNAME 102703]
+7000296	[GUIDNAME 109081] [GUIDNAME 102702]
+7000297	[GUIDNAME 109084] [GUIDNAME 102701]
+7000298	[GUIDNAME 109084] [GUIDNAME 102703]
+7000299	[GUIDNAME 109084] [GUIDNAME 102702]
+7000272	[GUIDNAME 102701]
+7000273	[GUIDNAME 102704]
+7000274	[GUIDNAME 102703]
+7000275	[GUIDNAME 102702]
+7001466	[GUIDNAME 7001469]
+7001877	[GUIDNAME 7001872]
+7001467	[GUIDNAME 7001468]
+7001878	[GUIDNAME 7001875]
+7001879	[GUIDNAME 7001876]
+7000158	[GUIDNAME 1000157]
+7000036	[GUIDNAME 1000123]
+7000159	[GUIDNAME 1000156]
+7000160	[GUIDNAME 1001229]
+7000161	[GUIDNAME 1001231]
+7000162	[GUIDNAME 1001232]
+7000163	[GUIDNAME 1000178]
+7001400	Drainage Site
+7001401	[GUIDNAME 7001400]
+7001402	[GUIDNAME 7001400]
+7001403	[GUIDNAME 7001400]
+7001404	[GUIDNAME 7001400]
+7001405	[GUIDNAME 7001400]
+7001406	[GUIDNAME 7001400]
+7001407	Drainage Pump
+7001408	[GUIDNAME 7001407]
+7001409	[GUIDNAME 7001407]
+7001410	[GUIDNAME 7001407]
+7001411	[GUIDNAME 7001407]
+7001412	[GUIDNAME 7001407]
+7001413	[GUIDNAME 7001407]
+7001414	Dried out marsh
+7001415	[GUIDNAME 7001414]
+7001416	[GUIDNAME 7001414]
+7001417	[GUIDNAME 7001414]
+7001418	[GUIDNAME 7001414]
+7001419	[GUIDNAME 7001414]
+7001420	[GUIDNAME 7001414]

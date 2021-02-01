@@ -1,0 +1,316 @@
+113192	You have a magnificent view from up here. Of a magnificent city!
+113193	This place looks so beautiful, it makes me feel plain.
+113194	Happiness has a home. Look up my address!
+113195	Work and life go hand in hand here. And aren't they a lovely couple!
+113196	You are building the next corporate empire!
+113197	I'm not modest. But when I see your accomplishments, I can't help feeling small.
+113198	Just look at all this!
+113199	Exemplary. You really care for your city's image.
+113200	Ah, finally, a chance at entertainment.
+113201	Bread and circuses... some things never go out of fashion.
+113202	So, you're in charge here?
+113203	Yes, very attractive properties, indeed.
+113204	We haven't been introduced.
+113205	It's a consumer age. You are what you buy. Good thing you provide us with such a wide range of choices.
+113206	You ever hear of Global Trust? Big name back in the last century, and an even bigger company. But their Mars colonization attempts... disastrous.
+113207	I heard there is some kind of turf war going on in the upper levels of Cassian Industries. We should keep an eye on that.
+113208	As I support you in making your vision of a moon colony come true, I hope you will support me in making my vision of a luxury hotel on the Moon come true as well.
+113209	We are lucky that the Arctic Custodians invented climate stabilizers. Fewer flooded areas, fewer people squashed together in one spot, fewer annoying neighbors...
+105720	Free energy? For everyone? Hmmm... Well, this really does involve all of us... I'm going to set up a foundation.
+115573	All my assets going to waste…
+115574	Who dares?!
+115575	I wish I could stop the cat from destroying my favorite chair...
+115576	This year's wine vintage was quite a letdown.
+115577	I should be a sponsor, I do love 21st century classics.
+115578	This season's high collars are gorgeous!
+115579	Let us always strive for perfection.
+115580	I can finally lean back.
+115612	Next, there'll be some horror show with rocks in it...
+105591	Ecology, economy... When both remain in balance, then I'm doing my job.
+113238	Woah, I wouldn't have pictured that!
+113239	Wonderful!
+113240	My day just got better.
+113241	That went well.
+113242	Oh, yeah...
+113243	I like what I'm seeing.
+113244	Awesome job!.
+113245	Flawless.
+113246	What more could you want?
+113247	What a success!
+113248	I'd call that a positive development.
+113249	All bad things come to an end, I guess.
+113250	Good to know that's a thing of the past.
+113251	You know what you are doing.
+113252	That was very considerate of you.
+113253	You can't imagine just how grateful everyone is.
+113254	I sure do thank you.
+113255	You care. I appreciate that.
+113256	You're doing the right thing.
+113257	I must say, I admire you for that.
+113258	You are as impressive as everyone says.
+113259	You're keeping everything in balance.
+113260	You are a remarkable person!
+113261	Frustrating!
+113262	It's sad!
+113263	Well, that certainly didn't help.
+113264	That's a recipe for disaster.
+113265	How awful!
+113266	Well, that's a problem.
+113267	Less than ideal.
+113268	Oh, sheesh!
+113269	This is not happening.
+113270	Things like this are so frustrating!
+113271	How could you let that happen?
+113272	I'm sure you meant... something... by that.
+113273	And what do you plan to mess up next?
+113274	Do you even understand what you've done?
+113275	You don't want to hear my opinion.
+113276	This is your own fault.
+113277	Shouldn't there be some good news with the bad news?
+113278	Oh yeah, thank you so very much!
+113279	As long as it's done your way, right?
+113280	That was totally irresponsible!
+113281	You? What a nice surprise.
+113282	It's cold out there, isn't it? Come in!
+113283	Come on in.
+113284	Oh hi. So, what brings you here today?
+113285	Welcome. You want to come in?
+113286	So, what do you say? Isn't it cozy here?
+113287	Not many visitors here. Nice you came around, at least.
+113288	It's no bother. You are always welcome.
+113289	Oh, nice to meet you in person.
+113290	You thought you'd just drop by? How nice of you!
+113291	Nothing could keep me from it.
+113292	Good idea. I'll do it.
+113293	But of course.
+113294	Makes sense. I'll get it done.
+113295	Yeah.
+113296	Thank you for your trust.
+113297	You got it!
+113298	I won't keep you waiting.
+113299	Yes, I can do that for you.
+113300	It's my job, right? Happy to help you.
+113301	Been there. Done that. Won't do it again.
+113302	I wish I could.
+113303	I'm afraid not.
+113304	And encourage this kind of approach? No way!
+113305	Nah, not convinced.
+113306	I'm sorry, but I have to let you down on this one.
+113307	No, you'll have to do without me here.
+113308	I can't just drop everything else.
+113309	You're not angry that I have to refuse you, are you?
+113310	You ask for the impossible.
+113311	This is something we can't ignore.
+113312	Everyone here is quite concerned about this.
+113313	We need support of the highest level to get this done.
+113314	Here. I figured you would know better just how to proceed with this.
+113315	Sooner or later, this issue will cause us problems..
+113316	There's still time to solve this before it gets worse!
+113317	Thanks. That's a load off my mind.
+113318	Who wouldn't be happy about that?
+113319	Much obliged.
+113320	You managed well. That's why you're the manager, I guess.
+113321	The planet will thank you for it.
+113322	You took heed of the problem. Thanks!
+113323	You should feel good about yourself.
+113324	Our future is in good hands with you.
+113325	Are you a problem solver or a troublemaker?
+113326	You know, this outcome could have been prevented.
+113327	Why did you even bother?
+113328	So far, so good, so unfinished.
+113329	Seriously? You're going to lean back and do nothing?
+113330	I can't change your mind, can I?
+113331	I am sure, you have everything under control. You do, right?
+113332	So?
+113333	Hey, how was... oh, you're still on it, I see.
+113334	Well, I guess no news is better than bad news.
+113335	There's yet time.
+113336	How long is it going to take? I'm just curious.
+113337	The problem is still in place, I'm afraid.
+113338	Sure, no worries. It takes a while to get a grip on things.
+113339	Bingo.
+113340	Seems to be what we're looking for.
+113341	This is very important for us.
+113342	Yes, we will need that one.
+113343	Look what you've found.
+113344	Oh, I would have missed that.
+113345	That's it.
+113346	Yes, that one.
+113347	That's where you have to go.
+113348	I'm sure they are expecting your arrival.
+113349	You are to go there.
+113350	Should be easy to reach.
+113351	Yes, that's the place.
+113352	Go there!
+113353	So, start your engines.
+113354	I hope you arrive in time.
+113355	Who's there? Oh...
+113356	Sheesh. Right in their line of sight.
+113357	And now they know where we are.
+113358	Warm... warmer...
+113359	You'll be there soon.
+113360	We are getting closer.
+113361	Well hidden, but not well enough.
+113362	Look what you found.
+113363	That's it, no doubt.
+113364	Wonderful. But that was only the tip of the iceberg.
+113365	Very good. Let's hope the second part will be just as successful.
+113366	Thanks. But this problem is more extensive than we first thought.
+113367	You can still prevent any more harm from being done.
+113368	The conflict is really heating up. You must step in.
+113369	They are upsetting the balance of the whole region. Do something!
+113370	Please, this violence is getting out of control.
+113371	If this continues, the effects will be devastating!
+113372	You sure poured some cold water on those firebrands!
+113373	That could have ended up real ugly. But you were there.
+113374	You prevented the worst from happening.
+113375	You got out of that in the nick of time!
+113376	You confronted them head-on. That was commendable if, in hindsight, not wise.
+113377	Perhaps you were too careless of the danger.
+113378	This place makes me shudder, and not from the cold.
+113379	What do you want? Go eat snow!
+113380	Frosty here, huh? What you expect from a place without a shred of human warmth?
+113381	Wonder why we spend so much time outside? Just look at our homes!
+113382	I thought living in the Arctic would be peaceful... but every day is a struggle here.
+113383	It can't go on like this.
+113384	I'm going to find greener pastures! Some that are actually green!
+113385	Don't try to snow me. I know how bad things really are here.
+113386	Sure, we're humble here. But you should at least provide the basics.
+113387	You shouldn't be surprised if this area soon becomes unpopulated again.
+113388	So this's the great white. Sure, it's white, but great, well...
+113389	My job, hmm... well, you get through the day.
+113392	The Custodians are constantly breathing down our necks. It's tiring.
+113391	This place... not that bad, but that doesn't cut any ice.
+113390	This place doesn't provide much variety, but hey...
+113393	Considering we are in the middle of a snowy desert, it's a decent life.
+113394	Eternal winter... well, you get used to it.
+113395	It's true, mankind can survive anywhere. Even when it's hard.
+113396	As long as it stays like this, we'll manage to get by.
+113397	It could be worse.
+113398	You don't leave us out in the cold... You know how I meant that.
+113399	Things here are moving in the right direction.
+113400	It's a beautiful day. And how couldn't it be in a place like this.
+113401	Good food, a cozy home. Nothing to be desired.
+113402	Who misses sandy beaches, when you can take the snowmobile to work?
+113403	We are growing into a strong community here.
+113404	It's cool here, and I'm not talking about the weather.
+113405	I don't think there are any major problems right now.
+113406	Are you fishing for compliments? You're sure to make a good haul here!
+113407	It can be hard to comply with all of the Custodians' regulations. But I like the challenge.
+113408	What's to say? As happy as a clam.
+113409	We're opening the big Arctic treasure chest. Very carefully, of course.
+113410	The clear air, the glistening snow... It's a little white paradise.
+113411	You'd think all the cold and snow would make you sick... But I actually feel better than ever!
+113412	A great feeling, working to benefit humanity as a whole. 'Cause that's what we do here, right?
+113413	Who said anything about sacrifices? I'm not missing anything.
+113414	My deepest thanks for all you've done for us!
+113415	It is just so tranquil, so serene here... A true blessing for the soul.
+113416	The city, the community, everything - it's just wonderful!
+113417	What you've made of this place... Wow! Awe-inspiring!
+113418	Thank you. We were in great need of this.
+113419	Thanks. That's a lovely addition to the area.
+113420	You know your town planning, no doubt about it.
+113421	Thanks. Very livable, if you don't mind the cold.
+113422	We'll keep an eye on everything here for you.
+113423	I promise, we won't give the Custodians anything to complain about.
+113424	I used to spend hours hiking the countryside alone, especially during winter. Well, if you're lucky you can turn your hobby into a career.
+113425	Saayman International may fool the southerners, saying that they only use real fish. But honestly, it's clear they're stretching the fish with substitutes. Where would all the fish come from, if not from here?
+113426	My suburban relatives always complain about annoying neighbors. Well, I had a polar bear sleeping in my front yard this week.
+113427	So many people don't even know what snow looks like. Am I lucky, or what?
+113428	You know, when I hear the sound of my feet touching new snow and I see the majestic glaciers rising on the horizon... I feel like I'm truly alive.
+115532	Thanks for saving us! For a second I thought... I really thought...
+115533	I can't feel my toes! Or my fingers! Please, just get me home, please!
+115534	Did you see my sister? I swear, she was right behind me!
+115535	It was a mistake to come out here.
+115614	The snow doesn't make it less depressing here.
+115616	It's not just the winters that cause some terrible moods.
+115617	...and then, he slipped and fell right on his... Well.
+115618	I need to remember to finally buy that daylight lamp.
+115619	Finally, I get to eat fish again! I've missed it.
+115620	Boss said to expect a bonus this month!
+115621	The summers here are a dream!
+115622	Yes! I got a private fishing license!
+115691	We need to redo this module.
+115692	Ooops, I spilled it...
+115693	Careful with the waste!
+115694	Okay, let's open another basin.
+115695	The cooling systems are back online!
+115696	One last push and we're done.
+115697	One last sprint before the break, okay?
+115700	Who's going to eat all this?!
+115701	Why's it smell burnt?
+115703	Good, this can take off now.
+115707	I think we're lagging behind...
+115708	Can I see the license for this?
+115710	All right, we're done here.
+115711	I'm digging the new menu!
+115715	Sorry, can't talk about it.
+105740	Fusion energy is a fascinating field. I thank you for the opportunity to investigate it.
+105741	Many Thanks. This will simplify our calculations. I'll be in touch as soon as we have the first data.
+105742	The research data the Global Union sent us seems to be very complex. We will need powerful computers to combine their data with ours.
+105747	Yes, research laboratory Aurora 2 here! We made it! Cold Fusion in controlled energy cells! All that remains is large scale implementation!
+115777	Negative. The systems don't respond... the stabilizer network is collapsing...
+115790	Okay. We've completed the blueprints for the rocket launch pad plans and done a few tests. As far as we're concerned, you can start construction.
+113580	Utterly fascinating!
+113581	Brilliant, really.
+113582	A textbook example.
+113583	That was a stroke of genius!
+113584	Phenomenal.
+113585	I can't find any words for that!
+113586	It's quite amazing in fact.
+113587	What do you say...
+113588	I can't stop being astonished!
+113589	Super!
+113590	Of course. Why didn't I think of that!
+113591	Great. This has held us up long enough.
+113592	Now, that is progress!
+113594	Your calculation worked out really well.
+113595	You are a phenomenon!
+113596	You got the maximum out of it!
+113597	It's due to you.
+113598	I find no flaws in your performance.
+113599	How you did this...simply astonishing!
+113600	You are in my good books, so to speak.
+113601	All credit is due to you!
+113602	I could learn a lot from you.
+113603	Your know-how is absolute.
+113604	Impossible!
+113605	How unreflecting!
+113606	I refuse to believe this!
+113607	That is a hard pill to swallow.
+113608	[Sigh] I should sit down for a moment.
+113609	Unthinkable!
+113610	I should have known...
+113611	That just can't be true!
+113612	What foolishness!
+113613	That gives me doubts about humanity!
+113614	You should rethink your procedures.
+113615	It's the thought that counts, you see?
+113616	I'm not thinking poorly of you. But, still...
+113617	I could have told you so much.
+113618	Too bad your plan proved unsuccessful.
+113619	It seems you haven't considered all the variables.
+113620	Your reasoning has been pretty faulty.
+113621	At least you yielded us new data on that.
+113622	You have my sympathies.
+113623	You know, sometimes it doesn't add up...
+113624	Oh, hello.
+113625	Come in. But please, don't touch anything.
+113626	Hmm... Oh, sorry. Engrossed in thought.
+113627	Ah, someone takes interest in my private research...
+113628	Good. I wanted to show you my studies anyway.
+113629	I hope you don't find it boring in here.
+113630	Welcome to my home.
+113631	Hmm, yes?
+113632	Can I be of assistance?
+113633	I'm in the middle of a test but spectators' welcome.
+113634	Absolutely.
+113635	I think that will be possible.
+113636	I'll come up with something.
+113637	I will.
+113638	Straightaway!
+113639	You can rely on my best efforts.
+113640	You won't regret it.
+113641	You'll have the results soon.
+113642	Right, place your trust in science.
+113644	I'll look after it for you.

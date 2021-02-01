@@ -1,0 +1,316 @@
+102951	[GUIDNAME 1001544]: [MANA_RESOURCE_CURRENT]/[MANA_RESOURCE_MAX]
+108597	Esta opção está desabilitada
+108609	NO LOCA InfoTip Forfeit Button
+120078	NO LOCA InfoTip Default Command Ship
+120079	NO LOCA InfoTip Default HQ
+120080	NO LOCA InfoTip Default Color
+119739	NO LOCA InfoTip Preorder Command Ship
+119743	NO LOCA InfoTip HQ Skin Variation
+119748	NO LOCA InfoTip Color Selection
+121514	Cancel planning
+121515	Remove facility from auction
+121517	Add the maximum of possible facilities to auction
+121516	Add facility to auction
+121518	Show in Shares Market
+120815	InfoTip Corporation Score Bar
+105920	NO LOCA InfoTip Vehicle Update
+105949	NO LOCA InfoTip Vehicle Upgrade Button
+108242	NO LOCA InfoTip SpecialAction Upgrade
+108252	NO LOCA InfoTip SpecialAction Upgrade Button
+119975	NO LOCA InfoTip Low Threat
+119976	NO LOCA InfoTip Medium Threat
+119977	NO LOCA InfoTip High Threat
+118011	NO LOCA InfoTip Event Session Provoke Button
+118013	NO LOCA InfoTip Event Session Marker opened
+118014	NO LOCA InfoTip Event Session Marker Portrait
+116369	NO LOCA InfoTip Space Station
+120163	NO LOCA InfoTip Council Button (TBD)
+120162	NO LOCA InfoTip Collect Resources Button (TBD)
+116361	NO LOCA InfoTip Assignment Center
+116362	NO LOCA InfoTip Docks
+108593	NO LOCA InfoTipEventSessionEasy
+108594	NO LOCA InfoTipEventSessionMedium
+108595	NO LOCA InfoTipEventSessionHard
+108596	NO LOCA InfoTipEventSessionDifficultyLocked
+116546	NO LOCA InfoTip Event Session Difficulty Button
+114596	NO LOCA InfoTip Voting Bribe Button
+116727	NO LOCA Voting Module Info
+116728	NO LOCA Voting Bonus List
+116742	NO LOCA Voting Result
+121080	Título da corporação
+121081	Subvenção Global da União
+121082	Navios de Comércio
+121083	Conexões do Mercado Mundial
+121084	Frota Militar Expandida
+121085	Capacidades da corporação
+120876	Novo tipo de Navio
+120877	Novo Título
+121096	The restored Dam generates a constant energy supply for you.
+121097	Graphene is being salvaged from the recovered Ark and ready to be picked up.
+121098	The Second Wave monument is accompanied by multiple ornamental fireworks.
+121099	With the Climate Stabilizer you can influence the weather worldwide.
+121100	The secured Oil Rigs continue to leak Petrochemicals for you to access.
+121101	The new arctic Channels improve your Logistic Systems considerably.
+121102	The LEC refugees contribute to your local Workforce in a major way.
+121103	The Meteor turned out to be an even richer source of Magnetite than expected.
+121104	The lunar Hotel is booming and tourists are keen to see the new Ornaments in action.
+121105	The Tundra has been rid of the virus and is now able to supply production-boosting modules the world over.
+121106	The submerged Warehouses hold a wealth of Iridium storages for you to collect.
+121179	An abandoned Spaceport Prototype holds the potential for new World Market Routes.
+122155	A sealed-off facility holds the key to revolutionizing your staff.
+120908	Dam Business
+120909	The Sunken Ark
+120910	The Second Wave
+120911	Climate Protectors
+120912	The Last Reserves
+120913	Arctic Trade
+120914	The Refuge
+120915	Mining the Stars
+120916	Craterside Hotel
+121070	The Treasure Hunt
+121071	Eden's Seeds
+121178	Dirty Deeds
+122130	New Life
+121109	Localização
+121108	Localização: [SSQL_SECTORNAME]
+120889	Você tem que resolver o Setor antes de poder iniciar o projeto.
+121095	Recompensas ganhas
+121110	Progresso do projeto
+121139	Projeto Potencial
+103332	NO LOCA InfoTip Corporation Rewards Next Level
+103331	NO LOCA InfoTip Corporation Rewards Current Level
+121072	DLC não comprado
+121073	Possui DLC
+121121	Total Jogado
+121122	Última vez jogado
+121123	Progresso Concluído
+121125	[GUIDNAME]
+121637	[GUIDNAME 14001504]
+121402	[GUIDNAME 118161]
+121404	[GUIDNAME 121406]
+121403	[GUIDNAME 100328]
+121401	[GUIDNAME 121562]
+121408	[GUIDNAME 121563]
+121409	[GUIDNAME 121564]
+121410	[GUIDNAME 121566]
+121411	Taxa de sucesso
+121412	Inserir informante
+121413	Informante em [CORPORATION_NAME_NPC]
+121415	[CORPORATION_NAME_NPC] Segurança
+121640	Hire Insider
+121615	The electronics industry uses anorganic materials to create hardware and tools.
+121616	The heavy industry is comprised of mines and the processing of their ores.
+121617	The Biotecnología industry uses organic materials to produce technology.
+121618	The energy industry encompasses all power stations as well as factories for the fuels they use.
+121619	The agricultural industry consists of farms and ranches which mainly provide sustenance.
+119960	NO LOCA InfoTip Difficulty Bar
+118384	If selected, you can gather objects which grant a small amount of goods.
+121238	If selected, facilities will cost a certain upkeep when their production is paused.
+121186	If selected, ships lost during a mission will be replaced with rankless ships.
+118382	If selected, right-clicking an open space will show a small menu offering useful shortcuts.
+118383	If selected, the camera zooms smoothly and tilting is enabled.
+120402	If selected, the game will offer assignments explaining basic gameplay features.
+118381	Enable or disable the option to relocate already constructed buildings.
+121479	If selected facilities can be part of auctions.
+105262	NO LOCA InfoTip ObjectMenu Production Module
+102832	NO LOCA InfoTip SpecialAction
+102833	NO LOCA InfoTip Vehicle
+116416	NO LOCA Quest Object InfoCorner InfoTip
+116748	NO LOCA Quest Object InfoCorner InfoTip
+116825	NO LOCA Ornament State Button
+121040	[GUIDNAME 121056]
+121051	[GUIDNAME 121056]
+121052	[GUIDNAME 121056]
+121041	Spaceport Upgrade Progress Bar InfoTip
+121053	Spaceport Upgrade Progress Bar slowed InfoTip
+121054	Spaceport Upgrade Progress Bar paused / stopped or very slow InfoTip
+111596	Residence is empty
+111598	Employees are moving out
+111599	Employees are moving in
+111601	Residence is full
+111604	Residence can advance
+110380	Mood
+110381	Euphoric
+110382	Happy
+110383	Content
+110384	Unhappy
+110385	Uninhabited
+110386	[DUMMYTAGPERCENT] fullfilled
+110398	Surplus
+110399	Needs not yet addressable
+110369	Workers generate little revenue.
+110370	Operators generate average revenue.
+110371	Executives generate high revenue.
+110372	Investors generate very high revenue.
+110373	Protectors generate little revenue.
+110374	Scientists generate average revenue.
+110375	Miners generate little revenue.
+110376	Officers generate average revenue.
+113213	Workers provide much workforce.
+112926	Operators provide average workforce.
+112927	Executives but provide little workforce.
+112928	Investors provide very little workforce.
+112951	Protectors provide much workforce.
+113210	Scientists provide average workforce.
+113211	Miners provide much workforce.
+113212	Officers provide average workforce.
+105927	The employees in this building are not ready to to be promoted to the next level.
+105928	Upgrades a number of [POPULATION_LEVEL] to DUMMYTAG_NEXT_POPULATION_LEVEL and creates room for DUMMYTAG_NEXT_RESIDENCE_CAPACITY_LEVEL additional DUMMYTAG_NEXT_POPULATION_LEVEL.
+110387	Employees are moving in
+110388	Employees are moving out
+110389	Ready for promotion
+110390	Needs not fully met
+110391	Residence is uninhabited
+110396	Fornecem
+110401	Excedente
+111792	Viver nesta cidade
+112724	[POPULATION_AMOUNT_RESIDENCE_BUILDINGS] Residential buildings constructed
+112727	Potencial de Mão de Obra
+112730	Pronto para Promoção
+112731	Satisfazer suas necessidades para atrair mais [POPULATION_NAME]
+110377	Residencias do Setor
+119708	[RESIDENCE_RESIDENTS_CURRENT]/[RESIDENCE_RESIDENTS_MAX]
+119709	[RESIDENCE_WORKFORCE_CURRENT]/[RESIDENCE_WORKFORCE_MAX]
+119710	[RESIDENCE_TAXES_CURRENT]/[RESIDENCE_TAXES_MAX]
+102710	Detalhes da Residência
+110397	[GUIDNAME] Demanda
+110400	Habitantes
+117844	Precisa de [GUIDNAME] [UNSIGNED_NUMBER]
+119714	[RESIDENCE_MOOD_TEXT]
+119856	Demanda de Empregados
+105096	Requisitos de Promoção
+108505	Custos de Promoção
+110378	Mão de obra gerada
+110379	Receita gerada
+115458	([KEYBINDING session.upgradeSelected(0)])
+105101	Insuficiente
+120577	Setor de Abastecimento
+120582	Área de Abastecimento
+120580	[POPULATION_NEEDS_PROVIDED]/[POPULATION_NEEDS_DEMAND]
+120581	[NEEDS_LOGISTIC_BASE_VALUE]/[POPULATION_NEEDS_DEMAND]
+120597	Empregados Necessários
+120646	NO LOCA Residence Supply
+121279	<font [GUI_COLOR GreyLight1]>Clique para parar o fornecimento</font>
+121280	<font [GUI_COLOR GreyLight1]>Clique para retomar fornecimento</font>
+121281	Fornecimento Interrompido
+110358	NO LOCA Residences Group Needs Buttons
+122014	NO LOCA Residences Group Needs Buttons
+110354	NO LOCA Residences Circular Needs Item Infotip
+105093	NO LOCA Residence Building Upgrade Button
+109063	NO LOCA Production Locked Module Button
+109013	NO LOCA Production Free Secundary Module Button
+109012	NO LOCA Production Free Primary Module Button
+115336	NO LOCA Production Occupied Module Button
+109347	Pausar a produção ([KEYBINDING session.getSelectedFactory().toggleStopProduction(0)])
+109350	Retomar a produção ([KEYBINDING session.getSelectedFactory().toggleStopProduction(0)])
+101032	[MODULE_EFFECT_PRODUCTIVITY]
+101034	[MODULE_EFFECT_UPKEEP]
+101037	[MODULE_EFFECT_WORKFORCE]
+101038	[MODULE_EFFECT_LOGISTICS]
+102755	[MODULE_EFFECT_ENERGY]
+102477	Manutenção de Crédito
+120680	Manutenção de Energia
+120681	Manutenção de Mão de Obra
+120682	Manutenção Logística
+119966	[GUIDNAME 105064]
+106003	Energy supply is insufficient.
+117343	Build more power plants
+106004	Factories require additional workforce to operate.
+117344	Build more residences or provide needed goods
+114538	Logistics network is overburdened.
+117341	Build additional transportation centers
+120129	Energia
+120130	Usina Hidrelétrica
+120350	Armazéns
+120131	Usinas de Energia
+120132	[GUIDNAME 105064]
+120134	Transferência de Energia
+120133	Importar
+120135	Exportar
+120110	Mão de Obra
+120351	Campo de Refugiados
+120352	Armazéns
+120111	Empregados
+120112	[GUIDNAME 105064]
+120126	[GUIDNAME 105064]
+120136	Logística
+120354	Channel Checkpoint
+120353	Armazéns
+120137	Centros de Transporte
+120138	[GUIDNAME 105064]
+120139	[GUIDNAME 105064]
+120393	Produção Local de Energia
+120670	Área de Abastecimento
+120672	Setor de Abastecimento
+120687	Equilíbrio
+120688	Equilíbrio
+120689	Equilíbrio
+114537	NO LOCA InfoBar Session Logistics Element
+120189	Tempo disponível para novas ofertas
+120195	Clique para selecionar o volume de negociação.
+120440	Boa oferta
+120441	<font [GUI_COLOR GreyLight1]>Clique para aceitar a oferta</font>
+121299	<font [GUI_COLOR GreyLight1]>Clique para vender mercadoria</font>
+120448	Custos Comerciais
+120449	Créditos
+120453	Em estoque
+120540	Volume de Negócios
+121300	Bom Pedido
+121301	Pagamento
+120192	[GUIDNAME 120189]
+120193	[GUIDNAME 120195]
+120546	NO LOCA Promotion Button Infotip
+120556	NO LOCA Promotion Button Infotip
+120557	NO LOCA Promotion Button Infotip
+120558	NO LOCA Promotion Button Infotip
+120616	NO LOCA Production Building New Output Goods Infotip
+120602	NO LOCA Production Building New Output Goods Infotip
+120615	NO LOCA Production Building New Output Goods Infotip
+120417	Botão de compra do módulo principal de produção
+122033	Slot pedido
+122034	Não adjacente
+122035	Não reivindicado
+122036	Área bloqueada
+122037	Módulo limite alcançado
+122038	Permissão ausente
+122039	Slot da Orbita ausente
+122040	Fora de alcance da Orbita
+105091	t
+105092	t/min
+108979	%d.%m. %H:%M
+108982	%H:%M
+116534	Não
+116533	Sim
+118402	-
+119961	>999
+119963	<-999
+120419	Clube de Unidades
+117360	AVISO: LEIA ANTES DE JOGAR
+117640	Uma porcentagem muito pequena de pessoas pode ter ataques epilépticos quando exposta a certos padrões de luz ou luzes intermitentes. A exposição a determinados padrões ou planos de fundo na tela do computador ou durante a reprodução de videogames pode causar esses tipos de ataques. Certas condições podem desencadear sintomas de epilepsia não detectada, mesmo em pessoas sem histórico de convulsões ou epilepsia. <br><br>Se você ou alguém de sua família sofre de epilepsia, consulte seu médico antes de jogar.
+118125	To rotate the camera just hold down the middle mouse button and move the mouse.
+118126	All your buildings must have a street connection to your warehouses. Otherwise goods cannot be transported and employees cannot reach their workplaces.
+118127	Use the mouse wheel to move the camera closer or further away from the game world.
+118128	Always have an eye on your credit balance in the top left bar. If it is negative for too long, you might be well on your way to bankruptcy.
+118129	You can move across the game world by navigating your mouse to the screen's borders. You can also use the right mouse button or the arrow keys.
+120547	Ships can be destroyed during missions in crisis sectors. If you leave or complete the crisis sector, they are available again.
+118130	A maioria dos edifícios consome energia. O saldo de energia é exibido na barra de informações inferior esquerda. Se ele ficar negativo a sua produção vai cair.
+118131	Quando um empregado é promovido ao nível seguinte você ganha o acesso a novos edifícios. Verifique no menu de construção!
+118132	Your factories produce everything your employees' hearts desire. But maintenance costs are incurred.
+118133	Your spaceport is located offshore on open waters. The minimap shows it as a bright blue dot.
+118134	That building is malpositioned? Select the hand icon from the bottom left infobar or press ([KEYBINDING game.startMouseMode(2001042)]), then click on the building you want to move.
+118135	Your employees work to generate revenue for your company. You can check the numbers by hovering over your credit balance in the top left bar.
+118136	Your bank account displays your total financial assets. Due to global austerity measures, you are not allowed to drop below zero credits.
+120548	You can switch between classic and free camera movement in the gameplay settings.
+120549	Press ([KEYBINDING session.setDefaultRotation()]) to reset you camera rotation.
+118137	You can enable subtitles for all spoken text in the settings menu.
+118138	When facing an energy shortages build new power plants or consider pausing production in your factories.
+118139	To view the needs of your employees just left-click on their residences.
+118140	When building residences, hold and drag the left mouse button to build several of them at once.
+118141	Logistic is important to keep your production running smoothly. Build more transportation centers to improve it.
+118142	Workforce is the backbone of your production. By building new residences you can attract employees who provide it.
+118143	Left-click on a facility to have its productivity displayed in percentage terms.
+118144	When building space become scarce, rotating buildings can help. Use the middle mouse button or ([KEYBINDING game.changeRotation(1)]) and ([KEYBINDING game.changeRotation(-1)]) before placing them.
+118145	To better control your company revenue and your employees’ needs, you can turn off automatic promotion.
+118146	Select a ship by left-clicking on it and right-click to order it to move.
+118147	It’s easier to copy an existing building than to search through the construction menu. Just use the copy mode in the bottom left infobar or press ([KEYBINDING game.startMouseMode(2001043)]).
+120550	Production buildings that are far away from logistic centers or warehouses need more transporters to run at full productivity.

@@ -1,0 +1,316 @@
+110332	I need partners I can rely on. This last assignment gives me doubts...
+113489	Why did you break off? You know how important this was...
+113490	Why did you accept the job if you weren't going to finish it?
+113491	Reliability is the cornerstone of business. You should know that.
+110333	I am sure I don't have to remind you of your responsibilities.
+110334	I don't want milestone reports, I want results.
+110335	Time is wasting. Have you finished that project yet?
+110336	Time is money, and both are flying out the window. Are you almost done?
+110337	I hope you're here to give me the results of that assignment I gave you.
+110338	Please finish that assignment. The delay is jeopardizing other projects.
+110339	You still have an assignment on the books. Payment will only be made upon completion.
+110340	Might I remind you that you still have some unfinished business to attend to?
+110341	There it is.
+110342	Yes, that's the object I mentioned.
+110343	That is the asset in question, yes.
+110344	I beg your pardon? Yes, that is the one I meant.
+110345	Excellent. You found it.
+110346	Yes, that is the one. Carry on.
+110347	Right, that's it. You know what to do next.
+110348	Very efficient. Now you've found it, on to the next step.
+110349	Your destination.
+110404	Please proceed to this location.
+110405	This is where you will need to be for the next step.
+110406	Exactly. That is your target location.
+110407	That is where you will need to go.
+110408	Right, that's the spot. Head on over there.
+110409	Destination located. Proceed as planned.
+110410	Right. That's the spot you'll need to visit.
+110412	We could continue our cooperation, if you're interested.
+110413	Excellent. If you're interested in surfing that success, I have a follow-up project for you.
+110414	Well done. Your success has opened a window of opportunity for a new project. Want in?
+110415	War has never led to anything good. But your intervention could probably lead to something less bad...
+110416	Right. I'm afraid I need someone to put a permanent end to some bad business. You up for it?
+110417	Violence is always bad for business. That's why I want you to go in and put an end to it.
+110418	The area has become unsafe for business. Your job is to pacify the sector and make it safe.
+110419	Armed conflict is bad for business. Take care of it.
+110420	Well, you certainly advocated your position on the matter, even if it was through heavy fire.
+110421	Excellent. Now that the area has been pacified, business can return to normal.
+110422	Well done. Now shipping can once again transit the area unmolested.
+110423	You consider such an outcome worth the losses?
+110424	Losses are usually the result of neglecting contingencies.
+110425	Next time you might want to prepare yourself better.
+110426	We normally do not enter joint ventures, but we need a reliable partner for this.
+110427	Our confidence in you proved well justified.
+110428	I should have prevented this venture from becoming so dependent on your leadership.
+110429	It was a business decision, pure and simple.
+110430	I am a businessman, and it's my job to turn a profit for the company I work for.
+110431	A controlled market is a predictable market – and a profitable market.
+110432	Purely an attempt to prevent a glut on the market with the attendant drop in price.
+110433	In business, such measures are sometimes necessary.
+110434	An artificially inflated price can distort the market if supplies are limited.
+110435	Goods in the marketplace are goods in circulation. That promotes consumption, and thereby production.
+110436	A competitor was trying to create a shortage in order to monopolize the market. We countered.
+110437	The lower the price, the broader the access. That in turn fosters new market segments.
+110438	Bulk selling. Better to sell 10,000 units at 1 credit each than 1,000 units at 6 credits each.
+110439	At Saayman International, we like to say we feed the world. We're feeding humanity. And as humanity reaches for the stars, we'll be there.
+110440	Saayman has always been about food. We always will be. Wherever mankind ventures, Saayman will make sure it never hungers.
+110441	Food was a logical choice for Saayman. As long as the population continues to grow, so will the market.
+110442	Our race is now reaching out into space. One thing we know for certain: they will be hungry. That's where we come in.
+110443	We're Saayman International. We feed the world. Yesterday, today, tomorrow – forever.
+110444	I must admit, I'm somewhat astounded. Saayman Industries feeds the world. That is certainly worth supporting.
+110445	If there were ever a company worth supporting, then it's Saayman. We're in the business of making sure no one goes hungry.
+110446	If you're not willing to support the company that puts food on everyone's plate, just what do you support?
+110447	You seem astute enough. Why aren't you supporting Saayman International?
+110448	Saayman International has been a profitable partner for you. Is that not worthy of support?
+110449	We truly appreciate your support. Rest assured, Saayman International understands that loyalty is a two-way street.
+110450	I would like to thank you for your support, both personally and on behalf of Saayman International.
+110451	You have proven yourself to be both skilled and astute. Saayman is proud to call you friend.
+110452	Good business relations are built upon mutual trust. Thank you for your support.
+110453	Thank you for your support. It's hard to find someone who understands the dictates of the business world.
+110454	You won't see me making flowery speeches expounding what we do. Our achievements can be seen everywhere, in the happy faces of well-fed people. Saayman International. We feed the world.
+110455	If anyone understands the pressures of an overfull calendar, it is I. Still, the few minutes it takes to vote can have a profound effect on the marketplace.
+110456	Not only does Saayman International feed a great many people, we also employ a great many people, too. People working for people, for a better tomorrow.
+110457	Saayman International? We are the food people. Day for day, we ensure that everyone has enough to eat. We feed the world.
+110458	Saayman International arose in response to a need. People were starving. We vowed to put an end to that and will not stop until we've done so.
+110459	Saayman International believes that only a well-fed man can attain his full potential.
+110460	No child should ever have to go to bed hungry. To this end we dedicate Saayman International.
+110461	At Saayman International we declared war on starvation, and we were victorious.
+110462	Saayman International is one of the world's fastest growing corporations. No wonder. Everyone needs to eat.
+110463	As mankind gears up for the next frontier, more workers are needed – and they all need to be fed.
+110464	Short term, fiscally questionable growth is no substitute for a sound, viable business model.
+110465	At Saayman International we cannot allow ourselves high-risk ventures. When one feeds humanity, there is no room for error.
+110466	All the wealth in the world is useless if it can't buy you a meal.
+110467	You may recall the story of the tortoise and the hare.
+110468	Popularity and media attention often indicate more style than substance.
+110469	Food is perhaps not the most exciting field to many, but no one wants to go without.
+110470	There is no shame in falling behind Saayman International. You should instead be proud to measure yourself against a world leader.
+110471	Ever been hungry? Really hungry? Is it any wonder we're so successful?
+110472	What can I say? We feed the world. And they love us.
+110473	Saayman International cares about people, and people care about us.
+110474	Don't be too upset. What is more lovable than feeding the hungry?
+110475	Is it any wonder? I mean, we feed the world. Think about it.
+110476	The worldwide demand for food increases daily. We supply that need. Who doesn't like that?
+110477	You're playing with the big kids now. It will take some time to grow into it.
+110478	You are growing at an admirable pace. But you still have a ways to go.
+110479	I can still remember the cut and thrust of climbing the ladder. Hang in there and you'll make it someday.
+110480	Congratulations on your success. Despite our innovations, the food industry remains a slow growth sector. Albeit one that never falters.
+110481	Saayman International feeds the world. That is a sacred trust, not a footrace.
+110482	Fortune favors the bold, and when you're fighting starvation, there is no room for the timid.
+110483	Nothing makes friends faster than feeding a hungry mouth. The Saayman secret.
+110484	I respect our competitors. Saayman International is in excellent company amid the world's top corporations. Yet, I do wonder how long there will continue to be five of us... Between depleted resources and alleged debts, Saayman seems more relevant than ever.
+110485	Hunger was commonplace in the neighborhood where I grew up. In the time I've worked at Saayman International, that has changed.
+110486	It is hard to contribute to world culture and science when you are weak with hunger. The privileged mistake this for personal failure, choosing to ignore that it might have been them under different circumstances.
+110487	I never cared for the old half hearted attempts to combat world hunger. It all just ended up causing more harm than help. Anyway, I'm not one to hold a grudge.
+110488	With space as our next frontier, mankind will need all the manpower it can muster. Saayman International will be there to feed them.
+110489	Food is one of the basic rights. It doesn't have to be free, but it must be available!
+110490	As a boy, I dreamed of being able to eat whatever I wanted, whenever I wanted. Another reason I joined Saayman.
+110491	What boy did not dream of one day being an astronaut? It's too late for me, but at least I can feed them!
+110492	I joined Saayman International to make a difference, to help feed the people I saw starving. I'm proud to say that we are doing just that.
+110493	I met Jay Saayman when I was still a young man. One of the best days of my life.
+110494	I don't envy Bharghava's position. Limited resources aside, being someone's lapdog instead of your own person must be degrading. Then again, I doubt he realises it. Ignorance is bliss, after all.
+110495	I admire May Tian's will. It must be iron, keeping her business among the world's largest as she does. If I were you, I'd do my best not to cross her.
+110496	It's saddening to see how disdainful some people can be of others' hunger when their own bellies are full.
+110497	Hofwegen is a gifted and studious scientist, but so very wasteful. She places no value in efficiency nor relevance in her inventions. Headhunting her would be a mistake.
+113492	Un-detected. You were supposed to remain undetected.
+113493	You were seen. All of the resources poured into this assignment - lost.
+113494	You were detected. That was a waste of time and money.
+113495	Excellent, you're in the area indicated. Start your search.
+113496	Now that you've arrived, you can begin your search.
+113497	Right on time. Now find the object as quickly as possible.
+113498	You found it. Excellent work!
+113499	You found it already? Now, that was efficient!
+113500	You were quick in finding that. Excellent use of the available resources.
+115076	Good day. We haven't met before. My name is Emem Buhari. That's Emem with two Ms. I am the External Affairs Officer at Saayman International, so I'm sure I'll be dealing with you more frequently in the future.
+115353	Please contact me. It is about our joint project...
+115354	Visit our project site. The next few steps are your responsibility.
+115355	Please concentrate your attention on our joint venture.
+115356	Please contact me, if your time allows. I'll be waiting here.
+115357	I have a proposal for you, if you're interested.
+115358	Saayman International is planning a project in this sector. We hope you will participate.
+115507	We want to break routes straight through the ice. When our competitors caught wind of it they called us madmen, but your presence here makes it possible.
+115509	Together we will convince the Arctic Custodians we're up to the job. Now, of course, these new routes will be just as much yours as ours.
+115510	Please don't jump to conclusions about our values, this is a project for sustainability. We don't seek to destroy, we want to supply. I trust we have your support?
+115512	These channels will help us feed the world! I'll be in touch when the second channel is ready.
+115513	We've secured the first step towards our people's sustenance. I'll let you know when we're ready to continue.
+115514	Even with two operational channels we can barely meet the demand. Saayman International will prepare the construction of a third, shorter one. You'll hear from me.
+115515	Constructing the third route requires a certain delicacy, but it's progressing well. I'll inform you should your help be required.
+115516	All three channels are secure and working at capacity to provide for our people. On behalf of Saayman International, I thank you for your partnership.
+115519	These channels are a beacon for trade in the Arctic. It's my duty to make sure they stay safe. You helped us in our hour of need, I shall not forget that.
+115525	I expected to see you here. Let me explain my case: Saayman International hopes to expand the Arctic's food supply network, in partnership with you.
+115888	Congratulations on your success. It just goes to show that we should all strive towards excellence.
+105392	The Crew's in the house! Ready to build one hell of a space port!
+111987	Great!
+111988	That's really something!
+111989	Thumbs up!
+111990	Nice work!
+111991	Nothing to sneeze at.
+111992	Gotta like that!
+111993	Couldn't be better!
+111994	Decent work here.
+111995	Respect.
+111996	That's how it's done!
+111997	That's definitely an improvement!
+111999	Good that's over. Stuff like that can make you crazy.
+112000	So that's the end of that, eh? Finally.
+112001	You're a real champ!
+112002	It's great, the way you always pitch in to help. Thanks for that.
+112003	You just made my day!
+112004	Always good to have you on the job!
+112005	You always know how to handle stuff like this!
+112006	Worked out nicely, thanks to you.
+112007	There's nothing you can't make happen, eh?
+112008	Thanks for all your efforts!
+112009	And then you just come round and save the day. Great!
+112010	You have my greatest respect.
+112011	That bites!
+112012	[Sigh] It is what it is.
+112013	Too bad.
+112014	That is so messed up!
+112015	No good.
+112016	Didn't work out.
+112017	You're joking, right?
+112018	Ah, one of those days...
+112019	Ah, crap!
+112020	Ah, no!
+112021	Woah, that's a case for the union, you know?
+112022	With all due respect, just how'd you think that would turn out?
+112023	You should have called a specialist. Sorry, but...
+112024	You did your best.
+112025	We all have those days, you know...
+112026	And I just bragged about how successful my boss is...
+112027	Sorry. I reckon you worked hard on that.
+112028	You'll nail it next time.
+112029	Not saying you fouled up, but... look at the mess...
+112030	Blame it on the tools, boss.
+112031	Got some work for me?
+112032	Didn't expect the management to show up. Please, come in...
+112033	Sorry, you must be accustomed to more comfort.
+112034	Been some time since I had such an important guest. What can I do for ya?
+112035	My humble four walls. Come in and sit a spell.
+112036	So, right, then. How's things?
+112037	Welcome. Hope everything's alright.
+112038	Hi. There any work to do?
+112039	Seems like work is following me home, now. But I don't mind.
+112040	It's a good day. All the more so, now that you dropped in.
+112041	Time to roll up our sleeves!
+112042	Here goes!
+112043	Wait, I'll just go grab my toolbox.
+112044	Of course.
+112045	I'll get it done.
+112046	You got it!
+112047	You can count on me!
+112048	You pay my bills, don't ya?
+112049	For you, anytime!
+112050	You bet!
+112051	Now, of all times? No, sorry.
+112052	Sorry, too much other stuff to do.
+112053	No way.
+112054	Sorry, not my kind of thing.
+112055	No. Sorry.
+112056	Sorry, I already clocked out, you see?
+112057	You didn't hire me to do anything like that!
+112058	I reckon you got better qualified people for that.
+112059	Sorry, I'm kinda overworked right now, see?
+112060	I'd like to help you. But the doc says I gotta ease up.
+112061	I'm gonna need some help from the management here.
+112062	I know you're very busy. But you can't just close your eyes to this!
+112063	I wish someone would take care of that.
+112064	This makes work all the harder. Would you do something about it?
+112065	I'd rather report the problem before they say the tradesmen botched it up.
+112066	Now, I ain't normally one to call for a strike, but if this problem ain't tackled soon...
+112067	Thanks! That really helped!
+112068	Good to know we have people like you upstairs!
+112069	Stiff piece of work, that. But you nailed it!
+112070	That's what I call work ethic! Thanks!
+112071	See, that's why I'm glad I work for you!
+112072	You always take our matters seriously. Thanks for that!
+112073	Woah, that was a real walkover for you!
+112074	Great job! Thanks a lot!
+112075	Sorry, but that was some pretty shoddy work.
+112076	[Sigh] Happens to the best of us.
+112077	All that work and nothing to show for it!
+112078	Yeah, why burn yourself out for the little people, eh?
+112079	And I thought, it would get done finally.
+112080	Yeah, yeah, right... Back to work...
+112081	You haven't forgotten me, have ya?
+112082	Yeah, you owe it to yourself to take five every now and then on a job like that.
+112083	Taking some time off work?
+112084	How far along are you?
+112085	Work going well?
+112086	Always nice to have you here. But ain't there work to do?
+112087	Can't wait to see when everything's done!
+112088	What, quittin' time already?
+112089	Yeah, that'd be it.
+112090	Looks like the one, eh?
+112091	That's it.
+112092	Guess that's it, alright.
+112093	Careful. That stuff's important.
+112094	Right, that's it.
+112095	All packed up and ready to go.
+112096	Ready for the taking.
+112097	Right there, yup.
+112098	Told the guys you're on the way.
+112099	Yeah, over there!
+112100	Looks like you know your way around.
+112101	Already expecting you.
+112102	I reckon you're on the right path.
+112103	Over there, over there!
+112104	That's the spot, boss.
+112105	Ah, now they got us.
+112106	Too much noise?
+112107	Woah, they have good eyes.
+112108	That's the direction.
+112109	Must be around here, I reckon.
+112110	Keep going!
+112111	So that's how it looks like?
+112112	Found it!
+112113	Right there, ahead of us!
+112116	So much for the groundwork. Now it's time to get down to brass tacks!
+112117	Thanks a lot. But there's still another problem needs takin' care of.
+112118	Great! Hope it isn't rude to ask for something else.
+112119	There're so many attacks at sea these days... gives me the creeps.
+112120	Not whinin' or nothin', but someone's gotta deal with this threat!
+112121	Nothing you can solve with drill and hammer. Needs some guns, I reckon.
+112122	Working at sea has become way too dangerous. Could you look into that?
+112123	I know it's a big thing to ask, but could you ensure more safety at sea?
+112124	And they all went boom. Nice work, boss!
+112125	Tough as nails, you are!
+112126	You made short work of those sleazebags!
+112127	Those cowards, if I could just get my hands on them...
+112128	Next time you'll pound them to smithereens!
+112129	Woah, can't say I ain't nervous right now.
+112131	There's some serious mismanagement going on. And it's us regular Joes who take the rap.
+112132	Prosperity for everyone... yeah, right!
+112133	That does it! I've had enough! I quit!
+112134	And the bosses just ignore our concerns! Same as always.
+112135	Yeah, sure, keep ignoring our basic employment rights!
+112136	Oh, an honorable visitor! Say, did you see any of that welfare you promised us around here anywhere?
+112137	Staff restructuring? Ah, gimme a break!
+112139	Our block gets emptier every day. Kinda makes you think.
+112142	How am I doing? Hmm, well – I'm not dead...
+112144	Yeah, my joints are killin' me, but at least I have a job.
+112143	Life's not easy here, but we can make something out of it.
+112130	We bust our backs all day! And for what?
+112138	So a wise man once said if you can't have fun, there's no sense in doing it? Yeah, right.
+112145	There's always room for improvement. That's what my foreman says.
+112146	It's alright here, I guess. Nothing fancy.
+112147	Can't really complain, but I'm not jumpin' for joy, either.
+112148	I don't mind working here at all.
+112149	Sure, you know, but everyone always wants a little more.
+112150	A lot left to do if we wanna make this place special. But I'm confident we'll get there.
+112151	I have a home, a job... guess you could say, I'm doin' good.
+116488	Makes it easier, knowing I works in a place like this and for a boss like you.
+116489	I can allow myself a litlle treat every so often. Life is good!
+116490	I, for one, believe in our company.
+116491	Me? Oh, yeah. I'm fine. Pretty good place to be.
+116492	Kids are happy, the missus is fine. Really can't complain.
+116493	This is the life you have here! Not one unhappy face out on the street.
+116494	The cityscape alone! Pretty awesome.
+116495	Look at all the things the company gives us. Can't take it all for granted, see?
+116496	It's a beautiful day. Kind of has to be, in a place like this. Life is good.
+116497	You being here at my house only shows how much you care for us!
+112154	What can I say, it's just amazing here!
+112155	They should vote you "Employer of the Year"!
+112156	Really, I couldn't imagine living anywhere else!
+112157	I like the morale at work. It's like we could accomplish anything!

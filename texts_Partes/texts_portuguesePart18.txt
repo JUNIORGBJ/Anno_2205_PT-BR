@@ -1,0 +1,316 @@
+119844	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000236] in the neighborhood.
+105970	[THIRDPARTY_NAME] warmly welcomes you.
+105971	[THIRDPARTY_NAME] smiles as you walk in.
+105972	[THIRDPARTY_NAME] shoots the breeze with you.
+105973	[THIRDPARTY_NAME] passes the time chatting.
+105974	[THIRDPARTY_NAME] makes small talk.
+102736	[THIRDPARTY_NAME] asks you to keep the assignment in mind.
+105250	[THIRDPARTY_NAME] reminds you of your responsibilities.
+105251	[THIRDPARTY_NAME] hopes you will carry on with the assignment.
+105257	[THIRDPARTY_NAME] identifies the object as a part of the Assignment.
+105258	[THIRDPARTY_NAME] informs you about this object's relevance.
+105259	[THIRDPARTY_NAME] views this object as crucial for the assignment.
+102737	[THIRDPARTY_NAME] confirms the point of delivery.
+105252	[THIRDPARTY_NAME] points you towards your destination.
+105255	[THIRDPARTY_NAME] wants you to unload everything here.
+117973	[THIRDPARTY_NAME] advises caution.
+119821	[THIRDPARTY_NAME] is looking forward to your inevitable failure.
+119822	[THIRDPARTY_NAME] does not think you can oppose him much longer.
+106009	Construction options expanded.
+106010	New blueprints ready for implementation.
+106011	Construction of new building types possible.
+106012	Corporation value has risen.
+106013	Your global market share has increased.
+106014	Business successes multiplying.
+106015	Company stocks advance in price.
+106016	Competitive edge sharpened.
+106017	Company trademarks grow in popularity.
+106018	New level of success reached.
+106019	Registered under new name.
+106020	Influence increases to new level.
+109090	Corporation label adapted to reflect economic power.
+106021	Prices for monitored goods lowered.
+106022	Report on monitored goods: Prices at new low.
+106023	Important. World market lists low prices.
+106026	Prices for monitored goods rise.
+106027	Shortage of goods have forced up prices.
+106033	Market trend indicates price increase for monitored goods.
+106042	Warning. Energy shortage.
+106043	Warning. Energy grid overload.
+106044	Warning. Energy scarcity.
+106045	Warning. Energy demand too high. Countermeasures recommended.
+106046	Warning. Energy demand can no longer be met.
+106048	Warning. Workforce too low to meet production quota.
+106049	Warning. Facilities require additional manpower.
+106050	Warning. Human resources insufficient.
+106051	Attention. Expansion of workforce recommended.
+106052	Attention. Staff shortage slowing down production.
+106053	Attention. Workforce too low to meet production requirements.
+106054	Attention. Insufficient supply of goods for processing.
+106055	Production delay registered. Cause: Material shortage.
+106056	Warning. Production facilities undersupplied.
+106058	Warning. Unfullfilled demand for specific consumer products.
+106059	Attention. Underprovision of specific consumer goods detected.
+106060	Consumer analyses show unfulfilled demand for specific commodities.
+106062	Logistics network overburdened.
+106063	Goods transport facing delays. Cause: Transporter shortage.
+106065	Attention. Lack of transporters impairing production.
+106082	Connected.
+106083	Online.
+106084	Connection established. Online functions accessible.
+106085	Disconnected.
+106086	Offline.
+106087	Not connected. Online functions unavailable.
+108068	Signature verified. Sector ready for settlement.
+108069	Conveyance of new sector completed.
+108070	New Arctic sector available.
+108071	Additonal Polar sector accessible.
+108072	New moon settlement territory accessible.
+108073	New Moon territory transferred to your ownership.
+108074	New Tundra sector accessible.
+108075	Additional Tundra sector opened.
+108076	New Mars territory available.
+108077	New Mars territory accessible.
+108095	Transfer of sector ownership concluded.
+108096	Corporate branch established.
+108097	Sector converted to corporate property.
+108098	New island occupied.
+108099	New settlement established.
+108100	Construction area claimed.
+108101	New arctic island ready for settlment.
+108102	Arctic branch founded.
+108103	Occupation of arctic island completed.
+108105	New crater occupied.
+108104	Lunar warehouse connected to crater.
+108106	Crater now accessible.
+108107	New Mars colony established.
+108108	Mars plateau claimed.
+108109	Mars colonization area expanded.
+108110	Tundra island added to corporate network.
+108111	New tundra settlement founded.
+108112	Tundra island ready for development.
+108113	Caution. Financial assets depleted.
+108114	Caution. Balance operating in the red.
+108115	Warning. Calculations indicate bankruptcy within short timeframe.
+108116	Warning. Insolvency unavoidable soon.
+108117	Global Union subsidies remitted.
+108118	Assistance loan granted.
+108121	New loan granted by Global Union.
+108119	Updating account balance. Status: All loans repaid.
+108120	Goodwill recalculated. Corporation now free from debt.
+108122	Debtors announce: All liabilities were serviced.
+108123	Economic viability reconditioned.
+108124	Balance positive. Financial losses compensated.
+108125	Updating list of achievements.
+108126	Congratulations. New achievement gained.
+108128	Requirements for new achievement fulfilled.
+108130	Transfer route output at zero. Countermeasures recommended.
+108131	Transfer route suffers from inadequate supply of goods.
+108132	Transfer route inefficient. Cause: Missing goods.
+108133	Population growth advances.
+108134	Recent census reveals population increase.
+108135	Registering strong demographic growth.
+108136	Attention. Outflow of population detected.
+108137	Warning. Public discontent causes emigration.
+108138	Warning. Declining population threatens economic growth.
+108139	Assignment completed. Rewards transferred.
+108140	Changing assigment status to completed.
+108141	Performance of contract confirmed. Receiving payment.
+108149	Danger level receding. Enemy ships destroyed.
+108150	Enemy fleet sunk.
+108151	Enemies annihilated.
+108152	Enemy convoy destroyed.
+108153	Enemy structure destroyed.
+108154	Registering collapse of enemy structure.
+108155	Attention. Allied party is attacked.
+108156	Attention. Allied party under enemy fire.
+108157	SOS signal received. Allied ship sunk.
+108158	Attention. Allied ship destroyed.
+108159	Attention. Allied convoy suffering casualties.
+108160	Allied vehicle destroyed.
+108161	Secondary mission complete.
+108162	Secondary objectives achieved.
+108163	Military assigment completed.
+108165	Secondary mission failed.
+108166	Outcome classified as defeat.
+108167	Damage report shows impending defeat.
+108168	Enemy predominance determined.
+108169	You are victorious.
+108170	Acknowledging enemy defeat. Well done.
+108171	Mission results incoming. Assessment: Victory.
+108172	Mission outcome calculated. Result: Defeat.
+108173	Fleet destroyed. Mission unsuccessful.
+108174	Retreat successful.
+108175	Fleet successfully pulled back.
+108177	Loading structure data...
+108178	Analyzing structure.
+108179	Object analysis concluded.
+108180	Hostile structure. Approach carefully.
+108181	Enemy structure. Caution is recommended.
+108182	Data indicates loaded weapon systems.
+108183	Enemy ship detected.
+108184	Ship affiliation: Hostile.
+108185	Enemy ship on screen.
+108186	Caution. Explosives detected.
+108187	Caution. Sea mines.
+108188	Underwater explosives identified.
+108189	Warning. Allied forces heading for defeat.
+108190	Warning. Allied fleet records increasing losses.
+108191	Nuclear missile fired.
+108192	Launching nuclear missile.
+108193	Repair drones launched.
+108194	Self-repair running.
+108195	Energy shields active.
+108196	Directing power to shields.
+108197	Analysis complete.
+108198	Updating object profile.
+108199	Displaying information.
+108200	Selection confirmed. Loading data.
+108201	Displaying Object Data.
+108202	Analysis complete. Showing profile.
+108204	Data exchange complete. Changing to display mode.
+108205	Data transmission successful.
+108206	Contact successful.
+108207	Unusually long playing time detected. Pause recommended.
+108208	Hello, long periods of onscreen fun impair concentration and interpersonal relationships. Leading a MegaCorp requires both.
+108209	Hello. Question. Who is the machine? You or I? Oh... I should recalibrate my personality software before getting cranky.
+108210	I'm not programmed to be a killjoy. But I must inform you, that after hours of extensive usage my battery is ruuuuuning looooooow aaaaaand...
+106067	Spaceport upgrade initiated.
+106068	Starting Spaceport expansion process.
+106069	Spaceport upgrade will be implemented.
+106073	Spaceport upgrade paused.
+106074	Spaceport construction freeze confirmed.
+106075	Spaceport upgrade on hold.
+106070	Spaceport ready for development.
+106071	Preparations for spaceport upgrade completed.
+106072	Spaceport expansion approved.
+115410	Bridge construction started.
+115411	Beginning bridge construction.
+115412	Bridge construction site established.
+106079	Bridge construction stopped.
+106080	Bridge construction on hold.
+106081	Bridge construction paused.
+106076	Bridge construction aptitude verified.
+106077	Site ready for bridge construction.
+106078	Bridge development authorized.
+115413	Monument construction commenced.
+115414	Initiating monument construction.
+115415	Construction of monumental structure started.
+115419	Monument construction process stopped.
+115420	Monument realization suspended.
+115421	Monument completion postponed.
+115417	Construction permit for monument issued.
+115418	Monument proposal ready for implementation.
+115437	Monument construction authorized.
+115422	Monument raised.
+115423	Monument opened.
+115424	Construction team reports monument completion.
+115489	Hello, Welcome to the Global Union central office.
+115490	My name is A.D.A.M. I am an artificial intelligence. I function as a data processing system to assist you in your tasks.
+115491	Welcome to the Global Union orbital base.
+115492	You have been recommended for the Lunar Licensing Program. Please enter your name.
+115493	You have been recommended for the Lunar Licensing Program. I shall connect you with your official contact person. Please wait.
+115494	Establishing connection. Please wait.
+115495	You have been recommended for the Lunar Licensing Program. Please create an account to proceed.
+115496	Thank you. I will connect you to the official person in support.
+115506	Caution. Unclassifiable movements on sector border. Escalation of security level recommended.
+115815	Receiving transmission. Source: Cargo ship convoy, MS Donegal.
+115816	Signal lost. Radar systems offline.
+115817	Caution. Registering ship movement in this sector. Establishing radio link …
+115818	Communication with Global Union space station blocked. Source of interference: Satellites of Lunar Excavation Corporation.
+115819	Manipulated communication signal detected on all channels. Type: Video message. Connecting...
+115820	Position of cable located. Transmitting coordinates.
+115821	Cable firmly attached. Elevator car ready for departure.
+115823	Attention. Approaching Global Union space station. Prepare for docking.
+115824	Icebreaker landing stage installation commenced.
+115825	Construction suspended. Cause: Construction machinery does not fulfill requirements.
+115826	Arctic expedition ready for departure.
+115827	Initiating Phase 2 of Lunar Licensing Program. Loading instructions...
+116002	Receiving transmission inquiry. Source: Global Union cargo transport.
+116074	Icebreakers launched. Preparations for Arctic expedition concluded.
+115836	Entering Arctic Custodian protectorate. Preparing for occupation of arctic settlement zone.
+115837	Climate stabilization data evaluated. Temperature: Minus 40 degrees celsius, constant.
+115838	Attention. Registering fluctuation in atmospheric conditions. Breaks in weather cannot be ruled out.
+115839	Arctic Custodian delivery heading for this sector. Stable weather indicates rapid progress.
+115840	Warning. Climate Stabilizer network producing weather anomalies. External manipulation detected.
+115841	Interference identified. Suspect Orbital Watch programming.
+115842	Reporting recession in climactic anomalies. Sector climate stabilization completed.
+115848	Colony shuttles in position. Propellant cells full. Communication systems secure.
+115849	Commencing countdown.
+115850	Five, four, three, two, one.
+115868	Receiving information. Enemy control of Climate Stabilizer originates from transmitter in central control system. Sending blueprints for counter module.
+115869	Negative. Source of information unknown. Data structure indicates insertion through hacking, although code pattern is not of Orbital Watch origin.
+115851	Shuttle touchdown successful. Turning to stationary mode.
+115852	Deploying moon rover for territory evaluation.
+115853	Receiving video message. Origin: Former LEC main colony.
+115854	Attention. Analysis of satellite images indicates vehicle convoy under way to this sector.
+115855	Caution. Convoy of unidentified vehicles just crossed sector border.
+115865	Warning.
+115866	Warning. Hacking attempt detected. Data connection to Orbital Watch military servers established. Running recalibration protocol.
+115867	Recalibration concluded. Fire.
+115871	Energy Transmitter online. Starting test protocol for energy transfer.
+115872	All parameters in the green. Energy transfer successful.
+115877	Object composition analyzed. Type: Satellite. Model: Thorne-12C, Global Trust Mars mission.
+115878	Satellite hard drive contains 1 file. Type: Video message. Loading...
+115828	Carregando...
+115829	Please wait.
+115830	Establishing connection.
+115831	Connection lost.
+115832	Processing information.
+115833	Sorting data.
+115834	Caution. Enemy presence detected.
+115835	Warning. Systems are damaged.
+115843	Receiving communication signal.
+115844	Video memo received. Uploading.
+115891	Thank you for participating in the Lunar Licensing Program. The program stipulates that your corporation set up operative spaceports to act as bases for a new wave of lunar colonization. You will further assist Global Union in the development of a fusion energy reactor to avert Earth's impending energy crisis.
+115892	You are now entering Phase 1 of the Lunar Licensing Program. The Global Union assigned you territory in Earth's temperate region to establish a spaceport and a base of operations. The construction of a space elevator to Global Union headquarters is also required. For further instructions, speak to your official contact person. Global Union wishes you success.
+115893	Welcome to Phase 2 of the Lunar Licensing Program. You are now authorized to enter the Arctic region and access its deposits of rare resources to implement new means of galactic travel. Your official contact person will give you more information.
+115894	You have entered Phase 3 of the Lunar Licensing Program. Your shuttles have arrived at the designated settlement territory. You are required to establish a lunar colony there and begin Helium-3 extraction. The development of a stable fusion reactor is your primary objective. Additional information: Hostile activities detected near your settlement territory. Be careful.
+115895	Congratulations. You have completed all Lunar Licensing Program objectives. Fusion energy transmission will now meet the world's energy demand and enable mankind to implement new means of galactic travel. Global Union is grateful for your cooperation.
+115896	Attention. Global Union will announce the commencement of a new galactic settlement program. The application phase starts now.
+121680	Well done.
+121681	Very impressive.
+121682	Flawless execution.
+121683	Expectations exceeded!
+121684	Exceptional feat.
+121695	Progress secured.
+121696	Obstacle eliminated.
+121697	Success!
+121698	Outcome not as planned.
+121699	Undesired effect.
+121700	Too many inefficiencies.
+121701	Terrible performance.
+121702	Detracting brownie points.
+121703	Do you need me for a status report?
+121704	Good to see you! Then again, I see you most of the time.
+121705	All systems running smoothly.
+121706	Nothing on fire or exploding. At the moment.
+121707	Your vitals are within acceptable limits. However, I advise against staying in zero g too long.
+121708	Success chances above 90 percent, after factoring human error.
+121709	This endeavor has a positive prognosis.
+121710	Break a leg! ... Is the appropriate response in this case, correct?
+121711	Prediction: a successful endeavor.
+121712	Thank you.
+121713	We work well together!
+121714	That was very helpful of you.
+121715	Affirmative.
+121716	Executing command.
+121717	I'll get right to it.
+121718	Not advisable.
+121719	High chance of catastrophic consequences.
+121720	I'm afraid I can't do that.
+121721	I took the liberty of adjusting your schedule for this.
+121722	Physical intervention needed.
+121723	Can I have your attention?
+121724	I'll be on standby.
+121725	Assignment list extended.
+121726	Suggested course of action added.
+121727	Negative predictions were unwarranted.
+121728	Saving successful performance data for future reference.
+121729	Surprisingly satisfactory outcome.
+121730	Results as expected.
+121731	To err is human.
+121732	Beginning of downward trajectory.
+121733	The human factor needs to be adjusted for future endeavors.
+121734	To do list decluttered.
+121735	Human capability overburdened, downsizing parallel processes.

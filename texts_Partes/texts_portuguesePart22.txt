@@ -1,0 +1,316 @@
+114301	We can't afford to allow the Orbital Watch to continue like this.
+114302	I was asked to recuit someone familiar with military operations.
+114303	These terrorists are a threat to the free world. You must act.
+114304	A confidential operation. We hope it will have an impact on the Orbital Watch.
+114305	I like your no-compromise policy.
+114306	The area is much safer now, and that's exactly what was hoped for.
+114307	Well done! Your actions in the conflict have had a major impact.
+114308	You should have thought of a better strategy.
+114309	The political fallout alone...
+114310	Well, we'll have to try to recoup those losses somehow.
+114311	Time is money. What can I do for you?
+114312	The world markets never sleep.
+114313	Everything converges here. So grab the opportunities as they arise.
+114314	Goods come in, goods go out. Position yourself.
+114315	Welcome to the center of global trade.
+114316	Let me know what you need and I'll see what the markets have to offer.
+114317	Always keep an eye on current market trends.
+114318	Welcome, State your business.
+114319	The route is registered.
+114320	Approved. The route is officially open.
+114321	Let's hope this route will be profitable for you.
+114322	Good move. Your goods are needed out there.
+114323	Your goods will find their buyers on the world markets.
+114324	Goods are being sent out!
+114325	A promising route you have there.
+114326	Buy low and sell high. That's the formula.
+114327	Goods are on the way!
+114328	Your shipments should arrive in time.
+114329	I hope you'll put these goods to good use.
+114330	Your request has been granted. Goods are being sent out to you.
+114331	I've examined the route. The deliveries will arrive soon.
+114332	Goods have been launched. We'll keep you posted on their ETA.
+114333	Right. Those goods should be incoming shortly.
+114334	Delivery will be expedited.
+114335	Done.That route is history.
+114336	Good. I'll delete the route from the register.
+114337	Certainly. Network optimization is an ongoing process.
+114338	Either it's profitable or it has to be deleted.
+114339	That will free up some capacity.
+114340	That trade permit is about to expire.
+114341	Don't forget, that permit expires soon.
+114342	This was a temporary route. You'll either have to renew it or deregister it.
+114343	Our trade agreements are due to expire soon.
+114344	The permit for this route has almost run out. Do you want to extend, or not?
+114345	This route will soon be history. What do you want to do about it?
+114346	So, you've had time to evaluate this route. What's next?
+114347	Just a reminder that the permit for this route expires soon.
+114348	That's it. Shall I renew the contract?
+114350	You've read the reports. Do you want to renew the permit?
+114351	Time to either renew the permit or cancel the route. Your call.
+114352	Decision time. Renew the permit or drop it?
+114356	You should seize the moment, if you have need!
+114357	Buy low and sell high, that's the rule. The price is good.
+114358	If you have the credits, this is the time to buy.
+114359	Prices have dropped. This is a good time to buy, if you're interested.
+114360	You might want to consider buying soon, if you have the credits.
+114361	Now's the time! You should sell if you can.
+114362	Prices are at a premium. Now is the time to sell.
+114363	If you sell your surpluses now, you could make a healthy profit.
+114364	Time to sell, if you're interested. The price won't get much better than this.
+114365	I think you should sell your excess stock. The time is ripe!
+114366	It's a volatile market right now. Have a look!
+114367	There's a lot of fluctuation in the market at the moment. There's money to be made if you're careful.
+114368	There's so much happening in the market right now. Opportunities and risks...
+114369	You could make some real money trading in this volatile market, but you'd have to be careful.
+114370	This is the kind of market that gives traders gray hair. Keep your eyes open.
+114371	You know, if I were you I would exhaust the massive saving potential within your company. We know it's important to minimize purchasing expenses by consolidating... are you even listening?
+114372	Sam Beaumont? Oh, I remember when she was but a minor representative. Worked with me back then. But let's be honest: She's better with people than with numbers.
+114373	Corruption? Look, these days everything is about commerce. And the Big Five are major players on the world markets. We cannot avoid having one or two special arrangements with them.
+114374	If the Lunar License Program keeps advancing at this rate, they'll soon have to give me a new job title. Secretary of Pan-Orbital Commerce. I like the sound of that.
+114375	The Orbital Watch are the major political challenge of the decade. And I'm afraid we won't overcome them easily.
+114963	Greetings, Anthony Goodwin. Secretary for Pan-Terrestial Commerce. If you have any requests concerning the World Markets, come to me.
+115890	Beaumont did right to bank on you. Your cooperation has has been more than satisfactory.
+115613	There, that's where the bleedin' cowards attacked us. Still circlin' our cargo ships like a swarm o' black flies!
+115615	And I see they've brought reinforcements. Gotta be careful. I've seen 'em before, they've no compunctions at all.
+115631	Press past their blockade and free our ships. I got your back!
+115632	Now, full speed ahead!
+115633	Takin' the brunt, eh? Don't worry, my drones will fix that.
+116006	Repair drones are runnin' full tilt! Should get the damage under control!
+115634	Don't be above salvagin' your enemies' wrecks. There's some rare stuff to be found amidst the lost cargo.
+115635	See, wherever you go there's people pesterin' you with their troubles. But... sure, we should help 'em out, I reckon.
+115636	Looks we're not the only ones havin' trouble with the Orbital Watch! And if a common enemy ain't no reason to help 'em out …
+115637	Energy cells at full power! You should try out the special weaponry I equipped your fleet with.
+115638	Now listen. Just shootin' ain't everything. You can equip your fleet with a wide array of special weaponry. Could save your bacon.
+115639	So, we've saved the cargo, but I can't say the same for that sector. Won't be easy to drive 'em terrorists out permanently. Gonna become a plague 'round here.
+115640	Or you wanna stay and give the rest of them what for, too?
+115641	You see. Those lousy privateers attack any material transport ships that go through there.
+115642	Send them to the seabed before they do the same to our material shipment. I got your back!
+115643	Damn it! Gotta pull back for now. Maybe we'll get the next delivery through here somehow.
+115644	Alright, we've saved the cable. Can't say the same for that sector. They're gonna keep on raidin' cargo ships. And next time, you'll be on yer own.
+115736	Good. No Orbital Watch flies circlin' that one anymore. But that's not the only ship needin' help.
+115528	They attacked us outta nowhere! Sunk me all me ships and took over the cargo. Now they're blockading the whole sector. No transports are gonna make it through anymore.
+105518	Bah, isn't that typical! Now that there's trouble, the Union comes crawling! You can be happy that the blockade ships piss me off even more...
+105519	A few nimble battleships would make short work of those dumpy clippers! Could build myself some if I had a decent workshop.
+105731	Ah, good. That'll let me set up a small dry dock, at any rate. But don't be expectin' any miracles from me!
+105732	I don't have more than few tons of material, myself. Have to see how far they get us!
+105520	Well, that'll be enough for one ship! While I'm at it, I'll be happy to add a few guns to your command ship. I reckon you're gonna need 'em soon enough.
+105536	It's all good and fine with Ms. Beaumont running around like everything's on the stopwatch. But without some specialized construction tech, there ain't gonna be much happening.
+115504	Yeah, Rafferty here! Escorting the HTV Horizon, carryin' yer cable. Position is 50.0, 8.26. We're approaching yer sector, over.
+115505	Yeah, Rafferty here! Ms. Beaumont assigned me to ensure the transport's safety. Approaching your sector, over.
+120060	Yeah, Rafferty here! Ms. Beaumont assigned me to ensure the transport's safety. Approaching your sector, over.
+116004	Name's John Rafferty. Ms. Beaumont assigned me to ensure the transport's safety. The ships should be arrivin' here any minute.
+115518	What the blazes…
+115537	Code red! We are under attack! Code red!
+120061	What... Code red! We're being attacked!
+115520	All hands to the guns! Bring about ship!
+115521	Don't let 'em cut us off! Break through, break through...
+115522	Damn it... The cargo... Protect the ship!
+115523	All hands, fall back! Fall back, will ya!
+115524	Orbital Watch! Better watch out for me, they should! I'll get back what's ours, you'll see!
+115526	Attacked us outta nowhere! Bunch o' cowards sunk all me ships and hijacked the transport. Had a close call meself, I did!
+116005	Alright, we're approachin' the sector, over.
+115531	If you wanna get back what's yours, you'll need some decent battleships to deal with theirs.
+115536	I sent you the coordinates for where they attacked us. If you wanna start a fight over what's yours, I'll cover yer back.
+115564	There's that ol' dockyard in this sector. Still has some half-done battleships in the dry dock that I can whip into shape. Just bring me the materials.
+115592	That'll be enough. Let's build us a fleet that'll kick their arses right back into orbit, eh.
+115608	The fleet's ready to depart. The Orbital Watch better watch out for us, sure enough!
+115646	Right. Elevator cable's tight. Car's fixed. Startin' the test run in three, two, one …
+116019	Right. Elevator cable's tight. Car's fixed. Startin' the test run!
+116068	Bah, could've told ya so. Without some specialized construction tech, there ain't gonna be much happening.
+116073	Where did ya get that? A little past it's prime, don't ya think? But as long as it does the job.
+116314	Yes, that's what I'm talking about! Icebreaker docks, here we come!
+115845	And don't forget! We're goin' to need high-grade heat-resistant steel for the lauchin' pads. The stuff we have here won't do.
+105619	Ah, so yer back! Now, what about that steel I asked for? Hope that's not all in cold storage in your arctic warehouses!
+105620	Yeah, that's the thing! The metal deliveries are comin' in at a good rate now!
+105622	Hopefully everybody knows how to do their job. Launchers, colony shuttles, boosters... There's still a lot of work to be done!
+105623	Okay! That's it from our side! Now all that's left is to christen the launch ramp!
+115846	Ah, I see you got the steel I've been askin' for. With enough workers, I could build you that launch ramp in no time!
+115847	Oh my! Look at 'em, soarin' off into the unknown... what? No, it's none of that... I must've just gotten some smoke in my eyes.
+116319	Sorry, delivery'll be comin' in late. If at all. Sudden storms are poppin' up all across the Arctic Ocean. Never seen anything like it before.
+116321	No way I'm sending me ships out in a storm like that! Sorry, but the delivery is on hold.
+115873	So, yer done up there, are ye? But if you want me to build one o' them transmitters, too, you gotta bring me the basic building blocks. Has to exactly mirror the one up there, right?
+115874	Here goes! Let's see if that fusion energy transmitter tech is worth all the hassle.
+116285	Hey, get a move on! New work comin' in!
+116286	Oi, 'nuff loafin' around! We gotta be gettin' on with it.
+116287	I'm only waitin' for you.
+116288	Could use a hand or two with that!
+116289	Ah, how am I supposed to do this kinda thing alone? Come and gimme a hand, will ya?!
+116290	Hey! Got a little work to do here. Wanna join in?
+116008	Bunch o' rats, layin' hand on our ships. Give 'em hell!
+116009	Get our ships out of there, and in one piece!
+116010	One scratch, just one scratch, and I'll... I'll... Just go and get'em!
+116017	Another ship to go! Don't leave 'em hanging!
+116018	Grand. But ya haven't freed all of 'em yet.
+116020	Being human leverage ain't fun, y'know. So just keep goin' and save 'em all!
+111330	Sound work!
+111331	Not bad.
+111332	Looks alright to me.
+111333	Grand.
+111334	Could be worse, eh?
+111335	That's really somethin'.
+111336	Works for me.
+111337	Fair play.
+111338	Couldn't have done it better meself.
+111339	Done and dusted, that.
+111340	Been waitin' yonks for someone t' take care o' that...
+111341	Good. Was about to go fix it meself.
+111342	Ah, finally, someone worked that mess out!
+111343	Fine bit of work there.
+111344	You know what work is, you do!
+111345	Really gotta hand it to you! The things you do...
+111346	You've brought it into line!
+111347	You know your craft, sure as rain.
+111348	You know the drill, you do!
+111349	You took care of that right neatly.
+111350	Gotta say, you surprised me, you did!
+111351	You run a tight ship! Good on ya!
+111352	Put your back into it, eh? Thankyou.
+111353	That was right gammy, wasn't it just?
+111354	Bad enough.
+111355	Brutal, that.
+111356	Not an awful lot better.
+111357	Get outta here!
+111358	Ain't no use.
+111359	Ya think it'll work out, and then...
+111360	Bah!
+111361	Right banjaxed, that.
+111362	Darn, that means work...
+111363	And ya thought that would work, did ya?
+111364	Ya bungled that one, ya did!
+111365	You kiddin'? That's it?
+111366	If you ain't got a clue, just leave it alone next time!
+111367	You could as well have left it alone.
+111368	Why didn't ya leave that to the professionals?
+111369	Ya shoulda called me.
+111370	What were you thinkin'?
+111371	Tryin' to prove somethin' or what? That turned out great..
+111372	And now? You got any more great ideas?
+111373	Somethin' you want me to do?
+111374	Hmm?
+111375	Good day. Need somethin' built?
+111376	Who's bothering me?
+111377	Alright, what can I do for you?
+111378	So much for workin' in peace and quiet...
+111379	Ha, where you been hidin'? On the doss again?
+111380	Lemme alone! Can't you s... ah, it's you!
+111381	What's that? Talk louder, it's a workshop here.
+111382	How are ya?
+111383	It's what I'm here for, innit?
+111384	Then let's lay the keel!
+111385	Got it. Shouldn't take all that long!
+111386	Somebody's gotta do it.
+111387	It's not like I have anything else to do...
+111389	Alright. But don't you be naggin' at me!
+111390	Honestly, what would ya do without me?
+111391	You're the boss!
+111392	Right. I'll throw something together for ya!
+111393	You came to just the right fella!
+111394	Hmm, no...
+111395	Not a hope!
+111396	I don't have the tools for that!
+111397	And drop everything else? Not happenin'!
+111398	Later... Naw, never.
+111399	Pullin' my leg, are ya?
+111400	As if you couldn't do it on your own.
+111401	You know, I've got other things to do.
+111402	You got no other folk to take care of that?
+111403	Did ya really think I'd do that?
+111404	I'd do it meself, but then nuttin' else would get done around here!
+111405	I can't be lookin' after that too.
+111406	These idiots got no idea what they're about! I'd rather a professional took care of it.
+111407	Don't ya be gettin' the idea this is my job, maybe you'd wanna have a go.
+111408	This's been lying here a while now.
+111409	Wanna do something for me for a change?
+111410	That's the way of it!
+111411	And here was I thinkin' that was all for nowt...
+111412	Keep up the good work!
+111413	Looks like at least someone knows their job...
+111414	Looks like I can leave that to you from here on in...
+111415	Color me gobsmacked! Good one.
+111416	Hard work pays off!
+111417	Yeah, now that's somethin' we can work with!
+111418	Looks like someone does their job right...
+111419	Somethin' of a mess, that...
+111420	And ya wonder why I'm pissed off...
+111421	Come on, ya not tellin' me ya can't cut it, are ya?
+111422	Should have done it meself...
+111423	What? Ya wanna hug or something?
+111424	Here for a coffee break, eh? I reckon we got somethin' better to do...
+111425	I'm relying on ya, y'know?
+111426	Get on wit ya, you'll be fine!
+111427	Work going alright?
+111428	Vai levar um tempo...
+111429	Nowt for it, got be done.
+111430	Yeah, away with you! Just keep goin'!
+111431	Work just never ends, eh?
+111432	So, what's the deal, then?
+111433	Ah, you've found it already!
+111434	Hmm...
+111435	Just what we need.
+111436	Kept your eyes open, eh?
+111437	Ah, there it is.
+111438	Looks like the thing, eh?
+111439	Right, what else could it be.
+111440	Look what we got here.
+111441	Bang on.
+111442	Don't keep those fellas waiting...
+111443	Yep, we were right about the location.
+111444	Crack on, then!
+111445	Why aren't ya on your way already?
+111446	What ya waiting for?
+111447	There.
+111448	Right around the corner, eh?
+111449	Go ahead!
+111450	Yep, there you go.
+111451	Bah, leavin' work half-finished.
+111452	Don't like to get your hands dirty after all, eh?
+111453	It's not work that kills, but worry.
+111454	Nice job. And the next project is already waiting!
+111455	I know! You think you're finally done... and then something comes up...
+111456	Can you do this one at the same time? Then it'll be out of the way...
+111457	Ah, darn it, they got us.
+111458	Sneaky, eh? Right...
+111459	Their detection systems work fine, for sure.
+111460	Don't dawdle now. You're almost there.
+111461	Go ahead! We're close.
+111462	Hmmm, yeah, draw it closer.
+111463	Ah, there we have it!
+111464	Seems all the rummaging is over at last.
+111465	Didn't stay hidden for long, eh?
+111466	Let's see how me ships do in the field...
+111467	Don't tell me you're backin' down...
+111468	You can handle risks like that, can't ya?
+111469	Ready our weapons systems. Those fellas are spoiling for a fight!
+111470	Drivin' about, shootin' at people. We have to show some fight.
+111471	Hah, you sure gave them a thrashin'!
+111472	We make a good team. My equipment and your strategy!
+111473	Serves 'em right!
+116011	Hah, you showed 'em. Knew you had it in ya.
+116012	A bunch o' ships. On the bottom of the sea. None of 'em ours. I'd call that a happy ending.
+116013	Swoopin' in and saving the day! Our crews will thank ya for it!
+111474	Ah, those sods have gone and wrecked all of my hard work!
+111475	Next time they'll get a right beltin'!
+111476	Oh, fine strategy there, Lord Nelson...
+116014	Poor sods... still gotta sort out those bloody terrorists.
+116015	What? Wanna leave our ships in the greedy claws of those extremists?
+116016	Thougt we'd be able to save 'em. Damn shame, that.
+111477	Why the sudden retreat?
+111478	Bah, we still could've won.
+111479	Everyone outta here then!
+111480	All ships. Fall back.
+111481	Less dangerous from afar, eh?
+111482	Quality work, you'll see.
+111484	Just launched! Go on, have a look!
+111485	All ready for 'er maiden voyage!
+111486	Youse already thought of a name for 'er?
+111487	She'll get your stuff from here t' there, don't worry.
+111488	She'll make the seas a fair bit safer.
+111489	Purrs like a kitten! Fights like a tiger!
+111490	Your enemies better watch out for this one.
+111491	Ain't she just the sleek, dangerous beauty?
+111492	She'll put up a good fight, cross my heart.
+111493	It's a fine little machine!
+111494	That'll get your building projects crackin'.
+111495	Good choice. Fastest way to build such things, that is.
+111496	Sure. You can't really build that without one.

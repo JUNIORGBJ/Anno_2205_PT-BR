@@ -1,0 +1,316 @@
+102554	TextTAG DUMMY
+102558	TextTAG DUMMY
+102561	TextTAG DUMMY
+102562	TextTAG DUMMY
+108980	[GUIDICON]
+108985	[GUID_BALANCE_ICON]
+120826	[SESSION_SPACEPORT_ICON]
+120827	[SESSION_NEXT_SPACEPORT_ICON]
+120828	[SECTOR_PROJECT_ICON]
+110353	[GUID_MODULE_BONUS_ICON]
+113579	[PUBLIC_BUILDING_POPULATION_ICON]
+120829	[UNLOCK_ICON]
+118396	[ROUTES_EDIT_GOOD_ICON]
+115242	[NATURAL_RESOURCES_SUPPLY_ARROW_ICON]
+119900	[CORPORATION_ICON]
+120838	[TRADE_ROUTE_ICON]
+120840	[GUID_FILTERED_ITEM_ICON]
+121466	(Big 5 Icon)
+121490	[DOMINANCE_INDUSTRY_ICON]
+100009	[GUIDNAME] [UNSIGNED_NUMBER]
+115244	[LOGISTICS_AVAILABLE_TEXT]
+100010	[GUIDCATEGORY]
+105630	[CONSTRUCTION_RESIDENTS_CAPACITY]
+102651	[BUILDCOST]
+102595	[UNSIGNED_NUMBER]
+102611	[GLOBAL_POPULATION_NEEDED_FOR_NEXT_CORPORATION_LEVEL]
+103139	[UPGRADE_TIME_LEFT]
+103135	[SESSION_DISTRIBUTION_MAX]
+104955	[CORPORATION_LEVEL] / [VEHICLE_SLOT_LEVEL_REQUIRED]
+104957	[VEHICLE_SLOT_SHIP_CLASS]
+105208	[SESSION_DESCRIPTION]
+105378	[GUID_BUILDING_DESCRIPTION]
+105895	[NEEDS_LOGISTIC_BASE_VALUE -1 -1]
+105896	[NEEDS_LOGISTIC_USAGE_VALUE]
+105897	[NEEDS_LOGISTIC_DELTA_VALUE]
+105929	[GUID_EVENT_DATA_DESCRIPTION]
+108176	[GUID_SPECIAL_ACTION_UPGRADE_DESCRIPTION]
+108274	[GUID_FLEET_VEHICLE_DESCRIPTION]
+108491	[GUID_TRADER_SESSION_DESCRIPTION]
+108495	[GUID_FILTERED_ITEM_NAME]
+108496	[GUID_FILTERED_ITEM_TRADER_PRICE]
+108497	[GUID_FILTERED_ITEM_TRADER_STOCK]
+108512	[GUID_VEHICLE_UPGRADE_LEVEL]
+108515	<font [GUI_COLOR BlueLight]>[GUID_SLOT_DESCRIPTION]</font>
+108646	[QUEST_OBJECT_CATEGORY]
+108945	[GUID_EVENT_SESSION_QUEST_NAME]
+108946	[ACHIEVEMENT_TEXT]
+108947	[ACHIEVEMENT_TITLE]
+108992	[GUID_BUILDING_INPUT_TEXT]
+109098	[MODULE_DESCRIPTION]
+109524	[GUID_MODULE_PRODUCTIVITY_BONUS]
+109527	[GUID_MODULE_MAINTENANCE_MALUS]
+110352	[GUID_MODULE_BONUS_NAME]
+114565	[NATURAL_RESOURCE_ICON]
+114575	[GUID_WORLD_MARKET_BASE_PRICE]
+114576	[GUID_WORLD_MARKET_SELL_PRICE]
+114577	[GUID_WORLD_MARKET_BUY_PRICE]
+114598	[GHOST_SLOT_DESCRIPTION]
+114633	[MODULE_HEADER]
+114915	[SELECTED_QUEST_NAME]
+114916	[SELECTED_QUEST_DESCRIPTION]
+115241	[NATURAL_RESOURCES_SUPPLY]
+115397	[MODULE_SLOT_EFFECT]
+116087	[SESSION_NAME_FROM_SECTOR]
+116370	[SERVICE_STATUS_WORLDMARKET]
+116432	[NOTIFICATION_MAINTENANCE_ISSUE]
+116433	[NOTIFICATION_TOP_MAINTENANCE_BUILDING]
+116438	[HOVERED_QUEST_NAME]
+116439	[HOVERED_QUEST_DESCRIPTION]
+116545	[EVENT_SESSION_DIFFICULTY]
+116550	[EVENT_SESSION_DIFFICULTY_DESCRIPTION]
+116730	[CURRENT_MILITARY_LEVEL] / [REQUIRED_MILITARY_LEVEL]
+116766	[VEHICLE_UPGRADE_NAME]
+116767	[VEHICLE_UPGRADE_DESCRIPTION]
+116770	[NEXT_VEHICLE_UPGRADE_NAME]
+116771	[NEXT_VEHICLE_UPGRADE_DESCRIPTION]
+116796	[CURRENT_MILITARY_LEVEL] / [REQUIRED_MILITARY_LEVEL_VEHICLE_UPGRADE]
+117160	[GUIDNAME]
+117521	[STOCKAMOUNT]
+118405	[GUID_GOOD_FLAVOR_TEXT]
+119974	[ENERGY_PRODUCTIVITY]%
+113526	[POPULATION_NEEDS_PROVIDED]
+120794	[ROUTES_VEHICLE_COSTS]
+120795	[ROUTES_VEHICLE_CAPACITY]
+120809	[CONSTRUCTION_FEEDBACK_GAIN]
+120994	[REFERENCE_TEXT]
+121416	[REFERENCE_ICON]
+122096	[CONSTRUCTION_FEEDBACK_GAIN2]
+122101	[GUIDNAME] [CONSTRUCTION_MENU_SHORTCUT]
+999256	Z
+999257	Y
+999258	Q
+999259	A
+999001	Escape
+999002	PrintScreen
+999003	ScrollLock
+999004	F1
+999005	F2
+999006	F3
+999007	F4
+999008	F5
+999009	F6
+999010	F7
+999011	F8
+999012	F9
+999013	F10
+999014	F11
+999015	F12
+999016	`
+999017	Backspace
+999018	Tab
+999019	CapsLock
+999020	Return
+999021	Shift
+999022	Shift
+999023	Ctrl
+999024	Ctrl
+999025	Alt
+999026	Alt
+999027	Windows
+999028	Windows
+999029	Space
+999030	Menu
+999031	1
+999032	2
+999033	3
+999034	4
+999035	5
+999036	6
+999037	7
+999038	8
+999039	9
+999040	0
+999041	A
+999042	B
+999043	C
+999044	D
+999045	E
+999046	F
+999047	G
+999048	H
+999049	I
+999050	J
+999051	K
+999052	L
+999053	M
+999054	N
+999055	O
+999056	P
+999057	Q
+999058	R
+999059	S
+999060	T
+999061	U
+999062	V
+999063	W
+999064	X
+999065	Y
+999066	Z
+999067	Insert
+999068	Delete
+999069	Home
+999070	End
+999071	PageUp
+999072	PageDown
+999073	Left
+999074	Right
+999075	Up
+999076	Down
+999077	Numlock
+999078	Keypad *
+999079	Keypad /
+999080	Keypad +
+999081	Keypad -
+999082	Keypad Enter
+999083	Keypad Decimal
+999084	Keypad 1
+999085	Keypad 2
+999086	Keypad 3
+999087	Keypad 4
+999088	Keypad 5
+999089	Keypad 6
+999090	Keypad 7
+999091	Keypad 8
+999092	Keypad 9
+999093	Keypad 0
+999094	,
+999095	.
+999096	+
+999097	-
+999098	#
+999099	<
+999100	´
+999101	ß
+999102	Ä
+999103	Ö
+999104	Ü
+999105	Ñ
+999106	Э
+999107	Ж
+999108	Х
+102720	[NOTIFICATION_CHARACTER_NAME] Aproxima-se para obter ajuda.
+105242	[NOTIFICATION_CHARACTER_NAME] Lhe oferece uma tarefa.
+119832	[NOTIFICATION_CHARACTER_NAME] Uma proposta para você.
+117737	[NOTIFICATION_CHARACTER_NAME] Feliz que você aceitou.
+119810	[NOTIFICATION_CHARACTER_NAME] Confia em você.
+119833	[NOTIFICATION_CHARACTER_NAME] looks forward to the results.
+102716	[NOTIFICATION_CHARACTER_NAME] Está feliz como as coisas foram feitas.
+102717	[NOTIFICATION_CHARACTER_NAME] Elogio seu compromisso com o sucesso.
+105247	[NOTIFICATION_CHARACTER_NAME] Obrigado pelo seu apoio
+102718	[NOTIFICATION_CHARACTER_NAME] Esperava um melhor resultado.
+105248	[NOTIFICATION_CHARACTER_NAME] Considera a cessação da atribuição.
+105249	[NOTIFICATION_CHARACTER_NAME] Está insatisfeito como as coisas acabaram.
+117738	[NOTIFICATION_CHARACTER_NAME] Está decepcionado com você.
+119812	[NOTIFICATION_CHARACTER_NAME] Aceita sua escolha
+119837	[NOTIFICATION_CHARACTER_NAME] Desejos decidido diferentemente.
+120922	[NOTIFICATION_CHARACTER_NAME] Feliz como tudo foi realizado e oferece-lhe uma nova missão.
+120923	[NOTIFICATION_CHARACTER_NAME] Elogia seu compromisso com o sucesso.
+120924	[NOTIFICATION_CHARACTER_NAME] Obrigado pelo seu apoio e tem outra proposta para você.
+118155	[NOTIFICATION_CHARACTER_NAME] Comentários sobre o evento especial de hoje.
+119813	[NOTIFICATION_CHARACTER_NAME] Ameaça você não interfere.
+119814	[NOTIFICATION_CHARACTER_NAME] Considera seus esforços fúteis desde o início.
+119815	[NOTIFICATION_CHARACTER_NAME] Achava que não seria capaz de desviar seus planos.
+119816	[NOTIFICATION_CHARACTER_NAME] Determinado a fazer você pagar por isso.
+120612	[NOTIFICATION_CHARACTER_NAME] Zomba da sua credulidade.
+120617	[NOTIFICATION_CHARACTER_NAME] Indignado que você ouse atacá-lo.
+120619	Sua ganância e impiedade desprezam [NOTIFICATION_CHARACTER_NAME].
+120620	[NOTIFICATION_CHARACTER_NAME] Não será interrompido por você.
+119817	[NOTIFICATION_CHARACTER_NAME] Vê suas expectativas validadas.
+119819	[NOTIFICATION_CHARACTER_NAME] Prazer em sua falha.
+119818	[NOTIFICATION_CHARACTER_NAME] Sabia que você não seria uma ameaça real.
+119820	[NOTIFICATION_CHARACTER_NAME] Recuo divertido
+120337	[NOTIFICATION_CHARACTER_NAME] Isso pertence ao seu território.
+120338	[NOTIFICATION_CHARACTER_NAME] tente esconder a raiva que você sente por ter destruído isso.
+120339	[NOTIFICATION_CHARACTER_NAME] orgulha-se do perigo de sua tecnologia militar.
+120340	[NOTIFICATION_CHARACTER_NAME] ele jura vingança pela destruição de seu barco.
+119768	[NOTIFICATION_CHARACTER_NAME] dá as boas-vindas à sua ilha.
+119769	[NOTIFICATION_CHARACTER_NAME] cita projeto de pesquisa na área.
+119770	[NOTIFICATION_CHARACTER_NAME] exorta você a construir um espaçoporto primeiro.
+119771	[NOTIFICATION_CHARACTER_NAME] sugira aderir ao projeto, pois é em sua propriedade.
+119772	[NOTIFICATION_CHARACTER_NAME] espera ver o desenvolvimento urbano neste setor.
+119773	[NOTIFICATION_CHARACTER_NAME] indica a presença de um agente Big Five na barragem.
+119774	[NOTIFICATION_CHARACTER_NAME] Ele quer que você mantenha isso em mente, mas se concentre no espaçoporto.
+119775	[NOTIFICATION_CHARACTER_NAME] acho que, uma vez reparada, a barragem será lucrativa.
+119776	[NOTIFICATION_CHARACTER_NAME] ensina o setor.
+119783	[NOTIFICATION_CHARACTER_NAME] te fala sobre o ambicioso projeto de seu colega neste lugar.
+119790	[NOTIFICATION_CHARACTER_NAME] wants you to first take care of the spaceport however.
+119797	[NOTIFICATION_CHARACTER_NAME] reveals that the Global Union is in awe of your progress.
+119777	[NOTIFICATION_CHARACTER_NAME] explains how the temperatures are kept below zero.
+119784	[NOTIFICATION_CHARACTER_NAME] reveals that many are interested in this area.
+119791	[NOTIFICATION_CHARACTER_NAME] introduces himself and warns you to abide by his rules.
+119798	[NOTIFICATION_CHARACTER_NAME] elaborates that one Big Five member is especially active.
+119778	[NOTIFICATION_CHARACTER_NAME] marvels at the ice preserved by technology.
+119785	[NOTIFICATION_CHARACTER_NAME] is displeased about leaking remnants of oil rigs.
+119792	[NOTIFICATION_CHARACTER_NAME] introduces himself and warns you to abide by his rules.
+119799	[NOTIFICATION_CHARACTER_NAME] speculates about a Big Five member having offered help in the matter.
+119779	[NOTIFICATION_CHARACTER_NAME] marvels at what climate stabilization technology can do.
+119786	[NOTIFICATION_CHARACTER_NAME] talks about climate stabilizers.
+119793	[NOTIFICATION_CHARACTER_NAME] introduces himself and warns you to abide by his rules.
+119800	[NOTIFICATION_CHARACTER_NAME] fears you will have to help fix the one in this sector.
+119780	[NOTIFICATION_CHARACTER_NAME] sees potential in this sector.
+119787	[NOTIFICATION_CHARACTER_NAME] asks you to be cautious with the nearby Orbital Watch territory.
+119794	[NOTIFICATION_CHARACTER_NAME] wants you to remain vigilant.
+119801	[NOTIFICATION_CHARACTER_NAME] wants you to investigate disconcerting movements.
+119781	[NOTIFICATION_CHARACTER_NAME] gives you an introduction on the area.
+119788	[NOTIFICATION_CHARACTER_NAME] explains that meteorite impacts are common here.
+119795	[NOTIFICATION_CHARACTER_NAME] puts establishing a settlement before everything else.
+119802	[NOTIFICATION_CHARACTER_NAME] tells you about a Big Five member's plans to mine them.
+119782	[NOTIFICATION_CHARACTER_NAME] is in awe of the scenery.
+119789	[NOTIFICATION_CHARACTER_NAME] talks about how this sector was meant for tourists.
+119796	[NOTIFICATION_CHARACTER_NAME] reminds you of your responsibilities as a Second Wave settler.
+119803	[NOTIFICATION_CHARACTER_NAME] suggests following this idea.
+119942	[NOTIFICATION_CHARACTER_NAME] verses this thoughts about hijackers raiding Union ships.
+119943	[NOTIFICATION_CHARACTER_NAME] knows that only military intervention will stop this.
+119944	[NOTIFICATION_CHARACTER_NAME] ensures you that you can rely on his support.
+119945	[NOTIFICATION_CHARACTER_NAME] barks orders at his inferiors.
+119946	[NOTIFICATION_CHARACTER_NAME] informs you, that the Orbital Watch blocks all ships going through here.
+119947	[NOTIFICATION_CHARACTER_NAME] wants you to break through and free the transporters.
+119948	[NOTIFICATION_CHARACTER_NAME] tells you about interference transmitters controlling the stabilizers.
+119949	[NOTIFICATION_CHARACTER_NAME] is glad you're giving military support.
+119950	[NOTIFICATION_CHARACTER_NAME] gives in to delusions of grandeur.
+119951	[NOTIFICATION_CHARACTER_NAME] yields to despair, seeing the Orbital Watch advance.
+119952	[NOTIFICATION_CHARACTER_NAME] admits they can't cope with this threat, unlike you.
+119953	[NOTIFICATION_CHARACTER_NAME] already regards himself the winner of this confrontation.
+119954	[NOTIFICATION_CHARACTER_NAME] introduces you to the Orbital Watch's formerly hidden base.
+119955	[NOTIFICATION_CHARACTER_NAME] wants you to bring her to server access points.
+119956	[NOTIFICATION_CHARACTER_NAME] welcomes you to his territory, weapons at the ready.
+119707	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Ibarra-FoxCom.
+119715	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Cassian Industries.
+119716	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Usoyev Inc.
+119717	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Lei Sheng.
+119718	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Saayman International.
+119719	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Nik Papadakis.
+119720	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Ville Jorgensen.
+119721	[NOTIFICATION_CHARACTER_NAME] comments on you helping Zandra Haynes.
+119722	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Howard Young.
+119723	[NOTIFICATION_CHARACTER_NAME] comments on your actions taken against Virgil Drake.
+119724	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with this mysterious person.
+119725	[NOTIFICATION_CHARACTER_NAME] comments on you helping John Rafferty.
+120341	[NOTIFICATION_CHARACTER_NAME] is supportive of your corporate expansion.
+119886	[NOTIFICATION_CHARACTER_NAME] provides an attack drone at your spaceport.
+120683	[NOTIFICATION_CHARACTER_NAME] provides a tracking drone at your spaceport.
+120215	[NOTIFICATION_CHARACTER_NAME] confirms the artillery barrage has been fired.
+120216	[NOTIFICATION_CHARACTER_NAME] sends reinforcements on the way.
+120217	[NOTIFICATION_CHARACTER_NAME] sparks off an electromagnetic pulse bomb.
+120218	[NOTIFICATION_CHARACTER_NAME] releases the repair drones.
+120219	[NOTIFICATION_CHARACTER_NAME] confirms the energy shields are all ramped up.
+120220	[NOTIFICATION_CHARACTER_NAME] is positive this wave mine will cause ripples.
+117676	[NOTIFICATION_CHARACTER_NAME] demands that you adhere to the Custodians' rules.
+119836	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000182] in the neighborhood.
+119838	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000181] in the neighborhood.
+119839	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000233] in the neighborhood.
+119840	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000234] in the neighborhood.
+119841	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000245] in the neighborhood.
+119842	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000246] in the neighborhood.
+119843	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000235] in the neighborhood.
