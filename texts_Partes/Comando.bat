@@ -1,0 +1,1 @@
+copy *.txt texts_french.txt
