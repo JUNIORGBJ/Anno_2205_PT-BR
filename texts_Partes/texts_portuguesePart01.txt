@@ -265,7 +265,7 @@
 103247	Fase 3
 103248	Fase 4
 105211	"Construir um espaçoporto gera muito trabalho. Chame os profissionais."
-105387	Colocar Depois
+105387	Ano 2205. A humanidade precisa de uma tecnologia intensiva em energia para enfrentar os desafios colocados por um planeta com um meio ambiente modificado. A crise global de energia é cada vez mais iminente. Os novos reatores de fusão prometem esperança, mas precisam de recursos encontrados apenas na lua. E foi assim que o governo mundial da União Global iniciou o Programa de Licença Lunar, permitindo que corporações apoiassem colônias de mineração lunar de propriedade do governo com colônias privadas.
 105213	[NOTIFICATION_CHARACTER_NAME] quer que você forneça moradia para a equipe de construção.
 105214	[NOTIFICATION_CHARACTER_NAME] quer que você seja cuidadoso na competição.
 105217	[NOTIFICATION_CHARACTER_NAME] informa a chegada da equipe de construção.
