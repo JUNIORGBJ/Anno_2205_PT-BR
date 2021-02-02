@@ -124,47 +124,47 @@
 121041	Spaceport Upgrade Progress Bar InfoTip
 121053	Spaceport Upgrade Progress Bar slowed InfoTip
 121054	Spaceport Upgrade Progress Bar paused / stopped or very slow InfoTip
-111596	Residence is empty
-111598	Employees are moving out
-111599	Employees are moving in
-111601	Residence is full
-111604	Residence can advance
-110380	Mood
-110381	Euphoric
-110382	Happy
-110383	Content
-110384	Unhappy
-110385	Uninhabited
-110386	[DUMMYTAGPERCENT] fullfilled
-110398	Surplus
-110399	Needs not yet addressable
-110369	Workers generate little revenue.
-110370	Operators generate average revenue.
-110371	Executives generate high revenue.
-110372	Investors generate very high revenue.
-110373	Protectors generate little revenue.
-110374	Scientists generate average revenue.
-110375	Miners generate little revenue.
-110376	Officers generate average revenue.
-113213	Workers provide much workforce.
-112926	Operators provide average workforce.
-112927	Executives but provide little workforce.
-112928	Investors provide very little workforce.
-112951	Protectors provide much workforce.
-113210	Scientists provide average workforce.
-113211	Miners provide much workforce.
-113212	Officers provide average workforce.
-105927	The employees in this building are not ready to to be promoted to the next level.
-105928	Upgrades a number of [POPULATION_LEVEL] to DUMMYTAG_NEXT_POPULATION_LEVEL and creates room for DUMMYTAG_NEXT_RESIDENCE_CAPACITY_LEVEL additional DUMMYTAG_NEXT_POPULATION_LEVEL.
-110387	Employees are moving in
-110388	Employees are moving out
-110389	Ready for promotion
-110390	Needs not fully met
-110391	Residence is uninhabited
+111596	A residencia esta vazia
+111598	Os empregados estão saindo
+111599	Os empregados estão chegando
+111601	A residencia esta cheia
+111604	A residência pode avançar
+110380	Humor
+110381	Eufórico
+110382	Feliz
+110383	Satisfeito
+110384	Infeliz
+110385	Desabitado
+110386	[DUMMYTAGPERCENT] conseguido
+110398	Excedente
+110399	As necessidades ainda não são acessíveis
+110369	Os empregados geram pouca receita.
+110370	Os operadores geram receita média.
+110371	Os executivos geram alta receita.
+110372	Os investidores geram receitas muito altas.
+110373	Os protetores geram pouca receita.
+110374	Os Cientistas geram receita média.
+110375	Os mineiros geram pouca receita.
+110376	Os oficiais geram receita média.
+113213	Os empregados fornecem muita mão de obra.
+112926	Os operadores fornecem mão de obra média.
+112927	Os executivos fornecem pouca mão de obra.
+112928	Os investidores fornecem muito pouca mão de obra.
+112951	Os protetores fornecem mão de obra.
+113210	Os cientistas fornecem mão de obra média.
+113211	Os mineiros fornecem muita mão de obra.
+113212	Os oficiais fornecem uma quantidade média de mão de obra.
+105927	Os empregados neste prédio não estão prontos para passar para o próximo nível.
+105928	Aprimore uma série de [POPULATION_LEVEL] para DUMMYTAG_NEXT_POPULATION_LEVEL e criar espaço para DUMMYTAG_NEXT_RESIDENCE_CAPACITY_LEVEL DUMMYTAG_NEXT_POPULATION_LEVEL adicional.
+110387	Os empregados estão chegando
+110388	Os empregados estão se mudando
+110389	Pronto para promover
+110390	As necessidades não foram totalmente atendidas
+110391	A residência não é habitada
 110396	Fornecem
 110401	Excedente
-111792	Viver nesta cidade
-112724	[POPULATION_AMOUNT_RESIDENCE_BUILDINGS] Residential buildings constructed
+111792	Morar nesta cidade
+112724	[POPULATION_AMOUNT_RESIDENCE_BUILDINGS] edifícios residenciais construídos
 112727	Potencial de Mão de Obra
 112730	Pronto para Promoção
 112731	Satisfazer suas necessidades para atrair mais [POPULATION_NAME]
@@ -213,12 +213,12 @@
 120681	Manutenção de Mão de Obra
 120682	Manutenção Logística
 119966	[GUIDNAME 105064]
-106003	Energy supply is insufficient.
-117343	Build more power plants
-106004	Factories require additional workforce to operate.
-117344	Build more residences or provide needed goods
-114538	Logistics network is overburdened.
-117341	Build additional transportation centers
+106003	Fornecimento de energia insuficiente.
+117343	Construa mais usinas de energia
+106004	As fábricas requerem mão de obra adicional para operar.
+117344	Construa mais residências ou forneça a mercadoria necessária
+114538	A rede logística está sobrecarregada.
+117341	Construa centros de transporte adicionais
 120129	Energia
 120130	Usina Hidrelétrica
 120350	Armazéns
@@ -234,7 +234,7 @@
 120112	[GUIDNAME 105064]
 120126	[GUIDNAME 105064]
 120136	Logística
-120354	Channel Checkpoint
+120354	Ponto de controle do canal
 120353	Armazéns
 120137	Centros de Transporte
 120138	[GUIDNAME 105064]
@@ -295,22 +295,22 @@
 120547	Os barcos podem ser destruídos durante missões em setores de crise. Se você sair ou concluir o setor de crise, eles estarão disponíveis novamente.
 118130	A maioria dos edifícios consome energia. O saldo de energia é exibido na barra de informações inferior esquerda. Se ele ficar negativo a sua produção vai cair.
 118131	Quando um empregado é promovido ao nível seguinte você ganha o acesso a novos edifícios. Verifique no menu de construção!
-118132	Your factories produce everything your employees' hearts desire. But maintenance costs are incurred.
-118133	Your spaceport is located offshore on open waters. The minimap shows it as a bright blue dot.
-118134	That building is malpositioned? Select the hand icon from the bottom left infobar or press ([KEYBINDING game.startMouseMode(2001042)]), then click on the building you want to move.
-118135	Your employees work to generate revenue for your company. You can check the numbers by hovering over your credit balance in the top left bar.
-118136	Your bank account displays your total financial assets. Due to global austerity measures, you are not allowed to drop below zero credits.
-120548	You can switch between classic and free camera movement in the gameplay settings.
-120549	Press ([KEYBINDING session.setDefaultRotation()]) to reset you camera rotation.
-118137	You can enable subtitles for all spoken text in the settings menu.
-118138	When facing an energy shortages build new power plants or consider pausing production in your factories.
-118139	To view the needs of your employees just left-click on their residences.
-118140	When building residences, hold and drag the left mouse button to build several of them at once.
-118141	Logistic is important to keep your production running smoothly. Build more transportation centers to improve it.
-118142	Workforce is the backbone of your production. By building new residences you can attract employees who provide it.
-118143	Left-click on a facility to have its productivity displayed in percentage terms.
-118144	When building space become scarce, rotating buildings can help. Use the middle mouse button or ([KEYBINDING game.changeRotation(1)]) and ([KEYBINDING game.changeRotation(-1)]) before placing them.
-118145	To better control your company revenue and your employees’ needs, you can turn off automatic promotion.
-118146	Select a ship by left-clicking on it and right-click to order it to move.
-118147	It’s easier to copy an existing building than to search through the construction menu. Just use the copy mode in the bottom left infobar or press ([KEYBINDING game.startMouseMode(2001043)]).
-120550	Production buildings that are far away from logistic centers or warehouses need more transporters to run at full productivity.
+118132	Suas fábricas produzem tudo o que o coração de seus empregados deseja. Mas os custos de manutenção são incorridos.
+118133	Seu espaçoporto está localizado longe da costa, em mar aberto. O minimapa o mostra como um ponto azul brilhante.
+118134	Esse prédio está mal posicionado? Selecione o ícone de mão na barra de informações inferior esquerda ou pressione ([KEYBINDING game.startMouseMode(2001042)]), em seguida, clique no prédio que deseja mover.
+118135	Seus empregados trabalham para gerar receita para sua companhia. Você pode verificar os números passando o mouse sobre seu saldo de crédito na barra superior esquerda.
+118136	Sua conta bancária exibe seu total de ativos financeiros. Devido às medidas de austeridade globais, seu saldo não pode ser inferior a zero créditos.
+120548	Você pode alternar entre o movimento clássico e livre da câmera nas configurações de jogo.
+120549	Pressione ([KEYBINDING session.setDefaultRotation()]) para redefinir a rotação da câmera.
+118137	Você pode habilitar legendas para todo o texto falado no menu de configurações.
+118138	Ao enfrentar uma escassez de energia, construa novas usinas ou considere interromper a produção em suas fábricas.
+118139	Para ver as necessidades de seus empregados, basta clicar com o botão esquerdo em suas residências.
+118140	Ao construir residências, segure e arraste o botão esquerdo do mouse para construir várias de uma vez.
+118141	A logística é importante para manter sua produção funcionando perfeitamente. Construa mais centros de transporte para melhorá-la.
+118142	A mão de obra é a espinha dorsal da sua produção. Se você construir novas residências, poderá atrair mais empregados.
+118143	Clique com o botão esquerdo nas instalações para verificar o percentual de produtividade.
+118144	Quando o espaço de construção é apertado, você pode ganhar um pouco girando alguns edifícios. Pressione o botão do meio do mouse ou ([KEYBINDING game.changeRotation(1)]) e ([KEYBINDING game.changeRotation(-1)]) antes de colocá-los.
+118145	Para controlar melhor a receita da sua companhia e as necessidades dos seus empregados, você pode desativar a promoção automática.
+118146	Selecione um barco clicando nele. Clique com o botão direito para movê-lo.
+118147	É mais fácil copiar um edifício existente do que pesquisar no menu de construção. Use o modo de cópia na barra de informações inferior esquerda ou pressione ([KEYBINDING game.startMouseMode(2001043)]).
+120550	Prédios de produção que estão longe de centros de logística ou depósitos precisam de mais transportadores para operar com produtividade máxima.
