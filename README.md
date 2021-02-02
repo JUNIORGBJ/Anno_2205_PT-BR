@@ -1,3 +1,6 @@
+Baixar Aqui >>>>>
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Anno_2205_PT-BR)](https://github.com/JUNIORGBJ/Anno_2205_PT-BR/releases/latest)<<<<<Baixar Aqui
+
 <h1 align="center"><figure>
   <img src="Anno_2205.PNG">
 </figure></h1>
