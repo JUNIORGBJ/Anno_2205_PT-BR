@@ -7,11 +7,11 @@
 119739	NO LOCA InfoTip Preorder Command Ship
 119743	NO LOCA InfoTip HQ Skin Variation
 119748	NO LOCA InfoTip Color Selection
-121514	Cancel planning
-121515	Remove facility from auction
-121517	Add the maximum of possible facilities to auction
-121516	Add facility to auction
-121518	Show in Shares Market
+121514	Cancelar programação
+121515	Remover instalação do leilão
+121517	Adicione o número máximo de instalações possíveis ao leilão.
+121516	Adicionar instalações ao leilão
+121518	Mostrar na bolsa de valores
 120815	InfoTip Corporation Score Bar
 105920	NO LOCA InfoTip Vehicle Update
 105949	NO LOCA InfoTip Vehicle Upgrade Button
@@ -45,32 +45,32 @@
 121085	Capacidades da corporação
 120876	Novo tipo de Navio
 120877	Novo Título
-121096	The restored Dam generates a constant energy supply for you.
-121097	Graphene is being salvaged from the recovered Ark and ready to be picked up.
-121098	The Second Wave monument is accompanied by multiple ornamental fireworks.
-121099	With the Climate Stabilizer you can influence the weather worldwide.
-121100	The secured Oil Rigs continue to leak Petrochemicals for you to access.
-121101	The new arctic Channels improve your Logistic Systems considerably.
-121102	The LEC refugees contribute to your local Workforce in a major way.
-121103	The Meteor turned out to be an even richer source of Magnetite than expected.
-121104	The lunar Hotel is booming and tourists are keen to see the new Ornaments in action.
-121105	The Tundra has been rid of the virus and is now able to supply production-boosting modules the world over.
-121106	The submerged Warehouses hold a wealth of Iridium storages for you to collect.
-121179	An abandoned Spaceport Prototype holds the potential for new World Market Routes.
-122155	A sealed-off facility holds the key to revolutionizing your staff.
-120908	Dam Business
-120909	The Sunken Ark
-120910	The Second Wave
-120911	Climate Protectors
-120912	The Last Reserves
-120913	Arctic Trade
-120914	The Refuge
-120915	Mining the Stars
-120916	Craterside Hotel
-121070	The Treasure Hunt
-121071	Eden's Seeds
-121178	Dirty Deeds
-122130	New Life
+121096	A barragem restaurada gera uma fonte constante de energia para você.
+121097	O grafeno está sendo resgatado da Arca recuperada e pronto para ser coletado.
+121098	O monumento da Segunda Onda é acompanhado por vários fogos de artifício ornamentais.
+121099	Com o Estabilizador de Clima, você pode influenciar o clima em todo o mundo.
+121100	As plataformas de petróleo protegidas continuam a vazar produtos petroquímicos para você acessar.
+121101	Os novos canais árticos melhoram consideravelmente seus sistemas logísticos.
+121102	Os refugiados do LEC contribuem de maneira importante com sua força de trabalho local.
+121103	O meteorito revelou-se uma fonte ainda mais rica de magnetita.
+121104	O hotel lunar está em alta e os turistas estão ansiosos para ver as novas decorações em ação.
+121105	A tundra se livrou do vírus e agora pode fornecer ao mundo módulos para aumentar a produção.
+121106	Nos armazéns submersos, existe uma grande quantidade de irídio que pode recolher.
+121179	Um protótipo de espaçoporto avançado tem potencial para novas rotas no mercado mundial.
+122155	Uma instalação fechada é a chave para revolucionar sua equipe.
+120908	Negócios da Barragem
+120909	Arca submersa
+120910	A segunda onda
+120911	Protetores Climáticos
+120912	As últimas reservas
+120913	Comércio Ártico
+120914	O refúgio
+120915	Mineração estelar
+120916	Hotel ao lado da cratera
+121070	A caça ao tesouro
+121071	Sementes do Éden
+121178	Façanhas sujas
+122130	Vida nova
 121109	Localização
 121108	Localização: [SSQL_SECTORNAME]
 120889	Você tem que resolver o Setor antes de poder iniciar o projeto.
@@ -94,24 +94,24 @@
 121409	[GUIDNAME 121564]
 121410	[GUIDNAME 121566]
 121411	Taxa de sucesso
-121412	Inserir informante
+121412	Contratar informante
 121413	Informante em [CORPORATION_NAME_NPC]
 121415	[CORPORATION_NAME_NPC] Segurança
-121640	Hire Insider
-121615	The electronics industry uses anorganic materials to create hardware and tools.
-121616	The heavy industry is comprised of mines and the processing of their ores.
-121617	The Biotecnología industry uses organic materials to produce technology.
-121618	The energy industry encompasses all power stations as well as factories for the fuels they use.
-121619	The agricultural industry consists of farms and ranches which mainly provide sustenance.
+121640	Contratar informante
+121615	A indústria de eletrônicos usa materiais não orgânicos para criar hardware e ferramentas.
+121616	A indústria pesada é formada pelas minas e pelo processamento de seus minerais.
+121617	A indústria de biotecnologia usa materiais orgânicos para produzir tecnologia.
+121618	O setor de energia abrange todas as usinas e fábricas dos combustíveis que utiliza.
+121619	A indústria agrícola consiste em fazendas e ranchos, fornecendo principalmente produtos de subsistência.
 119960	NO LOCA InfoTip Difficulty Bar
-118384	If selected, you can gather objects which grant a small amount of goods.
-121238	If selected, facilities will cost a certain upkeep when their production is paused.
-121186	If selected, ships lost during a mission will be replaced with rankless ships.
-118382	If selected, right-clicking an open space will show a small menu offering useful shortcuts.
-118383	If selected, the camera zooms smoothly and tilting is enabled.
-120402	If selected, the game will offer assignments explaining basic gameplay features.
-118381	Enable or disable the option to relocate already constructed buildings.
-121479	If selected facilities can be part of auctions.
+118384	Se selecionado, você pode coletar objetos que concedem uma pequena quantidade de mercadoria.
+121238	Se selecionadas, as instalações custarão uma certa manutenção quando sua produção for interrompida.
+121186	Se selecionado, os navios perdidos durante uma missão serão substituídos por navios não classificados.
+118382	Se selecionado, clicar com o botão direito em um espaço aberto abrirá um pequeno menu com atalhos úteis.
+118383	Se selecionado, a câmera aumenta ligeiramente o zoom e a inclinação é ativada.
+120402	Se selecionado, o jogo oferecerá tarefas que explicam os recursos básicos do jogo.
+118381	Ative ou desative a opção de realocar edifícios já construídos.
+121479	Se as instalações selecionadas podem fazer parte dos leilões.
 105262	NO LOCA InfoTip ObjectMenu Production Module
 102832	NO LOCA InfoTip SpecialAction
 102833	NO LOCA InfoTip Vehicle
