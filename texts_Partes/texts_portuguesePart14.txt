@@ -200,20 +200,20 @@
 118390	Numero de empregados Global
 118391	Equilíbrio energético Global
 118392	Portos Espaciais
-120967	Tundra Goods
-120968	Mars Goods
+120967	Mercadoria de tundra
+120968	Mercadoria de marte
 120083	[COMMAND_SHIP_COLOR_NAME]
 120084	Sede do Império
 120085	Sede corporativo
 120086	Trimaran
-120087	Catamaran
+120087	Catamarã
 120430	Editar Nome da corporação
 120431	Editar Logo Selecionado
 120435	Editar Tema Selecionado
 120436	Apagar esta corporação
 121057	Carregamento em Processo
 121093	[GUIDNAME]
-121094	DLC [GUIDNAME] needed!
+121094	Download de conteúdo necessário [GUIDNAME]!
 121061	[CORPORATION_TITLES]
 102990	Not enough credits to purchase this item
 108599	Trade Route
@@ -228,20 +228,20 @@
 116725	Voltar ao Mapa Principal ([KEYBINDING ui.toggleMetaUI()])
 116726	NO LOCA Info Tip Event Session Name and Description
 116737	[GUIDNAME 117394]
-116739	[TOOLTIP_REFERENCE_VALUE] Modules
+116739	[TOOLTIP_REFERENCE_VALUE] Módulos
 116740	Global market prices [TOOLTIP_REFERENCE_VALUE]%
 116741	Custos de construção [TOOLTIP_REFERENCE_VALUE]%
 116798	NO LOCA Info Tip Event Session Difficulty
-116806	Sort by Amount
-116805	Sort by Good
-116808	Sort by Balance
-116809	Sort by remaining time
-116817	click to create a new route
+116806	Classificar por quantidade
+116805	Classificar por mercadoria
+116808	Classificar por saldo
+116809	Classificar por tempo restante
+116817	clique para criar uma nova rota
 117130	[GUIDNAME]
 117158	[GUIDNAME 117162]
-117359	Gamma Only Configurable In Fullscreen Mode
+117359	Gamma configurável apenas em modo de tela inteira
 118186	NO LOCA InfoTip RouteCreation Select a Good first
-120811	Show in Assignement Center
+120811	Mostrar no Centro de Tarefas
 120868	Créditos
 120869	Configurações
 120870	Sair
@@ -255,7 +255,7 @@
 121004	Objetivo da Missão
 121005	Sua frota
 121006	Veículo hostil grande
-121007	Elementos hostiles
+121007	Elementos hostil
 121008	Veículos de apoio
 121009	[GUIDNAME 1001567]
 121010	Munição e suporte
@@ -276,7 +276,7 @@
 110499	Peça de minimapa
 108531	Porto Espacial
 108532	Barco de Comando
-108535	Encargo disponiveu
+108535	Encargo disponível
 108536	Objeto de encargo
 120632	Scanner
 110498	Projeto do Setor
