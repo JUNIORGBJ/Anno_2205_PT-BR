@@ -110,7 +110,7 @@
 999017	Backspace
 999018	Tab
 999019	CapsLock
-999020	Return
+999020	Retornar
 999021	Shift
 999022	Shift
 999023	Ctrl
@@ -119,7 +119,7 @@
 999026	Alt
 999027	Windows
 999028	Windows
-999029	Space
+999029	Espaço
 999030	Menu
 999031	1
 999032	2
@@ -163,27 +163,27 @@
 999070	End
 999071	PageUp
 999072	PageDown
-999073	Left
-999074	Right
-999075	Up
-999076	Down
+999073	Esquerda
+999074	Direita
+999075	Acima
+999076	Baixo
 999077	Numlock
-999078	Keypad *
-999079	Keypad /
-999080	Keypad +
-999081	Keypad -
-999082	Keypad Enter
-999083	Keypad Decimal
-999084	Keypad 1
-999085	Keypad 2
-999086	Keypad 3
-999087	Keypad 4
-999088	Keypad 5
-999089	Keypad 6
-999090	Keypad 7
-999091	Keypad 8
-999092	Keypad 9
-999093	Keypad 0
+999078	Num. *
+999079	Num. /
+999080	Num. +
+999081	Num. -
+999082	Num. Enter
+999083	Num. Decimal
+999084	Num. 1
+999085	Num. 2
+999086	Num. 3
+999087	Num. 4
+999088	Num. 5
+999089	Num. 6
+999090	Num. 7
+999091	Num. 8
+999092	Num. 9
+999093	Num. 0
 999094	,
 999095	.
 999096	+
@@ -199,68 +199,68 @@
 999106	Э
 999107	Ж
 999108	Х
-102720	[NOTIFICATION_CHARACTER_NAME] Aproxima-se para obter ajuda.
+102720	[NOTIFICATION_CHARACTER_NAME] vem pedir sua ajuda.
 105242	[NOTIFICATION_CHARACTER_NAME] Lhe oferece uma tarefa.
-119832	[NOTIFICATION_CHARACTER_NAME] Uma proposta para você.
-117737	[NOTIFICATION_CHARACTER_NAME] Feliz que você aceitou.
-119810	[NOTIFICATION_CHARACTER_NAME] Confia em você.
-119833	[NOTIFICATION_CHARACTER_NAME] looks forward to the results.
-102716	[NOTIFICATION_CHARACTER_NAME] Está feliz como as coisas foram feitas.
-102717	[NOTIFICATION_CHARACTER_NAME] Elogio seu compromisso com o sucesso.
-105247	[NOTIFICATION_CHARACTER_NAME] Obrigado pelo seu apoio
-102718	[NOTIFICATION_CHARACTER_NAME] Esperava um melhor resultado.
-105248	[NOTIFICATION_CHARACTER_NAME] Considera a cessação da atribuição.
-105249	[NOTIFICATION_CHARACTER_NAME] Está insatisfeito como as coisas acabaram.
-117738	[NOTIFICATION_CHARACTER_NAME] Está decepcionado com você.
-119812	[NOTIFICATION_CHARACTER_NAME] Aceita sua escolha
-119837	[NOTIFICATION_CHARACTER_NAME] Desejos decidido diferentemente.
-120922	[NOTIFICATION_CHARACTER_NAME] Feliz como tudo foi realizado e oferece-lhe uma nova missão.
-120923	[NOTIFICATION_CHARACTER_NAME] Elogia seu compromisso com o sucesso.
-120924	[NOTIFICATION_CHARACTER_NAME] Obrigado pelo seu apoio e tem outra proposta para você.
-118155	[NOTIFICATION_CHARACTER_NAME] Comentários sobre o evento especial de hoje.
-119813	[NOTIFICATION_CHARACTER_NAME] Ameaça você não interfere.
-119814	[NOTIFICATION_CHARACTER_NAME] Considera seus esforços fúteis desde o início.
-119815	[NOTIFICATION_CHARACTER_NAME] Achava que não seria capaz de desviar seus planos.
-119816	[NOTIFICATION_CHARACTER_NAME] Determinado a fazer você pagar por isso.
-120612	[NOTIFICATION_CHARACTER_NAME] Zomba da sua credulidade.
-120617	[NOTIFICATION_CHARACTER_NAME] Indignado que você ouse atacá-lo.
-120619	Sua ganância e impiedade desprezam [NOTIFICATION_CHARACTER_NAME].
-120620	[NOTIFICATION_CHARACTER_NAME] Não será interrompido por você.
-119817	[NOTIFICATION_CHARACTER_NAME] Vê suas expectativas validadas.
-119819	[NOTIFICATION_CHARACTER_NAME] Prazer em sua falha.
-119818	[NOTIFICATION_CHARACTER_NAME] Sabia que você não seria uma ameaça real.
-119820	[NOTIFICATION_CHARACTER_NAME] Recuo divertido
-120337	[NOTIFICATION_CHARACTER_NAME] Isso pertence ao seu território.
-120338	[NOTIFICATION_CHARACTER_NAME] tente esconder a raiva que você sente por ter destruído isso.
+119832	[NOTIFICATION_CHARACTER_NAME] tem uma proposta a fazer.
+117737	[NOTIFICATION_CHARACTER_NAME] que bom que você aceitou.
+119810	[NOTIFICATION_CHARACTER_NAME] confia em você.
+119833	[NOTIFICATION_CHARACTER_NAME] aguarda os resultados.
+102716	[NOTIFICATION_CHARACTER_NAME] está feliz como as coisas foram feitas.
+102717	[NOTIFICATION_CHARACTER_NAME] elogia seu compromisso com o sucesso.
+105247	[NOTIFICATION_CHARACTER_NAME] agradece pelo seu apoio
+102718	[NOTIFICATION_CHARACTER_NAME] esperava um melhor resultado.
+105248	[NOTIFICATION_CHARACTER_NAME] considera a cessação da tarefa.
+105249	[NOTIFICATION_CHARACTER_NAME] está insatisfeito como as coisas acabaram.
+117738	[NOTIFICATION_CHARACTER_NAME] está decepcionado com você.
+119812	[NOTIFICATION_CHARACTER_NAME] aceitou sua escolha
+119837	[NOTIFICATION_CHARACTER_NAME] gostaria que você tivesse decidido de outra forma.
+120922	[NOTIFICATION_CHARACTER_NAME] está feliz como tudo foi realizado e oferece-lhe uma nova missão.
+120923	[NOTIFICATION_CHARACTER_NAME] elogiou seu compromisso com o sucesso.
+120924	[NOTIFICATION_CHARACTER_NAME] agradece pelo seu apoio e tem outra proposta para você.
+118155	[NOTIFICATION_CHARACTER_NAME] comentou sobre o evento especial de hoje.
+119813	[NOTIFICATION_CHARACTER_NAME] ameaça intervir.
+119814	[NOTIFICATION_CHARACTER_NAME] considera seus esforços fúteis desde o início.
+119815	[NOTIFICATION_CHARACTER_NAME] achava que não seria capaz de desviar seus planos.
+119816	[NOTIFICATION_CHARACTER_NAME] está determinado a fazer você pagar por isso.
+120612	[NOTIFICATION_CHARACTER_NAME] zomba da sua credulidade.
+120617	[NOTIFICATION_CHARACTER_NAME] está indignado que você ouse atacá-lo.
+120619	Sua ganância e impiedade despreza [NOTIFICATION_CHARACTER_NAME].
+120620	[NOTIFICATION_CHARACTER_NAME] não será interrompido por você.
+119817	[NOTIFICATION_CHARACTER_NAME] vê suas expectativas validadas.
+119819	[NOTIFICATION_CHARACTER_NAME] tem prazer em sua falha.
+119818	[NOTIFICATION_CHARACTER_NAME] sabia que você não seria uma ameaça real.
+119820	[NOTIFICATION_CHARACTER_NAME] sua aposentadoria o diverte.
+120337	[NOTIFICATION_CHARACTER_NAME] deixa claro que isso pertence ao seu território.
+120338	[NOTIFICATION_CHARACTER_NAME] tenta esconder a raiva que você sente por ter destruído isso.
 120339	[NOTIFICATION_CHARACTER_NAME] orgulha-se do perigo de sua tecnologia militar.
-120340	[NOTIFICATION_CHARACTER_NAME] ele jura vingança pela destruição de seu barco.
+120340	[NOTIFICATION_CHARACTER_NAME] jura vingança pela destruição de seu barco.
 119768	[NOTIFICATION_CHARACTER_NAME] dá as boas-vindas à sua ilha.
 119769	[NOTIFICATION_CHARACTER_NAME] cita projeto de pesquisa na área.
 119770	[NOTIFICATION_CHARACTER_NAME] exorta você a construir um espaçoporto primeiro.
 119771	[NOTIFICATION_CHARACTER_NAME] sugira aderir ao projeto, pois é em sua propriedade.
 119772	[NOTIFICATION_CHARACTER_NAME] espera ver o desenvolvimento urbano neste setor.
 119773	[NOTIFICATION_CHARACTER_NAME] indica a presença de um agente Big Five na barragem.
-119774	[NOTIFICATION_CHARACTER_NAME] Ele quer que você mantenha isso em mente, mas se concentre no espaçoporto.
-119775	[NOTIFICATION_CHARACTER_NAME] acho que, uma vez reparada, a barragem será lucrativa.
+119774	[NOTIFICATION_CHARACTER_NAME] quer que você mantenha isso em mente, mas se concentre no espaçoporto.
+119775	[NOTIFICATION_CHARACTER_NAME] acha que, uma vez reparada, a barragem será lucrativa.
 119776	[NOTIFICATION_CHARACTER_NAME] ensina o setor.
 119783	[NOTIFICATION_CHARACTER_NAME] te fala sobre o ambicioso projeto de seu colega neste lugar.
-119790	[NOTIFICATION_CHARACTER_NAME] wants you to first take care of the spaceport however.
-119797	[NOTIFICATION_CHARACTER_NAME] reveals that the Global Union is in awe of your progress.
-119777	[NOTIFICATION_CHARACTER_NAME] explains how the temperatures are kept below zero.
-119784	[NOTIFICATION_CHARACTER_NAME] reveals that many are interested in this area.
-119791	[NOTIFICATION_CHARACTER_NAME] introduces himself and warns you to abide by his rules.
-119798	[NOTIFICATION_CHARACTER_NAME] elaborates that one Big Five member is especially active.
-119778	[NOTIFICATION_CHARACTER_NAME] marvels at the ice preserved by technology.
-119785	[NOTIFICATION_CHARACTER_NAME] is displeased about leaking remnants of oil rigs.
-119792	[NOTIFICATION_CHARACTER_NAME] introduces himself and warns you to abide by his rules.
-119799	[NOTIFICATION_CHARACTER_NAME] speculates about a Big Five member having offered help in the matter.
-119779	[NOTIFICATION_CHARACTER_NAME] marvels at what climate stabilization technology can do.
-119786	[NOTIFICATION_CHARACTER_NAME] talks about climate stabilizers.
-119793	[NOTIFICATION_CHARACTER_NAME] introduces himself and warns you to abide by his rules.
-119800	[NOTIFICATION_CHARACTER_NAME] fears you will have to help fix the one in this sector.
-119780	[NOTIFICATION_CHARACTER_NAME] sees potential in this sector.
-119787	[NOTIFICATION_CHARACTER_NAME] asks you to be cautious with the nearby Orbital Watch territory.
-119794	[NOTIFICATION_CHARACTER_NAME] wants you to remain vigilant.
+119790	[NOTIFICATION_CHARACTER_NAME] quer que você cuide primeiro do espaçoporto.
+119797	[NOTIFICATION_CHARACTER_NAME] revela que a União Global está impressionada com o seu progresso.
+119777	[NOTIFICATION_CHARACTER_NAME] explica como as temperaturas são mantidas abaixo de zero.
+119784	[NOTIFICATION_CHARACTER_NAME] revela que muitos estão interessados ​​nesta área.
+119791	[NOTIFICATION_CHARACTER_NAME] apresenta-se e avisa para obedecer às regras dele.
+119798	[NOTIFICATION_CHARACTER_NAME] explica que um dos Big Five membros é especialmente ativo.
+119778	[NOTIFICATION_CHARACTER_NAME] maravilha-se com a forma como o gelo é preservado com tecnologia.
+119785	[NOTIFICATION_CHARACTER_NAME] está descontente com o vazamento de restos de plataformas de petróleo.
+119792	[NOTIFICATION_CHARACTER_NAME] apresenta-se e avisa para obedecer às regras dele.
+119799	[NOTIFICATION_CHARACTER_NAME] especula sobre um membro dos Big Five ter oferecido ajuda no assunto.
+119779	[NOTIFICATION_CHARACTER_NAME] maravilha-se com o que a tecnologia de estabilização do clima pode fazer.
+119786	[NOTIFICATION_CHARACTER_NAME] fala sobre estabilizadores de clima.
+119793	[NOTIFICATION_CHARACTER_NAME] apresenta-se e avisa para obedecer às regras dele.
+119800	[NOTIFICATION_CHARACTER_NAME] teme que você tenha que ajudar a consertar aquele neste setor.
+119780	[NOTIFICATION_CHARACTER_NAME] vê potencial neste setor.
+119787	[NOTIFICATION_CHARACTER_NAME] pede que você tome cuidado com o território da Guarda Orbital nas proximidades.
+119794	[NOTIFICATION_CHARACTER_NAME] quer que você permaneça em alerta.
 119801	[NOTIFICATION_CHARACTER_NAME] wants you to investigate disconcerting movements.
 119781	[NOTIFICATION_CHARACTER_NAME] gives you an introduction on the area.
 119788	[NOTIFICATION_CHARACTER_NAME] explains that meteorite impacts are common here.
