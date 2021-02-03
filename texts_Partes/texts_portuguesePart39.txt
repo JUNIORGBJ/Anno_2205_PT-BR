@@ -5,42 +5,42 @@
 1001300	Monumental Bridge
 1001301	Monumental Bridge
 1001302	Monumental Bridge
-1000247	Arctic Dwelling
-1000248	Arctic Dwelling
-1000245	Community Center
-1000246	High Security Laboratory
-1001166	Deuterium Strainer
-1000249	Subzero Cleanroom
-1000251	Neuro-Module Factory
-1000252	Hardware Fabrication Plant
-1000334	Geothermal Turbines
-1000335	Gas Power Station
-1000253	Fishing Harbor
-1000254	Coral Farm
-1000255	Pharma Lab
-1000256	Cannery
-1000257	Compression Chamber
-1000258	Cryogenics Lab
-1000175	Plasma Smelter
-1000260	Methane Extractor
-1000262	Molybdenum Mine
-1000263	Aluminum Mine
-1001168	Strainer Arm
-1000382	Chip Assembly
-1000384	Neuro-Module Complex
-1000385	Air-Locked Labs
-1000390	Heat Exchanger
-1000391	Generator Domes
-1000397	Landing Net
-1000398	Coral Colony
-1000399	Enrichment Containers
-1000400	Canning Conveyor Belt
-1000411	Compression Smelters
-1000412	Cryochamber
-1000418	Melting Pots
-1000414	Deep Crust Drill
-1000423	Coated Drillhead
-1000424	Spider Cutter
+1000247	Habitação ártica
+1000248	Habitação ártica
+1000245	Centro Comunitário
+1000246	Laboratório de Alta Segurança
+1001166	Filtro de Deutério
+1000249	Sala Limpa Subzero
+1000251	Fábrica de Neuro-Módulo
+1000252	Planta de fabricação de hardware
+1000334	Turbinas Geotérmicas
+1000335	Central de gás
+1000253	Porto de pesca
+1000254	Fazenda de Coral
+1000255	Laboratório farmacêutico
+1000256	Fábrica de conservas
+1000257	Câmara de compressão
+1000258	Laboratório de Criogenia
+1000175	Aparelho de fusão de plasma
+1000260	Extrator de metano
+1000262	Mina de molibdênio
+1000263	Mina de alumínio
+1001168	Braço Filtro
+1000382	Montagem de Chip
+1000384	Complexo Neuro-Módulo
+1000385	Laboratórios fechados a ar
+1000390	Trocador de calor
+1000391	Domos Geradores
+1000397	Rede de aterragem
+1000398	Colônia de Coral
+1000399	Recipientes de enriquecimento
+1000400	Correia transportadora de enlatamento
+1000411	Fundidores de compressão
+1000412	Criocâmara
+1000418	Cadinhos
+1000414	Perfuração de crosta profunda
+1000423	Cabeça de perfuração revestida
+1000424	Lâmina de aranha
 1002401	[GUIDNAME 109065] [GUIDNAME 102701]
 1002403	[GUIDNAME 109065] [GUIDNAME 102703]
 1002400	[GUIDNAME 109065] [GUIDNAME 102702]
@@ -61,45 +61,45 @@
 1000672	[GUIDNAME 102704]
 1001178	[GUIDNAME 102703]
 1001175	[GUIDNAME 102702]
-1000266	Arctic Warehouse
-1000267	Transportation Center
-1000265	Arctic Spaceport
-1001234	Global Spaceport
-1001235	Orbital Spaceport
-1001236	Transmission Spaceport
-1000179	Polar Road
-1001221	Polar Road
-1003177	Street
-1000183	Living Unit
-1000184	Living Unit
-1000235	Maintenance Station
-1000236	Health Center
-1000238	Cybernetics Factory
-1000191	Oxygen Separator
-1000239	Fusion Preparation Plant
-1000336	Solar Array
-1000337	Fusion Reactor
-1000190	Aeroponic Farm
-1000241	Space Galley
-1000186	Ion Welder
-1000242	Anti-G Workshop
-1000187	Core Ice Driller
-1000188	Regolith Collector
-1000243	KREEP Gatherer
-1000244	Titanium Mine
-1000375	Cybernetics Manufacture
-1000380	Splitting Unit
-1000381	Preparation Complex
-1000394	Solar Panels
-1000395	Reactor Coolers
-1000408	Aeroponic Greenhouse
-1000410	Kitchen Hall
-1000421	Melting Chamber
-1000422	Gravity Modifiers
-1000108	Extraction Tube
-1000109	Rotary Drill
-1000429	KREEP Extractor
-1000430	Laser Cutter
+1000266	Armazém ártico
+1000267	Centro de Transporte
+1000265	Espaçoporto ártico
+1001234	Espaçoporto global
+1001235	Espaçoporto orbital
+1001236	Espaçoporto de Transmissão
+1000179	Rodovia polar
+1001221	Rodovia polar
+1003177	Rua
+1000183	Unidade habitacional
+1000184	Unidade habitacional
+1000235	Estação de manutenção
+1000236	Centro de Saúde
+1000238	Fábrica de Cibernética
+1000191	Separador de oxigênio
+1000239	Planta de preparação de fusão
+1000336	Vetor solar 
+1000337	Reator de fusão
+1000190	Fazenda Aeropônica
+1000241	Galera espacial
+1000186	Soldador Ion
+1000242	Oficina Anti-G
+1000187	Sondador de gelo
+1000188	Coletor Regolith
+1000243	Coletor KREEP
+1000244	Mina de titânio
+1000375	Fabricação de cibernética
+1000380	Unidade de Divisão
+1000381	Complexo de Preparação
+1000394	Painéis solar
+1000395	Reator refrigerante
+1000408	Estufa Aeropônica
+1000410	Salão gastronômico
+1000421	Câmara de fusão
+1000422	Modificadores de gravidade
+1000108	Tubo de Extração
+1000109	Broca Rotativa
+1000429	Extrator KREEP
+1000430	Cortador a laser
 1002416	[GUIDNAME 109065] [GUIDNAME 102701]
 1002418	[GUIDNAME 109065] [GUIDNAME 102703]
 1002415	[GUIDNAME 109065] [GUIDNAME 102702]
@@ -120,92 +120,92 @@
 1000755	[GUIDNAME 102704]
 1000737	[GUIDNAME 102703]
 1000736	[GUIDNAME 102702]
-1000158	Lunar Warehouse
-1000185	Lunar Transportation Center
-1000159	Lunar Spaceport
-1001237	Orbital Spaceport
-1001238	Transmission Spaceport
-1002664	Large Shield Generator
-1002663	Small Shield Generator
-1003167	Observation Deck
-1003168	ComBot Arena
-1003169	Bungie Launcher
-1000180	Moon Tracks
-1001222	Moon Tracks
-1002870	Moon Tracks
+1000158	Armazém lunar
+1000185	Centro de Transporte Lunar
+1000159	Espaçoporto lunar
+1001237	Espaçoporto Orbital
+1001238	Espaçoporto de transmissão
+1002664	Gerador de escudo grande
+1002663	Gerador de escudo pequeno
+1003167	Deque de observação
+1003168	Arena ComBot
+1003169	Lançador Bungie
+1000180	Pistas lunares
+1001222	Pistas lunares
+1002870	Pistas lunares
 1000291	NO LOCA MetaSpaceStation
-1002084	[GUIDNAME 4]' Branch Office
-1002207	[GUIDNAME 5]'s Trading Post
-1002208	[GUIDNAME 6]'s Camp
-1002215	[GUIDNAME 14]'s Strongpoint
-1002773	[GUIDNAME 14]'s Outpost
-1002184	Climate Stabilizer
+1002084	Sucursal de [GUIDNAME 4]
+1002207	Posto comercial [GUIDNAME 5]
+1002208	Campamento de [GUIDNAME 6]
+1002215	Ponto forte de [GUIDNAME 14]
+1002773	Posto de observação [GUIDNAME 14]
+1002184	Estabilizador climático
 1000431	Barco de Comando
 1003388	[GUIDNAME 1000431]
 1000080	[GUIDNAME 1000449]
-1000443	Attacker Vehicle
-1002228	Attacker Vehicle
-1002224	Transporter
+1000443	Veículo invasor
+1002228	Veículo invasor
+1002224	Transportador
 1003692	Honigbiene 2000
 1003693	Hummel 3000
 1003697	TestRiceFarmSprayer
 1003738	TestPatrolTim
-1002626	Barco de Comando
-1003054	Titan
-1000449	Lunar Expedition Rover
+1002626	Embarcação de Comando
+1003054	Titã
+1000449	Rover de expedição lunar
 1000004	NO LOCA repair drone moon
 1000026	NO LOCA repair drone moon
 1000120	[GUIDNAME 1000449]
 1000121	[GUIDNAME 1000449]
 1000311	[GUIDNAME 1000449]
-1001848	Veteran Titan
-1001849	Elite Titan
-1003153	Master Titan
-1001866	Veteran Turtle
-1001867	Elite Turtle
-1003155	Master Turtle
-1002015	Veteran Spark
-1002016	Elite Spark
-1003158	Master Spark
-1001875	Veteran Flare
-1001876	Elite Flare
-1003156	Master Flare
-1001857	Veteran Stinger
-1001858	Elite Stinger
-1003154	Master Stinger
-1002024	Veteran Glacier
-1002025	Elite Glacier
-1003159	Master Glacier
-1002033	Veteran Monsoon
-1002034	Elite Monsoon
-1003160	Master Monsoon
-1002006	Veteran Blizzard
-1002007	Elite Blizzard
-1003157	Master Blizzard
-1001632	Titan
-1001634	Turtle
-1001378	Spark
-1001750	Flare
-1001633	Stinger
-1001379	Glacier
-1001749	Monsoon
-1001380	Blizzard
-1001642	Charger
-1001643	Bombarder
-1002158	Defender
-1001641	Eradicator
-1001644	Hunter
-1002362	Bomb Drone
-1002361	Drone Carrier
-1002160	Maintainer
-1001756	Charger Captain
-1001757	Bombarder Captain
-1001758	Hunter Captain
+1001848	Titã veterano
+1001849	Titã elite
+1003153	Titã mestre
+1001866	Tartaruga veterana
+1001867	Tartaruga elite
+1003155	Tartaruga mestre
+1002015	Faísca veterana
+1002016	Faísca elite
+1003158	Faísca mestre
+1001875	Baliza veterana
+1001876	Baliza elite
+1003156	Baliza mestre
+1001857	Picada veterano
+1001858	Picada elite
+1003154	Picada mestre
+1002024	Geleira veterana
+1002025	Geleira elite
+1003159	Geleira mestre
+1002033	Monção veterana
+1002034	Monção elite
+1003160	Monção mestre
+1002006	Nevasca veterana
+1002007	Nevasca elite
+1003157	Nevasca mestre
+1001632	Titã
+1001634	Tartaruga
+1001378	Faísca
+1001750	Baliza
+1001633	Picada
+1001379	Geleira
+1001749	Monção
+1001380	Nevasca
+1001642	Patrulheiro
+1001643	Bombardeiro
+1002158	Defensor
+1001641	Erradicador
+1001644	Caçador
+1002362	Drone Bomba
+1002361	Drone Transportador
+1002160	Mantenedor
+1001756	Capitão Patrulheiro
+1001757	Capitão Bombardeiro
+1001758	Capitão Caçador
 1001997	NO LOCA AV Partner Earth Support LVL2
 1001998	NO LOCA AV Partner Earth Support LVL3
-1001645	Seal
-1003390	John Rafferty's Ship
-1003890	John Rafferty's Ship
+1001645	Foca
+1003390	Barco de John Rafferty
+1003890	Barco de John Rafferty
 1002667	[GUIDNAME 10]
 1002668	[GUIDNAME 4]
 1002669	[GUIDNAME 5]
@@ -220,8 +220,8 @@
 1002677	[GUIDNAME 26]
 1002678	[GUIDNAME 27]
 1002679	[GUIDNAME 28]
-1002940	Employee Ship
-1003640	Employee Ship
+1002940	Barco de empregado
+1003640	Barco de empregado
 1002680	[GUIDNAME 10]
 1002681	[GUIDNAME 4]
 1002682	[GUIDNAME 5]
@@ -251,18 +251,18 @@
 1000807	Zona de construção costeira
 1000103	Zona de construção de armazém
 1000083	Zona de construção de cratera
-1001522	NO LOCA Moss farm
-1001393	NO LOCA Missile
-1001558	NO LOCA Missile
-1002056	NO LOCA Missile
-1001384	NO LOCA Mortar
-1002609	NO LOCA Mortar
+1001522	NO LOCA Fazenda de musgo
+1001393	NO LOCA Míssil
+1001558	NO LOCA Míssil
+1002056	NO LOCA Míssil
+1001384	NO LOCA Argamassa
+1002609	NO LOCA Argamassa
 1002441	NO LOCA Torpedo
 1002373	NO LOCA Chainspark
-1002229	NO LOCA Firebomb
-1001540	NO LOCA Missile
-1001559	NO LOCA Missile
-1002057	NO LOCA Missile
+1002229	NO LOCA Bomba de fogo
+1001540	NO LOCA Míssil
+1001559	NO LOCA Míssil
+1002057	NO LOCA Míssil
 1001541	NO LOCA Mortar
 1003577	NO LOCA Mortar
 1003263	NO LOCA Torpedo
@@ -273,17 +273,17 @@
 1002457	NO LOCA PrU Earth Stun LVL2
 1002458	NO LOCA PrU Earth Push LVL3
 1003853	NO LOCA PrU Earth Nuke LVL3
-1002305	NO LOCA Long-Range Missile
-1002442	NO LOCA Nuclear Missile
-1002374	NO LOCA Nuclear Missile
-1001483	NO LOCA Nuclear Missile
-1002443	NO LOCA Nuclear Missile
-1002375	NO LOCA Nuclear Missile
-1003885	NO LOCA Long-Range Missile
-1001199	NO LOCA Barrage
-1001200	NO LOCA Barrage
-1002199	NO LOCA Missiles
-1001347	NO LOCA Barrage
+1002305	NO LOCA Míssil de longo alcance
+1002442	NO LOCA Míssil nuclear
+1002374	NO LOCA Míssil nuclear
+1001483	NO LOCA Míssil nuclear
+1002443	NO LOCA Míssil nuclear
+1002375	NO LOCA Míssil nuclear
+1003885	NO LOCA Míssil de longo alcance
+1001199	NO LOCA Barragem
+1001200	NO LOCA Barragem
+1002199	NO LOCA Mísseis
+1001347	NO LOCA Barragem
 1001823	NO LOCA VU Tower A big medium
 1001824	NO LOCA VU Tower A big hard
 1001825	NO LOCA VU Tower B small medium
@@ -294,7 +294,7 @@
 1001649	Torre
 1001651	Torre Marinha
 1001653	Mina
-1001655	Grnde Mina
+1001655	Mina grande
 1001831	NO LOCA VU Wall thick medium
 1001832	NO LOCA VU Wall thick hard
 1001835	NO LOCA VU Rare Material Storage medium
