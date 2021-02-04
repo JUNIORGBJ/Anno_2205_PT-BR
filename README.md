@@ -25,6 +25,8 @@ Se você desejar testar a tradução em jogo, será preciso colar e substituir o
 ## Ferramentas Ultilizadas
 
 :link: [Visual Studio Code](https://code.visualstudio.com)
+:link: [QuickBMS](http://aluigi.altervista.org/quickbms.htm)
+:link: [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
 ## Doações
 
