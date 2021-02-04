@@ -183,21 +183,21 @@
 3002838	NO LOCA SSQ E2 VisibilityTrigger
 3003048	NO LOCA SSQ E2 CameraSequenceTrigger
 3002542	Proceed with Dr. Eleanor Hofwegen's Assignments concerning the Sunken Structure.
-3002612	Project: Getting to the Bottom
-3002613	Project: Back to the Roots
-3002614	Project: Dive Into It
-3002615	Project: Staying Energized
-3002616	Project: Primitive Tools
-3002619	Project: Fortune Hunters
-3002620	Project: Behind Closed Doors
-3003016	Project: Nothing to See Here
-3003017	Project: Helping Hands
-3002621	Project: On the Hook
-3002624	Project: Send the Bots In
-3002625	Project: Power On
-3003019	Project: From Old to New
-3003020	Project: Learn to Walk
-3002626	Project: Surface!
+3002612	Projeto: Va até ou fundo
+3002613	Projeto: De Volta às Raízes
+3002614	Projeto: Mergulho
+3002615	Projeto: Mantenha-se energizado
+3002616	Projeto: Ferramentas primitivas
+3002619	Projeto: Caçador de Fortunas
+3002620	Projeto: Atrás de portas fechadas
+3003016	Projeto: Nada para ver
+3003017	Projeto: Uma pequena ajuda
+3002621	Projeto: Viciado
+3002624	Projeto: Deixe os robôs entrarem
+3002625	Projeto: Ligado
+3003019	Projeto: De mal a pior
+3003020	Projeto: Passo a passo
+3002626	Projeto: Superfície!
 3002839	NO LOCA SSQ E5 VisibilityTrigger
 3003049	NO LOCA SSQ E5 CameraSequenceTrigger
 3002006	Proceed with May Tian's Sssignments concerning the Dams.
