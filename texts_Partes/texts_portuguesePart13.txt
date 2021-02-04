@@ -28,7 +28,7 @@
 120583	Exclua uma rota para criar outra
 118188	Origem já selecionada
 118397	Produtos armazenados
-120105	Sector is not connected to the Trade Network
+120105	O setor não está conectado à rede comercial
 120106	Upgrade the Sector Spaceport to integrate it into the Network
 120120	The spaceport in [ROUTES_SOURCE_SESSION_NAME] is not equipped for transfer with this sector. Upgrade it.
 120119	Upgrade this sector's spaceport to furnish it for transfer.
@@ -214,7 +214,7 @@
 116756	Sem efeito
 120165	Vote e obtenha módulos e materiais raros.
 120609	O Conselho
-120737	Sua corporação não é influente o suficiente para ser convidada a [GUIDNAME 120609].
+120737	Sua corporação não é influente o suficiente para ser convidada para [GUIDNAME 120609].
 120735	<font [GUI_COLOR GreyLight1]>Clique para abrir o menu</font>
 120751	É necessário um elevador espacial para visitar [GUIDNAME 120609].
 119889	Saldo do setor
