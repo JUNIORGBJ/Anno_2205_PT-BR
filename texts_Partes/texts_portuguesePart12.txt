@@ -58,19 +58,19 @@
 116465	Embeleze seu assentamento.
 120871	Embeleze seu assentamento. <br/>Símbolo de como as férias de inverno aproximam seus empregados.
 121433	Concede direitos promocionais adicionais dependendo do número de residências em seu entorno.
-102735	Edifícios residenciais acomodam <font [GUI_COLOR OrangeHighlight]>employees</font> and provide<font [GUI_COLOR OrangeHighlight]>credits</font> and <font [GUI_COLOR OrangeHighlight]>workforce</font>.
-102767	Conecta edifícios e transporta mercadorias. Todos os edifícios devem ter uma conexão com um depósito.
+102735	Edifícios residenciais acomodam <font [GUI_COLOR OrangeHighlight]>empregados</font> e proporciona<font [GUI_COLOR OrangeHighlight]>créditos</font> e <font [GUI_COLOR OrangeHighlight]>mão de obra</font>.
+102767	Conecta edifícios e transporta mercadorias. Todos os edifícios devem ter uma conexão com o armazém..
 102768	NO LOCA [DUMMYTAG] extract [DUMMYTAG 2]. They can only be build on a <font [GUI_COLOR OrangeHighlight]>mountain building site</font> in sessions with <font [GUI_COLOR OrangeHighlight]>[DUMMYTAG 3]</font> deposits.
 102772	[NO LOCA DUMMYTAG] cultivate [DUMMYTAG 2]. They can only be build in sessions with a <font [GUI_COLOR OrangeHighlight]>[DUMMYTAG 3]</font> fertility.
 102777	Conselho descr. no menu de construção Produção de material de construção
 102773	NO LOCA [DUMMYTAG] harvest [DUMMYTAG 2]. They can only be build on a <font [GUI_COLOR OrangeHighlight]>coastal building site</font> in sessions with a <font [GUI_COLOR OrangeHighlight]>[DUMMYTAG 3]</font> fertility.
 102774	NO LOCA [DUMMYTAG] gather [DUMMYTAG 2]. They can only be build on a <font [GUI_COLOR OrangeHighlight]>coastal building site</font> in sessions with a <font [GUI_COLOR OrangeHighlight]>[DUMMYTAG 3]</font> deposit.
 102776	As usinas de energia das marés fornecem a <font [GUI_COLOR OrangeHighlight]>energia</font> que as fábricas e edifícios públicos precisam. Eles só podem ser construídos em um <font [GUI_COLOR OrangeHighlight]>zona de construção costeira</font>.
-102754	This residential building can house more <font [GUI_COLOR OrangeHighlight]>employees</font> than its smaller counterpart. It provides <font [GUI_COLOR OrangeHighlight]>credits</font> and <font [GUI_COLOR OrangeHighlight]>workforce</font>.
-109002	Your Building is missing a Connection to the Island's Logistics Network
+102754	Este edifício residencial pode abrigar mais <font [GUI_COLOR OrangeHighlight]>empregados</font> do que a variante inferior. Fornece <font [GUI_COLOR OrangeHighlight]>créditos</font> e <font [GUI_COLOR OrangeHighlight]>mão de obra</font>.
+109002	Seu edifício não está conectado com a rede de logística da Ilha
 105831	"Básico e biótico."
 105832	"O tecido do passado, reinventado."
-105833	"Altamente adhesivo."
+105833	"Altamente adesivo."
 105834	"O gosto do sol."
 105835	"Esta planta é uma maravilha das profundezas."
 105836	"Esta libação mostra sua estação."
@@ -89,51 +89,51 @@
 105853	"O gosto que vinha do frio."
 105854	"Prove o gosto da nostalgia."
 105856	"Porque o plástico é uma coisa de 2070."
-105857	"Supremo, superior, superaleaciones!"
+105857	"Supremo, superior, super ligas!"
 105858	"Continue brilhando, diamante de alta tecnologia."
 105859	"Para máquinas de alta precisão."
 105860	"Os melhores amigos de um investidor."
-105861	"Don't be silly, use silicon!"
-105862	"A unique kind of blue."
-105863	"When regular water is not enough."
-105864	"Quantum power, toenail-sized."
-105865	"A different pair of eyes."
-105866	"The breakthrough to a new era of computing."
-105867	"Half extinct, fully delicious."
-105868	"Medicine from the icy rifts."
-105869	"Three a day keep the doctor away."
-105870	"Tidbits from the tin."
-105871	"The foam that builds your home."
-105872	"Arctic cold, destilled for home use."
-105873	"This winter's hottest fashion statement."
-105874	"Burning ice, what else is there to say?"
-105875	"Unutterably useful."
-105876	"Your metallic allrounder."
-105877	"Evolution through superior technology."
-105878	"Quality you can breathe."
-105879	"Unlimited energy in hand-held form."
-105880	"Food from the lunar garden."
-105881	"Food reduced to its basics."
-105882	"Real meals for real pioneers."
-105883	"Guaranteed comet-proof."
-105884	"Oh gravity, thou art a portable device."
-105885	"Builder's trusted tools."
-105886	"The fuel of the future."
-105887	"Frozen life."
-105888	"So rare that we have to search the stars."
-105889	"Withstands any environment."
-116772	Improved command ship with better armor and missiles. Slightly increases the fuel bar of your fleet.
-116773	Battle-hardened command ship with striking missiles and formidable defense. Increases the fuel bar significantly.
-116774	A command ship of the highest honors. Hardly matched in both offense and defense. Adds a large amount of power by default.
-116775	An armored ship that is harder to defeat, equipped with faster torpedoes that deal more damage against vehicles.
-116776	Durable, armored ship with improved plating. It fires its Torpedos even faster to deal bonus damage to vehicles.
-116777	A nearly indestructible armored ship, plated with experimental nanomaterials. Its torpedoes are devastating to enemy vehicles.
-116790	Resilient catamaran with more destructive chain sparks, which greatly damage all enemies nearby.
-116791	Vastly improved Catamaran rapidly firing chain sparks to damage several enemies at one go.
-116792	The most powerful Catamaran, armed with unavoidable chain sparks. It deals enormous damage to all enemies in its vicinity.
-116781	Better plated artillery ship with higher perseverance. Reloads it's mortars noticeably faster to destroy enemy structures.
-116782	Rapid-firing artillery ship which mortars dealing effective damage against enemy Structures. Carbon coating improves its defenses significantly.
-116783	Formidable artillery ship that decimates entire groups of enemies. It razes structures in record time thanks to devastating mortar cannons.
+105861	"Não seja bobo, use silicone!"
+105862	"Um tipo único de azul."
+105863	"Quando a água normal não é suficiente."
+105864	"Poder quântico, do tamanho de uma unha."
+105865	"Um par de olhos diferente."
+105866	"O avanço para uma nova era da computação."
+105867	"Meio extinto, totalmente delicioso."
+105868	"Remédio das fendas de gelo."
+105869	"Três por dia mantém o médico longe."
+105870	"Iguarias enlatadas."
+105871	"A espuma que constrói sua casa."
+105872	"O frio do Ártico, destilado para uso doméstico."
+105873	"A declaração de moda mais quente deste inverno."
+105874	"Gelo ardente, o que mais há para dizer?"
+105875	"Indizivelmente útil."
+105876	"Seu metal multifacetado."
+105877	"Evolução por meio de tecnologia superior."
+105878	"Qualidade que você pode respirar."
+105879	"Energia ilimitada em formato portátil."
+105880	"Comida do jardim lunar."
+105881	"Alimentos reduzidos ao básico."
+105882	"Comida autêntica para pioneiros autênticos."
+105883	"À prova de cometas garantida."
+105884	"Oh gravidade, você é um dispositivo portátil. "
+105885	"Ferramentas fiéis do pedreiro."
+105886	"O combustível do futuro."
+105887	"Vida congelada."
+105888	"Tão raro que temos que procurar nas estrelas."
+105889	"Resiste a qualquer ambiente."
+116772	Barco de comando aprimorado com armadura e mísseis melhores. Aumenta ligeiramente a barra de combustível da sua frota.
+116773	Barco de comando endurecido pela batalha com mísseis impressionantes e defesa formidável. Aumenta a barra de combustível significativamente.
+116774	Barco de comando com a maior distinção. Praticamente incomparável por suas propriedades ofensivas e defensivas. Fornece, por padrão, uma grande quantidade de energia.
+116775	Barco blindado mais difícil de derrotar, equipado com torpedos mais rápidos que causam mais danos aos veículos.
+116776	Barco blindado durável com revestimento aprimorado. Ele dispara seus torpedos ainda mais rápido para causar dano adicional aos veículos.
+116777	Barco blindado quase indestrutível, revestido com nanomateriais experimentais. Seus torpedos são devastadores para os veículos inimigos.
+116790	Catamarã robusto com rajadas de corrente mais destrutivas, causando mais danos aos inimigos próximos.
+116791	Catamarã com muitas melhorias capaz de lançar rajadas rápidas para atacar vários inimigos ao mesmo tempo.
+116792	O mais poderoso dos catamarãs com rajadas que causa grande dano a todos os inimigos que estiverem por perto.
+116781	Artilharia melhor protegida e mais durável. Recarregue seus morteiros visivelmente mais rápido para destruir as estruturas inimigas.
+116782	Artilharia de fogo rápido cujos morteiros causam danos efetivos às estruturas inimigas. O revestimento de carbono melhora significativamente sua defesa.
+116783	Uma formidável artilharia que dizima grupos inteiros de inimigos e devasta estruturas em tempo recorde graças aos seus devastadores canhões de morteiro.
 116778	[GUIDNAME 116790]
 116779	[GUIDNAME 116791]
 116780	[GUIDNAME 116792]
@@ -146,18 +146,18 @@
 116784	[GUIDNAME 116790]
 116785	[GUIDNAME 116791]
 116786	[GUIDNAME 116792]
-102944	Large command ship that excels in both defense and offense. It's armed with missiles.
-102945	Firepower: High
-102946	No bonus
-102937	Armored, close-combat ship built for enduring enemy fire. Armed with slow torpedos, that deal bonus damage against vehicles.
-102938	Firepower: Low
-102939	Bonus vs. vehicles
-108359	Fast but fragile catamaran attacking with experimental chain spark projectiles, which branch off to hit multiple enemies.
-108360	Firepower: Medium
-108361	No bonus<br />Hits multiple enmies
-108365	Vulnearable artillery ship that increases a fleet's offense with wide-range mortar, which are effective against Structures.
-108366	Firepower: Highest
-108367	Bonus vs. Structures<br />Hits multiple enemies
+102944	Grande barco de comando armado com mísseis que se destaca por suas propriedades ofensivas e defensivas.
+102945	Potência de disparo: alta
+102946	Sem bônus
+102937	Navio de combate blindado de curto alcance construído para resistir ao fogo inimigo. É equipado com torpedos lentos que causam danos extras aos veículos.
+102938	Potência de disparo: baixa
+102939	Bônus contra veículos
+108359	Catamarã rápido e frágil que ataca com projéteis de explosão experimental que se dividem para atingir vários inimigos.
+108360	Potência de disparo: média
+108361	Sem bônus<br />Atinge vários inimigos
+108365	Artilharia vulnerável que aumenta a ofensiva de uma frota com uma ampla gama de ataques de morteiros, eficazes contra estruturas.
+108366	Potência de disparo: alta
+108367	Bônus contra estruturas<br />Atinge vários inimigos
 102940	[GUIDNAME 108359]
 102942	[GUIDNAME 108360]
 102943	[GUIDNAME 108361]
@@ -170,14 +170,14 @@
 108356	[GUIDNAME 108359]
 108357	[GUIDNAME 108360]
 108358	[GUIDNAME 108361]
-105926	Employees demand specific services. This need for infrastructure can be met by erecting public buildings.
-105930	Workers demand basic supplies. Produce specific consumer goods to meet this need.
-105931	Operators and Executives ask for a wider range of products. Produce specific consumer goods to meet this need.
-105932	Investors want to wallow in luxury. Produce specific consumer goods to meet this need.
-105933	Protectors demand basic supplies. Produce specific consumer goods to meet this need.
-105934	Scientists ask for a wider range of products. Produce specific consumer goods to meet this need.
-105935	Miners demand basic supplies. Produce specific consumer goods to meet this need.
-105936	Officers ask for a wider range of products. Produce specific consumer goods to meet this need.
+105926	Os empregados exigem serviços específicos. Essa necessidade de infraestrutura pode ser atendida com a construção de prédios públicos.
+105930	Os trabalhadores exigem suprimentos básicos. Produza bens de consumo específicos para atender às suas necessidades.
+105931	Os operadores e executivos pedem uma gama mais ampla de produtos. Produza bens de consumo específicos para atender a essa necessidade.
+105932	Os investidores querem nadar com luxo. Produza bens de consumo específicos para atender a essa necessidade.
+105933	OS protetores exigem suprimentos básicos. Produza bens de consumo específicos para atender a essa necessidade.
+105934	Os cientistas pedem uma gama mais ampla de produtos. Produza bens de consumo específicos para atender a essa necessidade.
+105935	Os mineiros exigem suprimentos básicos. Produza bens de consumo específicos para atender a essa necessidade.
+105936	Os oficiais pedem uma gama mais ampla de produtos. Produza bens de consumo específicos para atender a essa necessidade.
 105944	InfoTip GlobalBar Descr. Session
 108553	InfoTip Needs Descr. Information
 108554	InfoTip Needs Descr. Security
@@ -191,28 +191,28 @@
 110393	Necessidades Avançadas
 110394	Necessidades Sofisticadas
 110395	Necessidades Requintadas
-108570	- Houses employees<br />- Provides workforce
-108571	- Generates energy
-114570	<font [GUI_COLOR OrangeHighlight]>Lowered maintenance costs<br />No production output</font>
-115071	<font [GUI_COLOR OrangeHighlightDark1]>Overlapping influence zones</font>
+108570	- Alojar empregados<br />- Fornece mão de obra
+108571	- Gera energia
+114570	<font [GUI_COLOR OrangeHighlight]>Baixo custo de manutenção<br />Sem produção</font>
+115071	<font [GUI_COLOR OrangeHighlightDark1]>Zonas de influência sobrepostas</font>
 113527	Construção em Montanhas
 113528	Construção Costeira
 113978	Construção de Armazém
 114979	Construção de Pontes
-114379	Decreased productivity
-114380	Demands not fulfilled
-114381	Monuments
-114385	Ready
-114386	Paused
-116828	Disable all Fireworks.
-116829	Activates the fireworks and has them display cool colors.
-119914	Activates the fireworks and has them display warm colors.
-119915	Activates the fireworks and has them display shining colors.
-119916	Activates the fireworks and has them display hearts.
-117125	The default weather setting.
-117126	The Climate Stabilizer creates more snow in the arctic and more rain in the temperate zone.
-117127	The climate stabilizer creates snowstorms and extensive rainfall.
-117128	The climate stabilizer creates strong blizzards and stormy monsoons.
+114379	Produtividade reduzida
+114380	Demandas não atendidas
+114381	Monumentos
+114385	Pronto
+114386	Em pausa
+116828	Desativa todos os fogos de artifício.
+116829	Ativa os fogos de artifício e faz com que exibam cores frias.
+119914	Ativa os fogos de artifício e faz com que exibam cores quentes.
+119915	Ativa os fogos de artifício e faz com que exibam cores brilhantes.
+119916	Ativa os fogos de artifício e mostra corações.
+117125	Ajuste de clima padrão.
+117126	O Estabilizador de Clima cria mais neve no Ártico e mais chuva na zona temperada.
+117127	O estabilizador climático cria tempestades de neve e chuvas extensas.
+117128	O estabilizador de clima cria fortes nevascas e tempestades
 117129	O estabilizador climático cria climas catastróficos. Quer mesmo enfrentá-los?
 119917	Desativar todas as luzes.
 119918	Ativa o show de luzes e exibe cores frias.
@@ -256,8 +256,8 @@
 105798	NO LOCA 105781
 117361	Essas mercadorias não estão em seu armazém.
 105892	Transportadores fornecidos
-105900	Transportadores gratis
-105910	Necesidades
+105900	Transportadores grátis
+105910	Necessidades
 105894	Saldo de [GUIDNAME]
 105893	Transportador en uso
 114584	Não há oscilação em sua conta bancária.
@@ -285,7 +285,7 @@
 116628	Promoção de Empregados
 116629	Ativar promoção automática
 120545	A quota da corporação permite [ASCENSION_RIGHTS] mais promoções
-120555	<font [GUI_COLOR GreyLight1]>Precione a tecla Shift  para promover o maior número de funcionários possível</font>
+120555	<font [GUI_COLOR GreyLight1]>Pressione a tecla Shift  para promover o maior número de funcionários possível</font>
 120559	Promoção negada
 120560	A quota da corporação exige que você adquira mais [POPULATION_LEVEL_REFERENCE] antes de emitir promoções adicionais neste campo.
 120561	As necessidades de [POPULATION_LEVEL_REFERENCE] não foram satisfeitas ou falta material de construção.
@@ -300,7 +300,7 @@
 116607	Movendo para o alvo
 116608	Aguardando ordens
 116729	Requer
-120598	Obtained by completing optional assignments or finishing mission Assignments.
+120598	Obtido completando tarefas opcionais ou concluindo tarefas de missão.
 120805	<font [GUI_COLOR OrangeHighlight]>[GUIDNAME 112925]</font>
 116860	<font [GUI_COLOR White]>Área bloqueada</font>
 116861	<font [GUI_COLOR White]>Fora da Área</font>
@@ -313,4 +313,4 @@
 121220	[GUIDNAME 100152]
 121638	Todas as Indústrias
 121669	Nenhum edifício selecionado
-103018	Não á mercadoria disponivel!
+103018	Não á mercadoria disponível!
