@@ -1,10 +1,10 @@
-1002740	Lunar Transporter
-1003717	Orbital Watch Charger
-1003718	Orbital Watch Vehicle
-1003726	Boreal Transporter
-1001626	Resident
-1002219	Resident
-1002221	Resident
+1002740	Transportador lunar
+1003717	Patrulheiro da Guarda Orbital
+1003718	Veículo de guarda orbital
+1003726	Transportador boreal
+1001626	Residente
+1002219	Residente
+1002221	Residente
 1003743	[GUIDNAME 1001626]
 1003600	[GUIDNAME 9]'s Freighter
 1003719	[GUIDNAME 24]'s Freighter
@@ -12,99 +12,99 @@
 1003721	[GUIDNAME 26]'s Freighter
 1003722	[GUIDNAME 27]'s Freighter
 1003723	[GUIDNAME 28]'s Freighter
-1002110	Orbital Watch Charger
-1003419	Orbital Watch Bombarder
-1003418	Orbital Watch Hunter
-1002719	Orbital Watch Vehicle
+1002110	Patrulheiro da Guarda Orbital
+1003419	Bombardeiro de guarda orbital
+1003418	Caçador de guarda orbital
+1002719	Veículo de guarda orbital
 1003729	[GUIDNAME 1002719]
-1003761	Orbital Watch Combat Drone
-1002111	Rock
-1001574	Crates
-1002610	Resident
-1002721	Resident
-1002722	Resident
+1003761	Drone de combate da Guarda Orbital
+1002111	Rocha
+1001574	Caixas
+1002610	Residente
+1002721	Residente
+1002722	Residente
 1003746	[GUIDNAME 1002721]
-1002278	Polar Bear
-1002273	Bear
-1002274	Cattle
-1002275	Elk
-1002276	Horse
-1002277	Sheep
-1001586	Robot
-1002257	Robot
-1002256	Robot
-1001592	Employee Glider
-1001587	Ambulance Glider
-1001588	Taxi Glider
-1001590	Security Glider
-1003661	Employee Transporter
-1003657	Employee Sled
-1003659	Employee Snow Plow
-1003658	Employee Rover
-1003660	Employee Transporter
-1003744	Employee Quad
-1003745	Employee Transporter
-1002230	Astronaut
-1003673	Blue Box
-1003672	Spying Device
-1003711	Present
-1003715	Gathering of Santas
-1001366	Crates
-1001368	Container
-1003178	Flotsam
-1001575	Crates
-1001576	Container
-1003664	Barrels
-1001363	Dolphin
-1002266	Shark
-1002267	Blue Whale
+1002278	Urso polar
+1002273	Urso
+1002274	Gado
+1002275	Alce
+1002276	Cavalo
+1002277	Ovelha
+1001586	Robô
+1002257	Robô
+1002256	Robô
+1001592	Planejador de empregados
+1001587	Planejador de ambulância
+1001588	Planejador de taxi
+1001590	Planejador de Segurança
+1003661	Transportador de empregados
+1003657	Trenó de empregados
+1003659	Limpa-neve de empregados
+1003658	Rover de empregados
+1003660	Transportador de empregado
+1003744	Quad de empregados
+1003745	Transportador de empregado
+1002230	Astronauta
+1003673	Caixa azul
+1003672	Dispositivo de espionagem
+1003711	Presente
+1003715	Encontro de Papai Noel
+1001366	Caixas
+1001368	Contêiner
+1003178	Restos marinhos
+1001575	Caixas
+1001576	Contêiner
+1003664	Barris
+1001363	Golfinho
+1002266	Tubarão
+1002267	Baleia Azul
 1002268	Orca
-1002269	Sperm Whale
-1002270	Swordfish
-1001752	Ship
-1002265	Ship
-1001581	Vehicle
+1002269	Cachalote
+1002270	Peixe-espada
+1001752	Barco
+1002265	Barco
+1001581	Veículo
 1001580	Drone
-1001583	Transporter
-1001369	Meteorite
-1001584	Robot
-1003179	Barrel
-1002272	Trackable Cargo
-1002285	Crates
-1002727	Trackable Cargo
-1002728	Crates
-1003677	Sea Mine
-1003678	Land Mine
-1002281	Container
-1001577	Container
-1002282	Container
-1003712	Present
+1001583	Transportador
+1001369	Meteorito
+1001584	Robô
+1003179	Barril
+1002272	Carga rastreada
+1002285	Caixas
+1002727	Carga rastreada
+1002728	Caixas
+1003677	Mina marinha
+1003678	Mina terrestre
+1002281	Contêiner
+1001577	Contêiner
+1002282	Contêiner
+1003712	Presente
 1003770	[GUIDNAME 1002281]
-1000440	Objects
-1000550	Unkown objects
-1003760	Automatic Drone
+1000440	Objetos
+1000550	Objetos desconhecidos
+1003760	Drone Automático
 1003786	[GUIDNAME 1001466]
 1003787	[GUIDNAME 1001466]
-1003788	Boreal Plane
-1003789	Helicopter
-1001466	Ship
-1003755	Fishing Boat
-1003759	Life Boat
-1002742	Vehicle
-1003756	Vehicle
-1003757	Vehicle
-1003727	Container
-1003730	Boreal Plane
-1003731	Helicopter
-1001751	Ship Wreck
-1002743	Damaged Vehicle
-1003728	Container
-1002614	Sensor Drone
-1002768	Sensor Drone
+1003788	Plano boreal
+1003789	Helicóptero
+1001466	Barco
+1003755	Barco de pesca
+1003759	Bote salva vidas
+1002742	Veículo
+1003756	Veículo
+1003757	Veículo
+1003727	Contêiner
+1003730	Plano boreal
+1003731	Helicóptero
+1001751	Restos de naufrágio
+1002743	Veículo danificado
+1003728	Contêiner
+1002614	Drone Sensor
+1002768	Drone Sensor
 1003763	[GUIDNAME 1002614]
-1002615	Combat Drone
-1002769	Combat Drone
-1003724	[GUIDNAME 9]'s Freighter
+1002615	Drone de combate
+1002769	Drone de combate
+1003724	Cargueiro [GUIDNAME 9]
 1001800	NO LOCA SmallScanner
 1002319	NO LOCA MediumScanner
 1002320	NO LOCA BigScanner
@@ -181,18 +181,18 @@
 2001257	Rejuvenescedor
 2001259	Replicadores
 2001251	Circuitos Sinápticos
-2001256	Androids
+2001256	Androides
 2001606	Robôs
 2001228	Microchips
-2001255	IntelliWear
+2001255	Intel-Roupa
 2001021	Nano Cerâmica
 2001242	Cobalto
 2001269	Silício
 2001235	Diamantes
-2001236	Prismas Multispec
+2001236	Prismas multi-espectro
 2001238	Peixe
 2001260	Comida Enlatada
-2001347	Coral de Aguas Profundas
+2001347	Coral de Águas Profundas
 2001263	Implantes Neurológicos
 2001261	Estimulantes
 2001245	Super Refrigerantes
@@ -208,8 +208,8 @@
 2001268	Comida Lunar
 2001051	Oxigênio
 2001267	Bio-Potenciadores
-2001266	Compensador Anti-Grav
-2001248	Helium-3
+2001266	Compensador Anti-Gravidade
+2001248	Helio-3
 2001249	Celular de Energia por Fusão
 2001022	Titânio
 2001003	Placas de Titânio
@@ -218,7 +218,7 @@
 2001004	Comida Orgânica
 2001254	Comida de Qualidade
 2001262	Estruturas Térmicas
-2001053	Pacote de Sustento
+2001053	Pacote de subsistencia
 2001086	NO LOCA Rice Fertility
 2001273	NO LOCA Algae Fertility
 2001276	NO LOCA Fruit Fertility
@@ -261,56 +261,56 @@
 2002249	Rotas de energia
 2002437	[CORPORATIONINFOTIP]
 2001814	Ibarra-FoxCom
-2001815	Cassian Industries
+2001815	Indústrias Cassian
 2001816	Usoyev Inc.
 2001817	Lei Sheng
-2001818	Saayman International
+2001818	Saayman Internacional
 2001836	BribeCost
-2002007	Disable all fireworks.
-2002009	Cold Color Fireworks
-2002012	Warm Color Fireworks
-2002013	Shining Color Fireworks
-2002008	2D Fireworks Display
-2002080	Calm Weather
-2002081	Rough Weather
-2002082	Turbulent Weather
-2002083	Stormy Weather
-2002084	Apocalyptic Weather
-2002164	Lightshow deactivated
-2002165	Cool Color Lightshow
-2002166	Warm Color Lightshow
-2002167	Shining Color Lightshow
-2002168	Gold Lighting
-2001088	No street connection
-2001902	Protection through Shield Generators insufficient
+2002007	Desativa todos os fogos de artifício.
+2002009	Fogos de artifício de cores frias
+2002012	Fogos de artifício de cores quentes
+2002013	Fogos de artifício coloridos
+2002008	Exibição de fogos de artifício 2D
+2002080	Clima calmo
+2002081	Clima ruim
+2002082	Clima turbulento
+2002083	Clima tempestuoso
+2002084	Clima apocalíptico
+2002164	Show de luzes cores frias
+2002165	Show de luzes coloridas
+2002166	Show de luzes de cores quentes
+2002167	Show de luzes cores brilhantes
+2002168	Iluminação dourada
+2001088	Sem conexão de rua
+2001902	Proteção através de geradores de escudo insuficiente
 2001920	Falta entrada de mercadoria
 2002085	Falta entrada de mercadoria
 2001102	Logística insuficiente
 2002086	Logística insuficiente
 2001577	Falta energia
 2001578	Energia extremamente baixa
-2002087	Not enough workforce available
-2002088	Not enough workforce available
+2002087	Não há mão de obra suficiente disponível
+2002088	Não há mão de obra suficiente disponível
 2002057	Fonte de calor insuficiente
 2001103	Informações insuficiente
 2001104	Segurança insuficiente
 2001807	Mobilidade insuficiente
 2001808	Entretenimento insuficiente
 2001809	Comunidade insuficiente
-2001810	Insufficient access to Secrecy
-2001811	Insufficient access to Repairs
-2001812	Insufficient access to Health Care
-2001199	Awaiting promotion
-2001292	Production paused
-2001576	Production output reduced
-2001198	Production output critically low
-2001386	Assigment Object
-2001579	Assignment Object
-2001895	Assignment available
-2001907	Approach with [GUIDNAME 1002615] to destroy
-2001906	Use vehicle to attach
-2001946	Use vehicle to attach
-2002301	Attachment limit reached
-2002302	Drone limit reached
-2001942	Use vehicle to detach
-2001908	Use um Veiculo para coletar
+2001810	Segurança insuficiente
+2001811	Reparação insuficiente
+2001812	Centro de saúde insuficiente
+2001199	Aguardando promoção
+2001292	Produção interrompida
+2001576	Produção reduzida
+2001198	Nível de produção criticamente baixo
+2001386	Objeto da tarefa
+2001579	Objeto da tarefa
+2001895	Tarefa disponível
+2001907	Abordagem com [GUIDNAME 1002615] para destruir
+2001906	Use o veículo para se conectar
+2001946	Use o veículo para se conectar
+2002301	Limite de tarefas atingido
+2002302	Limite do drones atingido
+2001942	Use o veículo para desconectar
+2001908	Use o veículo para coletar
