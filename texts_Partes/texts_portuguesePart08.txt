@@ -16,7 +16,7 @@
 121392	Crescimento dos concorrentes
 121393	Leilões de instalações
 121394	Modo Agrícola
-121395	Modo BioTec
+121395	Modo Biotecnológico
 121396	Modo Eletrônico
 121397	Modo de Energia
 121398	Modo de indústria pesada
@@ -26,8 +26,8 @@
 114630	Quer realmente apagar esta corporação?
 119757	Padrão
 100822	Tarefas
-100825	Pedidos opcionais
-100829	Em breve, novos pedidos
+100825	Tarefas opcionais
+100829	Em breve, novas tarefas
 100830	Recompensas
 100831	Completado
 100832	Disponível
@@ -196,16 +196,16 @@
 108959	<li>[GUIDNAME 108968]</li><br /><li>[GUIDNAME 108969]</li>
 108960	<li>[GUIDNAME 108971]</li><br /><li>[GUIDNAME 108972]</li>
 108961	<li>[GUIDNAME 108974]</li><br /><li>[GUIDNAME 108975]</li>
-108962	[GUIDNAME 109074] facilities construction cost discount
-108963	[GUIDNAME 109074] goods become cheaper on the world market
-108965	[GUIDNAME 109077] facilities construction cost discount
-108966	[GUIDNAME 109077] goods become cheaper on the world market
-108968	[GUIDNAME 109080] facilities construction cost discount
-108969	[GUIDNAME 109080] goods become cheaper on the world market
-108971	[GUIDNAME 109083] facilities construction cost discount
-108972	[GUIDNAME 109083] goods become cheaper on the world market
-108974	[GUIDNAME 109087] facilities construction cost discount
-108975	[GUIDNAME 109087] goods become cheaper on the world market
+108962	[GUIDNAME 109074] oferece desconto no custo de construção de instalações
+108963	[GUIDNAME 109074] mercadorias ficam mais baratas no mercado mundial
+108965	[GUIDNAME 109077] desconto no custo de construção de instalações
+108966	[GUIDNAME 109077] mercadorias ficam mais baratas no mercado mundial
+108968	[GUIDNAME 109080] oferece desconto no custo de construção de instalações
+108969	[GUIDNAME 109080] bens ficam mais baratos no mercado mundial
+108971	[GUIDNAME 109083] oferece desconto no custo de construção de instalações
+108972	[GUIDNAME 109083] mercadorias ficam mais baratas no mercado mundial
+108974	[GUIDNAME 109087] oferece desconto no custo de construção de instalações
+108975	[GUIDNAME 109087] mercadorias ficam mais baratas no mercado mundial
 114599	[NOTIFICATION_CHARACTER_NAME] oferece a você para votar nas eleições do Conselho na estação espacial Global Union.
 114600	[NOTIFICATION_CHARACTER_NAME] expressa sua gratidão pelo seu apoio durante o último ciclo eleitoral.
 114601	[NOTIFICATION_CHARACTER_NAME] Sua falta de fé é alarmante.
@@ -225,7 +225,7 @@
 108951	Processando dados para o próximo período de votação. Volte mais tarde, por favor.
 108956	Recompensas de votação
 108977	Módulos marcados
-114597	Soborno
+114597	Suborno
 116711	ModulePermitIcon
 116712	MarketPriceIcon
 116713	BuildCostIcon
@@ -280,37 +280,37 @@
 100545	NO LOCA Barbicain
 100546	NO LOCA M00nwalker
 100547	NO LOCA TwentyTwenty20
-100548	NO LOCA Arctic Custodians
-100727	Create an Offer
-100729	Quantity
-100704	Market rate
-100730	Price
-100145	Search
-100146	Buy Items
-100147	System Offer
-100148	Latest Offers
-100345	Sell Items
-100721	Latest Offers
-100724	My Offers
-100346	Online Market
-100356	Item purchased
-100357	Global Union
-100358	Arctic Custodians
-100359	Orbital Watch
+100548	NO LOCA Custodiadores Árticos
+100727	Criar uma oferta
+100729	Quantidade
+100704	Taxa de mercado
+100730	Preço
+100145	Pesquisa
+100146	Comprar itens
+100147	Oferta do Sistema
+100148	Últimas ofertas
+100345	Vender Itens
+100721	Últimas ofertas
+100724	Minhas ofertas
+100346	Mercado Online
+100356	Item comprado
+100357	União Global
+100358	Custodiadores Árticos
+100359	Guarda Orbital
 100560	x [TRADE_ITEM_AMOUNT]
-100698	Create new offer
-100699	Next Corporation Level required
-100700	My Offers
+100698	Criar uma nova oferta
+100699	Próximo nível corporativo necessário
+100700	Minhas ofertas
 100701	[TRADE_ITEM_PRICE]
-100702	Duration:
-100703	Collect
+100702	Duração:
+100703	Colete
 100740	[TRADE_ITEM_HEADLINE]
-100761	Search Offer
-100851	Online Market
-102525	Level [TRADE_SLOT_UNLOCK] required
-102693	Buy Item
-100314	NO LOCA Population:
-100315	NO LOCA Productivity:
-100316	Goods:
+100761	Oferta de Pesquisa
+100851	Mercado Online
+102525	Nível [TRADE_SLOT_UNLOCK] requerido
+102693	Comprar item
+100314	NO LOCA População:
+100315	NO LOCA Produtividade:
+100316	Mercadoria:
 100349	<font face="Roboto Medium">NO LOCATerrorist</font> Attack
 100350	<font face="Roboto Medium">NO LOCAContinue</font> Last Session
