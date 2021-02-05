@@ -226,7 +226,7 @@
 108615	Munição solicitada:
 108616	Entregar
 105012	Aceitar
-116822	Instruções da Missão
+116822	Instrução da Missão
 115926	Colete
 116500	Rejeitar
 113513	Fornecimento de [GUIDNAME 2001073]
