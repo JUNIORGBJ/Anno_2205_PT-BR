@@ -101,51 +101,51 @@
 7001594	I'm already looking the other way. Now it seems I also need a pair of earmuffs.
 7001595	If this is the price I have to pay to get this sector secured...
 7001596	Back already from corporate meetings? I'm not complaining.
-7001597	I told you before, without my clearance no one's--Oh! You're not Howard.
-7001598	I've been holding the fort, now it's time for a change of the guards.
-7001599	There you go.
-7001600	Need anything else?
-7001601	And I thought you'd had enough of that.
-7001602	I'll check in the back for more later.
-7001604	Seems useful.
-7001605	Waste not, want not.
-7001606	Oh, I've been meaning to stock up on that!
-7001607	It's costly to ship anything out here, so thanks.
-7001608	The swamp's been cleared of wildlife, so go ahead.
-7001609	Navigating the marsh is tricky. It'll take a while to set up the pump.
-7001610	Quite the expansion, eh?
-7001611	You can get the drainage started now.
-7001612	You'll need to turn the pumps on, too.
-7001613	Don't keep the swamp waiting.
-7001614	This will take a while, grab a chair.
-7001615	All that water has to go somewhere!
-7001616	The pumps are doing their thing.
-7001617	Less marsh, more soil.
-7001618	Finally. The pumps were a real eye-sore.
-7001619	Well done, Moses.
-7001741	Wading through mud is fun, but not that fun.
-7001742	What's the hold-up?
-7001743	You can afford this, right?
-7001747	The marsh is as dry as a conversation with Howard. Time to dismantle the pump.
-7001748	The ground won't get any drier.
-7001749	No more danger of sinking!
-7001761	See that? The symptoms are visible even to laypeople.
-7001762	Don't get too close.
-7001763	We're monitoring it. There's nothing more we can do right now.
-7001754	[NOTIFICATION_CHARACTER_NAME] is confident you'll succeed.
-7001755	[NOTIFICATION_CHARACTER_NAME] thanks you.
-7001756	[NOTIFICATION_CHARACTER_NAME] is wary of your facilities' environmental impact.
-7001757	[NOTIFICATION_CHARACTER_NAME] worries about your fuel consumption.
-7001758	[NOTIFICATION_CHARACTER_NAME] eyes your mine critically.
-7001759	[NOTIFICATION_CHARACTER_NAME] is relieved to see you back.
-7001760	[NOTIFICATION_CHARACTER_NAME] is relieved to see you back.
-7001764	[NOTIFICATION_CHARACTER_NAME] oversees the pump construction.
-7001765	[NOTIFICATION_CHARACTER_NAME] is confused about the delay.
-7001766	[NOTIFICATION_CHARACTER_NAME] reports that the pump is operational.
-7001767	[NOTIFICATION_CHARACTER_NAME] makes sure the draining goes smoothly.
-7001768	[NOTIFICATION_CHARACTER_NAME] is waiting for you to finish up the drainage.
-7001769	[NOTIFICATION_CHARACTER_NAME] confirms that the area is ready for construction.
-7000410	Os ventos frios varrem as largas planícies de Vanha Plains, onde o gelo ártico dá lugar a florestas de madeira. Há sementes armazenando dados genéticos de espécies extintas há muito tempo é apenas um tesouro nesta área.
+7001597	Já te disse, sem a devida autorização ninguém...! Oh! Você não é Howard.
+7001598	Venho defendendo o forte, é hora de trocar a guarda.
+7001599	Ai está.
+7001600	Precisa de mais alguma coisa?
+7001601	E eu pensei que você já teria se cansado disso...
+7001602	Vou olhar mais tarde.
+7001604	Parece útil.
+7001605	Não desperdice, não deseje.
+7001606	Oh, eu queria estocar isso!
+7001607	É caro despachar coisas daqui, então... obrigado.
+7001608	Não há mais vida selvagem no pântano, então vá em frente.
+7001609	O pântano é difícil de navegar. A instalação da bomba demorará um pouco.
+7001610	Grande expansão, hein?
+7001611	Você pode começar a drenagem agora.
+7001612	Você vai ter que ligar as bombas também.
+7001613	Não deixe o pântano esperando...
+7001614	Isso vai demorar um pouco, pegue uma cadeira.
+7001615	Toda aquela água tem que ir para algum lugar!
+7001616	As bombas estão fazendo seu trabalho.
+7001617	Menos pântano, mais terra.
+7001618	Finalmente. As bombas são um verdadeiro pé no saco.
+7001619	Bom trabalho. Moisés.
+7001741	Caminhar na lama é divertido, mas não muito.
+7001742	Por que a demora?
+7001743	Você pode pagar por isso, certo?
+7001747	O pântano está tão seco quanto uma conversa com Howard. É hora de desmontar a bomba.
+7001748	O solo não ficará mais seco.
+7001749	Não há mais perigo de afundar!
+7001761	Olha isso? Os sintomas são visíveis até mesmo para leigos.
+7001762	Não chegue muito perto.
+7001763	Estamos monitorando. Não há mais nada que possamos fazer agora.
+7001754	[NOTIFICATION_CHARACTER_NAME] está confiante de que você terá sucesso.
+7001755	[NOTIFICATION_CHARACTER_NAME] te agradece.
+7001756	[NOTIFICATION_CHARACTER_NAME] está desconfiado do impacto ambiental de suas instalações.
+7001757	[NOTIFICATION_CHARACTER_NAME] está preocupado com seu consumo de combustível.
+7001758	[NOTIFICATION_CHARACTER_NAME] olha sua mina com um olhar crítico.
+7001759	[NOTIFICATION_CHARACTER_NAME] está aliviado por vê-lo de volta.
+7001760	[NOTIFICATION_CHARACTER_NAME] está aliviado por vê-lo de volta.
+7001764	[NOTIFICATION_CHARACTER_NAME] supervisiona a construção da bomba.
+7001765	[NOTIFICATION_CHARACTER_NAME] está confuso sobre o atraso.
+7001766	[NOTIFICATION_CHARACTER_NAME] relata que a bomba está operacional.
+7001767	[NOTIFICATION_CHARACTER_NAME] garante que a drenagem ocorra sem problemas.
+7001768	[NOTIFICATION_CHARACTER_NAME] está esperando por você para terminar a drenagem.
+7001769	[NOTIFICATION_CHARACTER_NAME] confirma que a área está pronta para construção.
+7000410	Os ventos frios varrem as largas planícies de Vanha, onde o gelo ártico dá lugar a florestas de madeira. Há sementes armazenando dados genéticos de espécies extintas há muito tempo é apenas um tesouro nesta área.
 7001447	Atraia Executivos na Região Temperada
 7001450	DLC necessário
 7001451	Desbloquear Pré-Condição
@@ -153,68 +153,68 @@
 7001453	Seus Executivos
 7001910	DLC Tundra Disponivel
 7001911	Explore a Vanha Plains
-7001912	Transform marshes into arable land
-7001913	Discover a dangerous legacy
-7001914	Establish new production chains
-7001915	Boost your global economy
-7001916	Purchase now
-7001992	You just got the Tundra DLC
-7001993	Enjoy the new epic landscape
-7001994	Achieve success in a new sector project
-7001995	and more ...
-7001424	Drainage Pump
-7001836	"For light bulbs? What are those?"
-7001837	"Smaller than the eye can see."
-7001838	"Humankind's reliable sidekick."
-7001839	"Doctors literally in your blood."
-7001840	"Ignore the smell."
-7001841	"Ordinary, but astonishingly nutritious."
-7001842	"Warm and now odor-free."
-7001843	"Water and cold-repellent."
-7001844	"Agents of life."
-7001845	"Not quite air."
+7001912	Transforme pântanos em terras aráveis
+7001913	Descubra um legado perigoso
+7001914	Estabeleca novas cadeias produtivas
+7001915	Impulsione sua economia global
+7001916	Compre agora
+7001992	Você acabou de obter o DLC Tundra
+7001993	Aproveite a nova paisagem épica
+7001994	Alcance o sucesso em um novo projeto do setor
+7001995	e mais ...
+7001424	Bomba de Drenagem
+7001836	"Lâmpadas? O que é isso?"
+7001837	"Invisível ao olho humano."
+7001838	"Companheiro infalível da humanidade."
+7001839	"Médicos em seu sangue, literalmente"
+7001840	"Ignore o cheiro."
+7001841	"Simples, mas surpreendentemente nutritivo."
+7001842	"Quente e agora sem odores."
+7001843	"Repelente à água e ao frio."
+7001844	"Agentes da vida."
+7001845	"Não é ar, exatamente."
 7001890	Não funciona com [GUIDCATEGORY_SELECTED] ainda
 7001852	Prosseguir com o Projeto da Dr. Esther Nylund no Tundra
-7001893	Provides moss for further processing.
-7001897	Provides vitamin drinks needed by your employees.
-7001899	Provides tungsten for further processing.
-7001900	Uses tungsten to produce nanochips for further processing.
-7001901	Uses nanochips and cobalt to produce smartdrones demanded by your employees.
-7001902	Provides natural gas for further processing.
-7001903	Uses moss and bioresin to produce biocatalysts for further processing.
-7001904	Uses cobalt and natural gas to produce aerogel for further processing.
-7001905	Uses moss and water to produce wool for further processing.
-7001906	Uses wool and flax fibers to produce all-weather parkas demanded by your employees.
-7001907	Uses nanochips and synthcells to produce medibots demanded by your employees.
-7001908	Provides energy to power factories by consuming natural gas.
-7001998	Dries out marshes and provides access to adjacent building grounds.
-7001544	Preservation Society
-7001545	Complete the sector project in Vanha Plains.
-7001546	Quiet Work Environment
-7001547	Settle Tundra Scientists in one of your cities.
-7001548	Hedgehopper
-7001549	Complete 10 Assignments for your Vanha Plains employees.
-7001550	I lost my glasses down there
-7001551	Drain a swamp.
-7001552	I. Drink. Your. Smoothie.
-7001553	Drain all swamps in Vanha Plains.
-7001554	Industrial Adulteration
-7001555	Construct a Tundra Module in every region.
-7001556	What's That Smell?
-7001557	Construct 10 Musk-ox Ranches in Vanha Plains.
-7001558	Eden's End
-7001559	Construct 10 Drilling Rigs in Vanha Plains.
-7001560	It's a Kind of Magic
-7001561	Produce Biocatalysts and Aerogel.
-7001562	Globalization... Complete
-7001563	Run 10 transfer routes out of Vanha Plains.
-7001469	Bio catalizador agrícola
-7001872	Bio catalizador tecnológico
+7001893	Forneca musgo para processamento posterior.
+7001897	Forneca bebidas vitamínicas necessárias para seus empregados.
+7001899	Forneca tungstênio para processamento posterior.
+7001900	Use tungstênio para produzir nanochips para processamento posterior.
+7001901	Use nanochips e cobalto para produzir smartdrones exigidos por seus empregados.
+7001902	Forneca gás natural para processamento posterior.
+7001903	Use musgo e bioresina para produzir biocatalisadores para processamento posterior.
+7001904	Use cobalto e gás natural para produzir aerogel para processamento posterior.
+7001905	Use musgo e água para produzir lã para processamento posterior.
+7001906	Utilize lã e fibras de linho para produzir parkas para todos os climas exigidas por seus empregados.
+7001907	Use nanochips e células sintetizadas para produzir os robôs médicos exigidas por seus empregados.
+7001908	Fornece energia para abastecer fábricas com o consumo de gás natural.
+7001998	Drene pântanos e fornece acesso aos terrenos de construção adjacentes.
+7001544	Sociedade de preservação
+7001545	Conclua o Projeto do setor na Planície de Vanha.
+7001546	Ambiente de trabalho silencioso
+7001547	Estabeleça Cientistas da Tundra em uma de suas cidades.
+7001548	Piloto voando baixo
+7001549	Complete 10 tarefas para seus empregados da Planície de Vanha.
+7001550	Perdi meus óculos lá embaixo.
+7001551	Drene um pântano.
+7001552	Eu. Eu bebo. Sua. Batida.
+7001553	Drene todos os pântanos das Planícies de Vanha.
+7001554	Adulteração Industrial
+7001555	Construa um Módulo de Tundra em cada região.
+7001556	Que cheiro é esse?
+7001557	Construa 10 fazendas de bois-almiscarados nas Planícies de Vanha.
+7001558	Fim do Éden
+7001559	Construa 10 sondas de perfuração nas planícies de Vanha.
+7001560	É um tipo de mágica
+7001561	Produza Biocatalisadores e Aerogel.
+7001562	Globalização ... Concluída
+7001563	Realize 10 rotas de transferência saindo da Planície do Vanha.
+7001469	Módulo biocatalisador agrícola
+7001872	Módulo biocatalisador biotecnológico.
 7001468	Aerogel de energia
 7001875	Aerogel de industria pesada
 7001876	Aerogel eletrotônico
-7000007	Moradia Tundra
-7000008	Moradia Tundra
+7000007	Habitação de tundra
+7000008	Habitação de tundra
 7000012	[GUIDNAME 1000245]
 7000013	[GUIDNAME 1000246]
 7000041	Plantação de musgo
@@ -224,42 +224,42 @@
 7000253	Fazenda de Algas
 7000048	Biorreator Avançado
 7000047	Câmara de Ionização
-7000257	Synthcell Incubator
-7000027	Desalinization Plant
-7000029	Nanoprecision Factory
-7000028	Boreal Tailor
-7000250	Drone Hive
-7000251	Microbotics Center
-7000030	Windpark
-7000256	Fossil-fuel Power Plant
-7000039	Vitamin Extractor
-7000051	Drilling Rig
-7000252	Robot Assembly Hall
-7000049	Biopolymer Factory
-7000254	Feldspar Quarry
-7000032	Tungsten Mine
-7000255	Cobalt Mine
-7000042	Moss Bed
-7000261	Musk-ox Paddock
+7000257	Incubadora de células sintéticas
+7000027	Planta de dessalinização
+7000029	Fábrica de Nanoprecisão
+7000028	Alfaiate Boreal
+7000250	Drone favo de mel
+7000251	Centro de Microbótica
+7000030	Parque eólico
+7000256	Usina de combustível fóssil
+7000039	Extrator de Vitamina
+7000051	Equipamento de perfuração
+7000252	Robot Assembly Hall robô
+7000049	Fábrica de Biopolímero
+7000254	Pedreira de feldspato
+7000032	Mina de tungstênio
+7000255	Cobalt Minealto
+7000042	Superficie de musgo
+7000261	Prado para bois almiscarados
 7000263	[GUIDNAME 1000365]
 7000262	[GUIDNAME 1000366]
 7000313	[GUIDNAME 1000368]
-7000302	Reactor Chambers
-7000303	High Pressure Chamber
+7000302	Câmaras do reator
+7000303	Câmara de alta pressão
 7000305	[GUIDNAME 1000372]
 7000306	[GUIDNAME 1000376]
-7000307	Antistatic Room
-7000304	Precision Mill
-7000308	Assembly Floor
+7000307	Sala antiestática
+7000304	Moinho de precisão
+7000308	Piso de montagem
 7000309	Autoclave
 7000310	[GUIDNAME 1000392]
 7000311	[GUIDNAME 1000391]
 7000312	[GUIDNAME 1000403]
-7000314	Drill Tower
+7000314	Torre de Perfuração
 7000316	[GUIDNAME 1000383]
 7000315	[GUIDNAME 1000417]
 7000318	[GUIDNAME 1000426]
-7000317	Tungsten Shearer
+7000317	Tesoura de tungstênio
 7000319	[GUIDNAME 1000889]
 7000285	[GUIDNAME 109065] [GUIDNAME 102701]
 7000286	[GUIDNAME 109065] [GUIDNAME 102703]
@@ -293,21 +293,21 @@
 7000161	[GUIDNAME 1001231]
 7000162	[GUIDNAME 1001232]
 7000163	[GUIDNAME 1000178]
-7001400	Drainage Site
+7001400	Zona de drenagem
 7001401	[GUIDNAME 7001400]
 7001402	[GUIDNAME 7001400]
 7001403	[GUIDNAME 7001400]
 7001404	[GUIDNAME 7001400]
 7001405	[GUIDNAME 7001400]
 7001406	[GUIDNAME 7001400]
-7001407	Drainage Pump
+7001407	Bomba de drenagem
 7001408	[GUIDNAME 7001407]
 7001409	[GUIDNAME 7001407]
 7001410	[GUIDNAME 7001407]
 7001411	[GUIDNAME 7001407]
 7001412	[GUIDNAME 7001407]
 7001413	[GUIDNAME 7001407]
-7001414	Dried out marsh
+7001414	Pântano drenado
 7001415	[GUIDNAME 7001414]
 7001416	[GUIDNAME 7001414]
 7001417	[GUIDNAME 7001414]
