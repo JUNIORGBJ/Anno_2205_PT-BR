@@ -1,43 +1,43 @@
-3003034	Project: Guard Details
-3002703	Project: A Pill For Their Health
+3003034	Projeto: Detalhes da Guarda
+3002703	Projeto: Pílula para a saúde
 3002845	NO LOCA SSQ M2 VisibilityTrigger
 3003054	NO LOCA SSQ M2 CameraSequenceTrigger
-3002548	Proceed with Aidan Bhargava's Assignments concerning the Meteroids.
-3002704	Project: Puzzling Pieces
-3002705	Project: Meteroid Examination
-3002706	Project: Shooting at Stars
-3002707	Project: Laying the Groundwork
-3002708	Project: Holding the Line
-3002711	Project: Trapped
-3002712	Project: Dire Consequences
-3003036	Project: Calming the Waves
-3003037	Project: Now Hiring
-3002713	Project: Showing Responsibility
-3003038	Project: Rash Decisions
-3002716	Project: All In
-3002717	Project: Even More Résumés
-3002718	Project: Keeping Your Cool
-3003039	Project: Power Issues
-3003040	Project: A Rough Diamond
+3002548	Prossiga com as tarefas de Aidan Bhargava sobre os meteoróides.
+3002704	Projeto: Peças intrigantes
+3002705	Projeto: Exame de Meteróide
+3002706	Projeto: Atirando nas Estrelas
+3002707	Projeto: Lançando as bases
+3002708	Projeto: Mantendo a Linha
+3002711	Projeto: Preso
+3002712	Projeto: Diga as consequências
+3003036	Projeto: Acalmando as Ondas
+3003037	Projeto: Contratando agora
+3002713	Projeto: Mostrando Responsabilidade
+3003038	Projeto: Decisões precipitadas
+3002716	Projeto: Por todos
+3002717	Projeto: Mais currículos
+3002718	Projeto: Manter a calma
+3003039	Projeto: Questões de energia
+3003040	Projeto: Diamante em bruto
 3002846	NO LOCA SSQ M3 VisibilityTrigger
 3003046	NO LOCA SSQ M3 CameraSequenceTrigger
-3002549	Proceed with the Mysterious Woman's Assignments concerning the Hotel.
-3002719	Project: Glam And Glitter
-3002720	Project: The Best of the Best
-3002721	Project: A Bad Forecast
-3002722	Project: Local Color
-3002723	Project: A Friendly Reception
-3003041	Project: Playing With Fire
-3002727	Project: War Tourism
-3002726	Project: Deadly Remnants
-3003042	Project: The ComBot Zone
-3002728	Project: Breaking Down
-3002731	Project: The Butler Sees Everything
-3002732	Project: A Refined Palate
-3002733	Project: Popping the Bottles
-3003043	Project: Carnivores
-3003044	Project: And Without Gaining Weight
-3003045	Project: High-Maintenance
+3002549	Prossiga com as tarefas da mulher misteriosa sobre o hotel.
+3002719	Projeto: Glamour e brilho
+3002720	Projeto: O Melhor dos Melhores
+3002721	Projeto: Uma previsão ruim
+3002722	Projeto: Cor Local
+3002723	Projeto: Uma Recepção Amigável
+3003041	Projeto: Brincando com Fogo
+3002727	Projeto: Turismo de Guerra
+3002726	Projeto: Remanescentes Mortais
+3003042	Projeto: Zona ComBots
+3002728	Projeto: Quebrando
+3002731	Projeto: O mordomo vê tudo
+3002732	Projeto: Um Paladar Refinado
+3002733	Projeto: Estourando as garrafas
+3003043	Projeto: Carnívoros
+3003044	Projeto: E Sem Ganhar Peso
+3003045	Projeto: Alta Manutenção
 3001460	Master Quest - Player Collect One
 3001628	Master Quest - Player Collect Several
 3002033	Master Quest - Collect One
