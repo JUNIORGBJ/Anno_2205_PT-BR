@@ -1,4 +1,4 @@
-117467	Mova os materiais raros coletados de "Anno 2205 - Asteroid Miner" ou Club Rewards para sua corporação atual?
+117467	Transfira os materiais raros coletados para sua corporação atual?
 100194	Pular
 117744	Olá.
 100581	Você realmente quer sair do "Anno 2205"?
@@ -9,42 +9,42 @@
 119928	Erro!
 119929	Erro desconhecido.
 119985	Carregando...
-120749	Cancel Corporation Creation
-120750	Do you really want to cancel corporation creation?
+120749	Cancelar criação da Corporação
+120750	Você realmente deseja cancelar a criação da corporação?
 120788	Tem certeza que deseja aplicar as configurações padrão?
 119986	Novo Dono
 120789	Aplicar configurações padrão
-100731	Player vehicle
-100732	Enemy vehicle
-100733	Enemy structure
-100734	Destructible structure
-100737	Vehicle creator
-100735	Strategic target
-100738	Collectable object
-102715	Allied vehicle
-105090	Neutral vehicle
-105806	Object for assignment
-119982	Destructible storage
-100754	Straight
-100755	Arc
-100707	Mission failed!
-100706	Mission accomplished!
-100715	Mission Objective
-100716	You failed to achieve the objective:
-100717	<font face="Roboto Medium">Leave</font> Mission
-100718	Rewards Summary
-100720	Hitpoints
-102675	Current rewards:
-102679	Results
-102681	Select All
-102725	The Orbital Watch turns the Arctic sea into a battlefield. From a secret outpost concealed between glaciers and pack ice, the terrorists send out armed ships. Their mission: Forage along the Arctic Custodian trade routes and block the transport of the precious polar resources needed by the Global Union space program.
-102861	Max
-102932	<font face="Roboto Medium">Return</font> to Mission
-105659	<font face="Roboto Medium">Leave</font> Mission
-116693	Military Level
-116749	Assignment was not accepted
-116827	Your Military Level is now XX!
-117375	Upgrade your ships here
+100731	Veículo do jogador
+100732	Veículo inimigo
+100733	Estrutura inimiga
+100734	Estrutura destrutível
+100737	Criador de veículos
+100735	Objeto estratégico
+100738	Objeto colecionável
+102715	Veículo aliado
+105090	Veículo neutro
+105806	Objeto para tarefas
+119982	Armazenamento destrutível
+100754	Em linha reta
+100755	Arco
+100707	Missão fracassada!
+100706	Missão cumprida!
+100715	Objetivo da missão
+100716	Você não conseguiu atingir o objetivo:
+100717	<font face="Roboto Medium">Abandonar</font> Missão
+100718	Resumo de recompensas
+100720	Pontos de impacto
+102675	Recompensas atuais:
+102679	Resultados
+102681	Selecionar tudo
+102725	A Guarda Orbital transformou o Mar Ártico em um campo de batalha. De um posto avançado secreto escondido entre geleiras e gelo, terroristas enviam navios armados. Sua missão: procurar alimentos entre as rotas comerciais dos Guardiões do Ártico e bloquear o transporte dos recursos polares necessários para o programa espacial da União Global.
+102861	Máx.
+102932	<font face="Roboto Medium">Retornar</font> para a missão
+105659	<font face="Roboto Medium">Abandonar</font> Missão
+116693	Nível Militar
+116749	A tarefa não foi aceita
+116827	Seu nível militar agora é XX!
+117375	Aprimore seus barcos aqui
 117967	Padrão
 117968	Avançado
 117969	Especialista
@@ -83,28 +83,28 @@
 121161	Taxa de expansão
 102664	[COMMANDO_VEHICLE] é muito longe para reivindicar esta zona de construção.
 102665	O próximo espaçoporto precisa ser melhorado
-105759	Você primeiro tem que reivindicar uma das ilhas vizinhas.
-121140	You must gain access to the adjacent building ground first
-121177	The expansion fee is based on your corporation level and islands already you possess.
-122109	Island is occupied by the Orbital Watch
-102969	Construction Costs
-102970	Construction Costs
-102971	Finalization costs
-102974	Upgrade
-121152	Drainage Costs
-103127	Spaceport Details
-103128	Transfer
-104993	Committed Workforce
-103131	Incoming Transfer Routes
-103132	Outgoing Transfer Routes
-103133	Supported Warehouses
-103134	Storage Capacity
-103140	Upgrade time left:
-117858	Upgrade duration
+105759	Primeiro você tem que reivindicar uma das ilhas vizinhas.
+121140	Primeiro você tem que obter acesso ao canteiro de obras vizinho.
+121177	A taxa de expansão é baseada no seu nível corporativo e nas ilhas que você já possui.
+122109	A ilha é ocupada pela Guarda Orbital.
+102969	Custos de construção
+102970	Custos de construção
+102971	Custos de conclusão
+102974	Aprimorar
+121152	Custos de drenagem
+103127	Detalhes do espaçoporto
+103128	Transferir
+104993	Mão de obra comprometida
+103131	Rotas de transferência de entrada
+103132	Rotas de transferência de saída
+103133	Armazéns Suportados
+103134	Capacidade de armazenamento
+103140	Tempo restante de aprimoramento:
+117858	Duração do aprimoramento
 115459	([KEYBINDING session.upgradeSelected(0)])
-103142	Ready for finalization
-120017	State of the Process
-120025	Completion
+103142	Pronto para conclusão
+120017	Estado do processo
+120025	Conclusão
 120026	[UPGRADE_PROGRESS]%
 120028	Não há recursos suficientes para iniciar o aprimoramento
 120029	Não há recursos suficientes para continuar o aprimoramento
@@ -113,17 +113,17 @@
 120040	Entrada Ótima
 121055	Aprimoramento manualmente interrompida
 121056	Tempo restante
-121148	Not enough resources to initiate the construction process
-121150	Complete the process using Rare Materials
+121148	Recursos insuficientes para iniciar o processo de construção
+121150	Conclua o processo usando materiais raros
 108879	Entrada Ótima
 114449	Infinito
-120072	Additional input required
-121160	Unlock [GUIDNAME] in the [PRODUCT_REGION_NAME] Region.
+120072	Entrada adicional necessária
+121160	Desbloqueie [GUIDNAME] na região [PRODUCT_REGION_NAME].
 121543	Recursos naturais são convertidos pelo reator. Sua oferta é infinita.
 108880	Saída ótima
 120428	Fornece
 120433	Consome
-120434	<font [GUI_COLOR BlueLight]>Produz [GUID_BUILDING_OUTPUT_TEXT]</font>
+120434	<font [GUI_COLOR BlueLight]>Produza [GUID_BUILDING_OUTPUT_TEXT]</font>
 119997	Taxa de produção
 120071	Efeitos do módulo
 121497	Produção Padrão
@@ -145,10 +145,10 @@
 119756	[PRODUCTION_OBJECT_SECONDARY_MODULE_COUNT]/[PRODUCTION_OBJECT_SECONDARY_MODULE_MAX]
 120929	[PRODUCTION_OBJECT_TUNDRA_MODULE_COUNT]/[PRODUCTION_OBJECT_TUNDRA_MODULE_MAX]
 120065	Custos de Manutenção
-120942	<font [GUI_COLOR GreyLight1]>Shift-click to construct regular modules</font>
+120942	<font [GUI_COLOR GreyLight1]>Pressione Shift. e clique para construir módulos normais</font>
 121165	x2
-120607	<font [GUI_COLOR GreyLight1]>Click to resume production ([KEYBINDING session.getSelectedFactory().toggleStopProduction(0)])</font>
-120606	<font [GUI_COLOR GreyLight1]>Click to pause production ([KEYBINDING session.getSelectedFactory().toggleStopProduction(0)])</font>
+120607	<font [GUI_COLOR GreyLight1]>Clique para retomar a produção ([KEYBINDING session.getSelectedFactory().toggleStopProduction(0)])</font>
+120606	<font [GUI_COLOR GreyLight1]>Clique para parar a produção ([KEYBINDING session.getSelectedFactory().toggleStopProduction(0)])</font>
 117746	Retomar a produção ([KEYBINDING session.getSelectedFactory().toggleStopProduction(0)])
 117745	Pausar a produção ([KEYBINDING session.getSelectedFactory().toggleStopProduction(0)])
 108881	Produção Ótima
@@ -176,16 +176,16 @@
 103214	Fornecem
 108885	Saldo do setor
 120432	<font [GUI_COLOR BlueLight]>Forneça Energia</font>
-105104	Build a mountain facility here to access underground resource deposits.
-105921	Build a coast facility here to access underwater resources.
-102793	Build a bridge to claim an Island and gain access to new building ground
-105922	Establish a Warehouse here to gain access to the Island.
-117874	Establish a Warehouse here to gain access to the area.
-105923	Establish a Lunar Warehouse here to gain full access to the crater.
-105989	Finish this bridge and connect it to your traffic network to access a new construction area.
+105104	Construa aqui uma instalação na montanha para acessar os depósitos subterrâneos de recursos.
+105921	Construa aqui uma instalação costeira para acessar os reservatórios subaquáticos.
+102793	Construa uma ponte para reivindicar uma ilha e acessar novos terrenos de construção.
+105922	Monte um armazém aqui para ter acesso à ilha.
+117874	Monte um armazém aqui para ter acesso à área.
+105923	Monte um armazém lunar aqui para obter acesso a toda a cratera.
+105989	Conclua esta ponte e conecte-a com sua rede de tráfego para acessar uma nova zona de construção.
 105993	Conclua esta ponte para reivindicar uma nova zona de construção.
 106000	Interrompe a construção da ponte.
-113967	[LOGISTIC_TRANSPORTER_TYPE] available
+113967	[LOGISTIC_TRANSPORTER_TYPE] disponível
 113968	Detalhes comerciais
 116910	Transportador
 115428	Drones de difusão
@@ -203,9 +203,9 @@
 116600	<font [GUI_COLOR BlueLight]>Gerando [GUID_BUILDING_OUTPUT_TEXT]</font>
 116601	Armazém cheio
 120595	Gradualmente produz pequenas quantidades de [GUID_BUILDING_OUTPUT_TEXT].
-120622	The material is stored locally, to be picked up and transfered to your stock.
-120625	<font [GUI_COLOR OrangeHighlight]>Awaiting completion of the next sector project phase</font>
-120626	Expands on the amount of transporters that can be deployed on every island at the same time
+120622	O material é armazenado localmente, para ser retirado e transferido para seu estoque.
+120625	<font [GUI_COLOR OrangeHighlight]>Aguardando conclusão da próxima fase do projeto do setor</font>
+120626	Expande a quantidade de transportadores que podem ser implantados em todas as ilhas ao mesmo tempo
 120627	Fornece energia adicional a este setor.
 120628	Dê mão de obra extra para administrar suas fábricas.
 121001	Maior capacidade de fornecimento
@@ -216,19 +216,19 @@
 121000	Fornecimento Total
 121501	Empregados nas proximidades
 121502	As residências circundantes determinam a eficiência deste edifício.
-121503	Current Use
+121503	Uso atual
 121512	[GUIDNAME 121510] / [GUIDNAME 121511]
-121504	Effectiveness
-121505	Increase the buildings' effectiveness by attracting more employees to its vicinity.
-121506	This building grants additional promotion rights for your employees.
-121507	Current Benefits
-121508	Additional Promotions
+121504	Eficácia
+121505	Aumente a eficiência dos edifícios, atraindo mais empregados para suas proximidades.
+121506	Este edifício fornece direitos de promoção adicionais aos seus empregados.
+121507	Benefícios atuais
+121508	Promoções Adicionais
 121679	[BONUS_ASCENSION_RIGHTS_SELECTED] / [MAX_BONUS_ASCENSION_RIGHTS_SELECTED]
-103317	Basic island supply
+103317	Abastecimento básico da ilha
 105064	Custos de Manutenção
 113979	Slots disponíveis
 102852	Dispara mísseis.
-108302	Dispara um míssel devastador.
+108302	Dispara um míssil devastador.
 102853	<font [GUI_COLOR GreyLight1]>Clique para definir o alvo</font>
 102854	Repara barcos danificados
 108303	Envia uma bóia para reparar os barcos danificados.
@@ -240,7 +240,7 @@
 108305	Ativa os escudos de proteção e os intensificadores de barril para todos os barcos
 102858	<font [GUI_COLOR GreyLight1]>Clique para definir o alvo</font>
 105772	Evita o movimento e danifica lentamente todos os barcos.
-108306	Evita o movimento e danifica continualmente todos os barcos.
+108306	Evita o movimento e danifica continuamente todos os barcos.
 105773	<font [GUI_COLOR GreyLight1]>Clique para definir o alvo</font>
 105774	Danifica os navios e os afasta.
 108307	Danifica navios e os aproxima.
@@ -265,7 +265,7 @@
 102953	[MANA_RESOURCE_CURRENT]/[MANA_RESOURCE_MAX]
 102955	Selecionar veiculo
 102956	([KEYBINDING session.selectNextObject(False)])
-105967	Finalizar esta missão agora. Voçê permanece com as recompensas já ganhas.
+105967	Finalizar esta missão agora. Você permanece com as recompensas já ganhas.
 108608	Finalizar Missão
 121187	Este barco foi destruída. Você recebeu um substituto sem classificação.
 103435	Fornece os alimentos orgânicos de que seus empregados precisam.
