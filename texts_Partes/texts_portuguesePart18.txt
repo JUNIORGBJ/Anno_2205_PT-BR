@@ -251,66 +251,66 @@
 115871	Energy Transmitter online. Starting test protocol for energy transfer.
 115872	All parameters in the green. Energy transfer successful.
 115877	Object composition analyzed. Type: Satellite. Model: Thorne-12C, Global Trust Mars mission.
-115878	Satellite hard drive contains 1 file. Type: Video message. Loading...
+115878	O disco rígido do satélite contém 1 arquivo. Tipo: mensagem de vídeo. Carregando...
 115828	Carregando...
-115829	Please wait.
-115830	Establishing connection.
-115831	Connection lost.
-115832	Processing information.
-115833	Sorting data.
-115834	Caution. Enemy presence detected.
-115835	Warning. Systems are damaged.
-115843	Receiving communication signal.
-115844	Video memo received. Uploading.
-115891	Thank you for participating in the Lunar Licensing Program. The program stipulates that your corporation set up operative spaceports to act as bases for a new wave of lunar colonization. You will further assist Global Union in the development of a fusion energy reactor to avert Earth's impending energy crisis.
-115892	You are now entering Phase 1 of the Lunar Licensing Program. The Global Union assigned you territory in Earth's temperate region to establish a spaceport and a base of operations. The construction of a space elevator to Global Union headquarters is also required. For further instructions, speak to your official contact person. Global Union wishes you success.
-115893	Welcome to Phase 2 of the Lunar Licensing Program. You are now authorized to enter the Arctic region and access its deposits of rare resources to implement new means of galactic travel. Your official contact person will give you more information.
-115894	You have entered Phase 3 of the Lunar Licensing Program. Your shuttles have arrived at the designated settlement territory. You are required to establish a lunar colony there and begin Helium-3 extraction. The development of a stable fusion reactor is your primary objective. Additional information: Hostile activities detected near your settlement territory. Be careful.
-115895	Congratulations. You have completed all Lunar Licensing Program objectives. Fusion energy transmission will now meet the world's energy demand and enable mankind to implement new means of galactic travel. Global Union is grateful for your cooperation.
-115896	Attention. Global Union will announce the commencement of a new galactic settlement program. The application phase starts now.
-121680	Well done.
-121681	Very impressive.
-121682	Flawless execution.
-121683	Expectations exceeded!
-121684	Exceptional feat.
-121695	Progress secured.
-121696	Obstacle eliminated.
-121697	Success!
-121698	Outcome not as planned.
-121699	Undesired effect.
-121700	Too many inefficiencies.
-121701	Terrible performance.
-121702	Detracting brownie points.
-121703	Do you need me for a status report?
-121704	Good to see you! Then again, I see you most of the time.
-121705	All systems running smoothly.
-121706	Nothing on fire or exploding. At the moment.
-121707	Your vitals are within acceptable limits. However, I advise against staying in zero g too long.
-121708	Success chances above 90 percent, after factoring human error.
-121709	This endeavor has a positive prognosis.
-121710	Break a leg! ... Is the appropriate response in this case, correct?
-121711	Prediction: a successful endeavor.
-121712	Thank you.
-121713	We work well together!
-121714	That was very helpful of you.
-121715	Affirmative.
-121716	Executing command.
-121717	I'll get right to it.
-121718	Not advisable.
-121719	High chance of catastrophic consequences.
-121720	I'm afraid I can't do that.
-121721	I took the liberty of adjusting your schedule for this.
-121722	Physical intervention needed.
-121723	Can I have your attention?
-121724	I'll be on standby.
-121725	Assignment list extended.
-121726	Suggested course of action added.
-121727	Negative predictions were unwarranted.
-121728	Saving successful performance data for future reference.
-121729	Surprisingly satisfactory outcome.
-121730	Results as expected.
-121731	To err is human.
-121732	Beginning of downward trajectory.
-121733	The human factor needs to be adjusted for future endeavors.
-121734	To do list decluttered.
-121735	Human capability overburdened, downsizing parallel processes.
+115829	Por favor, aguarde.
+115830	Estabelecendo conexão.
+115831	Conexão perdida.
+115832	Processando informação.
+115833	Classificando dados.
+115834	Cuidado. Presença do inimigo detectada.
+115835	Atenção. Os sistemas estão danificados.
+115843	Recebendo sinal de comunicação.
+115844	Memorando de vídeo recebido. Enviando.
+115891	Obrigado por participar do Programa de Licença Lunar. O programa estipula que sua corporação estabeleça portos espaciais operacionais que servirão de base para uma nova onda de colonização lunar. Você ajudará a União Global no desenvolvimento de um reator de energia de fusão para evitar a crise de energia iminente na Terra.
+115892	Você está acessando a fase 1 do Programa de Licença Lunar. A União Global atribuiu a você um território na região temperada da Terra para construir um espaçoporto e uma base de operações. Será necessário construir um elevador espacial para a sede do Sindicato Global. Para mais informações, fale com seu contato oficial. A União Global deseja-lhe boa sorte.
+115893	Bem-vindo à fase 2 do Programa de Licença Lunar. Você agora está autorizado a entrar na região do Ártica e acessar seus raros repositórios de recursos para implementar novos meios de viagem galáctica. Seu contato oficial lhe dará mais informações.
+115894	Você entrou na fase 3 do Programa de Licença Lunar. Suas naves chegaram ao território de assentamento designado. Você tem que estabelecer uma colônia lunar e iniciar a extração de Hélio-3. Seu principal objetivo é o desenvolvimento de um reator de fusão estável. Informações adicionais: Atividade hostil detectada perto de seu território de assentamento. Tenha cuidado.
+115895	Parabéns. Você concluiu todos os objetivos do Programa de Licença Lunar. Agora, a transmissão da energia de fusão servirá para atender às necessidades de energia do mundo e permitir que a humanidade implemente novas formas de viagens galácticas. A União Global agradece a sua cooperação.
+115896	Atenção. A União Global anunciará o início de um novo programa de colonização galáctica. A fase de inscrições começa agora.
+121680	Bom trabalho.
+121681	Impressionante.
+121682	Execução incrível.
+121683	Expectativas superadas!
+121684	Um feito excepcional.
+121695	Progresso garantido.
+121696	Obstáculo eliminado.
+121697	Sucesso!
+121698	Resultado inesperado.
+121699	Efeito indesejado.
+121700	Muitas ineficiências.
+121701	Desempenho terrível.
+121702	Restando puntos extra.
+121703	Você precisa de mim para um relatório de status?
+121704	Estou muito feliz em ver você! Bem, a verdade é que eu vejo você o tempo todo.
+121705	Todos os sistemas funcionando perfeitamente.
+121706	Nada pegando fogo ou explodindo. No momento.
+121707	Seus sinais vitais estão dentro de limites aceitáveis. No entanto, não aconselho ficar em zero g por muito tempo.
+121708	Chances de sucesso acima de 90 por cento, após fatorar o erro humano.
+121709	Esse esforço tem um prognóstico positivo.
+121710	Sorte!... é a resposta certa neste caso, correto?
+121711	Predição: um empreendimento de sucesso.
+121712	Obrigado.
+121713	Trabalhamos bem juntos!
+121714	Isso foi muito útil da sua parte.
+121715	Afirmativo.
+121716	Executando o comando.
+121717	Eu vou direto ao assunto.
+121718	Não aconselhável.
+121719	Grande chance de consequências catastróficas.
+121720	Receio não poder fazer isso.
+121721	Tomei a liberdade de ajustar sua programação para isso.
+121722	Intervenção física necessária.
+121723	Posso ter sua atenção?
+121724	Eu estarei em espera.
+121725	Lista de tarefas estendida.
+121726	Medida sugerida ampliada.
+121727	As previsões negativas eram injustificadas.
+121728	Salvando dados de desempenho bem-sucedidos para referência futura.
+121729	Resultado surpreendentemente satisfatório.
+121730	Resultados conforme o esperado.
+121731	Errar é humano.
+121732	Início da trajetória descendente.
+121733	O fator humano precisa ser ajustado para empreendimentos futuros.
+121734	Lista de tarefas organizada.
+121735	Capacidade humana sobrecarregada, reduzindo processos paralelos.

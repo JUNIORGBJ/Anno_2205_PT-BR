@@ -286,16 +286,16 @@
 117616	In the days of the First Wave, there were ambitions to make this sector a tourist attraction. Unfinished business, as you can see.
 117617	And now our hopes are on you. The performance of the Second Wave's first colony will prove, if the Lunar Licensing Program is worth being continued.
 117618	And now you can revive the project. Maybe you'll find someone well-connected who wants to join in.
-116702	I'm glad you accepted my invitation. Samantha Beaumont, Global Union supervisor of the Lunar Licensing Program.
-117469	We have a lot to discuss. But first I'd like to introduce you to your Artificial Data Amalgamating Messenger.
-117470	Officially, only mega corporations are allowed in the program. But I personally took a stand for you. You just have to sign in with your corporation name.
-117471	Thanks. But I need to see your corporate logo as well. For identification purposes.
-116716	My superiors at the Global Union had reservations about you. But I've convinced them. They even decided to allocate you high-grade territory for new corporate headquarters. Choose a sector.
-116717	Almost there. We just have to negotiate the terms of your contract with Global Union. Funding conditions and the like.
-116718	Oh, you want to look into the contract details. Any specific paragraphs you have in mind?
-116719	And we're through. Already wasted enough time on paperwork. Let's enter your new territory and start with Phase 1 of the program. Details please, A.D.A.M.
-117484	Rafferty, please come in! Rafferty!
-117485	Good. Start the test run!
+116702	Estou feliz que você aceitou meu convite. Samantha Beaumont, supervisora ​​do Programa de Licenciamento Lunar da Global Union.
+117469	Temos muito que conversar. Mas, primeiro, quero apresentar a você o seu Artificial Data Amalgamating Messenger.
+117470	Oficialmente, apenas megacorporações podem participar do programa. Mas assumi pessoalmente a responsabilidade de defender sua posição. Basta se registrar com o nome de sua empresa.
+117471	Obrigado. Mas preciso ver a logotipo de sua corporação. Para fins de identificação.
+116716	Meus superiores na Global Union tinham dúvidas sobre você. Mas eu os convenci. Eles até decidiram atribuir a você um território privilegiado para sua nova sede corporativa. Escolha um setor.
+116717	Você está quase lá. Só temos que negociar os termos do seu contrato com a União Global. As condições de financiamento e esse tipo de coisa.
+116718	Oh, você deseja analisar as informações do contrato. Algum parágrafo específico que você tem em mente?
+116719	E nós terminamos. Você já perdeu muito tempo com a papelada. Vamos entrar em seu novo território para iniciar a Fase 1 do programa. Por favor, A.D.A.M., me dê mais detalhes.
+117484	Rafferty, por favor entre! Rafferty!
+117485	Bom. Comece a execução do teste!
 117207	The spaceport building side off the coast is still unstaffed. But as soon as you've built the necessary housing, your construction team will be moving in.
 117213	Organic food is perceived as needless luxury by many MegaCorps. Good to see you share the Union's perspective.
 117209	Great. Building material shortages shouldn't be an issue anymore!
