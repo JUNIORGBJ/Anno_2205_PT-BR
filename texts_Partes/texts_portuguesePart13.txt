@@ -29,123 +29,123 @@
 118188	Origem já selecionada
 118397	Produtos armazenados
 120105	O setor não está conectado à rede comercial
-120106	Upgrade the Sector Spaceport to integrate it into the Network
-120120	The spaceport in [ROUTES_SOURCE_SESSION_NAME] is not equipped for transfer with this sector. Upgrade it.
-120119	Upgrade this sector's spaceport to furnish it for transfer.
-120121	Neither of the desired sector's spaceports are fit for transfer. Upgrade both of them.
-120122	Spaceport expansion level too low
-118369	Route Revenue
-118370	Goods revenue
-118371	Vehicle upkeep cost
+120106	Aprimore o espaçoporto do setor para integrá-lo à rede
+120120	O espaçoporto de [ROUTES_SOURCE_SESSION_NAME] não está equipado para transferência com este setor. Aprimore.
+120119	Aprimore o espaçoporto deste setor para prepará-lo para a transferência.
+120121	Nenhum dos portos espaciais do setor desejado é adequado para transferência. Aprimore ambos.
+120122	Nível de expansão do espaçoporto muito baixo
+118369	Receita de rota
+118370	Receitas de mercadorias
+118371	Custo de manutenção do veículo
 118373	Rotas do Mercado Mundial
 118374	Rotas Ativas
 118375	Nível corporativo Atual
 118376	Aumente seu nível corporativo para expandir o limite de rota.
 120792	Capacidade de Transferência
 120820	A rota tem efeitos retardados
-120821	[TRADE_ROUTE_SOURCE_SESSION] can't deliver enough goods on an ongoing basis
-120822	Once its Sector Storage runs dry, the route will become inefficient
-122064	Remaining Runtime
-122111	Selected good cannot be traded on the World Market
-104953	Your corporation is not permitted to maintain a fleet of this size.
-104954	This ship was damaged in the field. It must be repaired before further use.
-104956	Locked slot
-105911	Prerequisites:
-105912	Unlock costs:
-105913	Construction costs:
-105945	Order this vehicle to add it to your fleet.
-105946	Remove this vehicle from your fleet. Removing vehicles will not refund their construction costs.
-105948	Buy a vehicle to add it to your fleet.
+120821	[TRADE_ROUTE_SOURCE_SESSION] não consegue entregar mercadorias suficientes de forma contínua
+120822	Quando o armazém em seu setor acabar, a rota não será mais eficiente.
+122064	Tempo de Execução Restante
+122111	A mercadoria selecionada não pode ser negociado no Mercado Mundial
+104953	Sua corporação não tem permissão para manter uma frota desse tamanho.
+104954	Este barco sofreu danos. Precisa ser reparado antes de ser usado novamente.
+104956	Slot bloqueado
+105911	Pré-requisitos:
+105912	Custos de debloqueio:
+105913	Custos de construção:
+105945	Pegue este veículo para adicioná-lo à sua frota.
+105946	Remova este veículo de sua frota. Ao eliminar veículos, seu custo de construção não será devolvido.
+105948	Compre um veículo para adicioná-lo à sua frota.
 105964	NO LOCA InfoTip Dock Descr. Transport Ship
-105965	Reach a Corporation Rating of [CORPORATION_LEVEL_TRANSPORTATION_VEHICLE_UNLOCK] to get access to [GUIDNAME].
+105965	Alcance uma Classificação Corporativa [CORPORATION_LEVEL_TRANSPORTATION_VEHICLE_UNLOCK] para ter acesso a [GUIDNAME].
 108272	Construa [GUIDNAME]
 108273	Custo de Construção
 108276	Abandona [GUIDNAME]
-108282	Corporation Level
-108283	Add a vehicle to your fleet
-115317	Repair [VEHICLE_SLOT_SHIP_CLASS]
-116406	Stats
+108282	Nível Corporativo
+108283	Adicione um veículo à sua frota
+115317	Reparar [VEHICLE_SLOT_SHIP_CLASS]
+116406	Estatísticas
 116797	[NEXT_VEHICLE_UPGRADE_NAME] requires
-117131	Upgrade to [NEXT_VEHICLE_UPGRADE_NAME]
-105957	Terrorists capture ships passing important Global Union trade routes. The ships must be rescued.
-105958	The Orbital Watch took over the Arctic Custodian's climate stabilizers. The global climate is at stake.
-105959	Enemies hardly pose a threat, but you only receive a few rewards.
-105960	Your enemies are stronger and more numerous. Missions take longer, but are more profitable.<br />Suggested for Veteran-Level ships.
-105961	Challenging missions with scarce power reserves and very dangerous enemies.<br />Suggested for Elite-Level ships and above.
+117131	Aprimore para [NEXT_VEHICLE_UPGRADE_NAME]
+105957	Terroristas capturam barcos que passam por importantes rotas comerciais da União Global. Os navios devem ser resgatados.
+105958	A Guarda Orbital assumiu o controle dos estabilizadores climáticos dos Guardiões do Ártico. O clima global está em jogo.
+105959	Os inimigos dificilmente representam uma ameaça, mas você só recebe algumas recompensas.
+105960	Seus inimigos são mais fortes e numerosos. As missões demoram mais, mas são mais lucrativas.<br />Sugerido um barco de nível veterano.
+105961	Missões desafiadoras com baixas reservas de energia e inimigos muito perigosos.<br />Sugerido um barco de nível Elite e superiores.
 108940	Dificuldade Padrão
 108941	Dificuldade Avançada
 108942	Dificuldade Especialista
 108943	Dificuldade Bloqueada
-105947	Research this upgrade to permanently improve all vehicles of this class.
-106005	Research this upgrade to permanently improve this action.
-108129	Attributes
-105975	Improvement
-105976	Research Costs
-104944	Hitpoints
-104946	Projectiles
-104947	Attack Range
-104948	Viewing Distance
-104949	Speed
-108523	Base Damage
-108524	Reload Time
-108525	Bonus Power
-108249	Radius
-108248	Delay
-108246	Damage
-108245	No. of missiles
-108251	Max. distance
-108250	Max. charges
-108526	Duration
-108527	Barrage Count
-108528	Inner Damage
-108529	Outer Damage
-108530	Unit Count
-108533	Outer Damage Radius
-108534	Effect Duration
-108538	[INLINE_ICON 1001567] Mana Cost
-108539	Effect Value
-108547	Shield Radius
-105938	Max. Hitpoints
-105939	Reward Count
-105940	Damage
-105941	Reloading Time
-105942	Inital [GUIDNAME 1001567]
-105943	Max. [GUIDNAME 1001567]
-108281	Speed
-108148	Additional Charges
-108212	Reduced [GUIDNAME 1001567] Cost
-108147	Max. Distance Increase
-108145	Delay Reduction (ms)
-108215	Barrage Duration Increase (ms)
-108216	Additional missiles
-108217	Repair Radius Increase
-108218	Shield Radius Increase
-108240	Additional Submarines
-108220	Target Radius Increase
-108221	Damage Increase
-108222	Impact Radius Increase
-108223	Push Force Increase
-108224	Push Duration Increase
-108232	Effect Duration Increase (ms)
-108233	Effect Amount Increase
-108225	Submarine Hitpoint Increase
-108142	Projectiles ZZZ
-108143	Damage ZZZ
-108144	Duration ZZZ
+105947	Pesquise este aprimoramento para atualizar permanentemente todos os veículos desta classe.
+106005	Pesquise este aprimoramento para melhorar permanentemente esta ação.
+108129	Atributos
+105975	Melhoria
+105976	Custos de investigação
+104944	Pontos de impacto
+104946	Projéteis
+104947	Raio de ataque
+104948	Distância de Visão
+104949	Velocidade
+108523	Dano base
+108524	Tempo de recarga
+108525	Poder extra
+108249	Raio
+108248	Demora
+108246	Dano
+108245	No. de mísseis
+108251	Distancia máx.
+108250	Alterações máx.
+108526	Duração
+108527	Contagem de descarga
+108528	Dano Interno
+108529	Danos Externos
+108530	Contagem de unidades
+108533	Raio de dano externo
+108534	Duração do Efeito
+108538	Custo de mana [INLINE_ICON 1001567]
+108539	Valor do Efeito
+108547	Raio do escudo
+105938	Pontos de impacto máx.
+105939	Contagem de recompensa
+105940	Dano
+105941	Tempo de recarga
+105942	[GUIDNAME 1001567] inicial
+105943	[GUIDNAME 1001567] max.
+108281	Velocidade
+108148	Despesas adicionais
+108212	Custo de [GUIDNAME 1001567] reduzido
+108147	Máx. Aumento de distância
+108145	Redução de Atraso (ms)
+108215	Aumento da duração da descarga (ms)
+108216	Mísseis adicionais
+108217	Aumento do raio de reparo
+108218	Aumento do raio do escudo
+108240	Submarinos Adicionais
+108220	Aumento do raio alvo
+108221	Aumento de danos
+108222	Aumento do raio de impacto
+108223	Aumento da força de impulso
+108224	Aumento da duração de impulso
+108232	Aumento da duração do efeito (ms)
+108233	Aumento da quantidade de efeito
+108225	Aumento do ponto de vida do submarino
+108142	Projéteis ZZZ
+108143	Dano ZZZ
+108144	Duração ZZZ
 108230	Max. [GUIDNAME 1001567] ZZZ
-108219	Stun Radius ZZZ
-108146	Radius ZZZ
-108247	Duration (ms) ZZZ
+108219	Raio de atordoamento ZZZ
+108146	Raio ZZZ
+108247	Duração (ms) ZZZ
 108513	[GUIDNAME] Level [GUID_VEHICLE_UPGRADE_LEVEL]
 108514	[GUIDNAME] Level [GUID_SPECIAL_ACTION_UPGRADE_LEVEL]
-108263	Unlock [GUIDNAME]
-108254	Construct [GUIDNAME]
-108255	Technical Specifications
+108263	Desbloquear [GUIDNAME]
+108254	Construir [GUIDNAME]
+108255	Especificações técnicas
 108256	Custo de Construção
-108257	Unlock [GUIDNAME]
-108258	You have reached the maximum number of [GUIDNAME] you may store.
-108259	The [GUIDNAME] combines cheap construction costs with very low maintenance costs to make the most out of your money!
-108260	Vehicle Capacity
+108257	Desbloquear [GUIDNAME]
+108258	Você atingiu o límite máximo de [GUIDNAME] que você pode armazenar.
+108259	[GUIDNAME] combine custos de construção baratos com custos de manutenção muito baixos para aproveitar ao máximo do seu dinheiro!
+108260	Capacidade do veículo
 108261	Upkeep Cost of Associated Route
 108265	Cannot construct additional Vehicles
 108672	Empregados em [GUIDNAME 100009]
@@ -226,21 +226,21 @@
 108565	Energia Transferida
 108566	Importar
 108567	Exportar
-120198	Spacestation in [GUIDNAME]
-120201	Stage of expansion
-120356	Currently under construction
-120357	The Spaceport is waiting for finalization
-120358	Upcoming Stage
-120364	Construction Process
-120387	Sector Project Progress
-120392	Other Assignments
-120397	Contact the project supervisor to find out about the sector project.
-120866	Sector project complete
+120198	Estação espacial em [GUIDNAME]
+120201	Estágio de expansão
+120356	Atualmente em construção
+120357	O espaçoporto está esperando pela conclusão
+120358	Próxima etapa
+120364	Processo de construção
+120387	Progresso do Projeto do Setor
+120392	Outras tarefas
+120397	Contate o supervisor do projeto para saber mais sobre o projeto do setor.
+120866	Projeto do sertor concluído
 121113	Oferta de projeto
 122074	Lucros do armazém
 120610	Recursos externos
 120168	Os recursos estão prontos para coleta.
-120169	Colete materiais raros por meio das Ações do Ubisoft Club.
+120169	Colete materiais raros por meio das Ações da Ubisoft Club.
 120170	Os recursos estão prontos para coleta.
 120736	<font [GUI_COLOR GreyLight1]>Clique para abrir o menu</font>
 120738	No momento, não há nada que você possa coletar.
@@ -271,13 +271,13 @@
 120181	Limite de rota alcançado!
 120184	Rotas ativas
 120739	[WORLD_MARKET_ROUTE_COUNT] / [WORLD_MARKET_ROUTE_LIMIT]
-120182	Construct a space elevator to connect to the [GUIDNAME 120058]
-116372	Connection not established.
-120164	Currently undergoing Maintenance
-108578	Enables your Spaceport to access the Global Union space station.
-108579	Enables your Spaceport to maintain Transfer Routes with the Arctic Region.
-108580	Enables your Spaceport to maintain Transport Routes to the Moon.
-108581	Enables your Sessions to transfer Energy via Energy Lines.
+120182	Construa um elevador espacial para se conectar [GUIDNAME 120058]
+116372	Conexão não estabelecida.
+120164	Atualmente em manutenção
+108578	Permite que o seu espaçoporto acesse a estação espacial da União Global.
+108579	Permite seu espaçoporto manter rotas de transferência com a região ártica.
+108580	Permite seu espaçoporto manter rotas de transporte para a lua.
+108581	Permita que suas sessões transfiram energia através de linhas de força.
 120403	NO LOCA Edit your Corporation Name
 120404	NO LOCA Change the Corporation Logo
 120407	NO LOCA Customize your Assets
@@ -285,17 +285,17 @@
 116419	Otimize sua produção ou construa um [NOTIFICATION_TOP_GOOD_FACTORY].
 116420	Os empregados precisam de mais mercadorias
 116421	Construção de monumentos
-116422	At least one of your monuments demands you take action.
-117373	Resume the paused upgrade
-117891	Resume or finalize the construction in question.
-117374	Finalize the pending construction.
+116422	Pelo menos um de seus monumentos exige que você tome medidas.
+117373	Retomar o aprimoramento pausado
+117891	Retomar ou concluir a construção em questão.
+117374	Finalize a construção pendente.
 116426	[NOTIFICATION_TOP_MAINTENANCE] [NOTIFICATION_TOP_MAINTENANCE_SEVERITY]
-116427	Production slightly lowered.
-116428	Production severely impaired.
-116429	Build more transportation centers or optimize your traffic connections.
-116430	Build more residences or provide missing goods.
-116431	Construct more power plants or decrease power consumption.
-116661	baxo
+116427	Produção ligeiramente reduzida.
+116428	Produção severamente prejudicada.
+116429	Construa mais centros de transporte ou otimize suas conexões de tráfego.
+116430	Construa mais residências ou forneça bens em falta.
+116431	Construa mais usinas ou diminua o consumo de energia.
+116661	baixo
 116662	critico<br />
 118048	Falta de [NOTIFICATION_TOP_PUBLIC]
 118049	Os empregados estão sem acesso a serviços importantes.
@@ -308,9 +308,9 @@
 119742	Desbloqueado ao resgatar um código de pré-compra.
 119744	Design alternativo
 119745	[GUIDNAME 120589]
-119746	Desbloqueia via Clube Ubisoft
+119746	Desbloqueia via Ubisoft Clube
 119749	[COMMAND_SHIP_COLOR_NAME]
 119750	[GUIDNAME 120589]
 119804	Logo bloqueado
 119805	Junte Pontos de Desempenho para desbloquear este logo
-120589	Desbloqueie usando Club Units no Clube Ubisoft
+120589	Desbloqueie usando Club Units na Ubisoft Clube
