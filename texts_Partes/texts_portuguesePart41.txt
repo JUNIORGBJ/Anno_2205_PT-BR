@@ -99,8 +99,8 @@
 1001751	Restos de naufrágio
 1002743	Veículo danificado
 1003728	Contêiner
-1002614	Drone Sensor
-1002768	Drone Sensor
+1002614	Drone de rastreamento
+1002768	Drone de rastreamento
 1003763	[GUIDNAME 1002614]
 1002615	Drone de combate
 1002769	Drone de combate
