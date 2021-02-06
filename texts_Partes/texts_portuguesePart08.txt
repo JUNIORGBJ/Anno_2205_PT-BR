@@ -75,8 +75,8 @@
 117940	Abundante
 117941	Médio
 117942	Pouco
-121138	Escasso
-121184	Escasso
+121138	Em falta
+121184	Em falta
 117937	Condições Fáceis
 117938	Condições Difíceis
 117936	Sem Empréstimos

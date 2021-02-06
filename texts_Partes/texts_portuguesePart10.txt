@@ -268,7 +268,7 @@
 100483	Novas ofertas comerciais disponíveis
 101026	Você recebeu [GUIDNAME]
 110507	Imagem salva em Documents\ANNO 2205
-102579	Escasso em [GUIDNAME]
+102579	[GUIDNAME] em falta
 116909	[GUIDNAME]
 117997	[GUIDNAME 106084]
 117998	[GUIDNAME 106087]
