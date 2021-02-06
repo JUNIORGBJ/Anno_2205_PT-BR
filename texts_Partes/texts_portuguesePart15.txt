@@ -285,8 +285,8 @@
 119961	>999
 119963	<-999
 120419	Clube de Unidades
-117360	Anno 2205 traduzido para o Português-BR
-117640	Anno 2205 traduzido por Traduções gBj. Projeto da Tradução github.com/JUNIORGBJ/Anno_2205_PT-BR. Todos os direitos reservados a Ubisoft / Blue Byte.
+117360	AVISO: LEIA ANTES DE JOGAR
+117640	Uma porcentagem muito pequena de pessoas pode ter ataques epilépticos quando expostas a certos padrões de luz ou luzes intermitentes. A exposição a certos padrões ou planos de fundo na tela do computador ou ao jogar videogame pode causar esses tipos de ataques. Certas condições podem desencadear sintomas de epilepsia não detectada, mesmo em pessoas sem histórico de convulsões ou epilepsia. <br> <br> Se você ou alguém da sua família sofre de epilepsia, consulte o seu médico antes de jogar. Se ao jogar em um console ou computador você sentir sintomas como tontura, alteração da visão, tiques oculares ou musculares, falta de consciência, desorientação, movimentos involuntários ou convulsões, pare de jogar IMEDIATAMENTE e consulte seu médico antes de voltar a jogar.
 118125	Para girar a câmera, mantenha pressionado o botão do meio do mouse e mova-o.
 118126	Todos os seus edifícios devem ter uma conexão ce rua com seus armazéns. Caso contrário, as mercadorias não poderão ser transportados e os empregados não poderão chegar a seus locais de trabalho.
 118127	Use a roda do mouse para mover a câmera para mais perto ou mais longe na área do jogo.

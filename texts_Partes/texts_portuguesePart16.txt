@@ -19,7 +19,7 @@
 118176	There is no need to build new factories all the time. You can also increase their output by building production modules.
 118177	Factories can be quite hungry for resources. By constructing adjacent modules you can reduce energy consumption, needed workforce or logistic requirements.
 118178	Your entire fleet lies at anchor at the docks. Enter them from the strategy map and upgrade or expand your fleet there.
-118179	Tradução: By GBJ.
+118179	Sua empresa não é a única que existe. Para ver como está a concorrência, clique no logotipo de sua empresa no canto superior direito para ver o nível corporativo de seus oponentes.
 118192	As your company grows, its corporation level increases. Each level up rewards you with lucrative advantages.
 118193	In every sector, a character offers you participation in a joined project. Whether you pursue it for wealth or out of curiosity, it will be worthwhile.
 118194	The Big Five offer special modules in exchange for your vote in The Council.
@@ -32,13 +32,13 @@
 118200	All achievements are listed in your corporation profile. Maybe they will inspire you to challenge yourself.
 120552	Watch the price developments on the World Market closely. You might be able to buy goods cheaper than they are to produce.
 118201	Attend The Council to vote for one of the Big Five and gain unique advantages. All voting players of "Anno 2205" influence the Big Five's market shares, so be sure to participate!
-118202	Tradução: By GBJ.
+118202	O mercado mundial está em constante mudança e pode ajudá-lo a obter lucros, isso depende das compras feitas por todos os jogadores do "Anno 2205". Está dentro da estação espacial União Global.
 118203	Lead your own excavation business in the Asteroid Miner app. This way you can gain valuable materials which are transferred to the main game.
 120553	The prices for a good on the World Market may change, but the upkeep costs of a transfer route remain the same once it is established.
 118204	The true pinnacle of your career will be the construction a Corporation HQ that reflects your economical power.
 118205	Superconducters embedded in the streets cause the aeromobiles to fly. There is no way around constructing streets to make buildings accessible.
 118206	You can stabilize crisis sectors through military intervention But conflict is always brewing there and can break out anytime.
-120554	Tradução: By GBJ.
+120554	Editar uma rota para o mercado mundial zera seu cronômetro, mas também atualiza o preço de seus produtos para o valor atual, o que pode torná-los não lucrativos.
 118207	Energy can be transported between sectors via Energy Transmitters. To use them, just create a Transfer Route for energy in the same way as for other goods.
 118208	Your cities reach across planes and fields, bustling with productivity. Consider adding distinctive touches with ornaments to fill those nooks and crannies.
 120844	Selecione a <font color="#f47518">mercadorias</font> ou a <font color="#6accff">energia</font>
