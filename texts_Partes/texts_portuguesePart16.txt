@@ -1,46 +1,46 @@
-118148	Your employees have needs. Check if they are missing anything by clicking on residences or observing the goods shortage warnings in the top right corner.
-118149	If your employees' needs are not met, they will turn angry and ultimately move out. Make sure it doesn't come to that or your revenue will decrease!
-118150	It is possible to build, destroy and induce promotion for multiple buildings at once. Select the proper mode, then click and drag across the area or the buildings you want to affect.
-118151	To leave your sector and return to the strategy map click on globe symbol in the top left or press ([KEYBINDING ui.toggleMetaUI()]).
-118152	To check which goods and how many of them are being produced in your current sector, check the goods overview on the bottom left.
-118153	When unsure what to do next, check the status of your assignments by clicking on the assigment icons on the left side.
-118154	Some buildings require special mountain or coastal building sites. Those are limited, so plan ahead carefully.
-118166	To claim new building grounds, navigate your command ship close to a warehouse slot, select it and click on the claim button.
-120551	Public services are less efficient over the distance. Residences that are far away from e.g. a security station consume more of the station's supply.
-118167	Hold the + key on your numpad to speed up the game.
-118168	Not all employees of every level can be promoted. Keep building residences in order to promote more people.
-118169	Familiarize with your allies as well as your rivals by taking on assignments. Of course you will be rewarded for completing them.
-118170	When building space become scarce, rotating buildings can help. Use the middle mouse button or ([KEYBINDING game.changeRotation(1)]) and ([KEYBINDING game.changeRotation(-1)]) before placing them.
-118171	You can toggle the automatic promotion for your employees. While manual promotion gives you more control, automatic promotion saves time.
-118172	Global and orbital trades are the key in supplying your cities. When creating Transfer Routes on the strategy map, you can decide on the destination as well as the type and amount of the transferred goods.
-118173	Acquiring new sectors is important to advance your corporation. The Big Five hold ownership rights of most potential new territories. You'll need to do business with them.
-118174	Bridges are your gateway to new construction areas. Click on a bridge building site and select upgrade to begin its construction.
-118175	Employees of the Arctic region have a unique need: Heat. Build production facilities close to residences to use exhaust heat for heating.
-118176	There is no need to build new factories all the time. You can also increase their output by building production modules.
-118177	Factories can be quite hungry for resources. By constructing adjacent modules you can reduce energy consumption, needed workforce or logistic requirements.
-118178	Your entire fleet lies at anchor at the docks. Enter them from the strategy map and upgrade or expand your fleet there.
-118179	Sua empresa não é a única que existe. Para ver como está a concorrência, clique no logotipo de sua empresa no canto superior direito para ver o nível corporativo de seus oponentes.
-118192	As your company grows, its corporation level increases. Each level up rewards you with lucrative advantages.
-118193	In every sector, a character offers you participation in a joined project. Whether you pursue it for wealth or out of curiosity, it will be worthwhile.
-118194	The Big Five offer special modules in exchange for your vote in The Council.
-118195	You can make a profit by selling your excess goods on the World Market.
-118196	To save on a factory's maintenance costs you can pause its production.
-118197	The right click menu can be enabled in the options menu. It contains basic buildings and functions for faster access.
-121294	Use the Buildings Quick View to find and quickly jump to a specific building. You can also use the ([KEYBINDING session.jumpToNextBuilding()]) or the ([KEYBINDING session.jumpToPreviousBuilding()]) Hotkeys to jump between buildings of the same type.
-118198	Take screenshots by pressing ([KEYBINDING game.takeScreenshot()]). Your shots will be saved in the Anno 2205 folder inside your Documents directory.
-118199	You can pause the production of all factories of the same type at once. Simply hold the Shift key while pressing the pause button in the factory menu.
-118200	All achievements are listed in your corporation profile. Maybe they will inspire you to challenge yourself.
-120552	Watch the price developments on the World Market closely. You might be able to buy goods cheaper than they are to produce.
-118201	Attend The Council to vote for one of the Big Five and gain unique advantages. All voting players of "Anno 2205" influence the Big Five's market shares, so be sure to participate!
+118148	Seus empregados têm necessidades. Verifique se está faltando alguma coisa clicando nas residências ou observando os avisos de falta de mercadoria no canto superior direito.
+118149	Se as necessidades de seus funcionários não forem atendidas, eles ficarão zangados e por fim, irão embora. Certifique-se de que não chegue a esse ponto ou sua receita diminuirá!
+118150	É possível construir, destruir e induzir a promoção de vários edifícios ao mesmo tempo. Selecione o modo adequado e em seguida, clique e arraste pela área ou pelos edifícios que deseja afetar.
+118151	Para sair do seu setor e retornar ao mapa estratégico, clique no símbolo do globo no canto superior esquerdo ou pressione ([KEYBINDING ui.toggleMetaUI()]).
+118152	Para verificar quais mercadorias e quantas delas estão sendo produzidas em seu setor atual, verifique a visão geral de mercadorias no canto inferior esquerdo.
+118153	Quando não tiver certeza do que fazer em seguida, verifique o status de suas tarefas clicando nos ícones de tarefas no lado esquerdo.
+118154	Alguns edifícios requerem locais de construção especiais em montanhas ou costa. Esses são limitados, então planeje com cuidado.
+118166	Para reivindicar novos locais de construção, leve seu barco de comando para perto de um slot de armazém, selecione-o e clique no botão de reivindicação.
+120551	Os serviços públicos são menos eficientes à distância. Residências distantes de por exemplo uma estação de segurança consome mais do fornecimento da estação.
+118167	Mantenha pressionada a tecla + no teclado numérico para acelerar o jogo.
+118168	Nem todos os empregados de todos os níveis podem ser promovidos. Continue construindo residências para promover mais pessoas.
+118169	Familiarize-se com seus aliados e também com seus rivais assumindo tarefas. É claro que você será recompensado por concluí-las.
+118170	Quando o espaço para construção se torna escasso, você pode ganhar um pouco girando alguns edifícios. Use o botão do meio do mouse ou ([KEYBINDING game.changeRotation(1)]) e ([KEYBINDING game.changeRotation(-1)]) antes de colocá-los.
+118171	Você pode ativar a promoção automática de seus empregados. A promoção manual permite controlar melhor a situação, enquanto a promoção automática ajuda a economizar tempo.
+118172	O comércio global e orbital é o elemento chave para abastecer suas cidades. Ao criar rotas de transferência no mapa estratégico, você pode decidir o destino, o tipo e a quantidade da mercadoria transferida.
+118173	A aquisição de novos setores é importante para o avanço de sua corporação. Os Big five têm direitos de propriedade sobre muitos dos novos territórios, então você terá que negociar com eles.
+118174	As pontes são a sua porta de entrada para novas áreas de construção. Clique na área de construção de uma ponte e selecione Atualizar para iniciar a construção.
+118175	Os empregados da região do Ártico têm uma necessidade única: Calor. Construir instalações de produção perto das residências para usar o calor de exaustão para aquecimento.
+118176	Não há necessidade de construir novas fábricas o tempo todo. Você também pode aumentar sua produção criando módulos de produção.
+118177	As fábricas podem exigir muitos recursos. Ao construir módulos adjacentes, você pode reduzir o consumo de energia, requisitos de mão de obra ou requisitos de logística.
+118178	Toda a sua frota está ancorada no cais. Acesse-o a partir do mapa estratégico e uma vez lá, aprimore ou amplie sua frota.
+118179	Sua corporação não é a única que existe. Para ver como está a concorrência, clique no logotipo de sua empresa no canto superior direito para ver o nível corporativo de seus oponentes.
+118192	Conforme sua empresa cresce, seu nível corporativo aumenta. Cada nível acima o recompensa com vantagens lucrativas.
+118193	Em cada setor há um personagem que se oferece para participar de um projeto comum. Sempre será lucrativo para você, quer você embarque nele por riqueza ou se o fizer por curiosidade.
+118194	Os Big Five oferecem módulos especiais em troca do seu voto no Conselho.
+118195	Você pode lucrar vendendo seus produtos excedentes no Mercado Mundial.
+118196	Para economizar nos custos de manutenção de uma fábrica, você pode pausar sua produção.
+118197	O menu que aparece quando você clica com o botão direito pode ser ativado no menu de opções. Nele contém edifícios básicos e funções para agilizar o acesso.
+121294	Use a Visualização rápida de edifícios para encontrar e pular rapidamente para um edifício específico. Você também pode usar as teclas ([KEYBINDING session.jumpToNextBuilding()]) e ([KEYBINDING session.jumpToPreviousBuilding()]) para saltar entre edifícios do mesmo tipo.
+118198	Pressione ([KEYBINDING game.takeScreenshot()]) para capturar a tela. Suas imagens serão salvas na pasta Anno 2205, no diretório Documentos.
+118199	Você pode pausar a produção de todas as fábricas do mesmo tipo de uma só vez. Basta segurar a tecla Shift enquanto pressiona o botão de pausa no menu da fábrica.
+118200	Todas as conquistas são listadas em seu perfil corporativo. Eles podem inspirar você a se desafiar.
+120552	Controle as mudanças de preços do mercado mundial. Você pode comprar mercadorias abaixo do preço de produção.
+118201	Vá ao Conselho para votar em um dos Big five e obter benefícios exclusivos. Todos os jogadores do "Anno 2205" que votarem influenciarão a quota de mercado dos Big Five, envolva-se!
 118202	O mercado mundial está em constante mudança e pode ajudá-lo a obter lucros, isso depende das compras feitas por todos os jogadores do "Anno 2205". Está dentro da estação espacial União Global.
-118203	Lead your own excavation business in the Asteroid Miner app. This way you can gain valuable materials which are transferred to the main game.
-120553	The prices for a good on the World Market may change, but the upkeep costs of a transfer route remain the same once it is established.
-118204	The true pinnacle of your career will be the construction a Corporation HQ that reflects your economical power.
-118205	Superconducters embedded in the streets cause the aeromobiles to fly. There is no way around constructing streets to make buildings accessible.
-118206	You can stabilize crisis sectors through military intervention But conflict is always brewing there and can break out anytime.
+118203	Lidere seu próprio negócio de escavação no aplicação Asteroid Miner. Desta forma, você pode obter materiais valiosos que serão transferidos para o jogo principal.
+120553	Os preços de um produto no mercado mundial podem variar, mas os custos de manutenção de uma rota de transferência são mantidos depois de estabelecida.
+118204	O verdadeiro auge de sua carreira será construir uma sede corporativa que reflita seu poder econômico.
+118205	Supercondutores instalados nas ruas fazem seus veículos aéreos voar. A única maneira de tornar os edifícios acessíveis é construindo ruas.
+118206	É possível estabilizar os setores em crise por meio de intervenção militar, mas o conflito está sempre se formando e pode estourar a qualquer momento.
 120554	Editar uma rota para o mercado mundial zera seu cronômetro, mas também atualiza o preço de seus produtos para o valor atual, o que pode torná-los não lucrativos.
-118207	Energy can be transported between sectors via Energy Transmitters. To use them, just create a Transfer Route for energy in the same way as for other goods.
-118208	Your cities reach across planes and fields, bustling with productivity. Consider adding distinctive touches with ornaments to fill those nooks and crannies.
+118207	A energia pode ser transportada entre setores por meio de transmissores de energia. Para usá-los, crie um caminho de passagem para a energia, como você já fez para outros bens.
+118208	Suas cidades abrangem campos e planícies e a produtividade está crescendo. Considere incorporar toques distintos com objetos ornamentados para preencher esses cantos.
 120844	Selecione a <font color="#f47518">mercadorias</font> ou a <font color="#6accff">energia</font>
 120845	Selecione a <font color="#f47518">origem</font>
 120846	Selecione o <font color="#f47518">objetivo</font>
@@ -50,13 +50,13 @@
 120850	Selecione um setor para o qual importar
 120851	Ajuste a quantidade de Bens ou Energia a ser transferida
 121225	Parabéns! Chegou ao final da demonstração do Anno 2205.
-121222	<font size="28"> Anno 2205 <font face="Roboto Medium" [GUI_COLOR OrangeHighlight]>Demo mode</font>. Press any key to start.</font>
-121994	Press <font face="Roboto Medium" [GUI_COLOR OrangeHighlight]>F1</font> to open the guide.
-121995	This is your Assignment List. <br />Use it to find out what to do next.
-121996	This is your Construction Menu. <br />Use it to construct residences and facilities.
-121997	Anno 2205 Demo Guide - Press <font face="Roboto Medium" [GUI_COLOR OrangeHighlight]>F1</font> to return
-121998	Use streets to connect your buildings to the warehouse.
-122095	Press <font face="Roboto Medium" [GUI_COLOR OrangeHighlight]>F1</font> to open the guide. For more information about ANNO 2205 <font face="Roboto Medium" [GUI_COLOR BlueLight]> <u>click here</u></font>
+121222	<font size="28"> Anno 2205 <font face="Roboto Medium" [GUI_COLOR OrangeHighlight]>Modo demonstração</font>. Pressione qualquer tecla para começar.</font>
+121994	Pressione <font face="Roboto Medium" [GUI_COLOR OrangeHighlight]>F1</font> para abrir o guia.
+121995	Esta é a sua lista de tarefas. <br />Use-a para descobrir o que fazer a seguir.
+121996	Este é o seu Menu de Construção. <br />Use-o para construir residências e instalações.
+121997	Guia de demonstração do ano 2205 - Pressione <font face="Roboto Medium" [GUI_COLOR OrangeHighlight]>F1</font> para retornar
+121998	Use as ruas para conectar seus edifícios ao armazém.
+122095	Pressione <font face="Roboto Medium" [GUI_COLOR OrangeHighlight]>F1</font> para abrir o guia. Para mais informações sobre ANNO 2205 <font face="Roboto Medium" [GUI_COLOR BlueLight]> <u>clique aqui</u></font>
 100065	Voltar
 100082	Avançar
 100136	Aceitar
@@ -75,9 +75,9 @@
 117394	Fechar
 121050	Loja
 117985	Resgatar código
-118066	<font face="Roboto Medium" [GUI_COLOR OrangeHighlight]>Pause mode</font>. Press ([KEYBINDING game.togglePause()]) to continue.
+118066	<font face="Roboto Medium" [GUI_COLOR OrangeHighlight]>Modo Pausa</font>. Pressione ([KEYBINDING game.togglePause()]) para continuar.
 119738	[GUIDNAME] in [SESSION_NAME]
-120191	<font face="Roboto Medium" [GUI_COLOR OrangeHighlight]>Postcard Mode</font>. Press ([KEYBINDING session.togglePostcardView()]) to return to Play Mode.
+120191	<font face="Roboto Medium" [GUI_COLOR OrangeHighlight]>Modo cartão postal</font>. Pressione ([KEYBINDING session.togglePostcardView()]) para voltar ao modo de jogo.
 120175	[SERVICE_STATUS_INTERNET]
 120174	[SERVICE_STATUS_UPLAY]
 105919	[SERVICE_STATUS_WORLDMARKET]
