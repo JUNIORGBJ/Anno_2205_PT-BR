@@ -292,7 +292,7 @@
 118127	Use a roda do mouse para mover a câmera para mais perto ou mais longe na área do jogo.
 118128	Fique sempre de olho no seu saldo de crédito na barra superior esquerda. Se for negativo por muito tempo, você pode estar no caminho da falência.
 118129	Você pode mover-se pela a área do jogo navegando o mouse até as bordas da tela. Você também pode usar o botão direito do mouse ou as teclas de seta.
-120547	Os barcos podem ser destruídos durante missões em setores de crise. Se você sair ou concluir o setor de crise, eles estarão disponíveis novamente.
+120547	Os barcos podem ser destruídos durante missões em setores em crise. Se você sair ou concluir o setor em crise, eles estarão disponíveis novamente.
 118130	A maioria dos edifícios consome energia. O saldo de energia é exibido na barra de informações inferior esquerda. Se ele ficar negativo a sua produção vai cair.
 118131	Quando um empregado é promovido ao nível seguinte você ganha o acesso a novos edifícios. Verifique no menu de construção!
 118132	Suas fábricas produzem tudo o que o coração de seus empregados deseja. Mas os custos de manutenção são incorridos.

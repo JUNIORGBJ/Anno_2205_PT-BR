@@ -255,7 +255,7 @@
 103137	Comece a [CONDITION_SOURCE_OBJECT_ASSET] em [CONDITION_OBJECT_SESSION]
 103269	Conclua o [CONDITION_SOURCE_OBJECT_ASSET] em [CONDITION_OBJECT_SESSION]
 121282	Distribuir [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
-105411	Limpe o setor de crise [CONDITION_ACTIVE_SESSION_SESSION]
+105411	Limpe o setor em crise [CONDITION_ACTIVE_SESSION_SESSION]
 102650	Promova empregados que morem em um prédio residencial específico.
 117380	Alcance o próximo nível corporativo.
 116501	em [CONDITION_OBJECT_SESSION]
@@ -293,7 +293,7 @@
 105422	[NOTIFICATION_CHARACTER_NAME] está aliviado por vê-lo de volta inteiro.
 105443	[NOTIFICATION_CHARACTER_NAME] mantém o lábio superior rígido.
 105444	[NOTIFICATION_CHARACTER_NAME] avistou a localização do navio de carga da União sitiado.
-117383	Entrar no setor crise
+117383	Entrar no setor em crise
 105438	Liberte os transportadores detidos
 105410	"Que esses terroristas lunares continuem suas tentativas de intimidação. O programa espacial é muito importante para o povo da Terra."
 105423	Preocupado com a situação na Lua, [NOTIFICATION_CHARACTER_NAME] exorta você a terminar o elevador espacial.
