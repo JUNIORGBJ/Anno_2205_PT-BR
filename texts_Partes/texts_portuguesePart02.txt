@@ -127,18 +127,18 @@
 117369	The Big Five are history. Once they were the unassailable potentates of the global economy. But a new star has risen, exclusive business partner of the Global Union and prizewinner of the race to the Moon. Your corporation’s headquarter alone outshines the former Big Five’s offices. And it is only a matter of time, until you will be called to put other projects into practice – projects, that will push humanity forward again, in this new age of space travel.
 118352	[NOTIFICATION_CHARACTER_NAME] believes you will expand your headquarter further, given the chance.
 118353	[NOTIFICATION_CHARACTER_NAME] considers herself fortunate having worked with you.
-120671	Build any Corporation HQ module
-120450	Your long-term goal is to gain and sustain as many employees as possible. Get employees by constructing residences.
-120451	Employees are your main source of revenue. They also provide you with workforce to operate your factories.
-120452	Keep constructing residences and increase your employee count to unlock new building blueprints and level up your corporation.
-120454	Your employees demand a steady supply of goods to generate workforce. Provide these by building factories from the construction menu.
-120455	Some factories like mines or farms generate goods out of natural resources from their environment.
-120456	More sophisticated goods are often made from several different materials deriving from longer production chains.
-120457	Operating factories takes a toll on your revenue. They also require a supply of workforce, energy and logistics to stay productive.
-120458	You gain those by constructing power plants and transportation centers, which have their own maintenance costs.
-120459	Balancing the earnings and expenses of your ever-growing economy is the main challenge of "Anno 2205."
-120460	Your corporation owns a small contingent of military ships. In a crisis, you take control of this fleet.
-120461	Reflecting your economic power, you expand your fleet by more ships and ship types as your corporation level rises.
+120671	Construa qualquer módulo da sede corporativa
+120450	Seu objetivo de longo prazo é ganhar e manter o maior número de empregados possível. Consiga epregados para construindo residências.
+120451	Os empregados são sua principal fonte de receita. Eles também fornecem mão de obra para operar suas fábricas.
+120452	Continue construindo residências e aumente o número de empregados para desbloquear novos edificios de construção e fazer sua corporação subir de nível.
+120454	Seus empregados exigem um fornecimento constante de bens para gerar mão de obra. Para poder fornecê-los, você deve construir fábricas a partir do menu de construção.
+120455	Algumas fábricas, como minas ou fazendas, geram bens a partir dos recursos naturais do ambiente.
+120456	Bens mais sofisticados são freqüentemente feitos de vários materiais diferentes derivados de linhas de produção mais longas.
+120457	A operação de fábricas prejudica sua receita. Eles também exigem um suprimento de mão de obra, energia e logística para se manterem produtivos.
+120458	Você ganha isso construindo usinas de energia e centros de transporte, que têm seus próprios custos de manutenção.
+120459	Equilibrar as receitas e despesas de sua economia em constante crescimento é o principal desafio do "Anno 2205."
+120460	Sua corporação possui um pequeno contingente de barcos militares. Em uma crise, você assume o controle dessa frota.
+120461	Refletindo seu poder econômico, você expande sua frota em mais barcos e tipos de barcos conforme o nível de sua corporação aumenta.
 120462	Crisis sectors are self-contained war zones you can leave and return to at any time, as long as no other sector was loaded.
 120463	Completing a crisis sector increases your military level, which allows you to upgrade your ships.
 120489	You also gain rare materials in crisis sectors, which are needed to upgrade your spaceport and expand your factories with modules.
@@ -215,59 +215,59 @@
 120487	Try to complete all sector projects to gain permanent benefits and achievements.
 120513	As a long-term goal, aim for one million employees. You will need many sectors and transfer routes to reach that goal.
 120539	Play again on a higher difficulty. Or adjust the game to your liking with the advanced settings.
-120429	Hints
-122164	[GUIDNAME 117801] - Phase 2
-122158	[GUIDNAME 117801] - Step 1 out of 2
-122159	[GUIDNAME 117801] - Step 2 out of 2
-122160	[GUIDNAME 117801] - Step 1 out of 4
-122161	[GUIDNAME 117801] - Step 2 out of 4
-122162	[GUIDNAME 117801] - Step 3 out of 4
-122163	[GUIDNAME 117801] - Step 4 out of 4
-119858	Step 1 out of 5
-119859	Step 2 out of 5
-119860	Step 3 out of 5
-119861	Step 4 out of 5
-119862	Step 5 out of 5
-119863	Step 1 out of 6
-119864	Step 2 out of 6
-119865	Step 3 out of 6
-119866	Step 4 out of 6
-119867	Step 5 out of 6
-119868	Step 6 out of 6
-119869	Passo 1 de 7
-119870	Passo 2 de 7
-119871	Passo 3 de 7
-119872	Passo 4 de 7
-119873	Passo 5 de 7
-119874	Passo 6 de 7
-119875	Passo 7 de 7
-119878	Passo 1 de 8
-119879	Passo 2 de 8
-119880	Passo 3 de 8
-119881	Passo 4 de 8
-119882	Passo 5 de 8
-119883	Passo 6 de 8
-119884	Passo 7 de 8
-119885	Passo 8 de 8
-121168	Passo 1 de 9
-121169	Passo 2 de 9
-121170	Passo 3 de 9
-121171	Passo 4 de 9
-121172	Passo 5 de 9
-121173	Passo 6 de 9
-121174	Passo 7 de 9
-121175	Passo 8 de 9
-121176	Passo 9 de 9
-120853	Passo 1 de 10
-120854	Passo 2 de 10
-120855	Passo 3 de 10
-120856	Passo 4 de 10
-120857	Passo 5 de 10
-120858	Passo 6 de 10
-120859	Passo 7 de 10
-120860	Passo 8 de 10
-120861	Passo 9 de 10
-120862	Passo 10 de 10
+120429	Dicas
+122164	[GUIDNAME 117801] - Fase 2
+122158	[GUIDNAME 117801] - Etapa 1 de 2
+122159	[GUIDNAME 117801] - Etapa 2 de 2
+122160	[GUIDNAME 117801] - Etapa 1 de 4
+122161	[GUIDNAME 117801] - Etapa 2 de 4
+122162	[GUIDNAME 117801] - Etapa 3 de 4
+122163	[GUIDNAME 117801] - Etapa 4 de 4
+119858	Etapa 1 de 5
+119859	Etapa 2 de 5
+119860	Etapa 3 de 5
+119861	Etapa 4 de 5
+119862	Etapa 5 de 5
+119863	Etapa 1 de 6
+119864	Etapa 2 de 6
+119865	Etapa 3 de 6
+119866	Etapa 4 de 6
+119867	Etapa 5 de 6
+119868	Etapa 6 de 6
+119869	Etapa 1 de 7
+119870	Etapa 2 de 7
+119871	Etapa 3 de 7
+119872	Etapa 4 de 7
+119873	Etapa 5 de 7
+119874	Etapa 6 de 7
+119875	Etapa 7 de 7
+119878	Etapa 1 de 8
+119879	Etapa 2 de 8
+119880	Etapa 3 de 8
+119881	Etapa 4 de 8
+119882	Etapa 5 de 8
+119883	Etapa 6 de 8
+119884	Etapa 7 de 8
+119885	Etapa 8 de 8
+121168	Etapa 1 de 9
+121169	Etapa 2 de 9
+121170	Etapa 3 de 9
+121171	Etapa 4 de 9
+121172	Etapa 5 de 9
+121173	Etapa 6 de 9
+121174	Etapa 7 de 9
+121175	Etapa 8 de 9
+121176	Etapa 9 de 9
+120853	Etapa 1 de 10
+120854	Etapa 2 de 10
+120855	Etapa 3 de 10
+120856	Etapa 4 de 10
+120857	Etapa 5 de 10
+120858	Etapa 6 de 10
+120859	Etapa 7 de 10
+120860	Etapa 8 de 10
+120861	Etapa 9 de 10
+120862	Etapa 10 de 10
 111986	[NOTIFICATION_CHARACTER_NAME] informs you about the next step in the project.
 120926	[NOTIFICATION_CHARACTER_NAME] has an assignment for you.
 118064	[NOTIFICATION_CHARACTER_NAME] offers you a sector project.
