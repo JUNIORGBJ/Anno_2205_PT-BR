@@ -1,4 +1,3 @@
-GUID	Text
 105203	Resumen de mercancías
 105204	Rutas del mercado mundial
 105205	importar
