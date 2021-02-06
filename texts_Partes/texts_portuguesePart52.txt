@@ -192,7 +192,7 @@
 12013461	Agora a estação orbital é expansível.
 12013462	Módulos superaquecendo
 12013463	Módulos muito frios
-12013464	Bens escassos na oficina orbital
+12013464	Bens em falta na oficina orbital
 12013465	Novas tecnologias acessíveis
 12013466	Tecnologias paradas
 12013467	Ônibus espacial lançado
