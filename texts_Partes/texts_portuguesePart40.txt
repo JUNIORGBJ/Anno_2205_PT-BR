@@ -133,13 +133,13 @@
 1003485	[GUIDNAME 5]
 1003486	[GUIDNAME 15]
 1003487	[GUIDNAME 12]
-1002200	Container
+1002200	Contêiner
 1003129	Restos flutuantes
 1003130	Botes salva-vidas
 1003131	Mergulhadores
 1003132	Barris
 1002193	Barris perdidos
-1002201	Container Perdidos
+1002201	Contêiner Perdidos
 1003133	Minerais valiosos
 1003134	Minas terrestres
 1003135	Caixas pretas
