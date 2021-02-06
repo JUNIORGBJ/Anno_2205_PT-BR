@@ -209,7 +209,7 @@
 100061	Sem conexão de tráfego
 100062	Informações sobre a população
 100063	Detalhes sobre nível de residência, população e como a satisfação afeta a ocupação, que por sua vez influencia a renda.
-112925	Os empregados são expostos à radiação.
+112925	Os empregados estão expostos à radiação.
 120173	<font [GUI_COLOR GreyLight1]>Clique para mostrar [POPULATION_NEEDS_LEVEL_TEXT]</font>
 102559	Consumido
 102560	Produzido
