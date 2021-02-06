@@ -157,7 +157,7 @@
 5001002	Setor Temperado
 5001003	Setor Temperado
 5001004	Setor Temperado
-5001011	Setor de Crise Temperada
+5001011	Setor Temperado em Crise
 5001019	Docas
 5001021	Centro de Tarefas
 5001005	Arctic Sector
