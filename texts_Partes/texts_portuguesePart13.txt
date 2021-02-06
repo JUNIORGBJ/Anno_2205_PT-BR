@@ -235,7 +235,7 @@
 120387	Progresso do Projeto do Setor
 120392	Outras tarefas
 120397	Contate o supervisor do projeto para saber mais sobre o projeto do setor.
-120866	Projeto do sertor concluído
+120866	Projeto do setor concluído
 121113	Oferta de projeto
 122074	Lucros do armazém
 120610	Recursos externos
