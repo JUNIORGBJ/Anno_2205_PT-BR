@@ -33,16 +33,16 @@
 12013111	<font [GUI_COLOR OrangeHighlightDark1]>Os requisitos não são mais atendidos</font>
 12013337	Recursos para alocar
 12013343	<font [GUI_COLOR GreyLight1]>Clique para aplicar a tecnologia</font>
-12013344	<font [GUI_COLOR GreyLight1]>Clique para parar o aplicação</font>
+12013344	<font [GUI_COLOR GreyLight1]>Clique para parar a aplicação</font>
 12013366	Status de expansão
-12013367	<font [GUI_COLOR Green]>Kits de expansão de estação produzidos</font>
-12013368	<font [GUI_COLOR OrangeHighlightDark1]>Kits estão em andamento</font>
+12013367	<font [GUI_COLOR Green]>Kits de expansão da estação produzidos</font>
+12013368	<font [GUI_COLOR OrangeHighlightDark1]>Kits em produção</font>
 12013369	Aplicar uma Tecnologia conectada para iniciar a produção
 12013370	Kits produzidos em
 12013333	Aumento do tempo de execução
 12013547	Experiência insuficiente para algumas tecnologias
 12013304	Mercadoria Agrícola
-12013305	Mercadoria Biotec
+12013305	Mercadoria Biotecnológica
 12013306	Mercadoria Eletrônica
 12013307	Mercadoria Energética
 12013308	Mercadoria de Indústria Pesada
