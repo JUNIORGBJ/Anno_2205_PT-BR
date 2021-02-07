@@ -218,9 +218,9 @@
 102966	Construção em progresso
 116691	>1h
 104945	Recolha para entrega
-103391	Recipiente pronto para ser levado. Conteúdo:
+103391	Carga pronta para ser levada. Conteúdo:
 104950	Não há mercadorias suficientes para entregar.
-103392	Recolher o recipiente
+103392	Recolher o carga
 108613	Cliente
 108614	Munição solicitada:
 108615	Munição solicitada:

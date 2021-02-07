@@ -1,13 +1,13 @@
 2001911	Clique para coletar
 2001912	Use o veículo para interagir
 2001917	Selecione o Objeto
-2001909	Use o veículo para enviar a tarefa
+2001909	Use o veículo para trazer a carga
 2001910	Siga o objeto com o veículo
 2001837	O veículo está realizando uma interação
 2002339	Use o veículo para pegar a carga
 2002340	Use o veículo para entregar a carga
 2002064	Missão Disponível
-2002065	Mission Target
+2002065	Alvo da missão
 2001766	Nova tarefa disponível
 2001768	Pronto para conclusão
 2001801	Aprimoramento pausado
