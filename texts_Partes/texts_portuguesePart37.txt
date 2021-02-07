@@ -158,7 +158,7 @@
 109084	Saayman International
 109085	Diretor de Assuntos Externos
 109087	Agricultura
-109287	Colocar Depois
+109287	Praticamente não existe nenhuma empresa com uma reputação tão elevada quanto a Saayman International. De uma associação de empresas rurais, Saayman cresceu e se tornou uma gigante da alimentação que hoje fornece alimentos diários para uma porcentagem considerável da população mundial. Saayman se tornou uma potência mundial por caminhos próprios, e as ambições da empresa não são apenas econômicas, mas também políticas.
 113969	Trabalho de Alto Risco
 113970	Complete a Fase 1 do Programa de Licenciamento Lunar.
 113971	A Segunda Onda

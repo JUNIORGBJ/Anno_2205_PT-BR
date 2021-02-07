@@ -11,7 +11,7 @@
 115925	Fire at will!
 115927	So, you refuse to understand. Then you leave us no choice...
 115928	Next time you won't see it coming!
-115929	Colocar Depois
+115929	Ah sim, a crise de energia. Primeiro, as corporações levam a Terra à beira da falência. Então, eles pressionam as pessoas na Lua para encontrar uma solução. E agora vêm roubar o fruto do nosso trabalho. Não vamos permitir!
 115930	You think you can simply lay claim to what we've compiled through years of research? Stealing the fruits of other peoples' labor is an action all too fitting for a Corporate stooge.
 115954	You'll wish you'd never set foot in our territory. The First Wave will wash away the Second.
 116346	Your shields might hold against meteors, but they will be powerless against what I'll be using out here.

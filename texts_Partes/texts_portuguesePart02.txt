@@ -19,7 +19,7 @@
 119726	[NOTIFICATION_CHARACTER_NAME] is curious about the outcome.
 119727	[NOTIFICATION_CHARACTER_NAME] informs you that your help was received.
 105465	"The work at the piers is almost done. Make sure to finish them so your Arctic cargo ships can head for sunnier climates."
-105474	Colocar Depois
+105474	O clima do Ártico pode estar voltando a temperaturas mais frias, mas as relações geladas entre a União Global e os Curadores do Ártico estão derretendo. A Guarda Orbital mostrou que está pronta para qualquer coisa e está apoiando suas demandas com armas. Somente cooperação e determinação impediram a Terra de sofrer um novo desastre climático. Agora, os Guardiões do Ártico estão prontos para apoiar totalmente o Programa de Licença Lunar, dando luz verde para a expansão de seu espaçoporto.
 105488	[NOTIFICATION_CHARACTER_NAME] requests you to take your Arctic shipping docks into operation.
 105489	[NOTIFICATION_CHARACTER_NAME] deems your pursuit for the Moon even more important than before.
 115485	"Your aerospace technology has to adhere to the Program's standards. Make sure to have enough shrewd heads at the task."
@@ -42,7 +42,7 @@
 105511	[NOTIFICATION_CHARACTER_NAME] sees a great deal of potential in your medical products.
 105512	[NOTIFICATION_CHARACTER_NAME] relies on rigorous security controls when dealing with terrorism.
 105467	"No launch pad, no rocket launch. An ambitious building project lies ahead of you."
-105476	Colocar depois
+105476	O Ministério de Assuntos Orbitais da União Global, responsável por supervisionar os territórios lunares e rotas orbitais, tem sido apenas um pequeno departamento do corpo governante da União Global, e muito pouco prestigiado considerando o infeliz LEC que estava encarregado. O Programa de Licença Lunar mudou tudo isso. Agora, o Ministério de Assuntos Orbitais conecta o mundo e você está se preparando para o grande salto para a lua. Para obter o impulso necessário, você deve instalar uma plataforma de lançamento em seu espaçoporto. Para coordenar as equipes de construção, é preciso consolidar o nível de gestão da sua corporação.
 105492	[NOTIFICATION_CHARACTER_NAME] asks you to support John Rafferty with the launch pad construction.
 105493	[NOTIFICATION_CHARACTER_NAME] is starting with the launch pad construction.
 105515	[NOTIFICATION_CHARACTER_NAME] is happy to see all processes are tightly organized.
