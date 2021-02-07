@@ -43,19 +43,19 @@
 102849	Please tow the ship to the distribution center. We really need help.
 102851	This is were we need to go.
 102788	I'm glad you found me. My robot went totally out of control and ran off with me.
-102471	"Don't forget, your factories need energy to operate."
-117878	[NOTIFICATION_CHARACTER_NAME] advises you to build power plants.
-117881	[NOTIFICATION_CHARACTER_NAME] informs you that you now provide enough energy for your industry.
-117886	Reach a positive energy balance [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-102472	"You don't provide enough energy. Your production is no longer running smoothly."
-117879	[NOTIFICATION_CHARACTER_NAME] warns you that your productivity is reduced due to a shortage of energy.
-117882	[NOTIFICATION_CHARACTER_NAME] is glad to see that you have solved the energy problem.
-102483	"You are lacking the workforce to run your factories at full output. Increase your population."
-117880	[NOTIFICATION_CHARACTER_NAME] informs you that without enough workforce your production is impeded.
-117883	[NOTIFICATION_CHARACTER_NAME] notes you now have sufficient workforce to run your factories.
-117888	Attain a positive workforce balance [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+102471	"Não se esqueça de que suas fábricas precisam de energia para funcionar."
+117878	[NOTIFICATION_CHARACTER_NAME] aconselha você a construir usinas de energia.
+117881	[NOTIFICATION_CHARACTER_NAME] informa que agora você fornece energia suficiente para o seu setor.
+117886	Alcance um balanço energético positivo [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+102472	"Você não está fornecendo energia suficiente. Sua produção não está mais funcionando perfeitamente."
+117879	[NOTIFICATION_CHARACTER_NAME] avisa que sua produtividade está reduzida por falta de energia.
+117882	[NOTIFICATION_CHARACTER_NAME] está feliz em ver que você resolveu o problema de energia.
+102483	"Você não tem a mão de obra necessária para operar suas fábricas com desempenho máximo. Aumente sua população."
+117880	[NOTIFICATION_CHARACTER_NAME] informa que sem mão de obra suficiente sua produção fica prejudicada.
+117883	[NOTIFICATION_CHARACTER_NAME] observou que agora você tem mão de obra para administrar suas fábricas.
+117888	Alcance um saldo positivo da mão de obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117889	[CONDITION_PROFILE_COUNTER_VALUE_CURRENT]
-120205	"The more people work for you, the more revenue your corporation will generate."
+120205	"Quanto mais pessoas trabalharem para você, mais receita sua corporação gerará."
 120206	[NOTIFICATION_CHARACTER_NAME] fears that a negative credit balance will impede your progress.
 120207	[NOTIFICATION_CHARACTER_NAME] congratulates you on getting your company finances back on track.
 120208	Reach a positive credit balance [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
