@@ -44,13 +44,13 @@
 117859	[NOTIFICATION_CHARACTER_NAME] is striving to prepare for the next phase, but needs more time.
 117860	Seeing that two dams are functional, [NOTIFICATION_CHARACTER_NAME] prepares for the final construction phase.
 117861	[NOTIFICATION_CHARACTER_NAME] shows wary respect for what you've accomplished.
-117224	Fase 1 do projeto concluída.
+117224	Fase 1 do projeto concluído.
 117222	Primeira barragem finalizada.
 117223	Bônus de energia ativado neste setor
-117259	Fase 2 do projeto concluída.
+117259	Fase 2 do projeto concluído.
 117260	Segunda barragem finalizada.
 117261	[GUIDNAME 117223]
-117262	Fase 3 do projeto concluída.
+117262	Fase 3 do projeto concluído.
 117263	Terceira barragem finalizada.
 117264	[GUIDNAME 117223]
 113223	"Aqui está a pergunta: o que causou o rompimento das barragens no passado? Devemos analisar os escombros para descobrir."
