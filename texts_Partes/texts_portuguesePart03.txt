@@ -44,49 +44,49 @@
 117859	[NOTIFICATION_CHARACTER_NAME] is striving to prepare for the next phase, but needs more time.
 117860	Seeing that two dams are functional, [NOTIFICATION_CHARACTER_NAME] prepares for the final construction phase.
 117861	[NOTIFICATION_CHARACTER_NAME] shows wary respect for what you've accomplished.
-117224	Project stage 1 completed
-117222	First dam finished
-117223	Energy bonus in this sector activated
-117259	Project stage 2 completed
-117260	Second dam finished
+117224	Fase 1 do projeto concluída.
+117222	Primeira barragem finalizada.
+117223	Bônus de energia ativado neste setor
+117259	Fase 2 do projeto concluída.
+117260	Segunda barragem finalizada.
 117261	[GUIDNAME 117223]
-117262	Project stage 3 completed
-117263	Third dam finished
+117262	Fase 3 do projeto concluída.
+117263	Terceira barragem finalizada.
 117264	[GUIDNAME 117223]
-113223	"The question is: What made the dams collapse back then? We should analyze the debris to find out."
-113224	"We have a theory about what destroyed the dam. But we will need more manpower to verify that theory quickly."
-113225	"Hmm, Lei Sheng should've tested Global Trust's designs before using them. The analysis says the dams collapsed due to water turbulence caused by subaqua rock formations. We have to minimize this risk in the future."
-113226	"Lei Sheng's finance department is considering cancelling dam construction. Not enough demand, they say. Not a business case. Well, let's make it one then. "
-113227	"We may now officially start building the dam. Could you see to the delivery of the required materials?"
-113229	"This dam may look like it is in better condition, but the remains are far beyond repair. We should get them out of the way."
-113230	"The dam building site is difficult to access. I'm curious to see if your logistics system will be up to the task."
-113231	"Now all that's missing are a few tons of special steel. Still, I'm confident you will find a way to get them."
-113233	"This is crucial! There's evidence that Orbital Watch agents placed underwater explosives near our dams! The clock is ticking!"
-113234	"The Orbital Watch incident is making our investors nervous. Some are already withdrawing their funds. But I'm informed you are well prepared..."
-113235	"It seems Lei Sheng's finance department is still not convinced. They want to inspect the dams before they allow us to bring them online. Be polite."
-118101	"The question is: What made the dams collapse back then? We should analyze the debris to find out."
-118102	"We have a theory what destroyed the dam. But to get a clear result quickly, we need more manpower."
-118103	"Lei Sheng should've tested Global Trust's designs first. The analysis says the dams collapsed due to turbulences, caused by underwater rock formations. We have to minimize this risk."
-118104	"Lei Sheng's finance department considers calling the dam building off. Not enough demand, they say. Not a business case. Well, let's make it one then."
-118105	"We may officially start the dam building. Could you see to the delivery of the required materials?"
-118106	"This dam may look more intact. But the remains of the old construction are beyond repair. We should get them out of the way."
-118107	"The dam building site is quite difficult to access. I'm curious if your logistics system will be up to the requirements."
-118108	"A few tons of superalloys are missing to finish the support structure. But according to my sources, you are no one who to allows such things to impede progress ."
-118109	"Parts of this dam are dangerous to work on. Make sure the staff uses state-of-the-art building machines. Will be cheaper than the labor court costs."
-118110	"Due to safety concerns we're postponing work on the more difficult segments until the necessary machinery arrives. You see to that?"
-118111	"This is crucial! There's evidence that Orbital Watch agents placed underwater explosives near our dams! The clock is ticking!"
-118112	"We're not leaving anything to chance. A security force is necessary to secure the premises at all times. Our investors must not hear of this."
-119891	"So, an open provokation? Absurd! Our firepower can take them out easily. But I want you to make a big show of it, to demonstrate our superiority before our investors."
-118113	"I'm finished assembling the security teams. Escorting them personally will reveal your involvement in the project. It's all about PR."
-118114	"The Orbital Watch incident still worries our investors. Some are already withdrawing their funds. But I'm informed you are well positioned..."
-118117	"Our extensive security measures assuaged our investors. They'll want a good look at the dam, so you have the honor of escorting them. Be polite."
-118116	"Hosting an opening celebration on site will top it off. Best we hand-pick the waiting staff and invite a few special guests to mingle with our investors."
-118115	"The dam will be finished just in time for the opening celebration. How about a luxurious banquet to cater to our investors while they watch the big reveal?"
-108585	"Yes, technically this is unannounced intrusion into your territory. But before you report me, listen to my offer."
-113228	Reach a Corporation Level of 10 to start the construction of the second dam.
-113232	Reach a Corporation Level of 20 to start the construction of the third dam.
-113236	"All stations are running smoothly. I'm not easily impressed, but I will certainly keep an eye on you! It seems you won't let anything stop you from turning your visions into realities!"
-120050	Identify why three old dams collapsed and rebuild them to produce energy.
+113223	"Aqui está a pergunta: o que causou o rompimento das barragens no passado? Devemos analisar os escombros para descobrir."
+113224	"Temos uma teoria sobre a destruição da barragem. Mas precisamos de mais mão de obra para poder testar a hipótese rapidamente."
+113225	"Uau... Lei Sheng deveria ter testado os sistemas Global Trust antes de usá-los. A análise indica que as barragens desabaram devido à turbulência na água causada por formações rochosas subaquáticas. Temos que minimizar esse risco para o futuro."
+113226	"O departamento financeiro de Lei Sheng está considerando a possibilidade de cancelar a construção da barragem. Dizem que a demanda é insuficiente. Não é um caso de negócios. Bem, vamos torná-lo um então."
+113227	"Podemos começar oficialmente a construir a barragem agora. Você poderia providenciar o fornecimento dos materiais necessários?"
+113229	"Embora esta barragem pareça estar em melhores condições, os restos não são reparáveis. Devemos removê-los."
+113230	“A área de construção da barragem é de difícil acesso. Estou curioso para ver se seu sistema de logística estará à altura da tarefa”.
+113231	"Agora faltam apenas algumas toneladas de aço especial. Espero que você encontre uma maneira de obtê-lo."
+113233	"Isso é crucial! Há evidências de que agentes da Guarda Orbital colocaram explosivos subaquáticos perto de nossa presa! O tempo está passando!"
+113234	"O incidente da Guarda Orbital está deixando nossos investidores nervosos. Alguns começaram a retirar fundos. Mas fui informado de que você está muito bem preparado..."
+113235	"Parece que o departamento financeiro de Lei Sheng ainda não está convencido. Eles querem inspecionar as barragens antes de permitir que entremos online. Seja legal com eles."
+118101	"Aqui está a pergunta: o que causou o rompimento das barragens no passado? Devemos analisar os escombros para descobrir."
+118102	“Temos uma teoria sobre a destruição da barragem. Mas, para obter um resultado claro rapidamente, precisamos de mais mão de obra”.
+118103	"Lei Sheng deveria ter testado os projetos do Global Trust primeiro. A análise indica que as barragens desabaram devido à turbulência causada por formações rochosas subaquáticas. Precisamos minimizar esse risco."
+118104	"O departamento financeiro de Lei Sheng está considerando a possibilidade de cancelar a construção da barragem. Eles dizem que a demanda é insuficiente. Não é um caso de negócios. vamos torná-lo um então."
+118105	"Podemos começar oficialmente a construir a barragem agora. Você poderia providenciar o fornecimento dos materiais necessários?"
+118106	"Esta barragem pode parecer mais intacta. Mas os restos da antiga construção são irreparáveis. Devemos removê-los."
+118107	"A zona de construção da barragem é de difícil acesso. Estou curioso para saber se seu sistema de logística estará à altura da tarefa."
+118108	"Faltam algumas toneladas de superligas para completar a estrutura de suporte. Mas, de acordo com minhas fontes, você não é o tipo de pessoa que deixa essas coisas atrapalharem o progresso."
+118109	“É perigoso trabalhar em algumas partes desta barragem. Certifique-se de que o pessoal use máquinas de construção modernas. Será mais barato do que arcar com os custos das reclamações dos empregados”.
+118110	"Estamos preocupados com a segurança e por isso, vamos adiar o trabalho em alguns dos segmentos mais difíceis até que chegue o maquinário necessário. Você vai cuidar disso?"
+118111	"Isso é crucial! Há evidências de que agentes da Guarda Orbital colocaram explosivos subaquáticos perto de nossa presa! O tempo está passando!"
+118112	"Não estamos deixando nada ao acaso. Uma força de segurança é necessária para proteger as instalações o tempo todo. Nossos investidores não devem ficar sabendo disso."
+119891	"Então, uma provocação aberta? Absurdo! Nosso arsenal pode matá-los rapidamente. Mas eu quero que você dê um bom show, para mostrar nossa superioridade aos nossos investidores."
+118113	"Terminei de montar as equipes de segurança. Se você acompanhá-los pessoalmente, seu envolvimento no projeto virá à luz. É tudo uma questão de relações públicas."
+118114	"O incidente da Guarda Orbital continua preocupando nossos investidores. Alguns já começaram a retirar fundos. Mas fui informado de que vocês estão muito bem posicionados ..."
+118117	"Nossas extensas medidas de segurança tranquilizaram nossos investidores. Eles vão querer estudar bem a barragem e você terá a honra de acompanhá-los. Seja legal com eles."
+118116	"Fazer uma cerimônia de abertura será a cereja do bolo. É melhor escolhermos a dedo os garçons e devemos ter nossos próprios convidados especiais para se misturarem com nossos investidores."
+118115	"A barragem será concluída bem a tempo para a cerimônia de inauguração. Que tal oferecer um banquete luxuoso para nossos investidores enquanto eles testemunham a grande revelação?"
+108585	"Sim, tecnicamente, esta é uma intrusão inesperada em seu território. Mas, antes de me denunciar, ouça minha oferta."
+113228	Alcance o nível corporativo 10 para iniciar a construção da segunda barragem.
+113232	Alcance o nível corporativo 20 para iniciar a construção da terceira barragem.
+113236	"Todas as estações funcionam perfeitamente. Não é fácil me impressionar, mas não vou te perder de vista! Parece que você não vai deixar nada impedi-lo de realizar suas visões!"
+120050	Descubra por que três das antigas represas desabaram e reconstrua-as para produzir energia.
 114782	[NOTIFICATION_CHARACTER_NAME] is satisfied with the building speed you are displaying.
 114783	The production is halted until [NOTIFICATION_CHARACTER_NAME] can convince the investors.
 114784	[NOTIFICATION_CHARACTER_NAME] is pleased with the outcome and thanks you for the collaboration.
