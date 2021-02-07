@@ -26,7 +26,7 @@
 108490	[NOTIFICATION_CHARACTER_NAME] ele está surpreso por você ter alcançado um balanço patrimonial positivo.
 108489	[NOTIFICATION_CHARACTER_NAME] está ciente de que você está novamente em risco de falência.
 108668	Cliente
-108669	Item de Atribuição
+108669	Item de tarefa
 108670	Drone de rastreamento
 108671	Drone de ataque
 108948	Item arrasável
