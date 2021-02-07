@@ -177,7 +177,7 @@
 114632	Não há zona de construção costeira disponível
 102530	[ONSCREEN_TEXT_BUILDCOST_ALL]
 102531	[INLINE_ICON] [GUIDNAME] [SIGNED_NUMBER]
-102656	[INLINE_ICON] [GUIDNAME] collected
+102656	[INLINE_ICON] [GUIDNAME] coletado
 102928	[INLINE_ICON] [GUIDNAME]
 117742	<font color="#FF14B9E0">[INLINE_ICON] [GUIDNAME]</font>
 102930	<font size="22" [GUI_COLOR Red]>Barco perdido</font>
@@ -196,7 +196,7 @@
 116449	Promovido
 119853	Área de destino inválida
 120066	+[INLINE_ICON 2002275] +[INLINE_ICON 2002276]
-120921	[INLINE_ICON] [GUIDNAME] activated
+120921	[INLINE_ICON] [GUIDNAME] ativado
 100186	Não pode ser demolido
 122104	Estrutura indestrutível
 122105	Os custos de relocação não podem ser financiados.
