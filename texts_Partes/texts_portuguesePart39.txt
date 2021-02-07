@@ -136,7 +136,7 @@
 1000291	NO LOCA MetaSpaceStation
 1002084	Sucursal de [GUIDNAME 4]
 1002207	Posto comercial [GUIDNAME 5]
-1002208	Campamento de [GUIDNAME 6]
+1002208	Acampamento de [GUIDNAME 6]
 1002215	Ponto forte de [GUIDNAME 14]
 1002773	Posto de observação [GUIDNAME 14]
 1002184	Estabilizador climático

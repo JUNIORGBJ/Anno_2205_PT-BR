@@ -189,7 +189,7 @@
 1003516	Ponto de controle do canal
 1003644	[GUIDNAME 1003516]
 1003645	[GUIDNAME 1003516]
-1003519	Campamento de refugiados
+1003519	Acampamento de refugiados
 1003646	[GUIDNAME 1003519]
 1003647	[GUIDNAME 1003519]
 1003518	Meteorito grande
@@ -213,7 +213,7 @@
 1002829	Ponto de controle do canal
 1003650	[GUIDNAME 1002829]
 1003651	[GUIDNAME 1002829]
-1002830	Campamento de refugiados
+1002830	Acampamento de refugiados
 1003652	[GUIDNAME 1002830]
 1003653	[GUIDNAME 1002830]
 1002831	Meteorito grande
