@@ -74,40 +74,40 @@
 117316	Project stage 3 completed
 117317	Refugee camp secured
 117318	[GUIDNAME 117315]
-114749	"The people flee in whatever vehicles they can muster. Many drive around aimlessly until their oxygen reserves run out. I know some of them made it to this sector. Please, take them in."
-114750	"I've sent out a signal on all the unmonitored frequences. More refugees will come. But I doubt their vehicles will make it all the way. If we only had some transporters to pick them up."
-114751	"One of my spies at the Orbital Watch HQ put her neck on the line to divert a shuttle. It'll drop dwelling units for the refugees here. She can't risk doing that again, so we have to retrieve them now."
-114752	"Oh, heck! Those dwelling units didn't take the drop well... Most are just a pile of junk now. Do you have some spare metal, so we can make them at least habitable?"
-114753	"We've settled the refugees in the dwelling units. I have to rely on you for their food supply. Any food will be fine, as long as it's rich and nourishing."
-114754	"What... What kind of monster would order something like that done! Virgil Drake... he had the whole area mined! Some refugees have already... No, we won't allow that to happen again!"
-114755	"Good thing you cleared the way. There's another refugee convoy approaching this sector. It contains more asylum seekers than I planned for. We'll have to watch our food supplies."
-114756	"Orbital Watch scum! They attacked the refugee convoy! The survivors are going to continue on foot. They won't survive long! We have to collect them, quick!"
-114757	"Damn that Virgil Drake! The man is evil incarnate! A new refugee convoy just arrived. It's people say Drake's henchmen hunted them like animals! But we can give them sanctuary!"
-114758	"Should've smelled them, the rats! There were Orbital Watch agents among the newcomers! They put highly contagious pathogens into our water tanks! We need medical staff on-site, now!"
-114759	"Our doctors have made an initial diagnosis! A modified influenza virus, highly contagious. I bet Drake planned on us having no way of getting the needed medication! But we have you."
-118272	"The persecutees flee in whatever vehicles they can muster. Many drive around aimlessly, until their oxygen reserves fail them. But some of them made it."
-118273	"I've sent a signal on all non-surveilled frequences. More refugees will come. Their vehicles won't carry them all the way here. We must provide transporters."
-118274	"One of my spies at an Orbital Watch colony managed to divert a shuttle, dropping dwelling units for the refugees. She can't risk to do that again, so retrieve them now."
-118275	"Oh, heck! Those dwelling units didn't take the drop well... Do you have some spare metal, so we can make them habitable again?"
-118276	"Everyone's quartered in the dwelling units. I have to rely on you for the food supply, though. Whatever food will be fine, as long as it's rich and nourishing."
-118277	"What horrible person would command such a thing! Virgil Drake had the whole area mined! Some refugees already... No, we will not allow that to happen again!"
-118278	"Good you've cleared the way. There's another refugee trek approaching this sector, with more people than I calculated for. We'll have to ration our food."
-118279	"The oxygen tanks! Orbital Watch rats, they don't even stop at our very basis of existence! And we can't just ration breathing air, too."
-118280	"Our growing numbers proof how many people suffer from Drake's atrocities. And they also mean we have more life support systems to power."
-118281	"Drake's men do everything to keep the refugees from coming here. Now they use jamming drones, causing the vehicles to break down, leaving the refugees inside for death! Quick!"
-118282	"A transmission from a new refugee convoy. They say Drake's henchmen have hunted them like animals! But we can bring them to safety!"
-118283	"Should've smelled the rats! There were Orbital Watch agents among the newcomers! They've put toxic agents in our oxygen systems! We need medical staff on-site!"
-118284	"Those rats, they are using the chaos to get back to Drake! A buggy was reported missing just now, you can still find them! And then you can leave them to me."
-118286	"We won't so careless again, I won't be. Drake and his lickspits stop at nothing. Our people need trained security to protect them!"
-118285	"Our doctors have examined the toxins! An unusual chlorine compound, highly reactive. I bet Drake planned for us having no way treat it. But we have you."
-109046	"Oh, finally… Listen, we... we just don't know where else to go. Don't send us away! There are lives at stake. We'll repay you, I promise."
-114923	"All those people would be dead now, if it wasn't for you. We'll do our best to pay you back! I promise, everyone here will pitch in to help."
-115318	Reach Corporation Level of 15 to provide shelter for more refugees.
-115319	Reach Corporation Level of 30 to provide shelter for more refugees.
-120055	Provide shelter for refugees of the lunar conflict to earn helping hands.
-114852	[NOTIFICATION_CHARACTER_NAME] is awed by the project's success. He'll get back to you.
-114853	[NOTIFICATION_CHARACTER_NAME] will inform you if the project is to be continued.
-114854	[NOTIFICATION_CHARACTER_NAME] thanks you profusely, but has to return to duty.
+114749	"As pessoas estão fugindo em qualquer veículo que possam encontrar. Muitos estão se movendo sem rumo até que suas reservas de oxigênio se esgotem. Eu sei que alguns conseguiram alcançar este setor. Por favor, leve-os para dentro."
+114750	"Enviei um sinal em todas as frequências não monitoradas. Mais refugiados virão. Mas duvido que seus veículos aguentem. Gostaria que tivéssemos transportadores para buscá-los..."
+114751	"Uma das minhas espiãs do QG da Guarda Orbital arriscou o pescoço para desviar um ônibus espacial. Ela trará unidades de alojamento de refugiados para cá. Ela não pode arriscar fazer isso de novo, então temos que pegá-los agora."
+114752	"Que bagunça! As unidades habitacionais não resistiram à queda... Agora não passam de um monte de lixo. Você tem peças de metal para torná-las pelo menos habitáveis?"
+114753	“Colocamos os refugiados nas unidades habitacionais. Conto com vocês para o abastecimento de alimentos. Qualquer tipo de alimento nutritivo servirá”.
+114754	·Que...? Que tipo de monstro poderia pedir algo assim? Virgil Drake... ele minou toda a área! Alguns refugiados já... Não, não podemos deixar algo assim acontecer de novo!"
+114755	"Que bom que você abriu o caminho. Outro comboio de refugiados está se aproximando deste setor. Ele contém mais requerentes de asilo do que eu esperava. Teremos que controlar o abastecimento de alimentos."
+114756	"A escória da Guarda Orbital! Eles atacaram o comboio de refugiados! Os sobreviventes vão continuar a pé. Eles não vão durar muito! Temos que pegá-los, rápido!"
+114757	"Maldito Virgil Drake! Esse homem é o diabo desfardado! Um novo comboio de refugiados acabou de chegar. As pessoas dizem que os bandidos de Drake os caçaram como animais! Mas não podemos levá-los para dentro!"
+114758	"Eu deveria ter cheirado aqueles ratos! Havia agentes da Guarda Orbital entre os recém-chegados! Eles colocaram patógenos altamente contagiosos em nossos tanques de água! Precisamos de pessoal médico agora!"
+114759	"Nossos médicos fizeram um diagnóstico inicial! É o vírus COVID 2205 modificado altamente contagioso. Aposto que Drake pensou que não teríamos como obter a medicação necessária! Mas nós temos você..."
+118272	"Aqueles que estão sendo perseguidos fogem em qualquer veículo que consigam embarcar. Muitos estão se movendo sem rumo até que suas reservas de oxigênio acabem. Mas alguns conseguiram."
+118273	"Enviei um sinal em todas as frequências não monitoradas. Mais refugiados virão. Seus veículos não os trarão aqui. Temos de fornecer transportadores."
+118274	"Um dos meus espiões de uma colônia da Guarda Orbital conseguiu desviar um ônibus espacial e soltar unidades habitacionais para os refugiados. Ele não pode arriscar fazer isso de novo, então pegue-os agora."
+118275	"Que bagunça! As unidades habitacionais não resistiram à queda... Você tem peças de metal para que possamos torná-las habitáveis ​​de novo?"
+118276	“Todos estão alojados em unidades habitacionais. Mas preciso contar com vocês para o abastecimento de alimentos. Qualquer tipo de alimento nutritivo servirá”.
+118277	"Que pessoa horrível ele é capaz de fazer tal coisa! Virgil Drake havia minado toda a área! Alguns refugiados já... Não, não vamos deixar algo assim acontecer de novo!"
+118278	"Que bom que você abriu o caminho. Há outra expedição de refugiados indo para este setor com mais pessoas do que eu havia calculado. Teremos que racionar comida."
+118279	"Os reservatórios de oxigênio! Esses ratos da Guarda Orbital querem nos privar até mesmo do mais básico de nossa existência! E também não podemos racionar o ar que respiramos."
+118280	"Há cada vez mais de nós, o que mostra quantas pessoas estão sofrendo as consequências das atrocidades de Drake. E isso também significa que temos mais sistemas de suporte de vida para alimentar."
+118281	"Os homens do Drake se esforçam para impedir que os refugiados cheguem aqui. Agora eles estão usando sistemas de bloqueio para quebrar os veículos e deixar os refugiados morrerem lá dentro! Rápido!"
+118282	"Chegou uma transmissão do novo comboio de refugiados. Dizem que os capangas de Drake os caçaram como animais! Mas podemos colocá-los em segurança!"
+118283	"Eu deveria ter cheirado aqueles ratos! Havia agentes da Guarda Orbital entre os recém-chegados! Eles colocaram alguns agentes tóxicos em nossos sistemas de oxigênio! Precisamos de pessoal médico!"
+118284	"Aqueles porcos estão aproveitando o caos para voltar para Drake! Temos notícias de um carro desaparecido, você ainda pode encontrá-los! E então deixe-os comigo."
+118286	"Não seremos tão descuidados de novo, pelo menos eu. Drake e seus capangas não param por nada. Nosso povo precisa de seguranças treinados para protegê-los!"
+118285	"Nossos médicos fizeram testes para toxinas! Um composto à base de cloro estranho e altamente reativo. Aposto que Drake pensou que não teríamos como tratá-lo. Mas nós temos você..."
+109046	"Olá... Oh, finalmente... Escute, nós... Não sabemos para onde ir! Não nos obrigue a partir! Vidas estão em jogo! Vamos retribuir o favor, eu prometo."
+114923	"Se não fosse por você, todas essas pessoas teriam morrido. Faremos o possível para retribuir! Prometo que todos contribuirão para ajudar."
+115318	Alcance o nível corporativo 15 para oferecer asilo a mais refugiados.
+115319	Alcance o nível corporativo 30 para oferecer asilo a mais refugiados.
+120055	Receba refugiados do conflito lunar.
+114852	[NOTIFICATION_CHARACTER_NAME] está impressionado com o sucesso do projeto. Ele vai voltar para você.
+114853	[NOTIFICATION_CHARACTER_NAME] irá informá-lo se o projeto deve ser continuado.
+114854	[NOTIFICATION_CHARACTER_NAME] muito obrigado, mas tem que voltar ao trabalho.
 114855	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
 114856	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
 114857	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
@@ -125,21 +125,21 @@
 118291	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
 114865	<font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
 119924	<font [MINIMAPDOT_COLOR 2001947]>Magnetite</font> Generator
-116387	[NOTIFICATION_CHARACTER_NAME] approaches you about an endeavour.
-116388	[NOTIFICATION_CHARACTER_NAME] proposes a joint project to extract minerals out of meteors.
-116389	[NOTIFICATION_CHARACTER_NAME] believes meteoric resources are scientifically and economically important.
-116390	[NOTIFICATION_CHARACTER_NAME] looks forward to your cooperation in this prestigious venture.
-116391	[NOTIFICATION_CHARACTER_NAME] is currently unavailable, but will contact you.
-116392	[NOTIFICATION_CHARACTER_NAME] is waiting for clearance and asks that you wait.
-116393	[NOTIFICATION_CHARACTER_NAME] is proud of the mining project's significance.
-117319	Project stage 1 completed
-117320	Mining site at first meteor established
-117321	Magnetite generator activated
-117322	Project stage 2 completed
-117323	Mining site at second meteor established
+116387	[NOTIFICATION_CHARACTER_NAME] se dirige a você com uma proposta.
+116388	[NOTIFICATION_CHARACTER_NAME] propõe um projeto conjunto para extrair minerais de meteoros.
+116389	[NOTIFICATION_CHARACTER_NAME] acredita que os recursos meteóricos são científicos e economicamente importantes.
+116390	[NOTIFICATION_CHARACTER_NAME] aguarda a sua cooperação neste empreendimento de prestígio.
+116391	[NOTIFICATION_CHARACTER_NAME] está indisponível no momento, mas entrará em contato com você.
+116392	[NOTIFICATION_CHARACTER_NAME] está aguardando liberação e pede que você espere.
+116393	[NOTIFICATION_CHARACTER_NAME] está orgulhoso da importância do projeto de mineração.
+117319	Fase 1 do projeto concluído
+117320	Estabeleceu a zona de mineração do primeiro meteorito
+117321	Gerador de magnetita ativado
+117322	Fase 2 do projeto concluído
+117323	Estabeleceu a zona de mineração do segundo meteorito
 117324	[GUIDNAME 117321]
-117325	Project stage 3 completed
-117326	Mining site at third meteor established
+117325	Fase 3 do projeto concluído
+117326	Estabeleceu a zona de mineração do terceiro meteorito
 117327	[GUIDNAME 117321]
 114760	"Before we proceed to drill into the meteors, we must first determine what exactly we'll be drilling for. Could you perhaps locate some meteor samples for us?"
 114761	"You know, technically they're not meteors, but meteoroids since... Oh! Pardon me. You'll have to provide housing for some meteor scientists, who'll analyze our findings."
