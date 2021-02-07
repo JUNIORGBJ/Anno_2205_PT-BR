@@ -74,7 +74,7 @@
 120721	"Logistic shortcomings will shut down the factories farthest away from a [GUIDNAME 1000123]."
 120722	[NOTIFICATION_CHARACTER_NAME] notices that some factories suffer from logistic shortages.
 120723	[NOTIFICATION_CHARACTER_NAME] is glad to see your remote factories resuming production.
-120724	Construir e conectar [GUIDNAME 1000123]
+120724	Construa e conecte [GUIDNAME 1000123]
 120726	"Your corporation won't reach its full potential without expanding via bridges."
 120727	[NOTIFICATION_CHARACTER_NAME] notices your ever-shrinking construction area.
 120728	[NOTIFICATION_CHARACTER_NAME] congratulates you on expanding your construction area.
