@@ -1,63 +1,63 @@
 105471	Durante seu mandato, os Guardiões do Ártico viram muitos governos dispostos a decidir o destino do mundo. Como resultado, foram necessárias muitas reuniões noturnas na sede da União até que os Guardiões do Ártico pusessem de lado seus preconceitos e concordassem em abrir seu terreno isolado para o Programa de Licença Lunar. Apesar de tudo, o Dr. Howard Young, representante in loco dos curadores, não pretende tolerar qualquer imprudência, muito menos em relação aos requisitos que as indústrias privadas devem cumprir no território ártico.
-105482	[NOTIFICATION_CHARACTER_NAME] suggests you establish a small Arctic base.
-105483	[NOTIFICATION_CHARACTER_NAME] gives permission for spaceport construction.
-105505	[NOTIFICATION_CHARACTER_NAME] has an eye on both economic and ecological developments.
-105506	[NOTIFICATION_CHARACTER_NAME] informs you just how rare fish has become.
-105507	[NOTIFICATION_CHARACTER_NAME] points at the importance of good heat insulation.
-120752	Settle your employees close to a heat source
-105463	"The Global Union trade routes are still threatened by terrorists. You better establish your own landing place for cargo ships."
-105472	Before the opening of the polar regions, Arctic trade was confined to official Arctic Custodian routes, not allowing for much commercial variety on both sides of the trade treaties. With the Global Union routes under constant siege by the Orbital Watch however, the Arctic seaways are increasingly being called for. And while mighty icebreakers set forth to crack safe, new ways through the brash ice, the Global Union plans to link the Arctic economy closer to the world market – via landing places for cargo ships and a space elevator.
-105484	[NOTIFICATION_CHARACTER_NAME] recommends the expansion of your Arctic spaceport via a pier.
-105485	[NOTIFICATION_CHARACTER_NAME] asks you for help.
-105508	[NOTIFICATION_CHARACTER_NAME] deems the head count of employees enough to proceed.
-105464	"If they aim at it, they can use the Climate Stabilizers to cause a second climate catastrophe! We must act!"
-105473	In 2085, in the aftermath of the disastrous prototyping of geothermal power plants in the Ebashi Trench, global weather drifted to the extremes. Subsequently, the researchers of the environmentalist group called the Eden Initiative founded the Arctic Custodians and developed climate stabilization technology, creating an artificial Arctic zone. And now, 120 years later, Earth faces a new climate catastrophe: The terrorist Orbital Watch assumed control of the Climate Stabilizers. They want to watch the world burn.
-105486	[NOTIFICATION_CHARACTER_NAME] urges you to help the Arctic Custodians reclaim control of the Climate Stabilizers.
-105487	[NOTIFICATION_CHARACTER_NAME] is glad to tell you the main Climate Stabilizers have been recovered.
-117364	Achieve victory in the crisis sector "[GUIDNAME 5100031]"
-119711	Reach the next corporation level to enact a counter-hacking attempt
-119726	[NOTIFICATION_CHARACTER_NAME] is curious about the outcome.
-119727	[NOTIFICATION_CHARACTER_NAME] informs you that your help was received.
-105465	"The work at the piers is almost done. Make sure to finish them so your Arctic cargo ships can head for sunnier climates."
+105482	[NOTIFICATION_CHARACTER_NAME] sugere que você estabeleça uma pequena base ártica.
+105483	[NOTIFICATION_CHARACTER_NAME] dá permissão para a construção do espaçoporto.
+105505	[NOTIFICATION_CHARACTER_NAME] está de olho nos desenvolvimentos econômicos e ecológicos.
+105506	[NOTIFICATION_CHARACTER_NAME] informa o quão raro o peixe se tornou.
+105507	[NOTIFICATION_CHARACTER_NAME] aponta para a importância de um bom isolamento térmico.
+120752	Instale seus empregados perto de uma fonte de calor
+105463	"As rotas comerciais do Sindicato Global ainda estão ameaçadas por terroristas. É melhor você estabelecer seu próprio local de desembarque para navios de carga."
+105472	Antes da abertura das regiões polares, o comércio do Ártico era limitado às rotas oficiais dos Custódios do Ártico, não permitindo muita variedade comercial em ambos os lados dos tratados. No entanto, com o cerco constante das rotas da União Global pela Guarda Orbital, as rotas marítimas do Ártico são cada vez mais necessárias. E enquanto poderosos quebra-gelos se preparam para abrir novos caminhos seguros através do gelo ousado, a União Global planeja conectar ainda mais a economia do Ártico ao mercado mundial, com locais de pouso para cargueiros e um elevador espacial.
+105484	[NOTIFICATION_CHARACTER_NAME] recomenda expandir seu espaçoporto ártico com uma doca.
+105485	[NOTIFICATION_CHARACTER_NAME] pede sua ajuda.
+105508	[NOTIFICATION_CHARACTER_NAME] considera que há empregados suficiente para continuar.
+105464	"Se eles apontarem para lá, eles podem usar os estabilizadores de clima para causar uma segunda catástrofe climática! Precisamos agir!"
+105473	Em 2085, após o desastre dos protótipos das usinas geotérmicas na Fossa de Ebashi, o clima global atingiu limites extremos. Mais tarde, pesquisadores do grupo ambientalista Eden Initiative fundaram a Arctic Custodians e desenvolveram a tecnologia de estabilização do clima, criando assim uma zona ártica artificial. E agora, 120 anos depois, a Terra enfrenta uma nova catástrofe climática: a organização terrorista da Guarda Orbital assumiu o controle dos estabilizadores climáticos. Eles querem ver o mundo queimar.
+105486	[NOTIFICATION_CHARACTER_NAME] exorta você a ajudar os Guardiões do Ártico a recuperar o controle dos estabilizadores de clima.
+105487	[NOTIFICATION_CHARACTER_NAME] tem o prazer de informar que os principais Estabilizadores de Clima foram recuperados.
+117364	Conquiste uma vitória em um setor em crise "[GUIDNAME 5100031]"
+119711	Alcance o próximo nível corporativo para realizar uma tentativa de contra-pirataria
+119726	[NOTIFICATION_CHARACTER_NAME] está curioso para ver o resultado.
+119727	[NOTIFICATION_CHARACTER_NAME] informa que sua ajuda foi recebida.
+105465	"O trabalho nas docas está quase pronto. Certifique-se de terminá-lo para que seus mercadores do Ártico possam seguir para climas mais ensolarados."
 105474	O clima do Ártico pode estar voltando a temperaturas mais frias, mas as relações geladas entre a União Global e os Curadores do Ártico estão derretendo. A Guarda Orbital mostrou que está pronta para qualquer coisa e está apoiando suas demandas com armas. Somente cooperação e determinação impediram a Terra de sofrer um novo desastre climático. Agora, os Guardiões do Ártico estão prontos para apoiar totalmente o Programa de Licença Lunar, dando luz verde para a expansão de seu espaçoporto.
-105488	[NOTIFICATION_CHARACTER_NAME] requests you to take your Arctic shipping docks into operation.
-105489	[NOTIFICATION_CHARACTER_NAME] deems your pursuit for the Moon even more important than before.
-115485	"Your aerospace technology has to adhere to the Program's standards. Make sure to have enough shrewd heads at the task."
-115486	The Lunar Licensing Program applies high standards to the space technology deployed in it. While past colonizations of the Moon have been successful, relying on old machinery to propel the Second Wave would not be met with the Union's approval – the program is a fresh start into space and any resemblances with the ancient tech of the LEC are to be avoided by its partners. Even if that means great research efforts.
-118026	[NOTIFICATION_CHARACTER_NAME] requests you to establish a research team.
-118027	[NOTIFICATION_CHARACTER_NAME] greenlights the implementation of the shuttle blueprints.
-118029	[NOTIFICATION_CHARACTER_NAME] is full of praise for your neuro implant production.
-118028	[NOTIFICATION_CHARACTER_NAME] approves of your vitamin drink supply.
-118030	[NOTIFICATION_CHARACTER_NAME] knows that a strong community is important these days.
-115487	Conceiving new ways of space travel formerly thought impossible, your aerospace engineers have developed more than ambitious blueprints for shuttles and launch pads. As a proof of their newly found confidence in the Lunar Licensing Program, the Arctic Custodians loosened the export restrictions for greater amounts of mineral resources. Time will tell, if the Big Five jump at this opportunity.
-115488	"The metals mined in the Arctic region are perfectly suited for space technology."
-118038	[NOTIFICATION_CHARACTER_NAME] states that you need specific steels to construct the colony shuttles from.
-118039	[NOTIFICATION_CHARACTER_NAME] approves of the superalloys.
-118044	[NOTIFICATION_CHARACTER_NAME] is sure these alloys will come in use outside shuttle construction, too.
-105466	"Be assured, the command personnel of the Program will have more sophisticated needs than your common worker."
-105475	Through bold, persistent lobbyism, the Big Five achieved privileged participation rights for the Lunar Licensing Program before it even started. Yet Orbital Affairs Secretary Samantha Beaumont mobilized the forces of her party to bring you into the program as well, an underdog, acting as a counterpoise to the long-established MegaCorps. Her plan proves to be successful so far: Your corporation is growing relentlessly. But even the most well-organized CEO can't take care of everything at once.
-105490	[NOTIFICATION_CHARACTER_NAME] wants you to shift responsibilities to executives.
-105491	[NOTIFICATION_CHARACTER_NAME] is looking forward to Phase 2 being completed.
-105510	[NOTIFICATION_CHARACTER_NAME] underlines how important neuro tech is for the program.
-105511	[NOTIFICATION_CHARACTER_NAME] sees a great deal of potential in your medical products.
-105512	[NOTIFICATION_CHARACTER_NAME] relies on rigorous security controls when dealing with terrorism.
-105467	"No launch pad, no rocket launch. An ambitious building project lies ahead of you."
+105488	[NOTIFICATION_CHARACTER_NAME] pede que você coloque sua doca de expedição ártica em funcionamento.
+105489	[NOTIFICATION_CHARACTER_NAME] considera sua busca pela Lua ainda mais importante do que antes.
+115485	"Sua tecnologia aeroespacial deve aderir aos padrões do Programa. Certifique-se de ter cabeças pensantes suficientes dedicadas a esta tarefa."
+115486	O Programa de Licenciamento Lunar estabelece padrões muito altos para a tecnologia usada. Embora outras colonizações anteriores da Lua tenham sido bem-sucedidas, contar com máquinas antigas para alimentar a Segunda Onda não ganharia a aprovação da União. O Programa marca um novo começo e os parceiros querem evitar qualquer semelhança com a velha tecnologia LEC. Mesmo que isso signifique fazer grandes esforços de pesquisa.
+118026	[NOTIFICATION_CHARACTER_NAME] pede que você crie uma equipe de investigação.
+118027	[NOTIFICATION_CHARACTER_NAME] dá luz verde para a implementação dos planos do ônibus espacial.
+118029	[NOTIFICATION_CHARACTER_NAME] elogiou sua produção de implantes neurológicos.
+118028	[NOTIFICATION_CHARACTER_NAME] quer aprovar seu suprimento de bebidas vitamínicas.
+118030	[NOTIFICATION_CHARACTER_NAME] sabe que uma comunidade forte é importante nos dias de hoje.
+115487	Concebendo novas formas de viagem espacial que eram consideradas impossíveis, seus engenheiros aeroespaciais desenvolveram mais do que projetos ambiciosos para ônibus espaciais e plataformas de lançamento. Como prova de sua confiança no Programa de Licença Lunar, os Guardiões do Ártico relaxaram suas restrições à exportação de grandes quantidades de recursos minerais. O tempo dirá se os Big five aproveitarão esta oportunidade.
+115488	"Os metais extraídos na região ártica são ideais para a tecnologia espacial."
+118038	[NOTIFICATION_CHARACTER_NAME] afirma que você precisa de aços específicos para construir os ônibus da colônia.
+118039	[NOTIFICATION_CHARACTER_NAME] aprovou as superligas.
+118044	[NOTIFICATION_CHARACTER_NAME] tem certeza de que essas ligas também serão usadas além da construção do ônibus espacial.
+105466	"Você verá como a equipe do comando do programa terá necessidades mais sofisticadas do que qualquer trabalhador normal."
+105475	Por meio de um lobby persistente e ousado, os Big five garantiram direitos de participação privilegiada no Programa de Licença Lunar antes mesmo de começar. Mas a secretária de Assuntos Orbitais Samantha Beaumont, mobilizou as forças de seu partido para incluí-lo no programa também, como um membro mais fraco, para combater essas megacorporações estabelecidas. Até o momento, seu plano parece estar funcionando: sua empresa está crescendo inexoravelmente. Mas nem mesmo o CEO mais organizado pode lidar com tudo de uma vez.
+105490	[NOTIFICATION_CHARACTER_NAME] quer que você delegue responsabilidades aos executivos.
+105491	[NOTIFICATION_CHARACTER_NAME] está ansioso para a conclusão da Fase 2.
+105510	[NOTIFICATION_CHARACTER_NAME] destaca a importância da neuro tecnologia para o programa.
+105511	[NOTIFICATION_CHARACTER_NAME] vê um grande potencial em seus produtos médicos.
+105512	[NOTIFICATION_CHARACTER_NAME] tem controles de segurança rigorosos para lidar com o terrorismo.
+105467	"Sem uma plataforma de lançamento, você não pode lançar foguetes. Você tem um ambicioso projeto de construção pela frente."
 105476	O Ministério de Assuntos Orbitais da União Global, responsável por supervisionar os territórios lunares e rotas orbitais, tem sido apenas um pequeno departamento do corpo governante da União Global, e muito pouco prestigiado considerando o infeliz LEC que estava encarregado. O Programa de Licença Lunar mudou tudo isso. Agora, o Ministério de Assuntos Orbitais conecta o mundo e você está se preparando para o grande salto para a lua. Para obter o impulso necessário, você deve instalar uma plataforma de lançamento em seu espaçoporto. Para coordenar as equipes de construção, é preciso consolidar o nível de gestão da sua corporação.
-105492	[NOTIFICATION_CHARACTER_NAME] asks you to support John Rafferty with the launch pad construction.
-105493	[NOTIFICATION_CHARACTER_NAME] is starting with the launch pad construction.
-105515	[NOTIFICATION_CHARACTER_NAME] is happy to see all processes are tightly organized.
-116567	"The launch pad construction is well underway. Please arrange for the necessary rare materials."
-116568	Steel beam per steel beam, the shuttle launching pads are growing towards the sky, the work of countless busy hands. Lunar Licensing Program supervisor Samantha Beaumont brought in the old gearhead John Rafferty to coordinate the efforts. His presence in the Lunar Licensing Program has led to controversies in the Ministry of Orbital Affairs, especially among the sympathizers of the Big Five. On the quiet, words like "infringement" and "prison term" are voiced, but Rafferty doesn't seem to mind. He much rather sees after the completion launch pad for the Second Wave.
-118040	[NOTIFICATION_CHARACTER_NAME] gives a forecast of what has to be done next.
-118041	[NOTIFICATION_CHARACTER_NAME] is proud to present a finished shuttle launching pad.
-117379	Achieve victory in a crisis sector
-117378	Complete optional assignments
-105468	"The big moment has arrived. So many people, all burning to see those shuttles fly..."
-105477	The colony shuttles are ready for take-off, crewed with brave women and men, leaving behind their easy, earthly life for the unfathomable universe. Last-minute tests are conducted, while the rocket propellant tanks are attached to the bottom of the shuttles. All over the globe, people lay down their tools and set eyes on the big and small screens broadcasting this happening. With bated breath, they are awaiting the countdown of the Second Wave of lunar colonisation.
-105494	[NOTIFICATION_CHARACTER_NAME] can hardly wait for the colony shuttles to lift off.
-105495	Following the rocket with her gaze, [NOTIFICATION_CHARACTER_NAME] announces the start of Phase 3.
-105542	"Your colony shuttles are heading for the lunar orbit. They're awaiting orders where to touch down."
-105543	The pioneers of the Second Wave set forth for the Moon's grey, alien landscape. It is a voyage into the unknown. Frontier spirit and sense of adventure, that made the colonists leave the familiar atmosphere of Earth behind, blends with anxiety about the terroristic Orbital Watch. It had been some time since the Global Union space station last received news from the LEC And Virgil Drakes will not take a new colony on the Moon lightly.
+105492	[NOTIFICATION_CHARACTER_NAME] pede que você apoie John Rafferty na construção da plataforma de lançamento.
+105493	[NOTIFICATION_CHARACTER_NAME] está começando a construção da plataforma de lançamento.
+105515	[NOTIFICATION_CHARACTER_NAME] está feliz em ver que todos os processos estão bem organizados.
+116567	"A construção da plataforma de lançamento está bem encaminhada. Prepare os raros materiais necessários."
+116568	Feixe por feixe, as plataformas de lançamento dos ônibus espaciais estão sendo erguidas, trabalho de incontáveis ​​mãos de trabalhadoras. Samantha Beaumont, supervisora ​​do Programa de Licenciamento Lunar, trouxe o engenheiro de longa data John Rafferty para coordenar os esforços. Sua presença no Programa de Licença Lunar gerou polêmica no Ministério de Assuntos Orbitais, especialmente entre os apoiadores dos Big five. Há palavras sussurradas como "violação" e "convicção", mas Rafferty não parece se importar. Ele prefere supervisionar a conclusão da plataforma de lançamento da Onda Dois.
+118040	[NOTIFICATION_CHARACTER_NAME] dá uma previsão do que deve ser feito a seguir.
+118041	[NOTIFICATION_CHARACTER_NAME] tem orgulho de apresentar uma plataforma de lançamento de ônibus espacial finalizada.
+117379	Tenha uma vitória em um setor em crise.
+117378	Conclua as tarefas opcionais.
+105468	"O grande momento chegou. Tantas pessoas querendo ver os ônibus voarem..."
+105477	Os ônibus da sua colônia estão prontos para decolar, tripulados por bravos homens e mulheres que deixam para trás uma vida simples na Terra para se lançar em um universo insondável. Testes de última hora estão sendo realizados enquanto os tanques com os propelentes do foguete são conectados sob os ônibus. Em todo o planeta, as pessoas deixam as ferramentas para fixar o olhar nas telonas que transmitem o evento. Prendendo a respiração, eles aguardam a contagem regressiva para a Segunda Onda de colonização lunar.
+105494	[NOTIFICATION_CHARACTER_NAME] mal posso esperar os ônibus da colônia decolarem.
+105495	Seguindo o foguete com meus olhos, [NOTIFICATION_CHARACTER_NAME] anuncia o início da Fase 3.
+105542	"Seus ônibus da colônia estão indo para a órbita lunar. Eles estão aguardando ordens de onde pousar."
+105543	Os pioneiros da Segunda Onda avançam em direção à paisagem cinzenta e estranha da Lua. É uma viagem ao desconhecido. O espírito de fronteira e o senso de aventura, que levaram os colonos a deixar para trás a atmosfera familiar da Terra, se fundem com a ansiedade terrorista da Guarda Orbital. Há muito tempo que a estação espacial da União Global não tinha notícias do LEC. E Virgil Drake não vai aceitar a presença de uma nova colônia na Lua de ânimo leve.
 105634	[NOTIFICATION_CHARACTER_NAME] is eager to present you lunar settlement zones to choose from.
 105635	[NOTIFICATION_CHARACTER_NAME] signs over a high quality plot of lunar land.
 105544	"A good spot for a lunar colony, if you ask me. And it's all yours."
@@ -139,8 +139,8 @@
 120459	Equilibrar as receitas e despesas de sua economia em constante crescimento é o principal desafio do "Anno 2205."
 120460	Sua corporação possui um pequeno contingente de barcos militares. Em uma crise, você assume o controle dessa frota.
 120461	Refletindo seu poder econômico, você expande sua frota em mais barcos e tipos de barcos conforme o nível de sua corporação aumenta.
-120462	Crisis sectors are self-contained war zones you can leave and return to at any time, as long as no other sector was loaded.
-120463	Completing a crisis sector increases your military level, which allows you to upgrade your ships.
+120462	Os setores em crise são zonas de guerra independentes, das quais você pode sair e voltar a qualquer momento, desde que nenhum outro setor tenha sido carregado.
+120463	Completar um setor em crise aumenta seu nível militar, o que permite que você aprimore seus barcos.
 120489	You also gain rare materials in crisis sectors, which are needed to upgrade your spaceport and expand your factories with modules.
 120515	Any ships lost during a crisis will be replaced afterwards without incurring additional costs.
 120464	Through the Lunar Licensing Program, you receive the first sector of every region for free.
