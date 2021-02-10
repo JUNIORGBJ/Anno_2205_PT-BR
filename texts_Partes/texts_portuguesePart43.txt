@@ -89,228 +89,228 @@
 3003307	Moon Trader - UQ1 P4 - Delivery
 3003321	Mystery Woman - Steal from BigFive01
 3003322	Mystery Woman - Get Trade Advisor
-3001538	An Unpaid Bill
-3001638	Misdelivery
-3002031	Papering Over Cracks
-3001639	A Watery Dead Drop
-3001536	Highly Recommended
-3001537	Supply Bottleneck
-3003139	Running a Tight Ship
-3001555	Running a Tight Ship
-3003159	Machine Failure
-3001554	Machine Failure
-3001646	Sneering And Privateering
-3001647	Passing The Buck
-3001524	Beneath The Waves
-3001650	Greek Tea Party
-3002032	Honor Among Thieves
-3001655	Improper Appropriation
-3001531	One Favor Not Given
-3001644	Under Your Blanket
-3001528	The Usual Suspect
-3001645	Stolen Goods Stolen Back
-3001648	He Said, She Said
-3001649	Potential Competition
-3002037	Unprepared
-3002038	It Wasn't Me
-3003328	Unprepared
-3003329	It Wasn't Me
-3002039	Live and Learn
-3002040	Kicking the Dog
-3002042	Free Samples
-3002041	Budget Cuts
-3003140	Fuel Miscalculation
-3002043	Fuel Miscalculation
-3003160	Never Abandon Someone in Need
-3002044	Never Abandon Someone in Need
-3003344	Landlocked
+3001538	Uma conta pendente
+3001638	Entrega incorreta
+3002031	Papel de parede rachado
+3001639	Queda em cascata
+3001536	Muito recomendável
+3001537	Gargalo de abastecimento
+3003139	Ao pé da letra
+3001555	Ao pé da letra
+3003159	Falha da máquina
+3001554	Falha da máquina
+3001646	Desprezo e pirataria
+3001647	Passe a batata quente
+3001524	Sob as ondas
+3001650	Lanche Grego
+3002032	Honra entre ladrões
+3001655	Apropriação Indevida
+3001531	Um favor não concedido
+3001644	Debaixo do seu cobertor
+3001528	O Suspeito Usual
+3001645	Roubo de bens roubados
+3001648	Ele disse ela disse
+3001649	Competição potencial
+3002037	Despreparado
+3002038	Não fui eu
+3003328	Despreparado
+3003329	Não fui eu
+3002039	Viva e aprenda
+3002040	Abuso de poder
+3002042	Amostras grátis
+3002041	Cortes de orçamento
+3003140	Erro de cálculo de combustível
+3002043	Erro de cálculo de combustível
+3003160	Nunca abandone os necessitados
+3002044	Nunca abandone os necessitados
+3003344	Sem litoral
 3003345	[GUIDNAME 3003344]
-3002045	Reluctant Obedience
-3002046	Looking the Other Way
-3002047	Out of His Depth
-3002048	Practical Joke
-3002049	State of the Art
-3002050	Yes Man
-3002051	Fishy Business
-3002052	Saayman Special Order
-3002053	What Friends Are For
-3002054	Corporate Interests
-3002055	Everyone for Themselves
-3002056	All for the Money
-3002057	Busted
-3002058	X Marks the Spot
-3002059	A Rock and a Hard Place
-3002060	Beneath the Dust
-3002062	A Good Cover-Up
-3002061	Anything Helps
-3003141	Past Its Prime
-3002063	Past Its Prime
-3003161	Dead Air
-3002064	Dead Air
-3002065	Poisoned Bait
-3002066	Fire And Smoke Screens
-3002067	Time Capsules
-3002068	On Tiptoes
-3002069	Leave No Tracks
-3002070	Stealing from Thieves
-3002071	Not Empty-Handed
-3002072	Through the Back Door
-3002073	Don't Move
-3002074	By A Narrow Margin
-3002075	The Turncoat
-3002076	Blind Trust
-3003290	Timey-Wimey
-3002077	Liftin' You Home
-3002078	Losing Weight
-3002079	Better Luck Next Time
-3002080	Understaffed
-3002082	Staying In Touch
-3002081	Out of Patience
-3003142	Trial and Error
-3002083	Trial and Error
-3003162	Oil on Troubled Waters
-3002084	Oil on Troubled Waters
-3002085	Last Respects
-3002086	Get Off My Ocean
-3002087	Romantic Hobbies
-3002088	Nothing Runs Without Me
-3002089	Finders Keepers
-3002090	Gunpowder Plot
-3002091	Old Debts
-3002092	Following the Protocol
-3002093	Vessel In Distress
-3002094	Get Her Back
-3002095	The Stolen Prototype
-3002096	Don't Flinch
-3002097	The Go-Between
-3002098	Getting Out Of A Jam
-3003280	The Go-Between
-3003281	Getting Out Of A Jam
-3003342	The Go-Between
-3003343	Getting Out Of A Jam
-3002099	I Know What You Did
-3002100	A Spy's Gift
-3002405	Equivalent Exchange
-3002404	Limiting the Supply
-3003143	Fishing for Favors
-3002103	Fishing for Favors
-3003163	Retirement Plan
-3002104	Retirement Plan
-3002105	Leave No Tracks
-3002106	The Ping of Death
-3002107	Quid Pro Quo
-3002108	Subaqua Sabotage
-3002109	Harmless Curiosity
-3002110	Natural Loss
-3002111	Jack in the Box
-3002112	Lichtensteining
-3002113	Cover All Bases
-3002114	Hostage Retrieval
-3002115	Cancel That Meeting
-3002116	Stand Her Ground
-3002117	Staying on Good Terms
-3002118	A Clean Player
-3003330	Staying on Good Terms
-3003331	A Clean Player
-3002119	Not Just One Mistake
-3002120	CSI Arctic
-3002407	Not Our Choice
-3002406	Control Is Better
-3003144	We're Watching You
-3002123	We're Watching You
-3003164	Antifreeze Shortage
-3002124	Antifreeze Shortage
-3002125	Self-Defense
-3002126	Devil and the Deep Blue Sea
-3002127	Arctic Atlantis
-3002128	Disturbances
-3002129	Small Mercies
-3002130	On Some Mysterious List
-3002131	Species Protection
-3002132	Ransom
-3002133	Industry Espionage
-3002134	Walking on Eggshells
-3002135	Preventing Leaks
-3002136	Mind The Catch Limit
-3002510	Hostage-Taking
-3002511	Wiretapped
-3003282	Hostage-Taking
-3003283	Wiretapped
-3002515	A Truth Unspoken
-3003165	A Fair Warning
-3002517	A Fair Warning
-3002518	Peace to Pieces
-3002519	An Unadorned Answer
-3002520	Hands Off
-3002521	Sowing a Minefield
-3002525	Right Where It Belongs
-3002527	Wrong Place, Wrong Time
-3002528	Clearing the Memory
-3002529	For the Revolution
-3002137	Lost in Transaction
-3002138	Scientific Inquiry
-3003284	Lost in Transaction
-3003285	Scientific Inquiry
-3003332	Lost in Transaction
-3003333	Scientific Inquiry
+3002045	Obediência Relutante
+3002046	Olhando para o outro lado
+3002047	Fora de Sua Profundidade
+3002048	Piada
+3002049	Estado da arte
+3002050	Sim Senhor
+3002051	Isto cheira mal
+3002052	Tarefa especial de Saayman
+3002053	Para que servem os amigos
+3002054	Interesses corporativos
+3002055	Cada um por si
+3002056	Tudo pelo dinheiro
+3002057	Preso
+3002058	O x marca o lugar
+3002059	Uma rocha e um lugar difícil
+3002060	Sob a poeira
+3002062	Boa cobertura
+3002061	Qualquer coisa ajuda
+3003141	Houve momentos melhores
+3002063	Houve momentos melhores
+3003161	Ar viciado
+3002064	Ar viciado
+3002065	Isca envenenada
+3002066	Cortinas de fogo e fumaça
+3002067	Cápsulas do tempo
+3002068	Na ponta dos pés
+3002069	Sem deixar rastros
+3002070	Roubar um ladrão
+3002071	Não de mãos vazias
+3002072	Pela porta dos fundos
+3002073	Não se mova
+3002074	Pelos pêlos
+3002075	Vire o casaco
+3002076	Confiança cega
+3003290	Tempo relativo
+3002077	Levá-lo para casa
+3002078	Perdendo peso
+3002079	Mais sorte da próxima vez
+3002080	Falta de pessoal
+3002082	Mantendo contato
+3002081	Sem paciência
+3003142	Tentativa e erro
+3002083	Tentativa e erro
+3003162	Petróleo em águas turbulentas
+3002084	Petróleo em águas turbulentas
+3002085	Pêsames
+3002086	Saia do meu oceano
+3002087	Hobbies Românticos
+3002088	Essencial
+3002089	Achado não é roubado
+3002090	Conspiração de pólvora
+3002091	Dívidas antigas
+3002092	Seguindo o Protocolo
+3002093	Barco em perigo
+3002094	Vingança
+3002095	O Protótipo Roubado
+3002096	Não vacile
+3002097	Mediador
+3002098	Saindo de perigo
+3003280	Mediador
+3003281	Saindo de perigo
+3003342	Mediador
+3003343	Saindo de perigo
+3002099	Eu sei o que você fez
+3002100	O presente de um espião
+3002405	Troca equivalente
+3002404	Oferta limitada
+3003143	Pescando Favores
+3002103	Pescando Favores
+3003163	Plano de aposentadoria
+3002104	Plano de aposentadoria
+3002105	Não deixe rastros
+3002106	O som da morte
+3002107	Algo por algo
+3002108	Sabotagem submarina
+3002109	Curiosidade inofensiva
+3002110	Perda Natural
+3002111	Caixa de música
+3002112	Lichtensteineando
+3002113	Cobrir todas as bases
+3002114	Recuperação de Reféns
+3002115	Cancelar a reunião
+3002116	Mantenha sua posição
+3002117	Mantendo boas relações
+3002118	Jogador limpo
+3003330	Mantendo boas relações
+3003331	Jogador limpo
+3002119	Não é apenas um erro
+3002120	CSI Ártico
+3002407	Não é nossa escolha
+3002406	O controle é melhor
+3003144	Nós observamos você
+3002123	Nós observamos você
+3003164	Falta de anticongelante
+3002124	Falta de anticongelante
+3002125	Defesa pessoal
+3002126	Diabo e o profundo mar azul
+3002127	Atlântida ártica
+3002128	Perturbações
+3002129	Pequenas indulgências
+3002130	Em alguma lista misteriosa
+3002131	Proteção de Espécies
+3002132	Resgate
+3002133	Espionagem Industrial
+3002134	Pisando em ovo
+3002135	Prevenindo Vazamentos
+3002136	Sem ultrapassar
+3002510	Reféns
+3002511	Grampeado
+3003282	Reféns
+3003283	Grampeado
+3002515	Uma verdade não dita
+3003165	Um aviso justo
+3002517	Um aviso justo
+3002518	Paz pelas peças
+3002519	Resposta simples
+3002520	Sem as mãos
+3002521	Semeando um campo minado
+3002525	Em seu lugar
+3002527	Lugar errado, hora errada
+3002528	Limpando a Memória
+3002529	Pela revolução
+3002137	Perdido na transação
+3002138	Inquérito científico
+3003284	Perdido na transação
+3003285	Inquérito científico
+3003332	Perdido na transação
+3003333	Inquérito científico
 3002139	Schrödinger
-3002140	Cleaning up the Experiment
-3002409	Brownie Points
-3002408	Context Is Everything
-3003146	Careful, Fragile
-3002143	Careful, Fragile
-3003166	Second Opinion
-3002144	Second Opinion
-3002145	Empirical Studies
-3002146	Hypothesis 332-delta
-3002147	The Prycomber Triangle
-3002148	Bright Light
-3002149	Data Privacy
-3002150	Tactical Espionage Action
-3002151	Yet Another Doctorate
-3002152	First Contact
-3002153	Have You Seen This Ship
-3002154	Live Demonstration
-3002155	Want You Gone
-3002156	Inbox (3141)
-3002157	Geologist, Not Geographer
-3002158	Economic Geology
-3003286	Geologist, Not Geographer
-3003287	Economic Geology
-3003334	Geologist, Not Geographer
-3003335	Economic Geology
-3002159	Incorrect Delivery
-3002160	Shifting the Blame
-3002411	Legwork
-3002410	Asking Nicely
-3003147	Dodging the Fallout
-3002163	Dodging the Fallout
-3003167	Her Pink Slip
-3002164	Her Pink Slip
-3002165	Waste Management
-3002166	My Enemy's Enemy
-3002167	Everyone Needs a Hobby
-3002168	Exploratory Drilling
-3002169	Playing Dirty
-3002170	Spying on the Spymaster
-3002171	A Personal Message
-3002172	Private Sale
-3002173	That's Company Property
-3002174	Mystery Consulting
-3002175	Vigilante Justice
-3002176	Leech
-3002177	A Simple Request
-3002178	Forgive and Forget
-3003336	A Simple Request
-3003337	Forgive and Forget
-3002179	The Highest Compliment
-3002180	Chemical Hazards
-3002413	To Good Neighborship
-3002412	Saving Money
-3003148	Hunting Renegade Heads
-3002183	Hunting Renegade Heads
-3003168	Social Experiments
-3002184	Social Experiments
-3003346	Illegal Excavation
+3002140	Limpando o experimento
+3002409	Pontos extras
+3002408	Contexto é tudo
+3003146	Cuidado, Frágil
+3002143	Cuidado, Frágil
+3003166	Segunda opinião
+3002144	Segunda opinião
+3002145	Estudos empíricos
+3002146	Hipótese 332-delta
+3002147	Triângulo Prycomber
+3002148	Luz brilhante
+3002149	Dados privados
+3002150	Ação de espionagem tática
+3002151	Mais um Doutorado
+3002152	Primeiro contato
+3002153	Você já viu este barco
+3002154	Demonstração ao Vivo
+3002155	Desaparece
+3002156	Caixa de entrada (3141)
+3002157	Geólogo, Não Geógrafo
+3002158	Geologia Econômica
+3003286	Geólogo, Não Geógrafo
+3003287	Geologia Econômica
+3003334	Geólogo, Não Geógrafo
+3003335	Geologia Econômica
+3002159	Entrega Incorreta
+3002160	Culpe outra pessoa
+3002411	Preparativos
+3002410	Pergunte educadamente
+3003147	Evite a queda
+3002163	Evite a queda
+3003167	Sua folha de dispensa
+3002164	Sua folha de dispensa
+3002165	Gestão de resíduos
+3002166	Inimigo do meu inimigo
+3002167	Todo mundo precisa de um hobby
+3002168	Perfuração Exploratória
+3002169	Jogando sujo
+3002170	Espionando o Spymaster
+3002171	Uma Mensagem Pessoal
+3002172	Venda privada
+3002173	Isso é propriedade da empresa
+3002174	Consultoria misteriosa
+3002175	Justiça Justiceira
+3002176	Sanguessuga
+3002177	Um pedido simples
+3002178	Perdoe e esqueça
+3003336	Um pedido simples
+3003337	Perdoe e esqueça
+3002179	O mais alto elogio
+3002180	Riscos Químicos
+3002413	Pela boa convivência
+3002412	Economizando dinheiro
+3003148	Caçando cabeças renegadas
+3002183	Caçando cabeças renegadas
+3003168	Experiências Sociais
+3002184	Experiências Sociais
+3003346	Escavação Ilegal
 3003347	[GUIDNAME 3003346]
-3002185	Intimidation Tactics
+3002185	Táticas de Intimidação
