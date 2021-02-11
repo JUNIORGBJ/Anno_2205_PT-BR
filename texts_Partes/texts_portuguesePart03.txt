@@ -125,77 +125,77 @@
 117280	Fase 3 do projeto concluído
 117281	Estátua da Segunda Onda concluída.
 117282	[GUIDNAME 1003163] e [GUIDNAME 2002013] desbloqueado
-114680	"First, let's make some room for the foundation. Blasting those boulders will involve some airborne dirt, but I can't imagine you being afraid of that."
-114681	"As any project, this requires reliable funding. I do hope you're up to the task. Your competitors didn't prove quite as determined as you seem to be."
-114682	"Time to escort the work force. It didn't escape your populace that this project created countless job opportunities out of nothing."
-114683	"I understand that keeping the construction site supplied with materials is quite a drain. You know, your flexibility is the reason we chose you over the Big Five for this endeavor."
-114684	"Now that the materials production has wrapped up, all that's left to do is make the delivery. Don't take too long or your competitors might claim the project is a waste of time."
-114685	"I was just informed of the foundation's completion. The schedule is tight, but surrounding gardens are essential. Can you choose an assortment from the local flora for the gardeners?"
-114686	"The gardens require a dedicated workforce or the project will grind to a halt. It would be pretty ironic if we were to need outside help for our monument, wouldn't it?"
-114687	"Marble walkways will provide the finishing touch. Afterwards we can start on the main attraction... Hang on, I'm getting a call from an investor, I have to take this."
-114688	"Perfect timing, I just secured backing for our final phase. It's asking a lot, but a monument like this can't be made of anything less than titanium."
-114689	"There's a smear campain in motion claiming our monument is just compensating for a, and I quote, "dingy rathole of a city". Prove your metropolis is attractive as ever."
-114690	"I've ensured that all of the Big Five representatives are in attendance. Escort the equipment and stun them into silence with a perfectly executed lightshow."
-118068	"First, let's make space for the foundation. Blasting those boulders will blow up some dirt, but I can't imagine you'd be afraid of that."
-118069	"Like any project this here requires reliable funding. I could pitch in. But the Lunar Licensing project has cut into our finances already, so..."
-118070	"Time to escort the workforce here. It didn't escape your populace that this project created a myriad of job opportunities out of nothing."
-118071	"I understand that sustaining the construction site with materials is challenging. Then again, your flexibility is the reason we chose you over the Big Five for this endeavor."
-118072	"Now that the material production is wrapped up, all that's left to do is delivering. Proceed quickly or the press might decry the project as a time sink."
-118073	"So, the foundation is complete. Well, our time plan is tight, but surrounding it with gardens is still essential. Can you choose an assortment of the local flora for the gardeners?"
-118074	"Our material cost calculation had to be corrected. Regardless, we won't cut our workers' salary, will we? That would cause quite the scandal."
-118075	"Marble walkways will be cherry on the cake. Of course I can take care of the... Ah, hang on, a call from an investor, have to take it. You see to everything, right?"
-118076	"The gardens still require a good amount of work. And you're likely not relying on external workforce for your own monument. Would be quite ironic, wouldn't it?"
-118077	"The construction is in full swing. To keep up you'll have to bring in more professionals. They flock to us! After all you provide work and reliable pay."
-118078	"Perfect timing, I just had a call with our stakeholders about the final phase. They want us to install a new holographic display. The processing power needed is nothing to sneeze at."
-118079	"It's asking a lot, but a monument like this one can't be made of anything less than titanium. We're building this for the ages, after all."
-118080	"We designed the monument to be as energy-efficient as possible. The last stages of the construction will put a strain on your power lines, however."
-118081	"A harbor at the foot of the monument is still missing. How else would guests reach it? We'll be relying on tried-and-true materials for this."
-118082	"There's a smear campain in motion. They say, our monument is just compensation for a, and I quote, 'dingy rathole of a city'. Let's prove your metropolis is attractive as ever."
-118083	"The unveiling needs to be unforgettable. I ordered fireworks, they just need to be positioned for maximum effect. Then, you can lean back and enjoy."
-109042	"Good day to you. Work has started on a project that will lead the way for generations to come. Will you rise to the occasion?"
-115235	Reach Corporation Level of 10 to continue the construction process.
-115236	Reach Corporation Level of 20 to continue the construction process.
-114919	"The monument has definitely become a landmark in its own right. The Lunar Licensing Program's popularity has veritably skyrocketed since its completion!"
-120051	Erect a statue to celebrate your corporation.
-114796	[NOTIFICATION_CHARACTER_NAME] informs you that the Climate Stabilizer was deliberately sabotaged.
-114797	[NOTIFICATION_CHARACTER_NAME] is glad you have the Troposphere Regulator back so that repairs can proceed.
-114798	[NOTIFICATION_CHARACTER_NAME] is overjoyed that the Climate Stabilizer has been repaired.
-114799	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081] setting</font>
-114800	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081] setting</font>
-114801	Unlocks <font [MINIMAPDOT_COLOR setting</font>
-114802	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081] setting</font>
-114803	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081] setting</font>
-114804	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082] setting</font>
-114805	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082] setting</font>
-118233	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082] setting</font>
-118234	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082] setting</font>
-114806	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082] setting</font>
-114807	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083] setting</font> & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084] setting</font>
-114808	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083] setting</font> & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084] setting</font>
-118235	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083] setting</font> & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084] setting</font>
-118236	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083] setting</font> & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084] setting</font>
-114809	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083] setting</font> & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084] setting</font>
-119908	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font> setting
-119909	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font> setting
-119910	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font> setting
-114902	[THIRDPARTY_NAME] tells you, he isn't exactly good friends with Ville Jorgensen.
-114904	[NOTIFICATION_CHARACTER_NAME] announces the removal of the Troposphere Regulator.
-114905	[NOTIFICATION_CHARACTER_NAME] scolds you for meddling with the Climate Stabilizer repairs, but accepts your involvement as a necessity.
-114906	[NOTIFICATION_CHARACTER_NAME] coerces you to be observant.
-114907	[NOTIFICATION_CHARACTER_NAME] offers you to fulfill your requests for specific climatic changes in your sectors.
-114908	[NOTIFICATION_CHARACTER_NAME] ignores Arctic Custodian principles, spilling internal information.
-114909	[NOTIFICATION_CHARACTER_NAME] informs you the local Climate Stabilizer is malfunctioning.
-114910	[NOTIFICATION_CHARACTER_NAME] hopes you will help him with the repairs.
-114911	[NOTIFICATION_CHARACTER_NAME] can no longer sit still and do nothing.
-117283	Project stage 1 completed
-117284	Climate Stabilizer defect discovered
-117285	[GUIDNAME 2002081] unlocked
-117286	Project stage 2 completed
-117287	Troposphere regulator retrieved
-117288	[GUIDNAME 2002082] unlocked
-117289	Project stage 3 completed
-117290	Climate Stabilizer repaired
-117291	[GUIDNAME 2002083] and [GUIDNAME 2002084] unlocked
+114680	"Primeiro, vamos abrir espaço para as fundações. Voar sobre essas pedras levantará um pouco de poeira, mas não acho que isso vá preocupá-lo."
+114681	"Como qualquer projeto, você precisa de um financiamento confiável. Espero que esteja à altura da ocasião. Seus concorrentes não pareciam tão determinados quanto você."
+114682	"Chegou a hora de acompanhar a mão de obra. Não foi esquecido por seus habitantes locais que este trabalho criou inúmeras oportunidades de trabalho do nada."
+114683	"Eu entendo que manter o suprimento de materiais para o local é uma sangria. Mas sua flexibilidade é o motivo pelo qual preferimos você em vez dos Big five para este trabalho."
+114684	"Terminada a produção dos materiais, falta apenas fazer a entrega. Seus concorrentes foram rápidos em dizer que o projeto é uma perda de tempo."
+114685	"Acabo de ser informado que as fundações estão concluídas. O momento é muito apertado, mas os jardins circundantes são essenciais. Você poderia fazer uma seleção da flora local para os jardineiros?"
+114686	"Para os jardins, você precisa de uma mão de obra dedicada, caso contrário o projeto vai parar. Seria irônico se precisássemos de ajuda externa para o nosso monumento, hein?"
+114687	"As passarelas de mármore vão dar o toque final. Aí podemos começar com a atração principal... Espere, o investidor está me ligando. Tenho que atender."
+114688	"É o momento perfeito: acabei de garantir apoio para nossa fase final. Sei que é muito pedir, mas tal monumento tem que ser feito de titânio."
+114689	"Eles lançaram uma campanha de difamação alegando que nosso monumento nada mais é do que uma compensação para, cito literalmente: "uma cidade que é como um chiqueiro nojento. Isso mostra que sua metrópole está tão atraente como sempre."
+114690	"Eu fiz questão de todos os representantes dos Big five comparecerem. Escolte o equipamento e silencie-os, surpreendendo-os com um show de luzes perfeitamente executado."
+118068	"Primeiro, vamos abrir espaço para as fundações. Muita poeira vai ser levantada para explodir essas pedras, mas não acho que isso assuste você."
+118069	"Como em qualquer projeto, você precisa de financiamento confiável aqui. Eu poderia ajudar, mas o Projeto de Licença Lunar já afetou nossa economia, então..."
+118070	"Chegou a hora de escoltar a mão de obra aqui. Não foi esquecido por seus habitantes locais que este trabalho criou uma tonelada de oportunidades de trabalho do nada."
+118071	"Eu entendo que manter o trabalho com materiais é um grande desafio. Mas sua flexibilidade é o motivo pelo qual preferimos você aos Big five para este trabalho."
+118072	“Agora que a produção dos materiais está finalizada, falta fazer a entrega. Mova-se rápido ou a imprensa pode censurar o projeto como uma perda de tempo”.
+118073	"As fundações estão prontas. Nosso cronograma é muito apertado, mas os jardins ao redor são essenciais. Você poderia fazer uma seleção da flora local para os jardineiros?"
+118074	"Tivemos que corrigir nossos cálculos de custo de material. Em qualquer caso, não vamos cortar o salário de nossos funcionários, vamos? O escândalo seria tremendo."
+118075	"As passarelas de mármore vão dar o toque final. Claro, eu posso cuidar... Espere, um investidor está ligando. Eu tenho que atender. Você cuida de tudo, certo?"
+118076	"Os jardins ainda precisam de uma boa quantidade de trabalho. E você pode não ser capaz de contar com mão de obra externa para o seu próprio monumento. Seria bastante irônico, não seria?"
+118077	“A construção está progredindo com rapidez e eficiência. Para acompanhar, você vai ter que trazer mais profissionais. Eles vêm até nós! Afinal, você fornece mão de obra e uma remuneração confiável.”
+118078	"O momento certo: acabei de receber um telefonema de nossos acionistas sobre a fase final. Eles querem que instalemos uma nova exposição holística. Não devemos subestimar a capacidade de processamento necessária."
+118079	"Sei que é pedir muito, mas um monumento como este só pode ser feito de titânio. Afinal, estamos construindo isso para a posteridade."
+118080	"Projetamos o monumento para ser o mais eficiente possível do ponto de vista energético. Mas as últimas fases da construção vão sobrecarregar seu sistema de energia."
+118081	“Ainda existe um porto ao pé do monumento. Do contrário, como os visitantes vão chegar lá? Para isso, vamos usar materiais comprovados”.
+118082	“Eles começaram uma campanha de difamação. Dizem que nosso monumento nada mais é do que uma compensação para, repito literalmente:“ uma cidade que é como um chiqueiro imundo. Vamos mostrar que sua metrópole está tão atraente como sempre. "
+118083	“A inauguração tem que ser um ato inesquecível. Eu encomendei fogos de artifício, basta posicioná-los para maximizar o efeito. Depois, relaxe e divirta-se”.
+109042	"Bom dia. Foi iniciado um projeto que pavimentará o caminho para as gerações futuras. Você vai aproveitar a oportunidade?"
+115235	Alcance o nível corporativo 10 para continuar o processo de construção.
+115236	Alcance o nível corporativo 20 para dar continuidade ao processo de construção.
+114919	"O monumento se tornou um marco por si só. A popularidade do Programa de Licença Lunar explodiu desde sua conclusão!"
+120051	Erga uma estátua em homenagem à sua corporação.
+114796	[NOTIFICATION_CHARACTER_NAME] informa que o Estabilizador de Clima foi sabotado deliberadamente.
+114797	[NOTIFICATION_CHARACTER_NAME] está feliz por você ter o Regulador da troposfera de volta para que os reparos possam prosseguir.
+114798	[NOTIFICATION_CHARACTER_NAME] está muito feliz porque o Estabilizador de Clima foi reparado.
+114799	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font>
+114800	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font>
+114801	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font>
+114802	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font>
+114803	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font>
+114804	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font>
+114805	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font>
+118233	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font>
+118234	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font>
+114806	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font>
+114807	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font> e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084]</font>
+114808	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font> e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084]</font>
+118235	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font> e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084]</font>
+118236	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font> e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084]</font>
+114809	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font> e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084]</font>
+119908	Configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font>
+119909	Configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font>
+119910	Configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font>
+114902	[THIRDPARTY_NAME] diz a você que ele e Ville Jorgensen não são exatamente amigos.
+114904	[NOTIFICATION_CHARACTER_NAME] anuncia a remoção do Regulador da troposfera.
+114905	[NOTIFICATION_CHARACTER_NAME] repreende você por se intrometer nos reparos do Estabilizador de Clima, mas aceita seu envolvimento como uma necessidade.
+114906	[NOTIFICATION_CHARACTER_NAME] recomenda que você fique em alerta.
+114907	[NOTIFICATION_CHARACTER_NAME] oferece para satisfazer sua solicitação de mudanças climáticas específicas em seus setores.
+114908	[NOTIFICATION_CHARACTER_NAME] ignora os princípios da custódia do Ártico, espalhando informações internas.
+114909	[NOTIFICATION_CHARACTER_NAME] informa que o estabilizador climático local não está funcionando corretamente.
+114910	[NOTIFICATION_CHARACTER_NAME] espera que você o ajude com os reparos.
+114911	[NOTIFICATION_CHARACTER_NAME] não pode mais ficar com os braços cruzados sem fazer nada.
+117283	Fase 1 do projeto concluída
+117284	Defeito descoberto no estabilizador climático
+117285	[GUIDNAME 2002081] desbloqueado
+117286	Fase 2 do projeto concluída
+117287	Regulador da troposfera recuperado
+117288	[GUIDNAME 2002082] desbloqueado
+117289	Fase 3 do projeto concluído
+117290	Estabilizador climático reparado
+117291	[GUIDNAME 2002083] e [GUIDNAME 2002084] desbloqueado
 114716	"Okay, the crazy stuff... We should gather some data on some of the strange climate anomalies here. Might tell us just what's wrong with the Stabilizer."
 114717	"Oh, didn't I say? The other Custodians don't want me to use their labs. It's a bummer, but we'll have to build up our own research team for data analysis."
 114718	"So weird. Our researchers can't make head or tail of the anomalies. Good thing some of my buds are climatology experts. I called them in!"
