@@ -1,49 +1,49 @@
-117273	Graphene generator improved
-118180	"Okay, let's start off with some fundamental research. We have to know exactly what kind of facility we're dealing with."
-118181	"Woah, what a find! It's an Ark, an old floating research station! We should prepare for a diving expedition to examine it further."
-118182	"Okay, should be sufficient living space for the team. Next we'll need capable divers. But you're the expert in staff acquisition, I guess."
-118183	"Um... yeah, details... I've kinda underestimated the supply expenses. Say, could you take care of provisions?"
-118184	"Divers submerging... once I get this error out of the lazer cutters. Sure, we could fall back on dull old drills. But you supply the materials, then."
-118185	"Right, you're not looking for a sec, and someone goes after your research object. Looks like Usoyev's line of work. Don't be squeamish!"
-118187	"We better close off the area. This is our scientific discovery! I'm not taking chances it's cannibalized in the name of profit."
-118189	"Alright, I've compiled a security plan. I'm counting on you to assemble the onsite security forces. Should keep out any unbidden guests."
-118190	"I'll admit it, I can't decode this all on my own. Or disassemble it. I need assistants."
-118191	"Now the fun part! I've cooked up this pretty promising design for a hoisting crane. Can't wait to turn it into a steely reality."
-118209	"The difficult part is to preserve the original A.I. unit. Better have some androids link up with the Ark servers and act as backup storages, just in case."
-118210	"Alright, next step is to supply the Ark with electricity. The onboard accumulators went belly-up, so I hope I may tap your network instead."
-118211	"I'm sure we can bring the Ark back to the surface. The propulsion system doesn't looks all that broken. With a few new parts here and there..."
-118212	"Nope, the old propulsion engines can't rile up enough buoyant force to keep the Arc afloat by its own. Let's give it artificial legs!"
-118213	"No working propulsion engine here. But I'm sure I can tweak some Anti-Grav engines to do the job. C'mon! This is practically failsafe!"
-114658	"Okay, let's start off with some fundamental research. We have to know exactly what kind of facility we're dealing with here."
-114659	"Woah, what a find! It's an Ark, an old floating research station! We should prepare a diving expedition to examine it further."
-114660	"Okay, should be sufficient living space for the team. Next we'll need capable divers. Good you're an expert at hiring staff, huh?"
-114661	"Um... yeah, details... I seem to have kind of underestimated the cost of supplies on this project. Say, could you deliver some provisions for the team?"
-114662	"Divers in the water... once I get this error out of my SubAqua Breathing Unit. Sure, we could fall back on the plain old air tank, if you insist."
-114663	"Right. You look away for one sec and they start dismantling your research object. Looks like Usoyev's kind of thing. Don't be squeamish!"
-114664	"We'd better cordon off the area. I don't think I can handle any more unbidden guests stealing our stuff."
-114665	"Okay, now for the fun part! I've cooked up this pretty promising design for a crane hoist. Can't wait to turn it into a steely reality. "
-114666	"I'm sure we can bring the Ark back to the surface. The propulsion and energy systems are broken, but a few maintenance bots can probably fix that."
-114667	"Alright, next step is to supply the Ark with electricity. The onboard accumulators are useless, so I hope I can tap your network instead."
-114668	"Um, looks like the old propulsion doesn't provide enough lifting power. But I'm sure I could tweak some Anti-Grav engines to do the job."
-109017	"Hey, please, don't kick me out... I'm just pursuing a pet project of mine. Give me a minute and you'll see how worthwhile my research is, okay?"
-114941	Reach a Corporation Level of 10 to continue with the Ark recovery.
-114940	Reach a Corporation Level of 20 to continue with the Ark recovery.
-114694	"Can't talk. Totally submerged in E.V.E.'s personality code. The rest of the Ark is for you."
+117273	Gerador de grafeno aprimorado
+118180	"Vamos, vamos começar com algumas pesquisas básicas. Precisamos saber exatamente de que tipo de instalações estamos falando."
+118181	"Que descoberta! É uma arca, uma velha estação de pesquisa flutuante! Devíamos nos preparar para uma expedição subaquática para examiná-la minuciosamente."
+118182	"Ok, deve haver espaço suficiente para a equipe. Agora, precisamos de mergulhadores profissionais. Mas presumo que você seja um especialista em recrutamento."
+118183	"Ah... sim, os detalhes... eu subestimei os custos de suprimentos. Você poderia cuidar dos arranjos?"
+118184	"Mergulhadores subaquáticos... Quando eu arrancar esse erro dos cortadores a laser. Bem, poderíamos usar brocas velhas e chatas. Mas você coloca os materiais."
+118185	"Perca-se por um segundo e alguém já está atrás do seu projeto de pesquisa. Parece o estilo de Usoyev. Não seja apreensivo!"
+118187	"É melhor fecharmos a área. Esta é nossa descoberta científica! Não estou me arriscando. Existe puro canibalismo pelo lucro."
+118189	"Elaborei um plano de segurança. Conto com você para preparar as forças de segurança na área. Deve ser o suficiente para manter os visitantes indesejados afastados."
+118190	"Eu admito: não posso decodificar tudo isso sem ajuda. Nem desmontá-lo. Preciso de ajudantes."
+118191	"E agora a parte divertida! Eu preparei um design de empilhadeira muito promissor. Estou ansioso para transformá-la em uma realidade de aço."
+118209	"A coisa mais difícil é manter a unidade de I.A original. Melhor ter andróides amarrados aos servidores da arca para armazenamento de backup, apenas no caso."
+118210	"Ok, o próximo passo é fornecer eletricidade para a arca. As baterias de bordo estragaram, então espero poder me conectar à sua rede."
+118211	"Claro que podemos levar a arca à superfície. O sistema de propulsão não parece estar totalmente quebrado. Com algumas peças sobressalentes aqui e ali..."
+118212	"Não. Os velhos motores de propulsão não têm potência suficiente para manter a arca flutuando por conta própria. Vamos colocar pernas artificiais nela!"
+118213	"Não há motor de propulsão funcionando aqui. Bem, com certeza posso lidar com motores Anti-Gravidade. Vamos! Isso é quase perfeito!"
+114658	"Vamos, vamos começar com algumas pesquisas básicas. Precisamos saber exatamente de que tipo de instalações estamos falando."
+114659	"Que descoberta! É uma Arca, uma antiga estação de pesquisa flutuante! Devíamos preparar uma expedição subaquática para examiná-la minuciosamente."
+114660	"Ok, deve haver espaço suficiente para a equipe. Agora, precisamos de mergulhadores profissionais. Que bom que você recruta pessoas, hein?"
+114661	"Ah... sim, os detalhes... acho que subestimei o custo dos suprimentos para este projeto. Diga-me, você poderia enviar suprimentos para a equipe?"
+114662	"Mergulhadores na água ... Quando eu solucionar esse problema da minha unidade de respiração SubAquática. Bem, se você insiste, podemos voltar para o antigo reservatório de ar."
+114663	"Uau. Fique perdido por um segundo e eles começam a desmontar o objeto de sua investigação. Parece coisa de Usoyev. Não fique apreensivo!"
+114664	"É melhor isolarmos a área. Não acho que aguente mais roubos."
+114665	"Ok, agora para a parte divertida! Elaborei um projeto de guindaste muito promissor. Estou ansioso para transformá-lo em uma realidade de aço."
+114666	"Claro que podemos trazer a Arca para a superfície. Os sistemas de propulsão e energia estão quebrados, mas com certeza podem ser consertados por alguns robôs de manutenção."
+114667	"Ok, o próximo passo é fornecer eletricidade para a Arca. As baterias de bordo são inúteis, então espero poder conectar à sua rede."
+114668	"Uau, a unidade antiga não parece ter força de elevação suficiente. Bem, tenho certeza que pode lidar com alguns motores Anti-Gravidades."
+109017	"Ei, vamos, não me mande embora... Estou apenas tentando trabalhar em um projeto pessoal. Dê-me um minuto e você verá que minha pesquisa vale a pena, ok?"
+114941	Alcance o nível corporativo 10 para continuar a recuperação da arca.
+114940	Alcance o nível corporativo 20 para continuar a recuperação da arca.
+114694	"Eu não posso falar. Estou no código de personalidade de E.V.E. O resto da arca é para você."
 114918	NO LOCA "Please Change..."
-120049	Lift a sunken Ark from the sea and recover rare materials from its interior.
-111998	[NOTIFICATION_CHARACTER_NAME] informs you that the first dam is now connected to your power grid.
-112964	[NOTIFICATION_CHARACTER_NAME] is quite impressed by the second dam.
-112965	[NOTIFICATION_CHARACTER_NAME] praises you for finishing all three dams.
-119901	<font [MINIMAPDOT_COLOR 2001947]>+1000 Energy</font> in this sector
-120379	<font [MINIMAPDOT_COLOR 2001947]>+2000 Energy</font> in this sector
-120380	<font [MINIMAPDOT_COLOR 2001947]>+3000 Energy</font> in this sector
-117854	[NOTIFICATION_CHARACTER_NAME] is here without permission, but ask that you hear her out.
-117855	[NOTIFICATION_CHARACTER_NAME] briefs you on Lei Sheng's earlier dam building ambitions.
-117856	[NOTIFICATION_CHARACTER_NAME] says the project based on the work of the now obscure company Global Trust.
-117857	[NOTIFICATION_CHARACTER_NAME] offers you a partnership in rebuilding the dams.
-117859	[NOTIFICATION_CHARACTER_NAME] is striving to prepare for the next phase, but needs more time.
-117860	Seeing that two dams are functional, [NOTIFICATION_CHARACTER_NAME] prepares for the final construction phase.
-117861	[NOTIFICATION_CHARACTER_NAME] shows wary respect for what you've accomplished.
+120049	Levante uma Arca afundada do mar e recupere materiais raros de seu interior.
+111998	[NOTIFICATION_CHARACTER_NAME] informa que a primeira barragem já está conectada à rede elétrica.
+112964	[NOTIFICATION_CHARACTER_NAME] está bastante impressionado com a segunda barragem.
+112965	[NOTIFICATION_CHARACTER_NAME] elogia você por terminar todas as três barragens.
+119901	<font [MINIMAPDOT_COLOR 2001947]>+1000 pontos de Energia</font> neste setor
+120379	<font [MINIMAPDOT_COLOR 2001947]>+2000 pontos de Energia</font> neste setor
+120380	<font [MINIMAPDOT_COLOR 2001947]>+3000 pontos de Energia</font> neste setor
+117854	[NOTIFICATION_CHARACTER_NAME] veio sem permissão, mas pede que você ouça o que ele tem a dizer.
+117855	[NOTIFICATION_CHARACTER_NAME] informa sobre as ambições anteriores de construção de barragens de Lei Sheng.
+117856	[NOTIFICATION_CHARACTER_NAME] disse que o projeto foi baseado no trabalho da obscura empresa Global Trust.
+117857	[NOTIFICATION_CHARACTER_NAME] oferece parceria na reconstrução das barragens.
+117859	[NOTIFICATION_CHARACTER_NAME] está se esforçando para se preparar para a próxima fase, mas precisa de mais tempo.
+117860	Vendo que duas barragens estão funcionando, [NOTIFICATION_CHARACTER_NAME] se prepara para a fase final de construção.
+117861	[NOTIFICATION_CHARACTER_NAME] mostra respeito pelo que você conquistou.
 117224	Fase 1 do projeto concluído.
 117222	Primeira barragem finalizada.
 117223	Bônus de energia ativado neste setor
@@ -87,9 +87,9 @@
 113232	Alcance o nível corporativo 20 para iniciar a construção da terceira barragem.
 113236	"Todas as estações funcionam perfeitamente. Não é fácil me impressionar, mas não vou te perder de vista! Parece que você não vai deixar nada impedi-lo de realizar suas visões!"
 120050	Descubra por que três das antigas represas desabaram e reconstrua-as para produzir energia.
-114782	[NOTIFICATION_CHARACTER_NAME] is satisfied with the building speed you are displaying.
-114783	The production is halted until [NOTIFICATION_CHARACTER_NAME] can convince the investors.
-114784	[NOTIFICATION_CHARACTER_NAME] is pleased with the outcome and thanks you for the collaboration.
+114782	[NOTIFICATION_CHARACTER_NAME] sua velocidade de construção o satisfaz.
+114783	A produção foi interrompida até [NOTIFICATION_CHARACTER_NAME] convencer os investidores.
+114784	[NOTIFICATION_CHARACTER_NAME] está satisfeito com o resultado e agradece a sua colaboração.
 114785	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003161] Ornamental</font>
 114786	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003161] Ornamental</font>
 114787	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003161] Ornamental</font>
@@ -106,25 +106,25 @@
 118087	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003163] Ornamental</font>
 118088	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003163] Ornamental</font>
 114795	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003163] Ornamental</font>
-119905	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003161]</font> Ornament & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002009]</font> Setting
-119906	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003162]</font> Ornament & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002012]</font> Setting
-119907	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003163]</font> Ornament & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002013]</font> Setting
-116380	[NOTIFICATION_CHARACTER_NAME] wants you to participate in his new project.
-116381	[NOTIFICATION_CHARACTER_NAME] is convinced you will be the perfect partner to help strengthen the Global Union.
-116382	[NOTIFICATION_CHARACTER_NAME] wishes to celebrate the centennial of the founding of the first lunar colony.
-116383	[NOTIFICATION_CHARACTER_NAME] is looking forward to the cooperation with you.
-116384	[NOTIFICATION_CHARACTER_NAME] is preoccupied and will contact you when the construction has advanced far enough.
-116385	[NOTIFICATION_CHARACTER_NAME] will contact you as soon he has taken care of all planning obstacles.
-116386	[NOTIFICATION_CHARACTER_NAME] admires your monument and the many opportunities it has brought.
-117274	Project stage 1 completed
-117275	Statue foundation laid out
-117276	[GUIDNAME 1003161] & [GUIDNAME 2002009] unlocked
-117277	Project stage 2 completed
-117278	Park and statue legs laid out
-117279	[GUIDNAME 1003162] & [GUIDNAME 2002012] unlocked
-117280	Project stage 3 completed
-117281	Second Wave Statue completed
-117282	[GUIDNAME 1003163] & [GUIDNAME 2002013] unlocked
+119905	Ajustes de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003161]</font> elemento decorativo e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002009]</font> Setting
+119906	Ajustes de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003162]</font> elemento decorativo e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002012]</font> Setting
+119907	Ajustes de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003163]</font> elemento decorativo e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002013]</font> Setting
+116380	[NOTIFICATION_CHARACTER_NAME] quer que você participe de seu novo projeto.
+116381	[NOTIFICATION_CHARACTER_NAME] está convencido de que você será o parceiro perfeito para ajudar a fortalecer a União Global.
+116382	[NOTIFICATION_CHARACTER_NAME] deseja comemorar o centenário da fundação da primeira colônia lunar.
+116383	[NOTIFICATION_CHARACTER_NAME] está ansioso para cooperar com você.
+116384	[NOTIFICATION_CHARACTER_NAME] está preocupado e entrará em contato com você quando a construção estiver suficientemente avançada.
+116385	[NOTIFICATION_CHARACTER_NAME] entrará em contato com você assim que ele tiver cuidado de todos os obstáculos de planejamento.
+116386	[NOTIFICATION_CHARACTER_NAME] admira seu monumento e as muitas oportunidades que ele trouxe.
+117274	Fase 1 do projeto concluída
+117275	Preparou a fundação da estátua
+117276	[GUIDNAME 1003161] e [GUIDNAME 2002009] desbloqueado
+117277	Fase 2 do projeto concluída
+117278	Colocou o parque e as pernas da estátua
+117279	[GUIDNAME 1003162] e [GUIDNAME 2002012] desbloqueado
+117280	Fase 3 do projeto concluído
+117281	Estátua da Segunda Onda concluída.
+117282	[GUIDNAME 1003163] e [GUIDNAME 2002013] desbloqueado
 114680	"First, let's make some room for the foundation. Blasting those boulders will involve some airborne dirt, but I can't imagine you being afraid of that."
 114681	"As any project, this requires reliable funding. I do hope you're up to the task. Your competitors didn't prove quite as determined as you seem to be."
 114682	"Time to escort the work force. It didn't escape your populace that this project created countless job opportunities out of nothing."
