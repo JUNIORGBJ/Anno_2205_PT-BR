@@ -1,0 +1,6 @@
+Workforce=Mão de Obra
+employee=Empregado
+warehouse=Armazém
+settlement=Estabelecimentos
+Workers=Trabalhadores
+Custodians=Tutores
