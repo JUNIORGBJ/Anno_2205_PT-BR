@@ -238,7 +238,7 @@
 7000049	Fábrica de Biopolímero
 7000254	Pedreira de feldspato
 7000032	Mina de tungstênio
-7000255	Cobalt Minealto
+7000255	Mina de Cobalto
 7000042	Superficie de musgo
 7000261	Prado para bois almiscarados
 7000263	[GUIDNAME 1000365]
