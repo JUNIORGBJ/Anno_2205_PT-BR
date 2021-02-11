@@ -20,50 +20,50 @@
 7001473	[GUIDNAME 7001468]
 7001884	[GUIDNAME 7001875]
 7001885	[GUIDNAME 7001876]
-7000040	Command Aircraft
+7000040	Aeronave de comando
 7000117	[GUIDNAME 1000029]
 7000119	[GUIDNAME 1000806]
-7000379	Rice Farm
-7000380	Rice Farm
-7000433	Rice Farm
-7000145	Dr. Esther Nylund's Plane
-7000150	Vault Temperature Control
-7000151	Vault Temperature Control
-7001427	Vault Generator
-7001428	Vault Generator
-7001429	Seed Vault
-7001430	Seed Vault
+7000379	Fazenda de arroz
+7000380	Fazenda de arroz
+7000433	Fazenda de arroz
+7000145	Avião da Dr. Esther Nylund
+7000150	Controle de temperatura da câmara
+7000151	Controle de temperatura da câmara
+7001427	Gerador da câmara
+7001428	Gerador da câmara
+7001429	Câmara de sementes
+7001430	Câmara de sementes
 7000174	[GUIDNAME 1002917]
-7000172	Blocking Lava
-7000187	Temperature Module
-7000189	Temperature Unit
+7000172	Bloqueio de lava
+7000187	Módulo de Temperatura
+7000189	Unidade de temperatura
 7000190	[GUIDNAME 1002914]
-7000191	Radiating Wreckage
-7000192	Engineer Transporter
-7000193	Generator Control
-7000195	Afflicted Researchers
-7000196	Infected Wildlife
-7000197	Secured Seed Container
+7000191	Irradiando Destroços
+7000192	Esteira de engenharia
+7000193	Controle do gerador
+7000195	Pesquisadores Aflitos
+7000196	Animais selvagens infectados
+7000197	Contêiner de sementes seguro
 7000202	[GUIDNAME 1002917]
-7000186	Leak
-7000198	Vaccine Container
-7001444	Infected Wildlife
-7000203	Antidote Container
+7000186	Vazamento
+7000198	Contêiner de Vacina
+7001444	Animais selvagens infectados
+7000203	Contêiner de antídoto
 7001454	[GUIDNAME 7001407]
 7001770	[GUIDNAME 7001400]
-7000005	Ecologist Erin
-7000006	Field Researcher Yun
+7000005	Ecologista Erin
+7000006	Pesquisador de Campo Yun
 7000215	Dr. Esther Nylund
-7000165	Moss
-7000166	Wool
-7000168	Biocatalysts
-7000055	MediBots
+7000165	Musgo
+7000166	Lã
+7000168	Biocatalisadores
+7000055	Robôs médicos
 7000169	Aerogel
-7000053	Nanochips
-7000054	Smartdrones
-7000167	All-weather Parkas
-7000164	Natural Gas
-7000052	Tungsten
+7000053	Nano-chips
+7000054	Drones inteligentes
+7000167	Jaquetas multiuso
+7000164	Gás natural
+7000052	Tungstênio
 7001461	[GUIDNAME 2001399]
 7001462	[GUIDNAME 6000480]
 7001463	[GUIDNAME 6000482]
@@ -72,22 +72,22 @@
 7001481	[GUIDNAME 2001606]
 7001482	[GUIDNAME 7000168]
 7001483	[GUIDNAME 7000169]
-7000000	Tundra Region
-7000001	Ecologists
-7000002	Field Researchers
-7000034	Community
-7000035	Secrecy
+7000000	Região Tundra
+7000001	Ecologistas
+7000002	Pesquisadores de Campo
+7000034	Comunidade
+7000035	Confidencialidade
 7000010	Tundra
-7000009	Tundra Sector
-7000011	Vanha Plains
+7000009	Setor Tundra
+7000011	Planícies de Vanha
 7001457	NO LOCA Tundra Region Market
-7000124	Proceed with Dr. Esther Nylund's assignments concerning the Seed Vault.
-7000324	1. In Isolation
-7000323	2. Backup
-7000326	3. The Marshlands
-7000325	4. Cream of the Crop
-7001455	5. Second Opinion
-7000327	6. Sharing the Spoils
+7000124	Prossiga com as tarefas da Dra. Esther Nylund com relação à câmara de sementes.
+7000324	1. Em isolamento
+7000323	2. Reforço
+7000326	3. Pântanos
+7000325	4. A melhor colheita
+7001455	5. Segunda opinião
+7000327	6. Compartilhe o saque
 7000206	Project: Melting Point
 7000207	Project: Miniature Climate Stabilizer
 7000132	Project: Unclogging
@@ -129,7 +129,7 @@
 7001508	Dados Valiosos
 7001509	Não está sozinho
 7001511	O tempo é ouro
-7001513	Tranporte domestico
+7001513	Transporte domestico
 7001515	Experimentos, experimentos
 7001516	Desconto de Empregado
 7001517	Jogando pelo Seguro
@@ -137,7 +137,7 @@
 7001725	Compra de bens volumosos
 7001726	[GUIDNAME 7001725]
 7001521	Teste de estresse de temperatura
-7001522	Baliza de advertencia
+7001522	Baliza de advertência
 7001524	Armazenamento inseguro
 7001525	Escudo de radiação
 7001528	Declarados como presentes
