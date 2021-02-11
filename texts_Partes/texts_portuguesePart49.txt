@@ -88,33 +88,33 @@
 7000325	4. A melhor colheita
 7001455	5. Segunda opinião
 7000327	6. Compartilhe o saque
-7000206	Project: Melting Point
-7000207	Project: Miniature Climate Stabilizer
-7000132	Project: Unclogging
-7000175	Project: Blown Fuse
-7000208	Project: Necessary Evil
-7000176	Project: Ready When You Are
-7000177	Project: Exclusion Zone
-7000129	Project: Technology is Fallible
-7000209	Project: Out of Sight
-7000178	Project: Taking on Staff
-7000210	Project: Building Momentum
-7000185	Project: No Time to Lose
-7000180	Project: Sprawl Fever
-7000179	Project: Out of Control
-7000211	Project: By a Thread
-7000181	Project: Outside Help
-7000212	Project: Irregularity
-7000182	Project: Chain Reaction
-7000213	Project: Pest Control
-7000183	Project: Breakthrough
-7000214	Project: Keeping a Tally
-7000184	Project: Once and for All
-7001489	Lost in the White
-7001491	A Case of Fly-Tipping
-7001492	Picking Up the Slack
-7001493	Supply Requirements
-7001494	Nature's Power
+7000206	Projeto: Ponto de Fusão
+7000207	Projeto: Estabilizador Miniatura do Clima
+7000132	Projeto: Desobstruindo
+7000175	Projeto: Fusível rompido
+7000208	Projeto: Mal necessário
+7000176	Projeto: Quando quiser
+7000177	Projeto: Zona de Exclusão
+7000129	Projeto: Tecnologia é falível
+7000209	Projeto: Fora da Visão
+7000178	Projeto: Nova equipe
+7000210	Projeto: Construindo Impulso
+7000185	Projeto: Sem Tempo para Perder
+7000180	Projeto: Febre Expansiva
+7000179	Projeto: Fora de controle
+7000211	Projeto: Por um fio
+7000181	Projeto: Ajuda Externa
+7000212	Projeto: Irregularidade
+7000182	Projeto: Reação em Cadeia
+7000213	Projeto: Controle de Pragas
+7000183	Projeto: Avanço revolucionário
+7000214	Projeto: Manter a pontuação
+7000184	Projeto: Uma vez por todas
+7001489	Perdido na clareira
+7001491	Detritos ilegais
+7001492	Aproveitando a folga
+7001493	Requisitos de abastecimento
+7001494	Poder da natureza
 7001495	Obrigações morais
 7001496	Obrigações morais
 7001497	Error de principiante
@@ -172,71 +172,71 @@
 11000230	Monopólios em constante mudança
 11000231	Transporte de provas
 11000232	Sem imunidade
-11000162	"Dangit! Should've known the price for this baby was too good, the anti-theft alarm's still on! It's just gotta make it here..."
-11000163	"Two Orbital Watch deserters made it here, but the battle is still way too close! If you help them maybe more will see reason?"
-11000164	"The Union says there's no war happening. Now that's a rock I'd like to live under, but we'd better practice evacuation maneuvers."
-11000165	"One of your trader friends is making deals with the Watch, thought I'd let you know. In return, can you protect the key witness?"
-11000166	"We can barely keep up with climate stabilizer repairs. And now the Watch is sinking the spare parts before they get there!"
-11000167	"I'm proud to say I'm the first to recreate an Orbital Watch fleet! You get authentic excercise and I get test data, what do you say?"
-11000168	"My superior has received numerous death threats, I fear for her safety! I've arranged for a decoy and this is your territory after all..."
-11000169	"Ibarra-Foxcom is trying to sabotage our newest cybernetics prototypes. Usoyev shifting to the Biotecnología industry hit them hard..."
-11000170	"I can prove Cassian has been bribing the Council. It's also in your best interest to protect the evidence, unless you're also involved?"
-11000171	"Negotiations between our lunar colonies and the Orbital Watch were a risk, but to think they'd pursue our diplomat here... !"
-11000196	Escort [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] while evading enemies
-11000213	Veteran Update released
-11000214	Challenge yourself on the Veteran difficulty
-11000215	Have a better overview of your cities
-11000216	Master new assignment types
-11000217	You own the free update
-11000218	Handle your administration costs
-11000219	Try out the advanced game settings
-11000220	and more...
-11000136	On Someone's Bad Side
+11000162	"Droga! Eu deveria ter percebido que o preço desse feitiço era bom demais, e o alarme contra ladrões ainda está ligado! Você só precisa chegar até aqui ..."
+11000163	"Dois desertores da Guarda Orbital chegaram até aqui, mas a batalha ainda está muito perto! Se você ajudá-los, talvez mais deles voltem a si ..."
+11000164	"A Union diz que não há guerra. Eu não me importaria de viver sob aquela rocha, mas é melhor praticarmos manobras de evacuação."
+11000165	"Um de seus amigos comerciantes está fazendo acordos com a Guarda; achei que você poderia estar interessado em saber. Em troca, você pode proteger a testemunha-chave?"
+11000166	"Mal conseguimos acompanhar os reparos nos estabilizadores climáticos. E agora, a Guarda está afundando as peças sobressalentes antes de chegarem aqui!"
+11000167	"Tenho orgulho de dizer que sou a primeira pessoa a recriar uma frota da Guarda Orbital! Você faz exercícios de verdade e recebo dados de teste, o que você me diz?"
+11000168	"Minha chefe recebeu várias ameaças de morte e teme pela segurança dela! Preparei uma isca embora, afinal este seja o seu território ..."
+11000169	"Ibarra-Foxcom está tentando sabotar nossos novos protótipos cibernéticos. A mudança de Usoyev para a indústria de biotecnologia está atingindo-os com força ..."
+11000170	"Posso provar que Cassian está subornando o Conselho. Além disso, você está interessado em proteger as evidências, a menos que também tenha algo a ver com isso."
+11000171	"As negociações entre nossas colônias lunares e a Guarda Orbital estavam em perigo, mas pensar que eles iriam perseguir nosso diplomata aqui ...!"
+11000196	Escolta a [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] até [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] enquanto desvia dos inimigos.
+11000213	Aprimoramento veterano lançado
+11000214	Desafie-se no nível de dificuldade Veterano
+11000215	Desfrute de uma visão geral aprimorada de suas cidades
+11000216	Domine novos tipos de tarefas
+11000217	Você possui a atualização gratuita
+11000218	Gerencie seus custos de administração
+11000219	Experimente as configurações avançadas do jogo
+11000220	e mais...
+11000136	No lado ruim de alguém
 11000137	[GUIDNAME 11000136]
-11000138	Finger-Pointing
+11000138	Apontando o dedo
 11000235	[GUIDNAME 11000223]
 11000236	[GUIDNAME 11000223]
 11000237	[GUIDNAME 11000223]
-11000139	Nervous Breakdown
+11000139	Colapso nervoso
 11000140	[GUIDNAME 11000139]
-11000141	Organized Poaching
+11000141	Casa furtiva Organizado
 11000182	[GUIDNAME 11000224]
 11000184	[GUIDNAME 11000224]
 11000185	[GUIDNAME 11000224]
-11000142	Just Passing Through
+11000142	Apenas de passagem
 11000143	[GUIDNAME 11000142]
-11000144	Disarming the Traps
-11000145	Water Pollution
+11000144	Desarmando as armadilhas
+11000145	Contaminação da água
 11000190	[GUIDNAME 11000226]
 11000191	[GUIDNAME 11000226]
 11000192	[GUIDNAME 11000226]
-11000146	Demo Effect
+11000146	Efeito de demonstração
 11000147	[GUIDNAME 11000146]
-11000148	Guinea Pigs
+11000148	Cobaias
 11000197	[GUIDNAME 11000228]
 11000198	[GUIDNAME 11000228]
 11000199	[GUIDNAME 11000228]
-11000149	Stopped Short
+11000149	Quase
 11000150	[GUIDNAME 11000149]
-11000151	Hacked Surveillance
+11000151	Vigilância hackeada
 11000200	[GUIDNAME 11000229]
 11000201	[GUIDNAME 11000229]
 11000202	[GUIDNAME 11000229]
-11000152	Middleman
+11000152	Intermediário
 11000153	[GUIDNAME 11000152]
-11000154	Toxic Transport
+11000154	Transporte Tóxico
 11000241	[GUIDNAME 11000230]
 11000242	[GUIDNAME 11000230]
 11000243	[GUIDNAME 11000230]
-11000155	Collecting User Data
+11000155	Coletando Dados do Usuário
 11000156	[GUIDNAME 11000155]
-11000157	Tech Cloning
+11000157	Clonagem Tecnológica
 11000244	[GUIDNAME 11000231]
 11000245	[GUIDNAME 11000231]
 11000246	[GUIDNAME 11000231]
-11000158	Usoyev's Landfill
+11000158	Aterro de Usoyev
 11000159	[GUIDNAME 11000158]
-11000160	Dangerous Affiliation
+11000160	Afiliação Perigosa
 11000209	[GUIDNAME 11000232]
 11000210	[GUIDNAME 11000232]
 11000211	[GUIDNAME 11000232]
