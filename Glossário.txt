@@ -4,3 +4,4 @@ warehouse=Armazém
 settlement=Estabelecimentos
 Workers=Trabalhadores
 Custodians=Tutores
+Akia Floes=Akia Icebergs

@@ -118,9 +118,9 @@
 3002991	NO LOCA All rare material storages in a crisis sector
 3002992	NO LOCA All rare material storages in a crisis sector
 3002993	NO LOCA Lose all ships in a Crisis Sector
-3003258	NO LOCA Construction Area Claimed Earth
-3003260	NO LOCA Construction Area Claimed Arctic
-3003261	NO LOCA Construction Area Claimed Moon
+3003258	NO LOCA Área de construção Terra reivindicada
+3003260	NO LOCA Área de construção Ártica reivindicada
+3003261	NO LOCA Área de construção Lua reivindicada
 3003222	NO LOCA Special Action Barrage
 3003223	NO LOCA Special Action Support Fleet
 3003224	NO LOCA Special Action EMP
@@ -133,25 +133,25 @@
 3003242	NO LOCA Boss Ship Destroyed
 3002937	Slot Warning Antagonistic Message Trigger
 3002939	Slot Warning Friendly Message Trigger
-3003201	Lunar Plants
-3003202	Letters from Home
-3003203	You Are What You Eat
-3003204	Monumental Anniversary
-3003205	Haute Couture
-3003206	The Noah Foundation
-3003207	En Vogue
-3003208	Sightseeing
-3003210	Ice Divers
-3003211	Towel Day
-3003212	Tastes Like Home
-3003214	An Apple a Day
-3003215	Humanity's Best Friend
+3003201	Plantas Lunares
+3003202	Cartas de casa
+3003203	Você é o que você come
+3003204	Aniversario monumental
+3003205	Alta costura
+3003206	As fundações de Noé
+3003207	Elegante
+3003208	Turismo
+3003210	Mergulhadores de gelo
+3003211	Dia da Toalha
+3003212	Tem gosto de casa
+3003214	Uma maçã por dia
+3003215	O melhor amigo da humanidade
 3003216	Pet Marimo
-3003310	Saint Nic
+3003310	Papai Noel
 3003311	NO LOCA Presents Reset Quest - Christmas Event End
-3003316	Underneath the Christmas Tree
+3003316	Debaixo da árvore de natal
 5000000	Temperado
-5000001	Arctico
+5000001	Árctico
 5000002	Lunar
 5001020	[GUIDNAME 120058]
 5001002	Setor Temperado
@@ -160,41 +160,41 @@
 5001011	Setor Temperado em Crise
 5001019	Docas
 5001021	Centro de Tarefas
-5001005	Arctic Sector
-5001006	Arctic Sector
-5001007	Arctic Sector
-5001024	Arctic Crisis Sector
-5001008	Lunar Sector
-5001009	Lunar Sector
-5001010	Lunar Sector
+5001005	Setor Ártico
+5001006	Setor Ártico
+5001007	Setor Ártico
+5001024	Setor Ártico em crise
+5001008	Setor Lunar
+5001009	Setor Lunar
+5001010	Setor Lunar
 5100027	NO LOCA MetaSession
-5100372	Space Station
-5100012	Cape Ambar
-5100383	Cape Ambar is a cluster of islands, allowing easy access to the many riches of the sea. Rumor has it lost technologies lie just beneath the surface.
-5100488	Cape Ambar is a cluster of  islands allowing easy access to the many riches of the sea.
-5100000	Walbruck Basin
-5100384	With one remote and several large islands, Walbruck Basin is rich in mineral resources and provides ample room for settlement. The basin is known for its defunct dam, which fell into ruin decades ago.
-5100489	With one remote and several large islands, Walbruck Basin is rich in mineral resources and provides ample room for settlement.
-5100013	Viridian Coves
-5100385	A small, hardly colonizable island is the gate to the vast plains of Viridian Coves. The beautiful scenery is the site of Global Union's latest prestige project.
-5100490	A small, hardly colonizable island is the gate to the vast plains of Viridian Coves.
-5100392	Missão: Prycomber Barricade
+5100372	Estação Espacial
+5100012	Cabo Amber
+5100383	O Cabo Amber é um aglomerado de ilhas que permite fácil acesso a muitas das riquezas do mar. Rumores dizem que existem tecnologias perdidas abaixo da superfície.
+5100488	O Cabo Amber é um aglomerado de ilhas que permite fácil acesso a muitas das riquezas do mar.
+5100000	Bacia de Walbruck
+5100384	Com uma ilha remota e várias outras grandes, a Bacia Walbruck é rica em recursos minerais e oferece amplo espaço para colonização.
+5100489	A bacia é famosa por sua barragem desativada que foi deixada em ruínas há décadas.
+5100013	Enseada de Viridian
+5100385	Uma pequena ilha dificilmente colonizável é a porta de entrada para as vastas planícies da enseada de Viridian. A bela paisagem é o local do mais recente projeto de prestígio da União Global.
+5100490	Uma pequena ilha dificilmente colonizável é a porta de entrada para as vastas planícies da enseada de Viridian.
+5100392	Missão: Barricada Prycomber
 5100007	[GUIDNAME 5100392]
 5100131	[GUIDNAME 5100392]
 5100132	[GUIDNAME 5100392]
-5100393	Missão: Tynemere Hideout
+5100393	Missão: Covil de Tynemere
 5100136	[GUIDNAME 5100393]
 5100137	[GUIDNAME 5100393]
 5100138	[GUIDNAME 5100393]
 5100402	[GUIDNAME 5100392]
 5100403	[GUIDNAME 5100392]
 5100127	NO LOCA Temperate Region Market
-5100014	Akia Floes
-5100386	Four islands of roughly equal size comprise the Akia Floes, offering extensive building land. This area has already drawn the interest of another global player looking to expand their trade routes.
-5100015	Ikkuma Glacier
-5100387	Towering mountains reach up at Ikkuma Glacier, leaving little room for else. Many disused oil rigs still afflict the sea and the Arctic Custodians keep close watch on them.
-5100016	Kinngait Protectorate
-5100388	The Kinngait Protectorate contains two large islands, sheltering one of the Arctic Custodian's Climate Stabilizers. Its renewal has been due for some time.
+5100014	Icebergs Akia
+5100386	Os Icebergs Akia são formados por quatro ilhas de tamanho semelhante que oferecem muitos terrenos para construção. Essa área já despertou o interesse de outro player global que quer expandir suas rotas comerciais.
+5100015	Geleiras Ikkuma
+5100387	Os picos das montanhas levam as Geleiras Ikkuma, onde não há espaço para quase nada. Muitas plataformas de petróleo desativadas ainda afligem o mar e os guardiões do Ártico as vigiam de perto.
+5100016	Protetorado de Kinngait
+5100388	O Protetorado de Kinngait tem duas grandes ilhas que hospedam um dos estabilizadores climáticos dos Guardiões do Ártico. Deveria ter sido reformado há muito tempo.
 5100394	Mission: Qannitaq Conflict Zone
 5100031	[GUIDNAME 5100394]
 5100133	[GUIDNAME 5100394]
