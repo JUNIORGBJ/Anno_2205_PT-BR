@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/721047801957580821?color=blueviolet&label=Discord)](https://discord.gg/k4GAGCSp)
+[![Discord](https://img.shields.io/discord/721047801957580821?color=blueviolet&label=Discord)](https://discord.gg/5ByWTzFFcj)
 Baixar Aqui >>>>>
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Anno_2205_PT-BR)](https://github.com/JUNIORGBJ/Anno_2205_PT-BR/releases/latest)<<<<<Baixar Aqui
 
