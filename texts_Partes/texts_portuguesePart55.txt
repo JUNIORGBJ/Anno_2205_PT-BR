@@ -246,21 +246,21 @@
 13000677	This facility was built to mass-produce synthetic humans. It was shut down soon after, but still seems functional.
 13000674	The AI code is waiting in indefinite storage. Boot the program to meet your first prototype.
 13000708	The Snythetics have been activated.
-13000774	Drill ready
-13000771	Start drilling
-13000772	Drilling in progress
-13000779	Pause drilling
-13000770	Drilling interrupted
-13000816	Resume drilling
-13000773	Ready for finalization
-13000817	Uncover geyser
-13000765	Melts ice to level the ground
-13000766	Opens obstructed geysers
-13000767	Grants access to the construction area nearby
-13000768	Provides heat in its vicinity
-13000769	Can be used to harness geothermal energy
-13000834	Enemy Invaders
-13000835	Your Fleet
+13000774	Broca pronta
+13000771	Iniciar a Perfuração
+13000772	Perfuração em andamento
+13000779	Pausar perfuração
+13000770	Perfuração interrompida
+13000816	Retomar perfuração
+13000773	Pronto para conclusão
+13000817	Destampa gêiser
+13000765	Derrete gelo para nivelar o solo
+13000766	Abre gêiseres obstruídos
+13000767	Concede acesso à área de construção próxima
+13000768	Fornece calor nas proximidades
+13000769	Pode ser usado para aproveitar a energia geotérmica
+13000834	Invasores inimigos
+13000835	Sua frota
 13000778	[GUIDNAME 13000771]
 13000780	[GUIDNAME 13000779]
 13000815	[GUIDNAME 13000816]
@@ -277,42 +277,42 @@
 13001093	Dear ANNO fans, thank you for all the support and efforts! We listened to all of you closely and tried to realize as much as possible in the time we had. Special thanks go to: Annothek, uplay.tthias, Wiscora, Achtarm124, Yandayn2802, LadyHonda, muf, haep, Cap.Chris1964, General_Zeller, schlonz2014, NightFire1004, Franziska90, Schaalivater, nhavers5, flex384, Lunartix1, NoNamedAssassi, specikk, DrProof2 and all the other names we forgot to mention.
 13001282	[GOODS_THEFT_BALANCE]
 13001293	[RELEVANT_EVENT_ICON]
-13000968	Dirty Deeds
-13000970	Complete the Sector Project in Madrigal Islands.
-13000977	They Live
-13000978	Complete the Sector Project in Greentide Archipelago.
-13000979	Margin Call
-13000980	Have 13 active world market routes.
-13001002	Fires Below
-13001003	Drill out a geyser in Savik Province.
-13001004	Steampowered
-13001005	Drill out all geysers in Savik Province.
-13001006	Ghost in the Machine
-13001007	Gain Synthetics employees.
-13001008	Evolutionary Leap
-13001009	Have 4.000.000 Synthetics on Veteran difficulty.
-13001010	Settling on the Edge
-13001011	Settle in all three "Frontiers" sectors.
-13001012	Get off my Lawn!
-13001013	Defeat your first invasion.
-13001014	We Shall Fight on the Beaches
-13001015	Defeat every type of Invasion once.
-13001016	Counter-Terrorists Win!
-13001017	Defeat 10 Invasions on Veteran difficulty.
-13001018	Eradicate THIS
-13001019	Defeat 10 Eradicators during Invasions.
-13001020	The Purge
-13001021	Destroy 100 enemies during a single Invasion.
-13001040	Island Hopper
-13001041	Settle all islands in Greentide Archipelago.
-13001042	Machine city
-13001043	Settle an island with 101,010 Synthetics and no other employees.
-13001044	The Hague Called
-13001045	Use any destructive special action on one of your cities.
-13001046	Dominium Terrae
-13001047	Use Geoengineering 50 times with one corporation.
-13000425	Synthetic
-13000469	Frontiers
+13000968	Façanhas sujas
+13000970	Conclua o Projeto do Setor nas Ilhas Madrigal.
+13000977	Eles vivem
+13000978	Conclua o Projeto do Setor em Arquipélago de Marea Verde.
+13000979	Margem de Chamada
+13000980	Obtenha 13 rotas ativas no mercado mundial.
+13001002	Incêndios Abaixo
+13001003	Perfure um gêiser na província de Savik.
+13001004	Movido a vapor
+13001005	Perfure todos os gêiseres na província de Savik.
+13001006	Fantasma na máquina
+13001007	Obtenha funcionários sintéticos.
+13001008	Salto Evolutivo
+13001009	Obtenha 4.000.000 de Sintéticos na dificuldade Veterano.
+13001010	Assentamento na fronteira
+13001011	Ocupe os três setores de "Fronteiras".
+13001012	Saia do meu gramado!
+13001013	Derrote sua primeira invasão.
+13001014	Vamos lutar nas praias
+13001015	Derrote cada tipo de invasão uma vez.
+13001016	Vitória anti-terrorista!
+13001017	Derrote 10 invasões na dificuldade Veterano.
+13001018	Erradicar
+13001019	Derrote 10 erradicadores durante as invasões.
+13001020	Purga
+13001021	Destrua 100 inimigos durante uma única invasão.
+13001040	Saltar ilhas
+13001041	Ocupe todas as ilhas do arquipélago de Marea Verde.
+13001042	Cidade da máquina
+13001043	Ocupe uma ilha com 101.010 Sintéticos e nenhum outro empregado.
+13001044	Chamada de Haia
+13001045	Use qualquer ação especial destrutiva em uma de suas cidades.
+13001046	Terrae de domínio
+13001047	Use a geoengenharia 50 vezes com uma corporação.
+13000425	Sintético
+13000469	Fronteiras
 13001032	Any Counter Measure Quest
 13001033	Any Solar Flare Counter Measure Quest
 13001034	Any Solar Flare Counter Measure Quest

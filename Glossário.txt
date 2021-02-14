@@ -5,3 +5,4 @@ settlement=Estabelecimentos
 Workers=Trabalhadores
 Custodians=Tutores
 Akia Floes=Akia Icebergs
+Greentide=Mare Verde
