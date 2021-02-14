@@ -220,7 +220,7 @@
 104945	Recolha para entrega
 103391	Carga pronta para ser levada. Conteúdo:
 104950	Não há mercadorias suficientes para entregar.
-103392	Recolher o carga
+103392	Recolher a carga
 108613	Cliente
 108614	Munição solicitada:
 108615	Munição solicitada:

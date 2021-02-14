@@ -71,8 +71,8 @@
 2002163	Logística
 2002402	Todas as necessidades públicas
 2001886	Interagindo
-2001884	Carregando carga
-2001885	Descarregando carga
+2001884	Carregando a carga
+2001885	Descarregando a carga
 2001896	Entregando objeto anexado
 2001887	Entregando
 2001897	Anexando objeto
