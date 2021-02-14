@@ -203,7 +203,7 @@
 122106	A promoção não pode ser financiada.
 122107	Os empregados não estão satisfeitos.
 122108	Participação da companhia não alcançada
-102569	corporação subiu de Nível
+102569	A corporação subiu de Nível
 116530	Corporação Nível [CORPORATION_LEVEL] alcançado
 116423	Você recebeu as seguintes recompensas:
 116374	Maior tamanho da frota
