@@ -50,7 +50,7 @@
 12013416	Produzido no Nexus Tecnológico
 12012931	Entre no mercado de ações antes de construir este edifício.
 12013151	A experiência é alcançada pelos astronautas em sua estação orbital.
-12013150	Aplicar Especialização no Nexus Tecnológico
+12013150	Aplique especializações no Nexus Tecnológico
 12013184	Reabasteça vôos para o lançamento da estação após um treinamento.
 12013185	Estimativa da Tripulação
 12013431	Não há astronautas suficientes no próximo vôo
