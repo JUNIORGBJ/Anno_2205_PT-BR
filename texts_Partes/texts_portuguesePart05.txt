@@ -64,7 +64,7 @@
 108754	"Vários sistemas de monitoramento térmico foram roubados de nós. Quem iria querer essa tecnologia?"
 108755	"Esse transporte de animais em risco de extinção deve ser mantido em sigilo. Ultimamente, a caça furtiva se tornou um negócio lucrativo."
 108756	"Estamos encurralados e não estou me arriscando. Deixe a União Global fora disso. Está claro?"
-108757	"Por favor, acompanhe esses supostos comerciantes. Eles não podem esperar que eu acredite nessa bobagem de que" se esqueceram de renovar a licença".
+108757	"Por favor, acompanhe esses supostos comerciantes. Eles não podem esperar que eu acredite nessa bobagem de que" se esqueceram de renovar a licença."
 108758	"A Guarda Orbital! Eles fizeram nossos cientistas como reféns, mas estão adiando as negociações. Temos que confiar em vocês!"
 108759	"Nosso chefe de segurança não se apresentou ao trabalho hoje. A casa dela estava vazia e alguns discos rígidos estavam faltando. O que podemos fazer?"
 108760	"Pesca irresponsável é um ato desprezível. Não tenho nenhum problema em matar aqueles barcos não tripulados."
@@ -253,7 +253,7 @@
 115134	"Nosso departamento de segurança está monitorando esses barcos há algum tempo. Se esperarmos mais, os custos de vigilância vão disparar."
 115135	"Decidi onde realizar a reunião. Mas não vou deixar nosso parceiro pegá-lo em um táxi aéreo frágil."
 115136	"Sim, encomendei essas entregas em locais remotos. Quero ter certeza de que você tem capacidade logística!"
-115137	"Queria que um móvel fosse entregue diretamente na minha casa, mas quem sabe onde foi parar! Monitore sua equipe de logística".
+115137	"Queria que um móvel fosse entregue diretamente na minha casa, mas quem sabe onde foi parar! Monitore sua equipe de logística."
 115138	"Chama-se 'CaídaVertical' e é uma nova forma de entrega de mercadoria. Mas vendo o que a transposição de números pode desencadear, vou ficar com o método clássico."
 115139	"Não estou nem aí para as datas estimadas de entrega. Preciso disso agora! Vou investir nessa megacorporação."
 115140	"O próximo envio regular será amanhã, mas temo que nosso cliente não espere."
