@@ -42,7 +42,7 @@
 121263	Visão geral de todas as ações da corporação. Você pode iniciar leilões de ações ou vender suas próprias.
 121431	No Intel
 121226	Leilão para
-121227	Iniciando oferta
+121227	Oferta inicial
 121228	Custos do Leilão
 121229	Iniciar Leilão
 121230	Maior apostador

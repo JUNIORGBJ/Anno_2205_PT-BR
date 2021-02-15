@@ -140,7 +140,7 @@
 7001759	[NOTIFICATION_CHARACTER_NAME] está aliviado por vê-lo de volta.
 7001760	[NOTIFICATION_CHARACTER_NAME] está aliviado por vê-lo de volta.
 7001764	[NOTIFICATION_CHARACTER_NAME] supervisiona a construção da bomba.
-7001765	[NOTIFICATION_CHARACTER_NAME] está confuso sobre o atraso.
+7001765	[NOTIFICATION_CHARACTER_NAME] está confusa sobre o atraso.
 7001766	[NOTIFICATION_CHARACTER_NAME] relata que a bomba está operacional.
 7001767	[NOTIFICATION_CHARACTER_NAME] garante que a drenagem ocorra sem problemas.
 7001768	[NOTIFICATION_CHARACTER_NAME] está esperando por você para terminar a drenagem.
