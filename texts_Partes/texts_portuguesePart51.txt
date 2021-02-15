@@ -17,24 +17,24 @@
 14001032	Industry Dominance
 14001558	[NOTIFICATION_CHARACTER_NAME] encourages you to hold your market position.
 14001559	[NOTIFICATION_CHARACTER_NAME] is striving for industry dominance.
-14001609	Current Industry Dominance:
-14001664	Impending Dominance
-14001670	Approaching Dominance
-14001671	Competitor-Dominated
+14001609	Domínio indústrial atual:
+14001664	Dominância iminente
+14001670	Aproximando-se do domínio
+14001671	Dominado pela competição
 14001682	[GUIDNAME 121480]
-14001687	Open Market
-14001683	Market Leader
-14001820	Domination at 75%
-14001134	The Stock Market
-14001136	Join the Trading Floor
-14001137	Promote more employees by providing access to Trading Floors in your cities. Trade and buy your rivals' shares to maximize both your revenue and production!
-14001138	Influence Auctions
-14001139	The highest bidder takes it all! Use your Influence to secure the Big Five's most valuable assets and to defend yourself against being bought out.
-14001140	Hire Insiders
-14001141	Place insiders within the Big Five's ranks to gather intel and to sabotage their next moves.
-14001142	Take Over the Big Five
-14001143	Dominate the markets and outplay your enemies to be the last corporation standing!
-14001144	Join the Stock Market
+14001687	Mercado livre
+14001683	Líder de mercado
+14001820	75% de domínio
+14001134	O mercado de açoes
+14001136	Junte-se ao mercado de ações
+14001137	Promova mais empregados, disponibilizando acesso às bolsas de valores de suas cidades. Negocie e compre ações de seus rivais para maximizar seus lucros e sua produção!
+14001138	Leilões de influência
+14001139	O licitante com lance mais alto leva tudo! Aproveite sua influência para garantir os ativos mais valiosos dos Grandes Cinco e se defender de uma possível aquisição.
+14001140	Contratar infiltrados
+14001141	Coloque infiltrados entre os Cinco Grandes para coletar informações e sabotar seus próximos movimentos.
+14001142	Assuma o controle dos Cinco Grandes
+14001143	Torne-se a última corporação ativa a dominar os mercados e superar seus inimigos!
+14001144	Junte-se ao mercado de ações
 14001153	[NOTIFICATION_CHARACTER_NAME] informs you that your Corporation is ready to join the stock market.<br />
 14001154	[NOTIFICATION_CHARACTER_NAME] explains that in return for half of its shares your corporation can now be traded publicly.<br />
 14001155	[NOTIFICATION_CHARACTER_NAME] mentions that cities with Trading Floors can hold additional high ranked employees.<br />
