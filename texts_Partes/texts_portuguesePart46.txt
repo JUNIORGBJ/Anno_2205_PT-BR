@@ -173,7 +173,7 @@
 5100383	O Cabo Amber é um aglomerado de ilhas que permite fácil acesso a muitas das riquezas do mar. Rumores dizem que existem tecnologias perdidas abaixo da superfície.
 5100488	O Cabo Amber é um aglomerado de ilhas que permite fácil acesso a muitas das riquezas do mar.
 5100000	Bacia de Walbruck
-5100384	Com uma ilha remota e várias outras grandes, a Bacia Walbruck é rica em recursos minerais e oferece amplo espaço para colonização.
+5100384	Com uma ilha remota e várias outras grandes, a Bacia de Walbruck é rica em recursos minerais e oferece amplo espaço para colonização.
 5100489	A bacia é famosa por sua barragem desativada que foi deixada em ruínas há décadas.
 5100013	Enseada de Viridian
 5100385	Uma pequena ilha dificilmente colonizável é a porta de entrada para as vastas planícies da enseada de Viridian. A bela paisagem é o local do mais recente projeto de prestígio da União Global.
@@ -195,22 +195,22 @@
 5100387	Os picos das montanhas levam as Geleiras Ikkuma, onde não há espaço para quase nada. Muitas plataformas de petróleo desativadas ainda afligem o mar e os guardiões do Ártico as vigiam de perto.
 5100016	Protetorado de Kinngait
 5100388	O Protetorado de Kinngait tem duas grandes ilhas que hospedam um dos estabilizadores climáticos dos Guardiões do Ártico. Deveria ter sido reformado há muito tempo.
-5100394	Mission: Qannitaq Conflict Zone
+5100394	Missão: Zona de Conflito Qannitaq
 5100031	[GUIDNAME 5100394]
 5100133	[GUIDNAME 5100394]
 5100134	[GUIDNAME 5100394]
-5100395	Mission: Tonrar Defense Line
+5100395	Missão: Linha de Defesa Tonrar
 5100139	[GUIDNAME 5100395]
 5100140	[GUIDNAME 5100395]
 5100141	[GUIDNAME 5100395]
 5100128	NO LOCA Arctic Market
-5100002	Novikov Crater
-5100389	The Novikov Crater lies encased by lunar hills, with a slightly smaller sister crater just next to it. Cleaved by a deep crack, it is tricky to navigate, but offers generous settling space for whoever seeks a new home.
-5100018	Iwamoto Crater
-5100390	Meteoroid crashes created these three deformed craters, collectively labeled Iwamoto Crater. Aside from their inherent mining opportunities, it is the resources waiting inside the scattered fallen stars, that draw colonists here.
-5100019	Mare Relictum
-5100391	Forming an almost perfect circle pierced by a lone mountain, the Mare Relictum is a breath-taking natural formation. Strong voices are calling for its opening to the paying public.
-5100129	Moon Market
+5100002	Cratera de Novikov
+5100389	A cratera de Novikov é cercada por colinas lunares, com uma pequena cratera irmã bem próxima a ela. Marcada por uma fenda profunda, é difícil de navegar mas oferece um espaço generoso de acomodação para quem procura uma nova casa.
+5100018	Cratera de Iwamoto
+5100390	Os meteoroides causaram, ao colidir essas três crateras deformadas que são conhecidas coletivamente como Crateras de Iwamoto. Além de oferecer oportunidades de mineração, o que atrai colonos para este lugar são os recursos encontrados nos restos de estrelas cadentes.
+5100019	Maré Relictum
+5100391	Formando um círculo quase perfeito perfurado por uma montanha solitária, a Maré Relictum é uma formação natural imponente.
+5100129	Mercado lunar
 5100110	NO LOCA Session Default Earth
 5100111	NO LOCA Session Default Polar
 5100112	NO LOCA Session Default Moon
@@ -264,53 +264,53 @@
 9999018	NO LOCA Citizens
 9999019	NO LOCA Citizens
 9999022	NO LOCA Soy Compactor
-4000208	Fleet
-4000213	any trader
-4000214	enemy ships
-4000216	player ships
-4000226	any third party
-4000243	any Temperate Region good
-4000244	any Arctic good
-4000245	any Moon good
-4000260	any good
-4000259	Rare Materials
-4000246	any Temperate Region building
-4000247	any Arctic building
-4000248	any Moon building
-4000229	any building
-4000249	any Temperate Region production module
-4000250	any Temperate Region maintenance module
-4000251	any Arctic production module
-4000252	any Arctic maintenance module
-4000253	any Moon production module
-4000254	any Moon maintenance module
-4000278	any production module
-4000410	any module
-4000257	any module
-4000266	any corporation
-4000326	any ornamental building
-4000327	any Temperate Region ornamental building
-4000328	any Arctic ornamental building
-4000329	any Moon ornamental building
-4000337	any corporation HQ module
-4000330	any crisis sector
-4000331	Prycomber Barricade
-4000332	Tynemere Hideout
-4000333	Qannitaq Conflict Zone
-4000334	Tonrar Defense Line
-4000371	any bridge
-4000394	any special action
-4000411	any sector
-4000412	Heat
-4000413	any distribution center
-4100037	Integrity
+4000208	Frota
+4000213	qualquer comerciante
+4000214	barcos inimigos
+4000216	barcos do jogador
+4000226	qualquer unidade de terceiros
+4000243	qualquer mercadoria da região temperada
+4000244	qualquer mercadoria ártica
+4000245	qualquer mercadoria da lua
+4000260	qualquer mercadoria
+4000259	Materiais Raros
+4000246	qualquer edifício da região temperada
+4000247	qualquer edifício ártica
+4000248	qualquer edifício lunar
+4000229	qualquer edifício
+4000249	qualquer módulo de produção da região temperada
+4000250	qualquer módulo de manutenção da região temperada
+4000251	qualquer módulo de produção do Ártico
+4000252	qualquer módulo de manutenção do Ártico
+4000253	qualquer módulo de produção da Lua
+4000254	qualquer módulo de manutenção da Lua
+4000278	qualquer módulo de produção
+4000410	qualquer módulo
+4000257	qualquer módulo
+4000266	qualquer corporação
+4000326	qualquer edifício ornamental
+4000327	qualquer edifício ornamental de região temperada
+4000328	qualquer edifício ornamental ártico
+4000329	qualquer edifício ornamental lunar
+4000337	qualquer módulo da sede corporativa
+4000330	qualquer setor em crise
+4000331	Barricada de Prycomber
+4000332	Covíl Tynemere
+4000333	Zona de conflito Qannitaq
+4000334	Linha de defesa Tonrar
+4000371	qualquer ponte
+4000394	qualquer ação especial
+4000411	qualquer setor
+4000412	Calor
+4000413	qualquer centro de distribuição
+4100037	Integridade
 4100035	Tundra
-10000114	<font [MINIMAPDOT_COLOR 2001947]>Iridium</font> generator
+10000114	Gerador de <font [MINIMAPDOT_COLOR 2001947]>Irídio</font>
 10000115	[GUIDNAME 10000114]
 10000116	[GUIDNAME 10000114]
-10000118	[NOTIFICATION_CHARACTER_NAME] is leaving his treasure in good hands.
-10000119	[NOTIFICATION_CHARACTER_NAME] always keeps his side of the deal.
-10000120	[NOTIFICATION_CHARACTER_NAME] expresses his deep gratitude.
-10000177	[NOTIFICATION_CHARACTER_NAME] thanks you for taking care of the Fat Lady.
-10000040	If you got your grabby hands on this log... I really must've bit the grass. Pay attention, I recorded this for your benefit! For this treasure hunt you're gonna need a treasure map. I hid it in that crevice just up north...
-10000041	Hah, this log triggered so you found it! Or at least its tracker, that's how I know. You better got the map too, cause you need the numbers mumbo jumbo on it to find my stash.
+10000118	[NOTIFICATION_CHARACTER_NAME] deixa seu tesouro em boas mãos.
+10000119	[NOTIFICATION_CHARACTER_NAME] sempre cumpre sua parte no trato.
+10000120	[NOTIFICATION_CHARACTER_NAME] expressa sua profunda gratidão.
+10000177	[NOTIFICATION_CHARACTER_NAME] obrigado por cuidar da Gordinha.
+10000040	Se você colocou a luva neste disco, significa que estou nocauteado. Preste atenção, eu registrei isso para você aproveitar! Para esta caça ao tesouro, você precisará de um mapa do tesouro. Eu o escondi naquela caverna ao norte...
+10000041	Uau, se este registro foi ativado significa que você o encontrou! Ou pelo menos seu dispositivo de rastreamento, é por isso que eu sei. É melhor você pegar o mapa também, porque vai precisar dos números nele para encontrar meu estoque.
