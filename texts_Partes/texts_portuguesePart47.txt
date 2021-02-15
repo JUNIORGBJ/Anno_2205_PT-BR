@@ -32,10 +32,10 @@
 10000123	Reach a Corporation Level of 10 to decode the next log.
 10000124	Reach a Corporation Level of 20 to decode the next log.
 10000125	"[GUIDNAME 10000198]"
-10000126	Fulfill an old friend's last wish and recover his sunken treasures.
-10000081	Bordering a towering mountain range, this fertile valley opens up to a shallow coastal strip. Its cliffs and treacherous sandbanks have long been the ultimate embankment for a fleet of rusty shipwrecks holding secrets from days past.
-10000291	Bordering a towering mountain range, this fertile valley opens up to a spacious coastal strip.
-10000219	Cargo ship missing without a trace
+10000126	Satisfaça o último desejo de um velho amigo e recupere seus tesouros perdidos.
+10000081	Rodeando uma cordilheira acidentada, este vale fértil se abre para uma faixa costeira rasa. Seus penhascos e bancos de areia traiçoeiros há muito são o principal cais de uma frota de barcos enferrujados que guardam segredos do passado.
+10000291	Em torno de uma imponente cordilheira, este vale fértil se abre para uma ampla área costeira.
+10000219	Cargueiro desaparecido sem deixar vestígios
 10000220	Factory accident lowers production
 10000221	Falls short of production goals
 10000222	Power shortage brings down production
