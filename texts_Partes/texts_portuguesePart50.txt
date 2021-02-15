@@ -13,72 +13,72 @@
 14000936	Arcade Trials Fusion
 14001492	Reserva pequena
 14001014	Reserva grande
-14001308	Transmisor
+14001308	Transmissor
 14001309	[GUIDNAME 14001308]
-14001313	Cassian Industries Container
-14001314	Cassian Industries Barrels
+14001313	Contêiner da Indústrias Cassian 
+14001314	Barris da Indústrias Cassian 
 14001315	[GUIDNAME 14001313]
 14001316	[GUIDNAME 14001314]
 14001320	[GUIDNAME 1002750]
-14001321	Luca Volodin's Transporter
-14001324	Lei Sheng Freighter
-14001325	Lei Sheng Moon Transporter
-14001326	Lei Sheng Boreal Plane
-14001332	Saayman Freighter
-14001333	Saayman Boreal Plane
-14001334	Saayman Transporter
-14001353	May Tian's Transporter
-14001124	Prognosis
-14001125	Free Fall
-14001126	Declining
-14001127	Stagnating
-14001128	Growing
-14001129	Booming
-14001318	Confidential
-14001130	Security
-14001131	Off Guard
-14001132	Cautious
-14001133	Alert
-14001135	Lockdown
-14001145	Insiders
-14001146	Hired Insiders
-14001504	No Insiders
-14001151	Antitrust Investigation
-14001152	Downrate
-14001157	Transaction Tax
-14001338	Monitor your rivals and sabotage them.
-14001339	Inside Jobs
-14001340	Success Rate
-14001341	Costs
-14001342	Intel on
+14001321	Transportador de Luca Volodin
+14001324	Cargueiro da lei sheng
+14001325	Transportador lunar da Lei Sheng
+14001326	Avião da Lei Sheng Boreal
+14001332	Cargueiro da Saayman
+14001333	Avião da Saayman Boreal
+14001334	Transportador da Saayman
+14001353	Transportador da May Tian
+14001124	Prognóstico
+14001125	Despencando
+14001126	Em queda
+14001127	Estagnado
+14001128	Crescendo
+14001129	Florescendo
+14001318	Confidencial
+14001130	Segura
+14001131	Despreparado
+14001132	Cauteloso
+14001133	Alerta
+14001135	Bloqueado
+14001145	Infiltrados
+14001146	Infiltrados contratados
+14001504	Não há infiltrados
+14001151	Investigação anti-monopólio
+14001152	Declínio
+14001157	Taxa de transação
+14001338	Monitore seus rivais e sabote-os.
+14001339	Trabalhos de infiltração
+14001340	Índice de sucesso
+14001341	Custos
+14001342	Relatórios
 14001343	[GUIDNAME 121412]
-14001610	Stops the auction
-14001611	Competitors are less likely to place high bids.
-14001612	Grants you a cut of [AUCTION_TAX_AMOUNT]% of the final bid
-14001986	Inside Job uncovered, insider removed
-14001987	Successful Inside Job
-14001937	Corporation Share Auction
-14001938	You are about to auction off your own corporation share. Proceed?
-14002006	Turnover is in free fall. This is a convenient time for an investment.
-14002007	Revenue is declining. The trajectory is unclear.
-14002008	Turnover is stable, but stagnating for the time being.
-14002009	The coffers are ringing. It's still possible to acquire shares.
-14002010	The shares have reached their highest value. Keeping or selling them is a tactical decision.
-14000026	Influence
-14000027	Corporation Shares
-14000028	Your Shares
-14000029	Cassian Industries Shares
-14000030	Ibarra-FoxCom Shares
-14000031	Usoyev Inc. Shares
-14000032	Lei Sheng Shares
-14000033	Saayman International Shares
-14000034	Unassigned Shares
-14000035	Stock Market
-14000036	Espionage
-14000037	Victory
-14000038	Auction
-14000039	Planned Auction
-14000040	Running Auction
+14001610	Pare o leilão
+14001611	É menos provável que sua concorrência dê lances altos.
+14001612	Te dá uma parte de [AUCTION_TAX_AMOUNT]% do lance final
+14001986	Trabalho de infiltração descoberto; infiltrado removido.
+14001987	Trabalho de infiltração concluído
+14001937	Leilão de ações da corporação
+14001938	Você está prestes a leiloar uma ação de sua empresa. Continuar?
+14002006	O volume de negócios despencou. É o momento certo para um investimento.
+14002007	Redução das receitas. A trajetória não é clara.
+14002008	O faturamento é estável, mas está estagnado.
+14002009	Os cofres tilintam. Ainda é possível adquirir ações.
+14002010	As ações atingiram seu valor máximo. Mantê-las ou vendê-las é uma decisão tática.
+14000026	Influência
+14000027	Ações da Corporação
+14000028	Suas Ações
+14000029	Ações da Industrias Cassian
+14000030	Ações da Ibarra-FoxCom
+14000031	Ações da Usoyev Inc.
+14000032	Ações da Lei Sheng
+14000033	Ações da Saayman Internacional
+14000034	Ações não atribuídas
+14000035	Mercado de ações
+14000036	Espionagem
+14000037	Vitória
+14000038	Leilão
+14000039	Leilão planejado
+14000040	Leilão em andamento
 14000080	[GUIDNAME 100713]
 14000081	[GUIDNAME 100712]
 14000082	[GUIDNAME 100714]
@@ -100,31 +100,31 @@
 14001970	Benefícios de aquisição
 14001978	Arruinado
 14000983	Características do Sector
-14000984	Calamities
+14000984	Calamidades
 14000095	A corporação foi adquirida.
-14000937	Publicado o aprimoramento Big Five
+14000937	Publicado o aprimoramento dos Grandes Cinco
 14000938	Tente dominar o mercado
-14000939	Deal with unforeseeable dangers
-14000940	Defend yourself against hostile takeovers
-14000941	You own the free update
-14000942	Trade corporation shares for profit
-14000943	Sabotage your rivals
-14000944	and more...
-14000981	Sector Traits are geographical features that benefit production permanently, but some also carry negative consequences. As these effects will also be applied to sectors in your possession, they have the potential to negatively impact your sector economy.
-14001751	The Global Union alerts you to new opportunities and dangers. Will you face these new challenges?
-14001752	<font size="24">Your Sectors Won’t Be the Same</font><br /><br />Your sectors’ geographical features will now work to your advantage. These <font [GUI_COLOR BlueLight]>Sector Traits</font> will boost your production, but be mindful of the ones that come with drawbacks.<br /><br /><font [GUI_COLOR BlueLight]>Calamities</font> will ravage your sectors unless you find ways to mitigate their effects or to stop them entirely.
-14001753	As soon as your corporation is ready you will be able to join the Stock Market. There you can join the ruthless fight for market dominance and shares acquisitions.
-14001772	Official Notice
-14001005	Company Buy-Out
-14001007	[GUIDNAME Big5Corp] has lost its last original Share.
-14001008	[GUIDNAME Big5Owner] can no longer participate in auctions.
-14001006	Industry Dominance
-14001009	[GUIDNAME Big5Corp] has established itself as the dominant corporation in the [GUIDNAME IndustryType].
-14001010	You can no longer achieve dominance in this industry.
-14001208	Congratulations! [CORPORATION_NAME] has established itself as the dominant corporation in the [GUIDNAME IndustryType]!
-14001209	You can now found new corporation in the [GUIDNAME IndustryType] mode, which includes all Dominance Gains from the start.
-14001225	Competitor Acquisition
-14001226	Congratulations! You have acquired all shares of [GUIDNAME Big5Corp].
+14000939	Enfrente perigos imprevisíveis
+14000940	Defenda-se de aquisições hostis
+14000941	Você possui a atualização gratuita
+14000942	Negocie ações corporativas com fins lucrativos
+14000943	Sabote seus rivais
+14000944	e mais...
+14000981	As características do setor são características geográficas que beneficiam permanentemente a produção, mas algumas também podem ter consequências negativas. Como esses efeitos também se aplicam a setores sob o seu poder, eles podem ter um impacto negativo na economia do seu setor.
+14001751	União Global alerta você sobre novas oportunidades e perigos. Você vai enfrentar esses novos desafios?
+14001752	Seus setores não serão mais os mesmos </font><br /><br />As características geográficas de seus setores irão agora trabalhar a seu favor. Essas <font [GUI_COLOR BlueLight]>características do setor</font> irão impulsionar sua produção, mas cuidado com as desvantagens.<br /><br /><font [GUI_COLOR BlueLight]>Calamidades</font> devastarão seus setores, a menos que você encontre maneiras de mitigar seus efeitos ou de destruí-los completamente.
+14001753	Assim que sua empresa estiver pronta, você pode ingressar no mercado de ações. Lá você pode se juntar à luta implacável pelo domínio dos mercados e pela aquisição de ações.
+14001772	Aviso oficial
+14001005	Compra empresarial
+14001007	[GUIDNAME Big5Corp] perdeu sua última ação original.
+14001008	[GUIDNAME Big5Owner] não pode mais participar de leilões.
+14001006	Domínio industrial
+14001009	[GUIDNAME Big5Corp] foi estabelecida como a corporação dominante em: [GUIDNAME IndustryType].
+14001010	Você não pode mais dominar esta indústria.
+14001208	Parabéns! [CORPORATION_NAME] foi estabelecida como a corporação dominante em: [GUIDNAME IndustryType]!
+14001209	Você pode encontrar novas corporações no modo [GUIDNAME IndustryType]. Inclua todos os lucros do domínio desde o início.
+14001225	Aquisição de Concorrente
+14001226	Parabéns! Você adquiriu todas as ações da [GUIDNAME Big5Corp].
 14001227	Agora você pode construir módulos sem limitações.
 14001016	Ações corporativas
 14001017	Você tem
@@ -139,16 +139,16 @@
 14001934	Efeito de compartilhamento
 14001935	Efeito do Setor
 14001512	Na última reunião do Conselho foi decidido aplicar uma redução de preço.
-14001029	Additional Promotion Rights
-14001030	Your Trading Floors generate [BONUS_ASCENSION_RIGHTS] promotion rights for employees.
-14001663	Some buildings are disconnected from the logistics network.
-14001672	The production in some facilities is paused.
+14001029	Direitos adicionais de promoção
+14001030	Suas plantas de negócios geram direitos de atualização [BONUS_ASCENSION_RIGHTS] para os funcionários.
+14001663	Alguns edifícios estão desconectados da rede logística.
+14001672	A produção foi interrompida em algumas instalações.
 14001673	Manutenção Total
 14001674	<font [GUI_COLOR GreyLight1]>Clique para alternar entre edifícios</font>
 14002011	Ir para próxima construção
 14002012	Ir para construção anterior
-14001430	Module Limit
-14002097	Input Demand
+14001430	Limite de Módulos
+14002097	Demanda por materiais
 14000257	[GUIDNAME 14000983]
 14001788	Bolsa disponível a partir do Nível 10.
 14001787	A bolsa de valores só pode ser acessada após aceitar as novas opções de dificuldade de atualização de sua corporação.
@@ -161,14 +161,14 @@
 14002003	[GUIDNAME 14002011] ([KEYBINDING session.jumpToNextBuilding()])
 14002004	[GUIDNAME 14002012] ([KEYBINDING session.jumpToPreviousBuilding()])
 14002005	[GUIDNAME 121669]
-14000946	Potential Output
-14000947	Starting Bid
-14000988	A corporate rival is siphoning off [HACKER_ATTACK_PERCENTAGE]% from your credit balance.
-14000989	All mountain sites are shut down due to danger of landslides.
-14000991	Construction is not permitted due to safety concerns.
-14000992	Energy transfer routes are dampened by solar flares.
-14000993	Air pollution leads to dissatisfaction among employees.
-14000994	Your employees consume more goods during whiteouts.
+14000946	Produção potencial
+14000947	Lance inicial
+14000988	Un rival corporativo está desviando [HACKER_ATTACK_PERCENTAGE]% do seu saldo de crédito.
+14000989	Todas as zonas de construção de montanha estão fechadas devido ao perigo de deslizamentos.
+14000991	A construção não é permitida devido a riscos de segurança.
+14000992	As rotas de transferência de energia são afetadas por explosões solares.
+14000993	A poluição do ar causa insatisfação entre os empregados.
+14000994	Seus funcionários consomem mais mercadorias durante tempestades de neve.
 14000995	Placeholder WIP
 14000996	Placeholder WIP
 121360	Minas geram maior produção neste setor.
@@ -184,29 +184,29 @@
 121371	As Colheitadeiras Regolith geram uma produção mais alta, mas os Geradores de Escudos requerem mais energia.
 121544	As dessalinizadoras geram maior produção neste setor.
 121545	As instalações de produção exigem menos logística, mas a produção agrícola sofre.
-121546	Subzero Cleanrooms provide a higher output, but production in Methane Extractors is impaired.
+121546	As salas assépticas abaixo de zero geram maior produção, mas os extratores de metano sofrem.
 121368	Solar Arrays are more effective in this sector, but all production facilities need more workforce.
-121547	Farms require less energy, but maintenance credit costs for all electronics facilities increase.
-121548	Moss Farms provide a higher output, but all production facilities need more logistics.
-14001760	Certain mines provide a higher output in this sector.
-14002069	Deuterium Strainers need less Energy, but Fishing Harbors generate less output.
-14002073	Aeroponic Farms need less input, but Oxygen Separators generate less output.
-14002075	Vitamin Extractors need more Energy, but Moss Farms need less.
-14002078	Bioresin production is cheaper in this Sector.
-14002080	Construct-o-Bot production is cheaper in this Sector.
-14002083	Superalloy production needs less workforce in this Sector.
-14002084	Titanium Plating production requires less Titanium.
-14002105	Rice Farms employ the natural flooding, but Fruit Plantations suffer from it.
-14002109	Wine yields are increased, but mining facilities use more refinement steps.
-14002113	Energy facilities save on cooling, but logistics suffer from snow-covered roads.
-14002118	Edifícios públicos exigem menos fundos, mas as instalações de produção são restritas.
-14002122	Natural Gas resources are vast, but additional security measures slow down production in some facilities.
-14002126	Warm winds mean All-Weather Parkas need less lining, but Natural Gas containers hold less because of gas expansion.
-14002131	The melting snow makes roads are easier to travel, but Neuro Implants experience a higher failure rate.
-14002134	Fusion Reactors use the stronger local magnetic field, but instruments in Cybernetics Factories are disturbed by it.
-14002138	Pyrite replaces other impurities and is easy to extract for Titanium Mines, but not for Core Ice Drillers.
-14002142	The shaking ground benefits KREEP Gatherers, but requires more work of Maintenance Stations.
-14002146	Reduced gravitational pull benefits Anti-G Workshops, but hinders regular work on all Factories.
+121547	Os vetores solares são mais eficazes neste setor, mas todas as instalações de produção requerem mais mão de obra.
+121548	As fazendas precisam de menos energia, mas os custos de crédito para manutenção de todas as instalações eletrônicas aumentam.
+14001760	Algumas minas geram maior produção neste setor.
+14002069	Os filtros de deutério precisam de menos energia, mas os portos de pesca geram menos produção.
+14002073	Fazendas aéro-pônicas precisam de menos materiais, mas os separadores de oxigênio geram menos produção.
+14002075	Extratores de vitaminas precisam de mais energia, mas as fazendas de musgo precisam de menos.
+14002078	A produção da bio-resina é mais barata neste setor.
+14002080	A produção de robôs de construção é mais barato neste setor.
+14002083	A produção de superligas requer menos mão de obra neste setor.
+14002084	A produção de placas de titânio requer menos titânio.
+14002105	Os campos de arroz aproveitam as inundações naturais, mas as plantações de frutas sofrem com isso.
+14002109	A produção de vinho está aumentando, mas as instalações de mineração usam etapas adicionais de refino.
+14002113	As instalações de energia economizam em sistemas de refrigeração, mas a logística é afetada por estradas cobertas de neve.
+14002118	Os edifícios públicos precisam de menos financiamento, mas as instalações de produção têm restrições legais.
+14002122	Os recursos de gás natural são extensos, mas as medidas de segurança adicionais reduzem a produção em algumas instalações.
+14002126	Os ventos quentes fazem com que as jaquetas multiuso exijam menos revestimentos, mas os recipientes de gás natural têm menos capacidade devido à expansão do gás.
+14002131	Conforme a neve derrete, as estradas são mais fáceis de navegar, mas os implantes neurológicos têm uma taxa de falha mais alta.
+14002134	Os reatores de fusão usam campos magnéticos locais mais fortes, mas os instrumentos em fábricas cibernéticas são afetados adversamente.
+14002138	A pirita substitui outras impurezas e é fácil de extrair para minas de titânio, mas não para perfuratrizes nucleares.
+14002142	O tremor do solo beneficia os coletores do KREEP, mas é necessário mais trabalho nas estações de manutenção.
+14002146	A força gravitacional reduzida beneficia as oficinas de antigravidade, mas dificulta o trabalho normal de todas as fábricas.
 14001431	Ataque de hacker
 14001432	Guerra climática
 14001434	Noite polar
@@ -236,81 +236,81 @@
 14001463	Depósitos Profundo de Tungstênio
 14001464	Depósitos Profundo de Titânio
 14001465	Depósitos Profundo de Gelo Espacial
-14001466	Abundant KREEP Deposits
-14001467	Abundant Helium-3 Deposits
-14001665	Low Salinity
-14001666	Compacted Soil
-14001667	Nature Reserve
-14001668	High Humidity
-14001669	Marsh Soil
-14002062	Heavy Water
-14002063	Mineral Ice
-14002064	Unclean Waters
-14002065	Sun Exposure
-14002066	Magma Chamber
-14002067	Borate Minerals
-14002068	Pure Ores
-14002106	Flood Plain
-14002111	Slate Terroir
-14002115	Katabatic Winds
+14001466	Depósitos Abundantes de KREEP
+14001467	Depósitos Abundantes de Hélio-3
+14001665	Baixa Salinidade
+14001666	Solo Compactado
+14001667	Reserva natural
+14001668	Alta umidade
+14001669	Solo pantanoso
+14002062	Água pesada
+14002063	Gelo Mineral
+14002064	Águas impuras
+14002065	Exposição ao sol
+14002066	Câmara de magma
+14002067	Minerais de borato
+14002068	Minérios Puros
+14002106	Comida simples
+14002111	Ardósia Terroir
+14002115	Ventos catabáticos
 14002119	Área Recreativa
-14002123	Volatile Gas Pockets
-14002127	Föhn
-14002130	Stratospheric Warming
-14002135	Magnetized Grounds
-14002139	Pyrite Veins
-14002143	Moonquake Territory
-14002148	Peak Libration
-14001939	Increased mine output
-14001940	Increased coastal facility output
-14001941	Increased farm output
-14001942	Increased wind park output
-14001943	Increased tidal power station output
-14001945	Increased desalinization plant output
-14001946	Increased geothermal turbine output
-14001947	Increased coral farm output
-14001948	Decreased shield generator energy demand
-14001950	Decreased facility logistics demand
-14001953	Increased coral farm and fishing harbor output
-14001954	Increased subzero cleanroom output
-14001956	Increased regolith collector output
-14001958	Increased solar array output
-14001960	Decreased farm energy demand
-14001962	Increased moss plantation output
-14001949	Decreased output in other coastal facilities
-14001951	Decreased farm output
-14001952	Decreased aluminium and molybdenum mines output
-14001955	Decreased methane extractor output
-14001957	Increased shield generator energy demand
-14001959	Increased facility workforce demand
-14001961	Increased electronics facilities credit demand
-14001963	Increased facility logistics demand
-14001944	Increased feldspar quarry output
-14001965	Increased cobalt mine output
-14001966	Increased silicon mine output
-14001967	Increased diamond mine output
-14001968	Increased tungsten mine output
-14001971	Increased aluminium mine output
-14001972	Increased molybdenum mine output
-14001973	Increased titanium mine output
-14001974	Increased core ice driller output
-14001975	Increased KREEP gatherer output
-14001976	Increased regolith collector output
+14002123	Bolsas de gás volátil
+14002127	Vento Föhn
+14002130	Aquecimento Estratosférico
+14002135	Terrenos magnetizados
+14002139	Veias da pirita
+14002143	Território Moonquake
+14002148	Liberação de pico
+14001939	Aumento da produção na mina
+14001940	Aumento da produção das instalações costeiras
+14001941	Aumento da produção agrícola
+14001942	Aumento da produção do parque eólico
+14001943	Aumento da produção da estação de energia de marés
+14001945	Aumento da produção da planta de dessalinização
+14001946	Aumento da produção da turbina geotérmica
+14001947	Aumento da produção da fazenda de coral
+14001948	Diminuição da demanda de energia do gerador de blindagem
+14001950	Diminuição da demanda de logística das instalações
+14001953	Aumento da produção de fazenda de coral e porto de pesca
+14001954	Aumento da produção de sala limpa abaixo de zero
+14001956	Aumento da produção do coletor de regolito
+14001958	Aumento da produção de painéis solares
+14001960	Diminuição da demanda de energia da fazenda
+14001962	Aumento da produção de plantações de musgo
+14001949	Produção diminuída em outras instalações costeiras
+14001951	Produção agrícola diminuída
+14001952	Diminuição da produção de minas de alumínio e molibdênio
+14001955	Diminuição da produção do extrator de metano
+14001957	Maior demanda de energia do gerador de escudo
+14001959	Aumento da demanda de mão de obra nas instalações
+14001961	Maior demanda de crédito em instalações de eletrônicos
+14001963	Aumento da demanda de logística das instalações
+14001944	Maior produção de pedreira de feldspato
+14001965	Aumento da produção da mina de cobalto
+14001966	Maior produção da mina de silício
+14001967	Maior produção da mina de diamantes
+14001968	Maior produção da mina de tungstênio
+14001971	Aumento da produção da mina de alumínio
+14001972	Aumento da produção da mina de molibdênio
+14001973	Aumento da produção da mina de titânio
+14001974	Maior rendimento do perfurador de gelo
+14001975	Maior produção do coletor KREEP
+14001976	Aumento da produção do coletor de regolito
 14000986	Calamidade
 14000987	Traço do setor
-14001552	Establishing Industry Dominance
-14001553	Imminent Industry Dominance
-14001560	Dominance in Biotecnología
-14001561	Dominance in Electronics
-14001562	Dominance in Energy
-14001563	Dominance in the Heavy Industry
-14001564	Dominance in Agriculture
-14001555	is about to establish itself as the Biotecnología industry leader.
-14001565	is about to establish itself as the electronics industry leader.
-14001566	is about to establish itself as the energy industry leader.
-14001567	is about to establish itself as the heavy industry leader.
-14001568	is about to establish itself as the agriculture industry leader.
-14001554	You are about to establish yourself as the Biotecnología industry leader.
-14001569	You are about to establish yourself as the electronics industry leader.
-14001570	You are about to establish yourself as the energy industry leader.
-14001571	You are about to establish yourself as the heavy industry leader.
+14001552	Estabelecendo domínio industrial
+14001553	Domínio industrial iminente
+14001560	Domínio em biotecnologia
+14001561	Domínio em eletrônica
+14001562	Domínio em energia
+14001563	Domínio na indústria pesada
+14001564	Domínio na agricultura
+14001555	está prestes a se estabelecer como líder na indústria de biotecnologia.
+14001565	está prestes a se estabelecer como líder na indústria de eletrônicos.
+14001566	está prestes a se estabelecer como líder no setor de energia.
+14001567	está prestes a se estabelecer como líder na indústria pesada.
+14001568	está prestes a se estabelecer como líder no setor agrícola.
+14001554	Você está prestes a se estabelecer como líder na indústria de biotecnologia.
+14001569	Você está prestes a se estabelecer como líder na indústria de eletrônicos.
+14001570	Você está prestes a se estabelecer como líder no setor de energia.
+14001571	Você está prestes a se estabelecer como líder na indústria pesada.
