@@ -23,7 +23,7 @@
 14002317	[GUIDNAME 14001252]
 14002318	[GUIDNAME 14001252]
 14002319	[GUIDNAME 14001252]
-14001251	Biotecnología Benefits
+14001251	Benefícios da biotecnologia
 14001721	[GUIDNAME 14001251]
 14001722	[GUIDNAME 14001251]
 14001723	[GUIDNAME 14001251]
@@ -160,7 +160,7 @@
 12013519	<font [GUI_COLOR GreyLight1]>[GUIDNAME 12013501]</font>
 12013270	Raio do escudo orbital
 12013311	Atenção: vários módulos demolidos
-12013312	Tem certeza de que deseja desmolir esses módulos?
+12013312	Tem certeza de que deseja demolir esses módulos?
 12013456	Lance um laser orbital na área alvo.
 12013457	Ligue para John Rafferty para ir à área alvo e ajudar nos reparos.
 12012793	Calor
@@ -170,7 +170,7 @@
 12012841	Astronautas necessários:
 12012842	Envie astronautas para desbloquear este setor.
 12012852	Sua própria estação orbital foi registrada. O computador central da A.D.A.M. atua como um centro de comando; A estação pode ser ampliada para otimizar suas produções na Terra e na Lua.
-12013469	DLC Orbit disponível
+12013469	DLC Órbita disponível
 12013470	Recrute a tripulação do seu ônibus espacial.
 12013471	Acesse o A.D.A.M.
 12013472	Monte sua estação orbital.
@@ -186,7 +186,7 @@
 12013278	Nexus Tecnológico
 12013446	Distribua sua experiência para obter atualizações globais e extensões de estação. Crie oficinas para acessar tecnologias avançadas.
 12013511	Oficinas atuais:
-12013361	Amplicação da oficina
+12013361	Ampliação da oficina
 12013363	Reforço de escudo
 12013364	Estrutura de suporte
 12013461	Agora a estação orbital é expansível.
@@ -216,7 +216,7 @@
 12012951	Temperatura da oficina
 12012952	Temperatura padrão
 12012953	Influencias externas
-12012954	Temperatura óptima
+12012954	Temperatura ideal
 12012956	[GUIDNAME] abastece as oficinas para fornecer mais experiência.
 12012958	As oficinas precisam do equipamento fornecido pelos módulos orbitais. Coloque-os bem próximos para ganhar mais experiência.
 12013177	As sinergias aceleram o ganho de experiência em oficinas.
@@ -234,17 +234,17 @@
 12013160	Em oficinas
 12013161	Esperado
 12013162	No próximo ônibus
-12013163	Inactivo
+12013163	Inativo
 12013164	Total
-12013165	[GUIDNAME 12000095] provide Expertise in Agriculture Chambers.
-12013166	[GUIDNAME 12000096] provide Expertise in Biotecnología Complexes and Electronics Cleanrooms.
-12013167	[GUIDNAME 12000097] provide Expertise in Energy Clusters and Heavy Industry Halls.
-12013389	<font [GUI_COLOR GreyLight1]>Click to cycle through these Workshops on the station</font>
+12013165	[GUIDNAME 12000095] fornece experiência em câmaras de agricultura.
+12013166	[GUIDNAME 12000096] fornece experiência em complexos de biotecnologia e salas limpas eletrônicas.
+12013167	[GUIDNAME 12000097] fornece experiência em Grupos energéticos e salões da indústria pesada.
+12013389	<font [GUI_COLOR GreyLight1]>Clique para navegar nas oficinas da estação</font>
 12013391	As oficinas não têm astronautas suficientes
 12013392	Algumas dessas oficinas não estão na temperatura ideal
 12013393	Eficiência da oficina
 12013394	Foi atribuído: [EXPERTS_NAME]
-12013396	<font [GUI_COLOR GreyLight1]>Clique para navegar nestes módulos na estação</font>
+12013396	<font [GUI_COLOR GreyLight1]>Clique para navegar nos módulos da estação</font>
 12013447	Ganho de experiência
 12013468	Produz novos kits no Nexus Tecnológico
 12000452	Contagem regressiva
@@ -253,64 +253,64 @@
 12000455	Astronautas
 12000456	Os astronautas serão despachados para sua estação orbital no próximo vôo de reabastecimento.
 12012916	<font [GUI_COLOR Green]>Efeito de tecnologia ativa</font>
-12012962	+10% Increased productivity in agriculture facilities
-12012963	+50% Increased rewards for Assignments from Saayman International
-12012964	+50% Improved trading prices for agriculture goods
-12012965	+25% Faster security reduction<br />+5% Effectivity increase for Saayman Insiders
-12012966	+100% Increased resource salvage in Crisis Sectors
-12012967	+10% Increased productivity in agriculture facilities
-12012968	Support Fleet now calls John Rafferty for help instead
-12012969	Desalinization Plants also produce Algae
-12012970	+15% Workforce increase<br />+5% Goods consumption<br />In Arctic, Tundra and Lunar Regions
-12012971	Food Design Workshops use Rice instead of Beef
-12012972	15% Reduced consumption of agriculture goods in all regions
-12013022	+4 Orbital Module Kits<br />+10 Orbital Links Kits
-12013023	+1 Workshop Kit
-12013024	+1 Orbital Shield Radius
-12013025	+1 Workshop Kit
-12013026	+4 Orbital Module Kits<br />+10 Orbital Links Kits
-12012974	+10% Increased productivity in Biotecnología facilities
-12012975	+50% Increased rewards for Assignments from Usoyev Inc.
-12012976	+50% Improved trading prices for Biotecnología goods
-12012977	+25% Faster security reduction<br />+5% Effectivity increase for Usoyev Insiders
-12012978	Obtain 10 Petrochemicals per minute
-12012979	+10% Increased productivity in Biotecnología facilities
-12012980	Radius of the Kinetic Shield increases by +100% and fuel costs are reduced by 2
-12012981	Android Factories also produce Neuro Implants
-12012982	+15% increase in Revenue<br />+5% Goods consumption<br />In Arctic, Tundra and Lunar Regions
-12012983	Biomedical Laboratories use Bioresin instead of Synthcells
-12012984	All residents produce energy
+12012962	A produtividade das instalações agrícolas aumentou 10%.
+12012963	As recompensas pelas comissões da Saayman International aumentaram em 50%.
+12012964	Os preços dos produtos agrícolas comerciais aumentaram em 50%.
+12012965	Redução de segurança 25% mais rápida.<br />Aumento de 5% na eficácia dos infiltradores de Saayman.
+12012966	O resgate de recursos em setores em crise aumentou 100%.
+12012967	A produtividade das instalações agrícolas aumentou 10%.
+12012968	A frota de apoio chamou John Rafferty para ajudar.
+12012969	As usinas de dessalinização agora produzem algas.
+12012970	Aumento da mão de obra em 15%<br />Aumento de 5% no consumo de mercadorias<br />nas regiões Ártica, Tundra e Lunar.
+12012971	As oficinas de design de alimentos usam arroz em vez de carne.
+12012972	O consumo de produtos agrícolas em todas as regiões caiu 15%.
+12013022	+4 kits de módulo orbital;<br />+10 Kits de links orbitais.
+12013023	+1 Kit de oficina
+12013024	+1 Raio de escudo orbital
+12013025	+1 Kit de oficina
+12013026	+4 kits de módulo orbital;<br />+10 Kits de links orbitais.
+12012974	A produtividade das instalações de biotecnologia aumentou 10%.
+12012975	As recompensas de comissão da Usoyev Inc aumentaram em 50%.
+12012976	Os preços comerciais de mercadorias biotecnológicas aumentaram em 50%.
+12012977	Redução de segurança 25% mais rápida.<br />Aumento de 5% na eficácia dos infiltradores em Usoyev.
+12012978	Obtenha 10 produtos petroquímicos por minuto.
+12012979	A produtividade das instalações de biotecnologia aumentou 10%.
+12012980	O raio do escudo cinético aumentou em 100% e os custos de combustível foram reduzidos em 2.
+12012981	As fábricas de Androide também produzem implantes neurológicos.
+12012982	Aumento de receita em 15%.<br />Aumento de 5% no consumo de mercadorias<br /> nas regiões Ártica, Tundra e Lunar.
+12012983	Os laboratórios biomédicos usam bio-resinas em vez de células sintéticas.
+12012984	Todos os residentes produzem energia
 12013027	[GUIDNAME 12013023]
 12013028	[GUIDNAME 12013022]
 12013029	[GUIDNAME 12013024]
 12013030	[GUIDNAME 12013022]
 12013031	[GUIDNAME 12013023]
-12012986	+10% Increased productivity in electronics facilities
-12012987	+50% Increased rewards for Assignments from Ibarra-FoxCom
-12012988	+50% Improved trading prices for electronics goods
-12012989	+25% Faster security reduction<br />+5% Effectivity increase for Ibarra-Foxcom Insiders
-12012990	Obtain 11 Graphene units per minute
-12012991	+10% Increased productivity in electronics facilities
-12012992	Radius of Repair Drone increases by +100% and fuel cost are reduced by 2
-12012993	Anti-G Workshops additionally produce IntelliWear
-12012994	+10% Increase in Revenue<br />-10% Workforce generation<br />In the Temperate Region
-12012995	Hardware Fabrication Plants use Microchips instead of Qubit Processors
-12012996	Androids in storage provide Workforce
+12012986	A produtividade das instalações eletrônicas aumentou em 10%.
+12012987	Recompensas para pedidos Ibarra-FoxCom aumentaram em 50%.
+12012988	Os preços comerciais de produtos eletrônicos aumentaram 50%.
+12012989	Redução de segurança 25% mais rápida.<br />Aumento de 5% na eficácia dos infiltrados na Ibarra-Foxcom.
+12012990	Consiga 11 unidades de grafeno por minuto.
+12012991	A produtividade das instalações eletrônicas aumentou em 10%.
+12012992	O raio dos drones de reparo foi aumentado em 100% e os custos de combustível foram reduzidos em 2.
+12012993	As oficinas de antigravidade também produzem Intel-Roupa.
+12012994	Aumento da receita em 10%.<br />Geração de mão de obra aumentou em 10%<br />na região temperada.
+12012995	As fábricas de hardware usam microchips em vez de processadores Qubit.
+12012996	Os andróides armazenados fornecem mão de obra.
 12013032	[GUIDNAME 12013022]
 12013033	[GUIDNAME 12013023]
 12013034	[GUIDNAME 12013024]
 12013035	[GUIDNAME 12013023]
 12013036	[GUIDNAME 12013022]
-12012998	+10% Increased productivity in energy facilities
-12012999	+50% Increased rewards for Assignments from Lei Sheng
-12013000	+50% Improved trading prices for energy goods
-12013001	+25% Faster security reduction<br />+5% Effectivity increase for Lei Sheng Insiders
-12013002	Obtain 15 Iridium units per minute
-12013003	+10% Increased productivity in energy facilities
-12013004	Missile Barrages fires from Satellite Artillery instead
-12013005	Methane Extractors also produce Deuterium
-12013006	+10% Workforce increase<br />-10% Revenue gain<br />In Arctic, Tundra and Lunar Regions
-12013007	Fusion Preparation Plants use Moon Ice instead of Deuterium
-12013008	+5% Increased productivity in all facilities<br />Increased Energy Maintenance by 25%
+12012998	A produtividade das instalações de energia aumentou 10%.
+12012999	As recompensas pelas comissões Lei Sheng aumentaram 50%.
+12013000	Os preços das commodities de energia comercial aumentaram 50%.
+12013001	Redução de segurança 25% mais rápida.<br />Aumento de 5% na eficácia dos infiltrados em Lei Sheng.
+12013002	Consiga 15 unidades de iridio por minuto.
+12013003	A produtividade das instalações de energia aumentou 10%.
+12013004	As descargas de mísseis disparam da artilharia de satélites.
+12013005	Extratores de metano também produzem hidrato de deutério.
+12013006	Aumento da mão de obra em 10%.<br />Aumentou a receita em 10%<br />nas regiões Ártica, Tundra e Lunar.
+12013007	As fábricas de preparação de derretimento usam gelo lunar em vez de deutério.
+12013008	Aumento da produtividade de 5% em todas as instalações<br />Aumento de 25% na manutenção de energia.
 12013037	[GUIDNAME 12013023]
 12013038	[GUIDNAME 12013022]
