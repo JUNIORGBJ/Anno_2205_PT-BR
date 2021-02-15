@@ -57,7 +57,7 @@
 108747	"Um contrabandista de minerais! Em seu território! Diga-me, você não tem nada a ver com isso? Então traga-nos o barco!"
 108748	"A tecnologia é falível, especialmente nessas temperaturas. Do jeito que está, ela não se moverá mais por conta própria."
 108749	"Um barco sem bandeira está ameaçando nossa linha de abastecimento. Receio que eles só responderão à força."
-108750	"É uma tragédia ter que afundar esses agressores. Mas é muito pior deixar nossas terras mais vulneráveis ​​do que já estão”.
+108750	"É uma tragédia ter que afundar esses agressores. Mas é muito pior deixar nossas terras mais vulneráveis ​​do que já estão."
 108751	"Precisamos extrair registros meteorológicos de um antigo assentamento do Ártico. Agora está debaixo d'água, é claro."
 108752	"Nossos drones encontraram irregularidades no campo magnético da área. Precisamos ter certeza de que este não é um centro de resíduos de tecnologia ilegal."
 108753	"Estou feliz que a Guarda Orbital tenha se decidido pela carga e não pela tripulação. Mas ainda precisamos da mercadoria."
@@ -120,7 +120,7 @@
 108802	"Não, não. É uma entrega legítima para este Guardião do Ártico. Veja bem, prefiro manter isso em segredo."
 108803	"Um momento cheio de emoções. Sempre há pessoas dispostas a pagar mais pela discrição. Esperamos que você seja discreto."
 108804	"Fazer viagens pessoais claramente viola o contrato para nossos veículos. Meu superior quer que eles sejam colocados na trilha."
-108805	"Contratar conselho de alguém que nem mesmo dá seu nome verdadeiro ou tem um meio de transporte oficial?
+108805	"Contratar conselho de alguém que nem mesmo dá seu nome verdadeiro ou tem um meio de transporte oficial?"
 108806	"Recebi ameaças pessoais contra meu superior. Colaborar nisso também garantirá sua própria segurança."
 108807	"A espionagem industrial não é algo para ser considerado levianamente. Este drone não tripulado está custando milhões a nós dois!"
 121251	"É uma pena admitir, mas nossos mensageiros precisam reabastecer rapidamente. Sua discrição seria muito apreciada."
@@ -243,7 +243,7 @@
 115124	"As técnicas de intimidação terrorista devem ser interrompidas! Até nossos funcionários estão de licença médica!"
 115125	"As recentes anomalias nas correntes oceânicas podem representar um problema para a nossa logística. Devemos fazer medições."
 115126	"Eles nos pediram para patrocinar um documentário sobre a desatualizada indústria subaquática. Eles querem filmar no local perfeito."
-115127	"Foi solicitada a retirada de todo o Intel-Roupa produzido este mês, mas esse cliente recusou! Isso é arriscado do ponto de vista jurídico”.
+115127	"Foi solicitada a retirada de todo o Intel-Roupa produzido este mês, mas esse cliente recusou! Isso é arriscado do ponto de vista jurídico."
 115128	"Seu novo produto pode tornar o nosso obsoleto. Se soubéssemos exatamente com o que estamos lidando..."
 115129	"Estamos preparando uma grande revelação. Seria bom ter a experiência do Sr. Goodwin neste assunto, mas com discrição."
 115130	"Precisamos de material para nossos novos hologramas hápticos. É melhor que a imprensa não descubra ainda."

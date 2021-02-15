@@ -69,7 +69,7 @@
 105648	[NOTIFICATION_CHARACTER_NAME] enfatiza a importância crucial de um bom suprimento de oxigênio.
 105649	[NOTIFICATION_CHARACTER_NAME] explica quais materiais são necessários para construir estruturas espaciais.
 118254	[NOTIFICATION_CHARACTER_NAME] mostra como sua colônia seria vulnerável sem geradores de escudo.
-105545	"A chave é ter fortes rotas de comércio inter-orbital se você quiser que sua corporação substitua a LEC como fornecedora de recursos lunares.”
+105545	"A chave é ter fortes rotas de comércio inter-orbital se você quiser que sua corporação substitua a LEC como fornecedora de recursos lunares."
 105550	A Lunar Excavation Corp nem sempre possuía direitos exclusivos de mineração e distribuição de recursos lunares. Antes de sua fundação pela União Global, as empresas privadas conduziram uma guerra armada pelos territórios e recursos que o satélite da Terra tinha a oferecer. O evento entrou na história dos e-books como o "Eclipse". Após uma longa paz, a Guarda Orbital está mais do que disposta a transformar a Lua em um campo de batalha novamente. Enfrentar a Guarda não será possível sem o apoio constante da Terra e rotas de transporte orbital direto.
 105638	[NOTIFICATION_CHARACTER_NAME] informa sobre as demandas logísticas que seu espaçoporto terá que atender.
 105639	[NOTIFICATION_CHARACTER_NAME] informa sobre o que foi feito até agora pelos fugitivos do LEC que vieram para a Terra.
