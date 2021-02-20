@@ -1,34 +1,34 @@
-119844	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000236] in the neighborhood.
-105970	[THIRDPARTY_NAME] warmly welcomes you.
-105971	[THIRDPARTY_NAME] smiles as you walk in.
-105972	[THIRDPARTY_NAME] shoots the breeze with you.
-105973	[THIRDPARTY_NAME] passes the time chatting.
-105974	[THIRDPARTY_NAME] makes small talk.
-102736	[THIRDPARTY_NAME] asks you to keep the assignment in mind.
-105250	[THIRDPARTY_NAME] reminds you of your responsibilities.
-105251	[THIRDPARTY_NAME] hopes you will carry on with the assignment.
-105257	[THIRDPARTY_NAME] identifies the object as a part of the Assignment.
-105258	[THIRDPARTY_NAME] informs you about this object's relevance.
-105259	[THIRDPARTY_NAME] views this object as crucial for the assignment.
-102737	[THIRDPARTY_NAME] confirms the point of delivery.
-105252	[THIRDPARTY_NAME] points you towards your destination.
-105255	[THIRDPARTY_NAME] wants you to unload everything here.
-117973	[THIRDPARTY_NAME] advises caution.
-119821	[THIRDPARTY_NAME] is looking forward to your inevitable failure.
-119822	[THIRDPARTY_NAME] does not think you can oppose him much longer.
-106009	Construction options expanded.
-106010	New blueprints ready for implementation.
-106011	Construction of new building types possible.
-106012	Corporation value has risen.
-106013	Your global market share has increased.
-106014	Business successes multiplying.
-106015	Company stocks advance in price.
-106016	Competitive edge sharpened.
-106017	Company trademarks grow in popularity.
-106018	New level of success reached.
-106019	Registered under new name.
-106020	Influence increases to new level.
-109090	Corporation label adapted to reflect economic power.
+119844	[NOTIFICATION_CHARACTER_NAME] está feliz com a [GUIDNAME 1000236] na vizinhança.
+105970	[THIRDPARTY_NAME] lhe dá uma boas vindas calorosa.
+105971	[THIRDPARTY_NAME] sorri quando você entra.
+105972	[THIRDPARTY_NAME] atira a brisa com você.
+105973	[THIRDPARTY_NAME] passa o tempo conversando.
+105974	[THIRDPARTY_NAME] faz conversa fiada.
+102736	[THIRDPARTY_NAME] pede que você mantenha a tarefa em mente.
+105250	[THIRDPARTY_NAME] lembra você de suas responsabilidades.
+105251	[THIRDPARTY_NAME] espera que você continue com a tarefa.
+105257	[THIRDPARTY_NAME] identifica o objeto como parte da tarefa.
+105258	[THIRDPARTY_NAME] informa sobre a relevância deste objeto.
+105259	[THIRDPARTY_NAME] vê este objeto como crucial para a tarefa.
+102737	[THIRDPARTY_NAME] confirma o ponto de entrega.
+105252	[THIRDPARTY_NAME] aponta para o seu destino.
+105255	[THIRDPARTY_NAME] quer que você descarregue tudo aqui.
+117973	[THIRDPARTY_NAME] aconselha cautela.
+119821	[THIRDPARTY_NAME] está ansioso pelo seu fracasso inevitável.
+119822	[THIRDPARTY_NAME] não acha que você pode enfrentá-lo por muito mais tempo.
+106009	Opções de construção expandidas.
+106010	Novos projetos prontos para implementação.
+106011	É possível construir novos tipos de edifícios.
+106012	O valor da corporação aumentou.
+106013	Sua participação no mercado global aumentou.
+106014	Sucessos comerciais se multiplicando.
+106015	O preço das ações da empresa avançam.
+106016	Vantagem competitiva afiada.
+106017	A popularidade das marcas da empresa aumentam.
+106018	Novo nível de sucesso alcançado.
+106019	Registrado com novo nome.
+106020	A influência atinge um novo nível.
+109090	O rótulo da corporação, adaptado para refletir o poder econômico.
 106021	Prices for monitored goods lowered.
 106022	Report on monitored goods: Prices at new low.
 106023	Important. World market lists low prices.
