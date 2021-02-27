@@ -1,78 +1,78 @@
-116403	[NOTIFICATION_CHARACTER_NAME] worries about potential instability.
-116404	An enraged [NOTIFICATION_CHARACTER_NAME] withdraws his support for the project.
-116405	[NOTIFICATION_CHARACTER_NAME] is alive, but shaken.
-117301	Project stage 1 completed
-117302	First channel laid out
-117303	Logistic bonus in this sector activated
-117304	Project stage 2 completed
-117305	Second channel laid out
-117306	Logistic bonus in this sector improved
-117307	Project stage 3 completed
-117308	Third channel laid out
+116403	[NOTIFICATION_CHARACTER_NAME] está preocupado com uma possível instabilidade.
+116404	A raiva tomou conta de [NOTIFICATION_CHARACTER_NAME], que retira o seu apoio ao projeto.
+116405	[NOTIFICATION_CHARACTER_NAME] está vivo, mas abalado.
+117301	Fase 1 do projeto concluída
+117302	Primeiro canal estabelecido
+117303	Bônus de logística ativado neste setor
+117304	Fase 2 do projeto concluída
+117305	Segundo canal estabelecido
+117306	Bônus de logística melhorado neste setor
+117307	Fase 3 do projeto concluído
+117308	Terceiro canal estabelecido
 117309	[GUIDNAME 117306]
-114738	"Before we start constructing our first channel, you'll have to examine a few cracks in the ice plain. It won't do to set up the site and find out the layer is impassable."
-114739	"Dr. Young's concerns are exaggerated. Let's not get distracted. Construction of the Icebreakers requires a stable supply of materials."
-114740	"I'm pleased to report the teams are ready to be brought to the site. They are eager to get this project off the ground. It will bring life to this desolate place."
-114741	"You'd think all Custodians would appreciate the economic growth this project brings. Make sure there are enough helping hands."
-114742	"I've received reports of fractures in the ice. We'll need to construct a mesh that will stop ice floes from breaking off into the channel. Would you deliver the materials?"
-114743	"We have no choice but to detonate an iceberg for our second channel or the ice will be impassable. I'm sending the coordinates."
-114744	"Fair enough. Losing the Custodian's support is certainly a setback at such a critical point. But still. Make sure our icebreakers' energy supply is taken care of."
-114746	"Respond immediately! A ship has been sunk by a stray floe at the third channel site. The survivors barely made it into the lifeboats, we don't... we don't know how many didn't make it."
-114747	"Do you have enough Stimulants? The survivors need strength! I knew the endeavour was risky, but I thought it was worth it. But how can sacrificing lives be worth it?"
-114748	"I was too hasty... I should never have forced the shortest way through. No more risks. Make sure the icebreakers are equipped with diamond coating."
-117748	"Before we start constructing our first channel, you'll have to examine a few cracks in the ice plain. We want to rule out the layer is impassable."
-117749	"Dr. Young's concerns are exaggerated. Let's not get distracted, we need enough scientists to finalize our calculations and prepare teams."
-117750	"I'm pleased to report the teams are ready to be brought to the site. They are eager to get this project off the ground, it will bring life to this desolate place."
-117751	"A stable energy supply is tricky to establish here. Make sure it doesn't fluctuate during our final calibrations. Oh, didn't I mention we'd be using explosives?"
-117752	"Now move the team to a safe distance. And don't worry about the Custodians, this procedure adheres to the strictest of regulations. I will assuage them."
-117753	"Fast and effective, my favorite work ethics. The honor of pushing the button is all yours."
-117754	"We've been warned about the next location. We've also been warned to secure the protected wildlife. Let's show our goodwill."
-117755	"We cannot proceed with stationary explosives, the terrain is too hard to navigate. But why not use what we already have, such as mobile firepower."
-117756	"Fair enough. The Custodian's support has been lip service anyhow. Our plan's next step is the construction of a high-pressure ice drill."
-117757	"This drill will break through the plain and provide pockets to place the proper detonators. Of course it has to be operated by capable hands."
-117758	"The ice is a lot sturdier than expected. Well, perseverance is what separates the wheat from the chaff. Fuel the drill and we'll be through in no time."
-117759	"The explosive charges have been placed, but the team still is on site. The evacuation radius is a vague number, but I'm sure all will be well."
-117760	"Your work has been outstanding, I'm looking forward to this project's future. And now to the main attraction."
-117761	"Respond immediately! An icebreaker sunk trying to break open a channel! The survivors barely made it onto lifeboats, we... we don't know how many didn't."
-117762	"We need to bring them to someplace warm! I knew this method was risky, but I thought it was worth it. But how can sacrificing lives be worth it?"
-117763	"I was too hasty... I should never have forced the shortest way through. Retrieve the icebreaker parts or the site won't be safe to approach."
-117764	"I'm done with risks. I've personally ordered the development of a method that can be easily controlled. And our brightest minds will build it."
-117765	"No more brute force. We'll be melting the explosives into the ice. The placement has been calculated thoroughly. Please escort the team to place them."
-117766	"Of course it's operation won't come without a high demand in energy. But there'll be no excess heat - only efficient heat."
-117768	"The team is finished setting up. They should be brought to a safe distance for an operation of this size. My company will be retrieving the waste later."
-117770	"The perimeter has been secured. Just say the word. Or press the button, so to say."
-109045	"I expected to see you here. Let me explain my case: Saayman International hopes to expand the arctic's food supply network, in partnership with you."
-115263	Reach a Corporation Level of 12 to continue the ice-breaking process.
-115264	Reach a Corporation Level of 24 to continue the ice-breaking process.
-114922	"These channels are a beacon for trade in the arctic. It's my duty to make certain they stay safe. You helped us in our hour of need, I will not forget that."
-120054	Break through a floating glacial sheet to create a new transport route.
-114838	[NOTIFICATION_CHARACTER_NAME] holds out for more refugees to arive.
-114839	[NOTIFICATION_CHARACTER_NAME] is grateful you helped so many people stay alive, promissing to spread the word.
-114840	[NOTIFICATION_CHARACTER_NAME] is grateful you gave the refugees a safe home and a new perspective.
-119923	<font [MINIMAPDOT_COLOR 2001947]>+200 Workforce</font> in this sector
-120383	<font [MINIMAPDOT_COLOR 2001947]>+400 Workforce</font> in this sector
-120384	<font [MINIMAPDOT_COLOR 2001947]>+800 Workforce</font> in this sector
-117862	A desperate [NOTIFICATION_CHARACTER_NAME] approaches you for help.
-117863	In her desperation, [NOTIFICATION_CHARACTER_NAME] tells you she and her charges are being hunted by the Orbital Watch.
-117864	[NOTIFICATION_CHARACTER_NAME] informs you just how life-threatening the situation on former LEC territory is.
-117865	[NOTIFICATION_CHARACTER_NAME] has no other choice than to ask you to accept refugees in your settlement.
-117866	[NOTIFICATION_CHARACTER_NAME] has an ear to the ground for any new refugees.
-117867	[NOTIFICATION_CHARACTER_NAME] is expecting more refugees sometime soon.
-117868	[NOTIFICATION_CHARACTER_NAME] promises the refugees will help out where they can.
-120367	[NOTIFICATION_CHARACTER_NAME] voices his intent to oppose the refugee camp.
-120368	[NOTIFICATION_CHARACTER_NAME] is enraged, that Virgil Drake has placed landmines all around the camp.
-120371	[NOTIFICATION_CHARACTER_NAME] thanks you for taking him to the camp.
-120369	[NOTIFICATION_CHARACTER_NAME] is happy to receive new refugees...
-120375	[NOTIFICATION_CHARACTER_NAME] is beside herself, as Orbital Watch spies have poisoned the supplies.
-120377	Grudgingly, [NOTIFICATION_CHARACTER_NAME] admits his plan has failed.
-117310	Project stage 1 completed
-117311	Refugee camp established
-117312	Workforce bonus in this sector activated
-117313	Project stage 2 completed
-117314	Refugee camp expanded
-117315	Workforce output in the sector increased
-117316	Project stage 3 completed
-117317	Refugee camp secured
+114738	"Antes de começarmos a construir nosso primeiro canal, você terá que examinar algumas rachaduras na planície de gelo. Não adianta preparar a área e depois descobrir que a camada é intransitável."
+114739	"A preocupação do Dr. Young é exagerada. Não vamos perder o ponto. A construção de quebra-gelos requer um suprimento estável de materiais."
+114740	"É um prazer informar que as equipes estão prontas para se mudar para o local. Eles estão ansiosos para lançar este projeto que dará vida a este lugar desolado."
+114741	"Seria de se esperar que os tutores do Ártico apreciassem o crescimento econômico que vem desse projeto. Certifique-se de que haja mãos suficientes."
+114742	"Recebi relatos de fraturas no gelo. Vamos ter que construir uma malha para evitar que os blocos de gelo rompam o canal. Você poderia ajudar com a entrega dos materiais?"
+114743	"Não temos escolha: devemos detonar um iceberg para o segundo canal, caso contrário o gelo ficará intransitável. Enviarei as coordenadas."
+114744	"Parece bom para mim. Perder o apoio dos Guardiões é um grande revés em um momento tão crítico. Mas ainda... Isso garante o fornecimento de energia para nossos quebra-gelos."
+114746	"Responda imediatamente! Um iceberg solto afundou um navio na área do terceiro canal. Os sobreviventes mal conseguiram chegar aos botes salva-vidas. Não... não sabemos quantos morreram."
+114747	"Você tem estimulantes suficientes? Os sobreviventes precisam de força! Eu sabia que o projeto era arriscado, mas achei que valia a pena. Mas como pode valer a pena sacrificar vidas humanas?"
+114748	"Eu me apressei... Nunca deveria ter forçado o caminho mais curto. Não estamos correndo mais riscos. Certifique-se de que os quebra-gelos estejam equipados com uma cobertura de diamante."
+117748	"Antes de começarmos a construir nosso primeiro canal, você terá que examinar algumas rachaduras na superfície do gelo. Queremos descartar que a camada seja intransitável."
+117749	"A preocupação do Dr. Young é um exagero. Não devemos nos distrair: precisamos de cientistas suficientes para terminar nossos cálculos e preparar o equipamento."
+117750	"Estou feliz em informar que as equipes estão prontas para serem transferidas para o local. Eles estão ansiosos para lançar este projeto porque ele trará vida a este lugar desolado."
+117751	"É difícil estabelecer uma fonte de alimentação estável aqui. Certifique-se de que não flutue durante as últimas calibrações. Ah, eu não mencionei que íamos usar explosivos?"
+117752	"Agora, coloque a equipe a uma distância segura. E não se preocupe com os Tutores; este procedimento atende aos mais altos padrões. Vou tranquilizá-los."
+117753	"Rápido e eficiente, minha ética de trabalho preferida. A honra de apertar o botão é toda sua."
+117754	"Fomos avisados ​​sobre o próximo lugar. Também fomos avisados ​​de que devemos proteger a vida selvagem. Vamos mostrar que temos boa vontade."
+117755	"Não podemos continuar com explosivos fixos; o terreno é muito difícil. Mas por que não usamos o que já temos, nossa energia móvel?"
+117756	"Parece bom para mim. O apoio dos curadores tem sido apenas da boca para fora. O próximo passo em nosso plano é construir uma furadeira de gelo de alta pressão."
+117757	"Esta broca vai romper a planície e criar orifícios para detonadores adequados. Claro, ela deve ser manuseada por um especialista."
+117758	"O gelo é muito mais duro do que esperávamos. Bem, perseverança é o que separa o joio do trigo. Abasteça a broca e terminaremos em pouco tempo."
+117759	"As cargas explosivas estão no lugar, mas a equipe ainda está lá. O raio de evacuação é impreciso, mas com certeza tudo ficará bem."
+117760	"Seu trabalho tem sido excelente, estou ansioso para ver o andamento desse projeto. E agora, vamos passar para a atração principal."
+117761	"Responda imediatamente! Um navio quebra-gelo afundou tentando abrir um canal! Os sobreviventes mal conseguiram chegar aos botes salva-vidas. Não... não sabemos quantos morreram."
+117762	"Temos que levá-los para um lugar quente! Eu sabia que o método era arriscado, mas achei que valeu a pena. Mas como pode valer a pena sacrificar vidas humanas?"
+117763	"Eu me apressei... nunca deveria ter forçado o caminho mais curto. Pegue de volta as partes do quebra-gelo, caso contrário, será perigoso se aproximar do local."
+117764	"Chega de correr riscos. Eu encomendei pessoalmente o desenvolvimento de um método que pode ser facilmente controlado. E será criado por nossas mentes mais brilhantes."
+117765	"Chega de força bruta. Vamos derreter os explosivos no gelo. A colocação foi calculada em milímetros. Por favor, acompanhe a equipe para colocá-los."
+117766	"Obviamente, vai consumir muita energia. Mas não haverá excesso de calor, apenas calor eficiente."
+117768	"A equipe concluiu os preparativos. Para uma operação desse porte, eles devem ser movidos para uma distância segura. Minha companhia virá mais tarde para levar os resíduos embora."
+117770	"O perímetro está seguro. Você apenas tem que dizer isso. Ou aperte o botão, por assim dizer."
+109045	"Eu esperava vê-lo aqui. Deixe-me apresentar meu caso: a Saayman International quer expandir a rede de abastecimento de alimentos do Ártico fazendo parceria com você."
+115263	Alcance o nível corporativo 12 para continuar o processo de quebra de gelo.
+115264	Alcance o nível corporativo 24 para continuar o processo de quebrar o gelo.
+114922	"Esses canais são um farol para o comércio no Ártico. É minha obrigação garantir a segurança deles. Você nos ajudou quando precisamos e não vou esquecer."
+120054	Atravesse uma camada glacial flutuante para criar uma nova rota de transporte.
+114838	[NOTIFICATION_CHARACTER_NAME] espera que mais refugiados cheguem.
+114839	[NOTIFICATION_CHARACTER_NAME] está grato por você ter ajudado tantas pessoas a permanecerem vivas, prometendo contar às pessoas sobre isso.
+114840	[NOTIFICATION_CHARACTER_NAME] está grato por você ter dado aos refugiados um lar seguro e uma nova perspectiva.
+119923	<font [MINIMAPDOT_COLOR 2001947]>+200 unidades de mano de obra</font> neste setor
+120383	<font [MINIMAPDOT_COLOR 2001947]>+400 unidades de mano de obra</font> neste setor
+120384	<font [MINIMAPDOT_COLOR 2001947]>+800 unidades de mano de obra</font> neste setor
+117862	[NOTIFICATION_CHARACTER_NAME] se aproxima de você para pedir sua ajuda.
+117863	Desesperada, [NOTIFICATION_CHARACTER_NAME] diz a você que a Guarda Orbital está atrás dela e de sua carga.
+117864	[NOTIFICATION_CHARACTER_NAME] informa o quão ameaçadora é a situação no antigo território LEC.
+117865	[NOTIFICATION_CHARACTER_NAME] não tem outra escolha a não ser pedir que você aceite refugiados em seu assentamento.
+117866	[NOTIFICATION_CHARACTER_NAME] está ciente da chegada de novos refugiados.
+117867	[NOTIFICATION_CHARACTER_NAME] está esperando mais refugiados em breve.
+117868	[NOTIFICATION_CHARACTER_NAME] promete que os refugiados ajudarão onde puderem.
+120367	[NOTIFICATION_CHARACTER_NAME] expressa sua intenção de se opor ao campo de refugiados.
+120368	[NOTIFICATION_CHARACTER_NAME] está furioso por Virgil Drake ter colocado minas terrestres em todo o acampamento.
+120371	[NOTIFICATION_CHARACTER_NAME] agradece por levá-lo ao acampamento.
+120369	[NOTIFICATION_CHARACTER_NAME] tem o prazer de receber novos refugiados...
+120375	[NOTIFICATION_CHARACTER_NAME] está muito chateada porque os espiões da Guarda Orbital envenenaram seus suprimentos.
+120377	A contragosto, [NOTIFICATION_CHARACTER_NAME] admite que seu plano falhou.
+117310	Fase 1 do projeto concluída
+117311	Campo de refugiados estabelecido
+117312	Bônus de mão de obra ativada neste setor
+117313	Fase 2 do projeto concluída
+117314	Campo de refugiados expandido
+117315	Aumento da produção de mão de obra no setor
+117316	Fase 3 do projeto concluído
+117317	Campo de refugiados seguro
 117318	[GUIDNAME 117315]
 114749	"As pessoas estão fugindo em qualquer veículo que possam encontrar. Muitos estão se movendo sem rumo até que suas reservas de oxigênio se esgotem. Eu sei que alguns conseguiram alcançar este setor. Por favor, leve-os para dentro."
 114750	"Enviei um sinal em todas as frequências não monitoradas. Mais refugiados virão. Mas duvido que seus veículos aguentem. Gostaria que tivéssemos transportadores para buscá-los..."
@@ -141,38 +141,38 @@
 117325	Fase 3 do projeto concluído
 117326	Estabeleceu a zona de mineração do terceiro meteorito
 117327	[GUIDNAME 117321]
-114760	"Before we proceed to drill into the meteors, we must first determine what exactly we'll be drilling for. Could you perhaps locate some meteor samples for us?"
-114761	"You know, technically they're not meteors, but meteoroids since... Oh! Pardon me. You'll have to provide housing for some meteor scientists, who'll analyze our findings."
-114762	"The analysis is in! And the minerals in there will have every earth mine turning green with envy. Of course, we'll still have to break open our meteor. I'll leave that to you."
-114763	"My superior commends our progress. She's confident this will prove that mining is a long-lasting business. Speaking of which, we'll need titanium to supply our miners with tools."
-114764	"Cassian Industries is planning great things at the moment. It would be much appreciated if you'd take care of the delivery without me while I'm in a meeting."
-114765	"Can I trust you to keep this confidential? Cassian Industries decided to pursue the idea of a second mine, but we've lost contact with our expedition team. Please, retrieve them!"
-114766	"The team is suffering from radiation sickness and my superior is beside herself! If we don't have to transfer the patients, we'd be happy to recompense you for treatment."
-114767	"My superior is placating the merge part- I mean, the media. But there's still the aftermath. The expedition came across radioactive waste, please clear it out."
-114768	"My proposal for a minimally staffed, automatic mine has been approved! And I was appointed executive in charge. You'll help me escort the drilling equipment, won't you?"
-114769	"The drill is still an experimental prototype and it's burning through our energy supply! My superior is not responding, so please help me!"
-114770	"I've just received reports of the drill overheating and threatening to malfunction! What do we do now? Do you have anything that could help, anything at all?"
-118292	"Before we can drill into the meteors, we'll first have to determine what exactly we'll be drilling for. Could you locate meteor samples for us?"
-118293	"You know, technically they're not meteors, but meteoroids since... Oh! Pardon me. You'll have to accomodate meteoritic scientists, who'll analyze our findings."
-118294	"The analysis is in! And the minerals in there will have every earth mine go green with envy. Of course, we'll still have to break open our meteor. I leave it to you."
-118295	"My superior commends our progress. She's confident this will prove that mining is a long-lasting business. Speaking of which, we'll need titanium for the mining tools."
-118296	"Cassian Industries is planning great things at the moment. It would be much appreciated if you'd take care of the delivery while I'm in a meeting."
-118297	"Can I trust you to be confidential? Cassian Industries decided to pursue a second mining, but we've lost contact to our expedition team. Please, retrieve them!"
-118298	"The team is suffering from radiation sickness, my superior is beside herself! If we don't have to transfer the patients, we'd be happy to recompense you."
-118299	"My superior is placating the merge part... I mean, the media. We'll have to outfit our next team with all they need to brave the radioactive conditions in there."
-118300	"A well-paying job with a full coverage insurance. My superior is certain there will be a crowd of aspirants for our second team! But... you could help things along, yes?"
-118301	"Weathering this scandal hasn't been easy. The press has jumped at the radioactive waste at the site. Please clear it out thoroughly."
-118302	"We barely managed to fill all positions. My superior wants us to go ahead with escorting the new excavation team. I'm sure it will be fine."
-118303	"My proposal was approved. A minimally staffed, automatic mine. And... I myself am fully responsible for it. I hope you're still helping me with the drilling equipment?"
-118304	"This time we need a crew to remote-control the drill. The risks are much lower this way, and the job is more attractive. I do hope so, at the very least..."
-118305	"I've just received reports of the drill overheating and threatening to break down! What do we do now? Do you have anything that could help, anything at all?"
-118306	"The drill is still an experimental prototype and it's burning through our energy supply! My superior is not responding. Please, help me this once!"
-118307	"I have a proposal. A diamond-coated drill head will reduce the power expenses substantially. I couldn't confirm this with my superior... but it will work! It has to!"
-109047	"A pleasure to see you. I have a proposal for you from Cassian Industries: How do you feel about making use of the stuff stars are made of?"
-114924	"For a time I feared my superior would be correct about the project being utopian. Instead, I have been given more tasks like these."
-115320	Reach Corporation Level of 15 to start the second meteor exploitation.
-115321	Reach Corporation Level of 30 to start the third meteor exploitation.
-120056	Extract rare materials from meteor impacts on the Moon's surface.
+114760	"Antes de começarmos a perfurar os meteoritos, devemos primeiro determinar exatamente o que estamos procurando. Você poderia localizar amostras de meteoritos para nós?"
+114761	"Você sabe que tecnicamente eles não são meteoritos, mas meteoróides, já que ... Oh! Com licença, você vai ter que abrigar alguns cientistas de meteoritos que vão analisar nossos resultados."
+114762	"Já temos a análise! E os minerais lá dentro farão com que todas as minas da Terra rachem de inveja. Obviamente, ainda teremos que abrir nossos meteoritos. Deixo isso em suas mãos."
+114763	"Minha chefe elogiou nosso progresso. Ela está confiante de que isso mostra que a mineração é um negócio duradouro. E por falar em mineração: vamos precisar de titânio para fornecer ferramentas para nossos mineradores."
+114764	"As Indústrias Cassian têm grandes planos agora. Eu apreciaria se você pudesse cuidar da entrega sem mim; estou em uma reunião."
+114765	"Espero que você trate este assunto de forma confidencial. As Indústrias Cassian decidiram buscar a ideia de uma segunda mina, mas perdemos contato com nossa equipe de expedição. Por favor, encontre-os!"
+114766	"A equipe adoeceu com a radiação e meu chefe foi libertado! Se não tivermos que transferir os pacientes, ficaremos felizes em recompensá-lo pelo tratamento."
+114767	"Meu superior está apaziguando as partes do fus ... quero dizer, a mídia. Mas o resultado ainda está faltando. A expedição encontrou lixo radioativo e preciso que você o remova."
+114768	"Eles aprovaram minha proposta para uma mina automatizada minimamente tripulada! E eu fui encarregado do projeto. Você vai me ajudar a escoltar o equipamento de perfuração, certo?"
+114769	"A furadeira é um protótipo experimental e está sugando nossa fonte de alimentação! Meu superior não responde! Por favor, me ajude!"
+114770	"Recebi um aviso de que a furadeira está superaquecendo e pode falhar! O que vamos fazer? Você tem algo que possamos fazer? Tanto faz!"
+118292	"Antes de perfurar os meteoritos, devemos primeiro determinar exatamente o que estamos procurando. Você poderia localizar amostras de meteoritos para nós?"
+118293	"Você sabe que tecnicamente eles não são meteoritos, mas meteoróides, já que ... Oh! Com licença, você vai ter que abrigar alguns cientistas de meteoritos que vão analisar nossos resultados."
+118294	"Já temos a análise! E os minerais lá dentro farão com que todas as minas da Terra rachem de inveja. Obviamente, ainda teremos que quebrar nosso meteorito. Deixo-o em suas mãos."
+118295	"Minha chefe elogiou nosso progresso. Ela está confiante de que isso mostra que a mineração é um negócio duradouro. E por falar em mineração: vamos precisar de titânio para as ferramentas."
+118296	"As Indústrias Cassian têm grandes planos agora. Eu realmente apreciaria se você pudesse cuidar da entrega enquanto eu participo de uma reunião."
+118297	"Espero que você trate este assunto de forma confidencial. As Indústrias Cassian decidiram prosseguir com uma segunda mina, mas perdemos contato com nossa equipe de expedição. Por favor, encontre-os!"
+118298	"A equipe adoeceu com a radiação e meu chefe foi libertado! Se não tivermos que transferir os pacientes, ficaremos felizes em recompensá-lo."
+118299	"Meu superior está acalmando as partes do fusível ... quero dizer, a mídia. Teremos que dar à próxima equipe tudo de que precisam para lidar com as condições radioativas que encontrarão lá."
+118300	"É um trabalho bem pago com seguro total. Meu superior não tem dúvidas de que haverá muitos candidatos para nossa segunda equipe!" Mas ... você poderia ajudar, certo? "
+118301	“Não foi fácil resistir a este escândalo. A imprensa abordou a questão dos resíduos radioativos na área. Por favor, resolva isso”.
+118302	"Mal conseguimos preencher todas as vagas. Meu superior quer que acompanhemos a nova equipe de escavação. Tenho certeza de que tudo está indo bem."
+118303	"Minha proposta foi aprovada. Uma mina automatizada com um mínimo de pessoal. E ... eu assumo a responsabilidade pessoalmente. Espero que ainda me ajudem com o equipamento de perfuração ..."
+118304	“Desta vez precisamos de uma equipe para controlar a perfuração por controle remoto. Assim reduzimos muito os riscos e o trabalho fica mais atraente. Pelo menos, espero que sim ...”
+118305	"Recebi um aviso de que a furadeira está superaquecendo e pode quebrar! O que vamos fazer? Você tem algo que possamos fazer? Tanto faz!"
+118306	"A furadeira é um protótipo experimental e está sugando nossa fonte de alimentação! Meu superior não responde. Por favor, me ajude desta vez!"
+118307	"Tenho uma proposta. Uma cabeça de perfuração em forma de diamante reduzirá consideravelmente os custos de energia. Ainda não consegui confirmar isso com meu superior ... mas com certeza funciona! Tem que funcionar!
+109047	"É um prazer vê-lo. Tenho uma proposta para você das Indústrias Cassian: você teria interesse em usar a matéria que compõe as estrelas?"
+114924	"Por um tempo, tive medo de que meu superior estivesse certo em considerar o projeto uma utopia. Mas, em vez disso, recebi mais tarefas desse tipo."
+115320	Alcance o nível corporativo 15 para iniciar a segunda mina de meteorito.
+115321	Alcance o nível corporativo 30 para iniciar a terceira mina de meteorito.
+120056	Extraia materiais raros de impactos de meteoritos na superfície lunar.
 114866	[NOTIFICATION_CHARACTER_NAME] thinks it's the right time to lean back and let everything develop.
 114867	[NOTIFICATION_CHARACTER_NAME] is satisfied with the publicity and plans for the next hotel event.
 114868	[NOTIFICATION_CHARACTER_NAME] withdraws from the project, having gathered all informations she needed.
