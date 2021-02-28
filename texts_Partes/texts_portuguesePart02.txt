@@ -271,7 +271,7 @@
 111986	[NOTIFICATION_CHARACTER_NAME] informa sobre a próxima etapa do projeto.
 120926	[NOTIFICATION_CHARACTER_NAME] tem uma tarefa para você.
 118064	[NOTIFICATION_CHARACTER_NAME] oferece um projeto setorial.
-120830	Fase [SECTOR_PROJECT_CURRENT_PHASE], etapa [SECTOR_PROJECT_CURRENT_STEP] do [SECTOR_PROJECT_STEP_COUNT]
+120830	Fase [SECTOR_PROJECT_CURRENT_PHASE], etapa [SECTOR_PROJECT_CURRENT_STEP] de [SECTOR_PROJECT_STEP_COUNT]
 114691	[NOTIFICATION_CHARACTER_NAME] concebeu um plano para erguer a Arca do fundo do mar e começa os preparativos.
 114692	Emocionada por ter descoberto um antigo sistema E.V.E. [NOTIFICATION_CHARACTER_NAME] está prestes a examinar a arca com cuidado.
 114693	[NOTIFICATION_CHARACTER_NAME] é grata por você ter ajudado a levantar a Arca e a lançar um antigo E.V.E.
