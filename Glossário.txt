@@ -6,3 +6,4 @@ Workers=Trabalhadores
 Custodians=Tutores-Guardiões
 Akia Floes=Akia Icebergs
 Greentide=Mare Verde
+trading posts=Postos comerciais

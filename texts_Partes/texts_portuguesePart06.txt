@@ -1,48 +1,48 @@
-115198	"Our transporter lost cargo. But night came and they couldn't stay any longer."
-115199	"It's the Moon. Can't produce anything ourselves. That here's just the urgent supplies."
-115200	"No IDs, barely said somethin', just handed a list of supplies. Possibly dangerous, but probably just desperate."
-115201	"Engine hickup. Crew is waitin' and killin' time playin' cards, I imagine. Us moon folk are easy-going."
-115202	"That's not a long-distance vehicle, I don't know how these refugees managed to get this far."
-115203	"Abandoned spy buggy. Wouldn't touch it with a ten foot pole, though. Those red and blue wires look fishy."
-115204	"Basically a bunch of junk blocking our routes. Dismantling 'em isn't worth the effort."
-115205	"Some LEC fellas warned us about old landmines nearby. And we don't like surprises."
-115206	"Before we do anything here, we need to get rid of the radioactive garbage left by the First Wave."
-115207	"Who the hell knows what the Watch needs our mining equip for. And I don't wanna wait to find out!"
-115208	"All our supplies were accounted for this morning. We can't turn back time, but the company could react fast."
-115209	"They got one of us. Can't have the Union knowing we're paying ransom, so keep quiet."
-115210	"Many folks I know owe Zandra Haynes their lives. We wanna help, but without drawin' attention."
-115211	"A whole miner shift is stuck in an Orbital Watch trap. They were just on their way to shuttles headin' to Earth."
-115212	"Warrants mean nothing out here, but arresting these Orbital Watch operatives would send a strong message."
-115213	"Someone gotta take out this automatic jamming satellite. It's a makes-radars-go-funny kind."
-115214	"The Orbital Watch is cutting off a vital route and our foremen just ignore that! This isn't what I signed up for..."
-115215	"Moon trips are popular among the tourist folk, but costly. Mostly because of rescue operations."
-115216	"A miscalculation sent our equipment flying. No one was hurt, but things on the moon fly pretty far."
-115217	"The folks here can't wait to get mail from home. Would boost the morale here, can say so much!"
-115218	"Reporting: We gave those Orbital Watch bastards hell! Now, time to collect the cargo they dropped."
-115219	"Life on the Moon can get pretty boring. The face-to-face interaction while trading, that brightens the day."
-115220	"Stopping for repairs is never fun, but they've got it under control. Just have to deliver the needed materials."
-115221	"With you escorting our miners the Orbital Watch won't dare attack us, I hope. They keep an eye on the route."
-115222	"Production went a bit too well, so our transporter is overloaded. We need additional horsepower here."
-115223	"We've got a strict protocol when it comes to abandoned vehicles. And in such a case the rules are simple."
-115224	"Terrorists on the horizon! Evacuating the area would take too long, so we have to go the hard way."
-115225	"We can't dig up the whole area just to find one cache. Good thing the LEC marked it."
-115226	"We hid the goods in an attempt to lure the Orbital Watch into a trap. But they smelled the rat and hid our stuff."
-115227	"An anonymous woman is offering us information. However, she uses an unorthodox handover method..."
-115228	"The Orbital Watch intercepted our cargo shuttles just as they wanted to take off. And their guards are even better than their thieves."
-115229	"The Orbital Watch has been spying on us. Better make sure these route coordinates not fall into their hands."
-115230	"Our LEC clients don't want to be seen trading with us. Too afraid of the damn Watch."
-115231	"An Orbital Watch vehicle, completely unmanned! A gold mine for tactical information. Just have to strike at it!"
-115232	"We couldn't verify the crew's identity, but they sent a distress signal. Hope it's not a trap."
-115233	"It's a possible scenario. And our soldiers should be prepared, this could happen any day."
-115234	"These Orbital Watch vehicles are drawing close. Just stay out of their radar. Vacuum will obscure the rest."
-120904	The Mystery Woman is upgrading her tech and is really very interested in Ibarra's newest hardware. Also in what might still be on Hofwegen's harddrive.
-120905	Steal [GUIDNAME 2001264] from [CONDITION_SOURCE_OBJECT_ASSET]
-120906	The Mystery Woman wants to meet Goodwin in person, but on her terms. So she remotely disabled his engine.<br />
-102842	Our boat broke down and we can't reach the shore. Please tow us to the next distribution center so we can get it repaired.
-102848	Thanks for helping us out. Take this as a token of our gratitude.
-102849	Please tow the ship to the distribution center. We really need help.
-102851	This is were we need to go.
-102788	I'm glad you found me. My robot went totally out of control and ran off with me.
+115198	"Nosso transportador perdeu mercadorias. Mas a noite caiu e ele não podia ficar mais tempo."
+115199	"É a Lua. Não podemos produzir nada por conta própria. Isso aqui é apenas suprimentos urgentes."
+115200	"Nenhuma identificação, quase nenhuma palavra, apenas uma lista de suprimentos. Possivelmente perigoso, mas provavelmente apenas desesperado."
+115201	"O motor travou. A tripulação está esperando, imagino perdendo tempo jogando cartas. Os habitantes da Lua são muito parecidos."
+115202	"Este não é um veículo de longa distância; não sei como esses refugiados chegaram aqui."
+115203	"Um carro espião abandonado. Eu não tocaria nele mesmo se eles me pagassem. Esses fios azuis e vermelhos são um pouco suspeitos."
+115204	"Basicamente, há muito lixo bloqueando nossas rotas. Não vale a pena desmontar."
+115205	"Alguns membros do LEC nos alertaram que há minas nas proximidades. E não gostamos de surpresas."
+115206	"Antes de fazermos qualquer coisa aqui, precisamos nos livrar dos resíduos radioativos da Primeira Onda."
+115207	"Quem sabe para que a Guarda quer nosso equipamento de mineração! Não quero descobrir!"
+115208	"Esta manhã todos os nossos suprimentos foram justificados. Não podemos voltar no tempo, mas a companhia poderia agir rapidamente."
+115209	"Eles têm um de nós. O União não pode saber que pagamos um resgate, então fique quieto."
+115210	"Conheço muitas pessoas que devem suas vidas a Zandra Haynes. Queremos ajudar, mas sem chamar atenção."
+115211	"Há todo um turno de mineiros presos em uma armadilha da Guarda Orbital. Eles estavam a caminho das naves que se dirigiam à Terra."
+115212	"As garantias não significam nada aqui, mas prender esses agentes da Guarda Orbital enviaria uma mensagem forte."
+115213	"Alguém tem que desativar esse satélite de interferência automática. Eles estão mexendo nos radares."
+115214	"A Guarda Orbital está cortando uma rota vital e nossos capatazes ignoram! Isso não é o que eu esperava..."
+115215	"As viagens lunares são populares entre os turistas, mas também são caras. Principalmente por causa das operações de resgate."
+115216	"Um erro de cálculo fez nosso equipamento voar. Ninguém se feriu, mas na lua as coisas voam muito longe."
+115217	"As pessoas aqui estão ansiosas para receber correspondências de casa. Isso aumentaria o moral delas, sem dúvida!"
+115218	"Relatório de status: Nós batemos em seus porcos da Guarda Orbital! Agora, pegue a mercadoria despejada."
+115219	"A vida na Lua pode ser enfadonha. A interação cara a cara do comércio torna o seu dia."
+115220	"Nunca é divertido parar e fazer reparos, mas eles têm tudo sob controle. Basta entregar os materiais necessários."
+115221	"Se você escoltar nossos mineiros, a Guarda Orbital não se atreverá a nos atacar. Ou assim espero... Eles não perdem de vista a rota."
+115222	"A produção está indo um pouco bem demais, então nosso transportador está carregando muita carga. Precisamos de mais potência."
+115223	"Temos um protocolo muito rígido quando se trata de veículos abandonados. E, nesse caso, as regras são simples."
+115224	"Terroristas no horizonte! Levaria muito tempo para evacuar a área, então temos que fazer isso com força."
+115225	"Não podemos cavar em toda a área apenas para encontrar um esconderijo. Ainda bem que o LEC o marcou."
+115226	"Escondemos a mercadoria para atrair o Guarda Orbital para uma armadilha, mas eles perceberam a jogada e esconderam nossas coisas."
+115227	"Uma mulher anônima nos forneceu informações, mas usa um método de entrega pouco ortodoxo..."
+115228	"A Guarda Orbital interceptou nossos ônibus de carga quando eles estavam prestes a decolar. E seus guardas são ainda melhores do que seus ladrões."
+115229	"A Guarda Orbital está nos espionando. Certifique-se de que essas coordenadas de rota não caiam em suas mãos."
+115230	"Nossos clientes da LEC não querem ser vistos fazendo negócios conosco. Eles têm muito medo da maldita Guarda."
+115231	"Um veículo da Guarda Orbital não tripulado! Uma mina de informações táticas. Basta acertar!"
+115232	"Não conseguimos verificar a identidade deles, mas eles enviaram um sinal de socorro. Espero que não seja uma armadilha."
+115233	"É um cenário possível e nossos soldados devem estar preparados. Isso pode acontecer a qualquer dia."
+115234	"Esses veículos da Guarda Orbital estão se aproximando. Afaste-se do radar deles. O vazio irá obscurecer o resto."
+120904	A Mulher Misteriosa está atualizando sua tecnologia e está realmente muito interessada no mais novo hardware da Ibarra. Também no que ainda pode estar no disco rígido da Hofwegen.
+120905	Roube [GUIDNAME 2001264] a partir de [CONDITION_SOURCE_OBJECT_ASSET]
+120906	A Mulher Misteriosa quer conhecer Goodwin pessoalmente, mas nos termos dela. Então, ela desligou o motor dele remotamente.<br />
+102842	Nosso barco está danificado e não podemos chegar à costa. Reboque-nos até o próximo centro de distribuição para que eles possam consertá-lo.
+102848	Obrigado por nos ajudar. Tome isso como um símbolo de nossa gratidão.
+102849	Reboque o barco até o centro de distribuição. Precisamos desesperadamente de sua ajuda.
+102851	Precisamos ir aqui.
+102788	Estou feliz que você me encontrou. Meu robô perdeu totalmente o controle e fugiu comigo.
 102471	"Não se esqueça de que suas fábricas precisam de energia para funcionar."
 117878	[NOTIFICATION_CHARACTER_NAME] aconselha você a construir usinas de energia.
 117881	[NOTIFICATION_CHARACTER_NAME] informa que agora você fornece energia suficiente para o seu setor.
@@ -56,261 +56,261 @@
 117888	Alcance um saldo positivo da mão de obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117889	[CONDITION_PROFILE_COUNTER_VALUE_CURRENT]
 120205	"Quanto mais pessoas trabalharem para você, mais receita sua corporação gerará."
-120206	[NOTIFICATION_CHARACTER_NAME] fears that a negative credit balance will impede your progress.
-120207	[NOTIFICATION_CHARACTER_NAME] congratulates you on getting your company finances back on track.
-120208	Reach a positive credit balance [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-120663	"Add automated modules to factories to reduce their energy, logistics or workforce cost."
-120664	[NOTIFICATION_CHARACTER_NAME] recommends you upgrade your factories.
-120665	[NOTIFICATION_CHARACTER_NAME] is pleased with your upgraded factory.
-120695	"Modules greatly improve the productivity of a factory."
-120673	Select a factory and spend [GUIDNAME 2001399] to build a module.
-120692	Select a factory and spend [GUIDNAME 6000480] to build a production module.
-120693	Select a factory and spend [GUIDNAME 6000482] to build a production module.
-120694	Select a factory and spend [GUIDNAME 6000484] to build a production module.
-120717	"To quickly promote employees, press [KEYBINDING session.upgradeSelected(1)] with a residence selected, or use the upgrade tool ([KEYBINDING game.startMouseMode(2001775)])."
-120718	[NOTIFICATION_CHARACTER_NAME] offers advice on managing promotions.
-120719	[NOTIFICATION_CHARACTER_NAME] admires your readiness of mind.
-120720	Promote more Workers to Operators
-120721	"Logistic shortcomings will shut down the factories farthest away from a [GUIDNAME 1000123]."
-120722	[NOTIFICATION_CHARACTER_NAME] notices that some factories suffer from logistic shortages.
-120723	[NOTIFICATION_CHARACTER_NAME] is glad to see your remote factories resuming production.
+120206	[NOTIFICATION_CHARACTER_NAME] teme que um saldo de crédito negativo impeça seu progresso.
+120207	[NOTIFICATION_CHARACTER_NAME] parabeniza você por colocar as finanças de sua companhia de volta aos trilhos.
+120208	Alcance um saldo de crédito positivo [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+120663	"Adicione módulos automatizados para reduzir seu custo de energia, logística ou mão de obra."
+120664	[NOTIFICATION_CHARACTER_NAME] recomenda que você aprimore suas fábricas.
+120665	[NOTIFICATION_CHARACTER_NAME] está satisfeito com sua fábrica aprimorada.
+120695	"Os módulos melhoram muito a produtividade de uma fábrica."
+120673	Selecione uma fábrica e invista [GUIDNAME 2001399] para construir um módulo.
+120692	Selecione uma fábrica e invista [GUIDNAME 6000480] para construir um módulo de produção.
+120693	Selecione uma fábrica e invista [GUIDNAME 6000482] para construir um módulo de produção.
+120694	Selecione uma fábrica e invista [GUIDNAME 6000484] para construir um módulo de produção.
+120717	"Para promover rapidamente seus funcionários, pressione [KEYBINDING session.upgradeSelected(1)] quando você seleciona uma residência ou usa a ferramenta de atualização ([KEYBINDING game.startMouseMode(2001775)])."
+120718	[NOTIFICATION_CHARACTER_NAME] dá conselhos sobre como gerenciar promoções.
+120719	[NOTIFICATION_CHARACTER_NAME] admira sua prontidão de espírito.
+120720	Promova mais trabalhadores para operários
+120721	"Deficiências logísticas levarão ao fechamento de fábricas mais distantes de um [GUIDNAME 1000123]."
+120722	[NOTIFICATION_CHARACTER_NAME] percebe que algumas fábricas apresentam deficiências logísticas.
+120723	[NOTIFICATION_CHARACTER_NAME] está feliz em ver suas fábricas remotas retomando a produção.
 120724	Construa e conecte [GUIDNAME 1000123]
-120726	"Your corporation won't reach its full potential without expanding via bridges."
-120727	[NOTIFICATION_CHARACTER_NAME] notices your ever-shrinking construction area.
-120728	[NOTIFICATION_CHARACTER_NAME] congratulates you on expanding your construction area.
-120729	Use Superalloys from the Arctic to construct a bridge
-120731	"When you're running out of building sites, expand to a new island."
-120732	[NOTIFICATION_CHARACTER_NAME] notices you don't have building sites available.
-120733	[NOTIFICATION_CHARACTER_NAME] congratulates you on accessing more building sites.
-120734	Use your Command Ship to claim a new island
-118252	"At its core, Anno 2205 is an Economy Builder. Your task is to supply your ever-growing populace with goods and services"
-118253	[NOTIFICATION_CHARACTER_NAME] offers some additional help.
-118262	Build residences and factories from the construction menu.
-118341	While building residences, hold your mouse button to fill an area with several of them.
-120224	Use the middle mouse button or ([KEYBINDING game.changeRotation(1)]) and ([KEYBINDING game.changeRotation(-1)]) to rotate buildings.
-118269	"Keep constructing both residences and factories. Remember: More people require more goods."
-118270	Check your goods balances in the goods overview ([KEYBINDING ui.toggleCentralStorage()]). Aim for balances of 0 to 1.
-118342	Build additional Rice Farms to fully satisfy your employees.
-120225	Check the satisfaction of your employees by clicking on a residence. You will find the promote button in that menu, too.
-118308	"There are several balances to keep an eye on. The most important one is always your credit balance."
-118309	Build Windparks to generate energy. Place them apart from each other for optimal productivity.
-118343	Build Transportation Centers near factories to supply them with Logistics.
-120226	Not everyone can be promoted. Keep building residences to create a Worker base for your Operators.
-120230	"The economy in your other sectors will keep running while you are out coping with a military crisis."
-120229	Use [KEYBINDING session.selectNextObject(False)] to select all ships at once.
-120228	Press the right mouse button to order selected ships to move and attack.
-120227	Collect fuel tanks and ammunition to get access to special actions. Initiate those from your bottom bar.
-120231	"The spaceport stores goods from all islands in a sector and ships them to others with transport ships."
-120232	To upgrade several buildings at once, use the shortcut [KEYBINDING session.upgradeSelected(1)], or hold your mouse button and draw an area in upgrade mode ([KEYBINDING game.startMouseMode(2001775)]).
-120233	Overproduction from positive production balances is put in storage. Check the goods in the goods overview ([KEYBINDING ui.toggleCentralStorage()]) to see how much is stored.
-120234	The storage provides you a reserve of goods for bad times, and can be accessed to fulfill assignments.
-120235	"The Lunar Licensing Program provides you with a free sector in every region. To get more, pay off the competition."
-120236	All of your sectors keep producing and consuming even while you are not visiting them.
-120237	Each region houses unique types of employees with their own needs.
-120238	Don't build more factories than your revenue can support. Aim for balances of 0 to 1.
-120239	"Use your command ship to build warehouses and complete assignments from the trading post."
-120240	Click on the minimap to focus the camera on a location.
-120241	Use [KEYBINDING session.selectNextObject(False)] to select your command ship. Right click to move.
-120242	Every island has a single warehouse building site. Claim it to gain access to the entire construction area.
-120243	"It's okay to only partially satisfy your employees. Especially in the beginning."
-120244	Heat is given off in a radius. The more accurately you place your factories, the more homes can be placed in that radius.
-120245	Every sector contains a trading post where you can purchase construction materials or gain assignments.
-120246	Relocate rather than demolish! Use the move mode from the bottom left infobar or press ([KEYBINDING game.startMouseMode(2001042)]), then click on the building you want to move.
-120247	"Check the settings for a full list of shortcuts and other ways to customize the game."
-120248	Copy rather than search the construction menu! Use the copy mode in the bottom left infobar or press ([KEYBINDING game.startMouseMode(2001043)]), then click on the building you want to copy.
-120249	Activate the right-click menu in the gameplay settings for quicker access to important functions.
-120250	Buy construction materials from the trading posts in every sector... if you have spare credits.
-120251	"Upgrading existing factories with modules is more efficient than building new ones."
-120252	The crisis sectors are optional. You can continue building your economy to progress.
-120253	All factories can be upgraded with modules. Click on a factory and build them from the menu in the bottom row.
-120254	Modules have to be placed adjacent to their factory or other modules belonging to it.
-120255	"Avoid rampant overproduction. Having positive production balances is nice, but it can ruin your credit balance."
-120256	Clients from other corporations gather around trading posts to offer you assignments.
-120257	Accept assignments and use your command ship to complete them for respectable rewards.
-120258	Every sector has a unique sector project. Find and attempt it to gain permanent benefits.
-120259	"Routes are essential to satisfy your employees' needs across all sectors and regions."
-120260	Create routes via the bottom left button on the strategy map.
-120261	Routes ship a part of the production balance of the selected good from one sector to another.
-120262	Production deficits of a good affect all linked sectors.
-120263	"With your Superalloys production up and running, you can connect islands via bridges to access new areas."
-120264	Routes cost credits to maintain depending on the size of the transporters, so watch your credits balance.
-120265	Clicking on the "[GUIDNAME 116757]" button on the strategy map displays a route list where you can edit or delete them.
-120266	While having opened the route list, click on a sector to show only routes to and from that sector.
-120267	"The world market is a powerful tool to make immense profit. Or to go bankrupt in a short time."
-120268	Buy goods from the world market by clicking on the space station and creating a route from it.
-120269	Create a route to the space station to sell the overproduction of a good for profit, but watch the route cost.
-120270	Use the filter buttons in the strategy map to get an overview of your sectors' statistics.
-120271	"Employees of higher levels provide higher gains and more workforce to keep up with the rising demands of your economy."
-120272	Check available promotions per level in the "Employee Promotion" menu near the minimap.
-120273	You can use that menu to manually promote the employees in residences or to automate the process.
-120274	Automatic promotion will regularly consume construction materials. It can be set differently for every sector.
-120275	"Every now and then hidden resource caches can be found on your islands. Be observant and collect their contents."
-120276	By uncovering conflicts in endangered sectors, you can find missions to undertake at any time.
-120277	Reaching a new corporation level will grant you credits and rare materials.
-120278	Crisis sectors contain storage buildings. Destroy them for additional rare materials.
-120279	"Pausing factories is a good way to bridge temporary shortages."
-120280	To get workforce in a sector, you have to settle employees in it.
-120281	Pause production in any factory menu to reduce that factory's maintenance cost.
-120282	Supply buildings cannot be paused, so place them cautiously.
-120283	"You can buy up your rivals' sectors if your corporation level surpasses theirs."
-120284	Gain additional sectors by advancing the Lunar Licensing Program or purchase them from rival corporations.
-120285	Check the current corporation ranking by clicking on your corporate logo in the top right corner.
-120286	The distribution of sectors among the Big Five changes with every game.
-120287	"Lunar craters provide some protection from radiation and easy access to the resource-rich stratas of moon rock."
-120288	The moon rover acts like a command ship for all purposes.
-120289	All buildings on the moon need to be completely within the radius of a Shield Generator.
-120290	Remember to use modules to upgrade your factories, especially those on building sites.
-120291	"Unfulfilled employee needs in a sector are shown as icons on the strategy map and the top right corner in the sector view."
-120292	Fine-tune your economy with small modules that reduce your factories' maintenance cost.
-120293	Attaching maintenance modules to high-end, upgraded factories yields the best results.
-120294	Maintenance modules cost Iridium to build. Luckily, this rare material can be found in any region.
-120295	"Is the crisis too difficult to solve for now? Increase your corporation level to obtain more battleships."
-120296	Look for hidden assignments in a crisis sector to gain additional rewards.
-120297	Check how many employees you need for your next corporation level in the top right menu.
-120298	Even on the moon, you can find trading posts, clients and sector projects.
-120299	"To gain rare materials peacefully, complete assignments or buy them at trading posts."
-120300	Try completing crisis sectors on higher difficulty levels to gain exponentially larger rewards.
-120301	Gain Graphene and Petrochemicals by completing missions in temperate and Arctic crisis sectors respectively.
-120302	You can demolish modules to regain the rare materials used in their construction.
-120303	"Moon colonization can be very costly, so keep increasing your gains in the temperate sectors."
-120304	Use routes with the world market to purchase goods or sell yours for profit.
-120305	Increase your corporation level to be allowed more routes to the world market.
-120306	Remember to set up warehouses with your command ship or build bridges to extend your construction area.
-120307	"High-end production chains require intermediate goods from different regions."
-120308	Improve your Arctic economy to gain access to [GUIDNAME 1001166] blueprints.
-120309	Upgrade your spaceports in every sector for a more efficient transfer route network.
-120310	A "[GUIDNAME 1001229]" allows transfer on Earth, an "[GUIDNAME 1001231]" adds a launch pad for Moon shuttles.
-120311	"There's a person in the Council offering rare materials if you're willing to sell your vote."
-120312	The "[GUIDNAME 1001232]" enables you to transfer energy between all sectors containing such a spaceport.
-120313	Complete crisis sectors or assignments to acquire the necessary rare materials.
-120314	If you have a rare material shortage, demolish modules to regain the materials used to build them.
-120315	"Given out by the Council, the improved branded modules replace your regular ones in the factory menu until they run out of stock."
-120316	Acquire some outstanding branded modules by voting at the Council on the space station.
-120317	Vote at the Council to get better prices and reduced construction costs for the buildings you need.
-120318	Accept bribes for quick profit, or stick with the corporation that gives you the best economic benefits.
-120319	"Use the routes overview on the strategy map to optimize all of your routes."
-120320	Supply your sectors with lunar fusion energy and get rid of dispensable power plants.
-120321	Energy routes have no upkeep cost and can transfer large amounts at once.
-120322	High-end production chains require intermediate goods from different regions.
-120323	"Congratulations, you completed the Lunar Licensing Program. But there's still a lot to do."
-120324	The Big Five will continue to grow alongside you. Check their levels in the top right corporation profile menu.
-120325	That menu also contains an overview on achievements you can unlock for new corporate logos and other rewards.
-120326	Check the Blueprints overview to see which buildings have not been unlocked yet.
-120327	"How big can you become? There is no limit on corporation levels."
-120328	Keep expanding and optimizing the building layouts of your settlements. See how many employees you can get.
-120329	Use the "Anno 2205 - Asteroid Miner" app on your mobile device to come by additional rare materials.
-120330	Beautify your cities with ornamental buildings... and show the world you can afford it.
-118046	"Sent you the coordinates to where they attacked us. If you wanna take up a fight over what's yours, I'll give you rear cover."
-102918	"Terrorists have ambushed our trading routes and taken our cargo ships. We need to answer quick and decisively!"
-119678	"Act now and get to the hostages! And don't let the kidnappers rampage with impunity!"
-119679	"This mission is vital! Defend the cargo transporters and secure this sector! I will see trade restored here."
-108485	"Now is our time to strike! Infiltrate the Orbital Watch base and get me their access points."
-119680	"Get me into the Orbital Watch base and I'll take care of the rest! There's no telling the damage they could cause with their research."
-119681	"The perfect opportunity to get into the Orbital Watch base and at their data! I need to get get up close and personal to access their servers."
-102763	"The Orbital Watch has taken over our Stabilizers. Get to them quick, before this has even worse consequences!"
-119682	"I'm so glad you're helping us out! If you blast the Orbital Watches devices, everything should go back to normal, I hope."
-119683	"There's nothing we could do, the Orbital Watch are everywhere! Will you get them away from the climate stabilizers?"
-108486	"The Orbital Watch is approaching on us! Your fleet is the only thing standing between them and us!"
-119684	"The Orbital Watch fleet is stretched up until the horizon. There is no hope for us if you don't intervene now!"
-119685	"We don't have an army. We are protected by laws and common sense, but the Orbital Watch's only goal is spreading terror. Don't abandon us!"
-116581	Destrua o comando da Guarda Orbital para libertar a nave de transporte sequestrada!
-116582	Destrua o comando da Guarda Orbital para libertar as duas naves de transporte sequestradas!
-116583	Destrua o comando da Guarda Orbital para libertar as três naves de transporte sequestradas!
-116584	Seize one strategic target inside the Orbital Watch’s secret base!
-116585	Seize two strategic targets inside the Orbital Watch’s secret base!
-116586	Seize three strategic targets inside the Orbital Watch’s secret base!
-116587	Free the climate stabilizer by destroying the Orbital Watch interference transmitters.
-116588	Free two climate stabilizers by destroying the Orbital Watch interference transmitters.
-116589	Free all three climate stabilizers by destroying the Orbital Watch interference transmitters.
-116590	Neutralize the Orbital Watch eradicator threatening the arctic base!
-116591	Neutralize both Orbital Watch eradicators threatening the arctic base!
-116592	Neutralize all three Orbital Watch eradicators threatening the arctic base!
-117046	"These missiles do pack a punch. Find a good opportunity to use them against those bastards."
-117047	"Our investors want a show of strength. Your weapons arsenal should do."
-117048	"We need a distraction to safely evacuate from this sector. Noisy explosions should do."
-117049	"My personal fleet will answer your call. Go on, they're waiting."
-117050	"Some of my pals are staffing your support fleets! They're itching to help out."
-117051	"Recklessness can cost you your crew! Better call backup sooner rather than later."
-117052	"Using this stun weapon might be the non-violent option! Well, they're not actually harmless..."
-117053	"Stunning your enemies saves us money on repair costs. Of course, only when you keep firing!"
-117054	"This stun weapon shows you strategic superiority. I recommend using it early on."
-117055	"Rafferty has been optimizing your repair drones. Try them out and I'll forward the feedback."
-117056	"The strain this skirmish places on your fleet is considerable. Patch it up when given the opportunity."
-117057	"Us investors prefer careful planning over recklessness. Make sure to keep your fleet in top shape."
-117058	"You're not putting your crew in danger, are you? There's always shields, you know."
-117059	"Shields don't just hold off attacks, they also ease your maneuvering. You should use them more often!"
-117060	"Losing this battle is not an option. Play it safe, if that's what it takes."
-117061	"It sounds great on paper, but how effective is this mine really? Please demonstrate."
-117062	"Fire this beauty and anyone will clear the way for you! Well, they don't have a choice."
-117063	"These mines have been in development for ages. They work for getaways and assaults!"
-117064	"It has fallen to us to apprehend surviving terrorists. They've surrendered, it should be easy."
-117065	"Some of my associates are on a 'danger cruise'. It's shameful exploitation, but they need help regardless."
-117066	"Help! We lost a ship and the lifeboats are drifting apart! And we're just relief workers..."
-117067	"Our ship just took on defectors and we can't risk staying any longer. Back us up?"
-117068	"Good you're here! After the hostage ordeal I've been through, I just want to go back home!"
-117069	"I have been coordinating our defenses in your absence. Now, if you would escort me back."
-117010	"You're not going to leave your friend all unarmed and defenseless, are you?"
-117011	"Blasted through all my ammo just getting here! A small favor to make sure I stay afloat?"
-117012	"How about I trade you for that impressive weaponry? It won't fall into enemy hands, cross my heart."
-117013	"I supported you, now you support me! Just a little bodyguardin', that's all."
-117014	"Got a military venture of my own. How about you invest in it? Sign over some capable staff?"
-117015	"Now, I'm not out for bloodshed. As long as my fleet looks intimidating, it'll scare troublemakers off."
-117016	"Such goods are usually a lil' more regulated, so we'll both keep quiet, eh?"
-117017	"Need rather harmless weapons, just to stake out my personal space. The Big Five can get a bit pushy."
-117018	"So close to the action, weapon systems fetch a higher price. Your stun systems for example."
-117019	"They guaranteed me I could get my cargo through without hiccups! Then splash! Into the sea it goes!"
-117020	"Don't call it scavenging. It's... more like recycling. Cleaning up the ocean."
-117021	"Once the Union regains control, all this bautiful, unclaimed flotsam will be lost forever!"
-117022	"The Union's eager to put these crooks on trial. Bring them here and I'll cut you half of my escort deal."
-117023	"My crew! Get them cowards back here! I have to... well, compensate them!"
-117024	"Didn't you know, who selflessly responds first is celebrated a hero at home. Let's share the fame."
-117025	"I'm out here to test shields under duress... But this terrorist ship is more than we signed up for!"
-117026	"Upholding the law in these difficult times is a sure-fire way to impress investors."
-117027	"This used to be Usoyev's drilling area. Care to help me clean up a different kind of pest?"
-117028	"It's much easier to put a stop to spies and turncoats out here. This is in the interest of your own protection."
-117029	"These criminals are blocking our supply lines, they want to starve us both out."
-117030	"Terrorists have seized our new battleship. If they start recreating it... you wouldn't want that!"
-117031	"There's a hefty reward on this captain. Sink them. Cassian is willing to share and share alike."
-117032	"Sometimes, destruction is necessary. Like when we ourselves are in danger."
-117033	"Don't tell me you're not trying to get an edge over Saayman? In this battle nothing will be prosecuted."
-117034	"Those bastards sunk our convoy. Please, return our shipment while we tend to the survivors!"
-117035	"My material budget is tight. I'm not happy being out here, but this is where the good stuff is."
-117036	"Any lost cargo can help us identify who these terrorists are. We can count on you, can't we?"
-117037	"I have a keen interest in sturdy metals. Plus, there is no accounting to be done out here."
-117038	"Sidestepping Cassian Industries and selling their goods yourself is quite lucrative. Let me make you an offer."
-117039	"Soon the Union will take over this sector and all its riches will go to waste."
-117040	"These landmines will be a menace for years to come... Bring me some and I'll see if I can defuse them!"
-117041	"Mines are really quite valuable. The materials are quite expensive. What a waste, having them explode!"
-117042	"Warning the Union about this mine-infested sector will help us all. Of course, we need proof first."
-117043	"Our interference transmitters are power hungry. Help us out and we won't put them to use against you."
-117044	"We're here to protect any civilians gone astray. I'm certain you'll support this endeavor."
-117045	"Err, yeah, our shield experiments drained our energy... Could you help me jump start this thing?"
-117085	"Here to help us out? Great, we could use an ally with firepower right about now!"
-117086	"We're in danger and have no defense systems! And why would we need one, until now?!"
-117087	"I despise violence, but this sector mustn't fall to the Watch! Lead the charge, we'll hold position."
-117088	"We need backup or these terrorists will bomb our research glacier into oblivion!"
-117089	"We're here to salvage what the bastards bombarded earlier. Watch our backs?"
-117090	"Our observatorium... Nothing's left. If you'd send more troops in, we could prevent further losses!"
-117091	"Forcing enemy ships to a standstill can save lives. I've seen it happen more than once."
-117092	"I was part of the R&D team that developed these EM Pulses. I can attest to their efficiency."
-117093	"We surrendered! But they just kept shooting at us! Go give those bastards hell in our name."
-117094	"We've rewired our power supply to keep up the shields. So don't worry about us, repair you own fleet."
-117095	"Being in the field tires anyone out. But don't just keep a stock of Drones, actually use them!"
-117096	"Repairing your ship won't do you any good once it's at the bottom of the ocean. Always stay vigilant."
-117097	"Activating your shields makes the difference between scrapping and repairing. It did for us, anyway."
-117098	"Repairing high-tec fleets like yours is complicated, so make sure not to get hit in the first place."
-117099	"Kinetic Shields have the side-effect of reducing friction. That way you could outrun anyone!"
-117100	"We can't leave yet, but we need some sort of warn signals. A few strategically placed mines should do."
-117101	"Building a barricade out of mines is a great defense tactic. That's how we've been holding our position."
-117102	"Mines are a biological disaster, but we'll have to look past fish populations this once!"
-117103	"The terrorists saw our flag and attacked. Didn't matter to them if we're just a frozen food transport."
-117104	"If not for the trader guy to distract the attackers, we wouldn't have made it here... I hope he's alright."
-117105	"Can you believe people go diving out here for fun? Good we found them, but now we need a lift! Hurry!"
-117106	"The evacuation of this sector is ongoing, we've just secured another isolated research team."
-117107	"What is the Global Union doing besides twirling their thumbs? At least you can get us out of here."
-117108	"We have deep-frozen research specimens on board, they musn't be risked at all costs."
-117070	"Just having some missiles will scare any terrorists off! Not like I can use them anyhow..."
-117071	"Look, I'm I'd rather quit trading than become an arms dealer, but the Custodians seriously need ammunition!"
-117072	"Custodian friends of mine are asking for a few missiles. For research! At least last I heard..."
-117073	"Am I glad to see you! But please, don't just leave me here alone! Please!"
-117074	"If you left me with a small fleet, I could coordinate supplies lines around here!"
+120726	"Sua corporação não alcançará seu potencial máximo se você não expandi-la com pontes."
+120727	[NOTIFICATION_CHARACTER_NAME] está atento à redução constante da sua área de construção.
+120728	[NOTIFICATION_CHARACTER_NAME] parabeniza por expandir sua área de construção.
+120729	Use superligas do Ártico para construir uma ponte
+120731	"Quando você estiver ficando sem canteiros de obras, expanda para uma nova ilha."
+120732	[NOTIFICATION_CHARACTER_NAME] avisa que você não tem canteiros de obras disponíveis.
+120733	[NOTIFICATION_CHARACTER_NAME] parabeniza você por acessar mais canteiros de obras.
+120734	Use seu barco de comando para reivindicar uma nova ilha
+118252	Anno 2205 é basicamente um desenvolvedor de economia. Sua missão é fornecer bens e serviços a uma população crescente.
+118253	[NOTIFICATION_CHARACTER_NAME] oferece ajuda adicional.
+118262	Construa residências e fábricas a partir do menu de construção.
+118341	Ao construir residências, mantenha pressionado o botão do mouse para colocar várias residências em uma área.
+120224	Pressione o botão do meio do mouse ou ([KEYBINDING game.changeRotation(1)]) e ([KEYBINDING game.changeRotation(-1)]) para girar edifícios.
+118269	"Continue construindo residências e fábricas. Lembre-se: quanto mais gente houver, mais mercadorias você precisará."
+118270	Verifique seu nível de mercadoria no resumo de mercadoria ([KEYBINDING ui.toggleCentralStorage()]). Tente atingir um nível entre 0 e 1.
+118342	Construa campos de arroz adicionais para satisfazer totalmente seus enpregados
+120225	Para verificar a satisfação de seus funcionários, clique em uma residência. Nesse menu, você também encontrará o botão de promover.
+118308	"Existem vários níveis que você deve observar. O mais importante é o seu saldo de crédito."
+118309	Construa parques eólicos para gerar energia. Coloque-os separadamente para otimizar a produtividade.
+118343	Construa centros de transporte perto das fábricas para fornecer logística.
+120226	Nem todos podem ser promovidos. Continue construindo residências para criar uma base de trabalhadores para seus operários.
+120230	"A economia de seus outros setores continuará avançando enquanto você enfrenta uma crise militar."
+120229	Use [KEYBINDING session.selectNextObject(False)] para selecionar todos os barcos de uma vez.
+120228	Pressione o botão direito do mouse para ordenar que os navios selecionados se movam e ataquem.
+120227	Colete tanques de combustível e munições para ter acesso a ações especiais. Você pode iniciá-los na barra inferior.
+120231	"O espaçoporto armazena mercadorias de todas as ilhas em um setor e as envia para outras pessoas em barcos de transporte."
+120232	Para aprimorar vários edifícios de uma vez, use o atalho [KEYBINDING session.upgradeSelected(1)], ou mantenha pressionado o botão do mouse e desenhe uma área no modo de aprimoramento ([KEYBINDING game.startMouseMode(2001775)]).
+120233	O excedente de produção dos saldos de produção positivos são mantidos no armazém. Verifique a mercadoria no resumo da mercadoria ([KEYBINDING ui.toggleCentralStorage()]) para ver quanto está armazenado.
+120234	O armazém oferece uma reserva de mercadoria para os tempos difíceis e você pode acessá-la para concluir as tarefas.
+120235	"O Programa de Licenciamento Lunar oferece a você um setor gratuito em todas as regiões. Para obter mais, pague a concorrência."
+120236	Todos os seus setores continuam a produzir e consumir, mesmo que você não esteja neles.
+120237	Em cada região existem diferentes tipos de colaboradores com necessidades específicas.
+120238	Não construa mais fábricas do que sua renda pode sustentar. Tente atingir um nível entre 0 e 1.
+120239	"Use seu barco de comando para construir armazéns e concluir postos comerciais."
+120240	Clique no minimapa para focar a câmera em um local.
+120241	Use [KEYBINDING session.selectNextObject(False)] para selecionar seu barco de comando. Clique com o botão direito para mover.
+120242	Cada ilha possui uma única zona de construção de armazém. Reivindique para ter acesso a toda zona de construção.
+120243	"Tudo bem se seus empregados estiverem apenas parcialmente satisfeitos. Especialmente no início."
+120244	O calor é emitido em um raio de distância. Quanto mais precisa a localização de suas fábricas, mais casas você pode colocar naquele raio.
+120245	Em cada setor existe um posto comercial onde você pode comprar materiais de construção ou receber pedidos.
+120246	Realoque em vez de demolir! Use o modo de movimento da barra de informações inferior esquerda ou pressione ([KEYBINDING game.startMouseMode(2001042)]), em seguida, clique no prédio que deseja mover.
+120247	"Acesse as configurações para ver uma lista completa de atalhos e outras maneiras de personalizar o jogo."
+120248	Copie em vez de pesquisar o menu de construção! Use o modo de cópia na barra de informações inferior esquerda ou pressione ([KEYBINDING game.startMouseMode(2001043)]), em seguida, clique no prédio que deseja copiar.
+120249	Ative o menu do botão direito do mouse nas configurações de jogo para acesso mais rápido a funções importantes.
+120250	Compre materiais de construção dos postos comerciais em todos os setores... se você tiver crédito de sobra.
+120251	"aprimorar fábricas existentes com módulos é mais eficiente do que construir novas."
+120252	Os setores em crise são opcionais. Você pode continuar evoluindo sua economia para o progresso.
+120253	Todas as fábricas podem ser aprimoradas com módulos. Clique em uma fábrica e construa a partir do menu na linha inferior.
+120254	Os módulos devem estar localizados próximos à sua fábrica ou a outros módulos que pertençam a ela.
+120255	"Evite o excesso de produção descontrolado. É normal ter um saldo positivo de produção, mas pode destruir seu saldo de crédito."
+120256	Clientes de outras empresas se reúnem em portos comerciais para oferecer comissões.
+120257	Aceite tarefas e use seu barco de comando para concluí-las e obter recompensas respeitáveis.
+120258	Cada setor tem um projeto setorial único. Encontre-o e tente concluí-lo para obter benefícios permanentes.
+120259	"As rotas são essenciais para atender às necessidades de seus empregados em todos os setores e regiões."
+120260	Crie rotas usando o botão inferior esquerdo do mapa estratégico.
+120261	As rotas enviam de um setor a outro parte do saldo da produção da mercadoria selecionada.
+120262	Os déficits de produção de um bem afetam todos os setores vinculados.
+120263	"Com a produção de superligas em andamento, você pode conectar ilhas por meio de pontes para acessar novas áreas."
+120264	Para manter as rotas, você tem que gastar créditos dependendo do tamanho das transportadoras, por isso não perca o saldo de vista.
+120265	Clique no botão "[GUIDNAME 116757]" no mapa estratégico para ver a lista de rotas que você pode editar ou excluir.
+120266	Com a lista de rotas aberta, clique em um setor para exibir apenas as rotas que entram e saem desse setor.
+120267	"O mercado mundial é uma ferramenta poderosa para obter lucros impressionantes... Ou para ir à falência em pouco tempo."
+120268	Compre mercadorias do mercado mundial clicando na estação espacial e criando uma rota a partir daí.
+120269	Crie uma rota para a estação espacial para vender o excesso de produção de uma mercadoria e obter lucro, mas tome cuidado com o custo da rota.
+120270	Use os botões de filtro no mapa estratégico para ver um resumo das estatísticas do seu setor.
+120271	"Empregados de nível superior fornecem mais ganhos e mão de obra para atender às demandas de sua economia."
+120272	Consulte as promoções disponíveis por nível no menu "Promoção de Colaboradores" junto ao minimapa.
+120273	Você pode usar este menu para promover manualmente os empregados das residências ou para automatizar o processo.
+120274	A ascensão automática consumirá regularmente materiais de construção. Pode ser ajustado de forma diferente para cada setor.
+120275	"De vez em quando, caixas de recursos podem ser encontradas escondidas ao redor de suas ilhas. Preste atenção e colete o conteúdo."
+120276	Se você revelar conflitos em setores em crise, poderá encontrar missões para resolver a qualquer momento.
+120277	Se você atingir um novo nível corporativo, ganhará créditos e materiais raros.
+120278	Nos setores em crise existem edifícios de armazenamento. Destrua-os e obtenha mais materiais raros.
+120279	"Interromper fábricas é uma boa maneira de contornar problemas temporários de escassez."
+120280	Para conseguir mão de obra em um setor, você precisa trazer empregados.
+120281	Pare a produção em qualquer menu de fábrica para reduzir o custo de manutenção dessa fábrica.
+120282	Prédios de produção não podem ser interrompidos, então coloque-os com cuidado.
+120283	"Você pode comprar setores de seus adversários, desde que seu nível corporativo seja superior ao deles."
+120284	Obtenha setores adicionais avançando no Programa de Licença Lunar ou compre-os de empresas rivais.
+120285	Verifique o nível corporativo atual clicando no logotipo de sua empresa no canto superior direito.
+120286	A distribuição dos setores entre os Cinco Grandes muda a cada jogo.
+120287	"As crateras lunares fornecem alguma proteção contra a radiação e permitem fácil acesso a camadas de rocha lunar ricas em recursos."
+120288	O rover lunar serve como uma veiculo de comando para qualquer propósito.
+120289	Todos os edifícios na Lua devem estar totalmente dentro do raio do gerador de escudo.
+120290	Não se esqueça de usar módulos para aprimorar suas fábricas, especialmente aquelas em zonas de construção.
+120291	"As necessidades não atendidas dos empregados em um setor são mostradas em ícones no mapa estratégico e no canto superior direito da visualização do setor."
+120292	Ajuste sua economia com pequenos módulos que reduzem o custo de manutenção de suas fábricas.
+120293	Os melhores resultados são obtidos ao conectar os módulos de manutenção a fábricas aprimoradas de alta qualidade.
+120294	Módulos de manutenção de edifícios consomem irídio. Felizmente, esse material raro pode ser encontrado em qualquer região.
+120295	"Uma crise é complicada demais para resolver agora? Aumente seu nível corporativo para conseguir mais barcos de guerra."
+120296	Procure tarefas ocultas em um setor em crise para ganhar recompensas adicionais.
+120297	Verifique no menu superior direito quantos empregados você precisa para alcançar o próximo nível corporativo.
+120298	Você pode encontrar posto comercial, clientes e projetos setoriais mesmo na lua
+120299	"Para obter materiais raros de maneira pacífica, conclua os pedidos ou compre-os em postos comerciais."
+120300	Tente completar Setores de crise em níveis de dificuldade mais altos para obter recompensas exponencialmente maiores.
+120301	Obtenha grafeno e produtos petroquímicos completando missões em setores em crise temperada e ártica, respectivamente.
+120302	Você pode demolir módulos para recuperar os materiais raros usados ​​em sua construção.
+120303	"Colonizar a Lua pode ser muito caro, então continue aumentando seus lucros nos setores temperados."
+120304	Use rotas com o mercado mundial para comprar produtos ou vender os seus e ter lucro.
+120305	Aumente seu nível corporativo para poder ter mais rotas para o mercado mundial.
+120306	Não se esqueça de estabelecer armazéns com seu navio de comando ou construir pontes para expandir sua zona de construção.
+120307	"Cadeias produtivas de alto nível precisam de bens intermediários de diferentes regiões."
+120308	Atualize sua economia no Ártico para obter acesso a projetos de [GUIDNAME 1001166].
+120309	Aprimore seus espaçoportos em cada setor para ter uma rede de rotas de transferência mais eficiente.
+120310	Um "[GUIDNAME 1001229]" permite a transferência na Terra, e um "[GUIDNAME 1001231]" adiciona uma plataforma de lançamento para ônibus espaciais.
+120311	"Há uma pessoa no Conselho que oferece a você materiais raros em troca de você vender seu voto."
+120312	O "[GUIDNAME 1001232]" permite que você transfira energia entre todos os setores que contêm esse espaçoporto.
+120313	Conclua Setores em crise ou tarefas para adquirir os materiais raros necessários.
+120314	Se você estiver enfrentando uma rara escassez de material, remova os módulos para recuperar os materiais usados ​​para construí-los.
+120315	"Oferecido pelo Conselho, os módulos aprimorados da marca substituem os padrão no menu de fábrica enquanto durarem os estoques."
+120316	Adquira alguns módulos de marca excelentes votando no Conselho na estação espacial.
+120317	Vote no Conselho para obter melhores preços e menores custos de construção para os edifícios de que necessita.
+120318	Aceite subornos para obter lucros rápidos ou fique com a empresa que oferece as melhores vantagens financeiras.
+120319	Use o resumo da rota no mapa estratégico para otimizar todas as suas rotas.
+120320	Alimente seus sensores com energia de fusão lunar e livre-se de usinas de energia de que você não precisa.
+120321	As rotas de energia não têm custos de manutenção e podem transferir grandes quantidades de uma só vez.
+120322	Cadeias de produção de alto nível requerem bens intermediários de diferentes regiões.
+120323	"Parabéns por concluir o Programa de Licença Lunar, embora ainda haja muito o que fazer."
+120324	Os cinco grandes continuarão a crescer ao seu lado. Verifique seus níveis no menu de perfil corporativo localizado no canto superior direito.
+120325	Esse menu inclui um resumo das conquistas que você pode desbloquear para novos logotipos corporativos e outras recompensas.
+120326	Verifique o resumo do projeto para ver quais edifícios ainda não foram destrancados.
+120327	"Quanto você pode crescer? Os níveis corporativos são ilimitados."
+120328	Continue expandindo e otimizando os layouts de construção de seus assentamentos. Veja quantos empregados você pode conseguir.
+120329	Use o jogo "Anno 2205 - Asteroid Miner" no seu celular para obter mais materiais raros.
+120330	Embeleze suas cidades com edifícios decorativos... e mostre ao mundo que você pode pagar por isso.
+118046	"Mandei-lhe as coordenadas do local onde fomos atacados. Se quiser lutar pelo que é seu, vou te dar cobertura."
+102918	"Terroristas emboscaram nossas rotas de transferência e tomaram nossos barcos mercantes. Temos que responder com rapidez e força!"
+119678	"Aja agora e alcance os refugiados! E não deixe os sequestradores ficarem impunes!"
+119679	"Esta missão é vital! Defender os transportadores de carga e garantir este setor! Vou providenciar para que o comércio seja restaurado aqui."
+108485	"Agora é a hora de atacar! Infiltre-se na base da Guarda Orbital e obtenha seus pontos de acesso."
+119680	"Ajude-me a entrar na base da Guarda Orbital e eu cuidarei do resto! Quem sabe quais danos eles podem fazer com a investigação."
+119681	"Esta é a oportunidade perfeita para invadir a base da Guarda Orbital e obter seus dados! Tenho que chegar muito perto para acessar seus servidores."
+102763	"A Guarda Orbital apreendeu nossos estabilizadores. Vá até eles rápido, antes que as consequências piorem!"
+119682	"Que bom que você está nos ajudando! Se você explodir os dispositivos da Guarda Orbital, tudo deve voltar ao normal... espero."
+119683	"Não podíamos fazer nada, a Guarda Orbital estava em toda parte! Você poderia mantê-los longe dos estabilizadores de tempo?"
+108486	"A Guarda Orbital está se aproximando! Sua frota é a única coisa que existe entre eles e nós!"
+119684	"A frota da Guarda Orbital chega no horizonte. Se não intervirmos agora, não teremos esperança!"
+119685	"Não temos exército. As leis e o bom senso nos protegem, mas o único propósito da Guarda Orbital é espalhar o terror. Não nos abandone!"
+116581	Destrua o comando da Guarda Orbital para libertar o barco de transporte sequestrado!
+116582	Destrua o comando da Guarda Orbital para libertar os dois barcos de transporte sequestrados!
+116583	Destrua o comando da Guarda Orbital para libertar os trés barcos de transporte sequestrados!
+116584	Pegue um objetivo estratégico dentro da base secreta da Guarda Orbital!
+116585	Pegue dois objetivos estratégicos dentro da base secreta da Guarda Orbital!
+116586	Pegue três objetivos estratégicos dentro da base secreta da Guarda Orbital!
+116587	Libere o estabilizador climáticos destruindo os transmissores de interferência da Guarda Orbital.
+116588	Libere dois estabilizadores climáticos destruindo os transmissores de interferência da Guarda Orbital.
+116589	Libere os três estabilizadores climáticos destruindo os transmissores de interferência da Guarda Orbital.
+116590	Neutralize o erradicador da Guarda Orbital que ameaça a base ártica!
+116591	Neutralize os dois erradicadores da Guarda Orbital que ameaçam a base ártica!
+116592	Neutralize os três erradicadores da guarda orbital que ameaçam a base ártica!
+117046	"Esses mísseis são brutais. Encontre uma boa oportunidade para usá-los contra aqueles bastardos."
+117047	"Nossos investidores querem ver uma demonstração de força. Seu arsenal de armas deve bastar."
+117048	"Precisamos de uma distração para evacuar com segurança este setor. O barulho de algumas explosões deve ser suficiente."
+117049	"Minha frota pessoal atenderá sua chamada. Vamos, eles estão esperando."
+117050	"Alguns dos meus companheiros estão em suas frotas reserva! Eles estão ansiosos para ajudar."
+117051	"A imprudência pode deixá-lo sem tripulação! Melhor chamar reforços antes que seja tarde demais."
+117052	"Usar esta arma de choque pode ser uma opção não violenta! Bem, eles não são tão inofensivos..."
+117053	"Atordoar seus inimigos vai economizar nos custos de reparo. Bem, só se você continuar atirando!"
+117054	"Esta arma de choque mostra sua superioridade estratégica. Recomendo usá-la no início."
+117055	"Rafferty tem otimizado seus drones de reparo. Dê uma chance a eles e eu lhe enviarei um feedback."
+117056	"Esta escaramuça coloca grande pressão em sua frota. Assim que você tiver uma chance, conserte-a."
+117057	"Os investidores preferem planejar detalhadamente em vez de agir de forma imprudente. Certifique-se de que sua frota esteja em boa forma."
+117058	"Você não vai colocar sua tripulação em perigo, vai? Você sempre pode usar os escudos."
+117059	"Os escudos não apenas repelem os ataques, mas também facilitam as manobras. Você deveria usá-los com mais frequência!"
+117060	"Você não pode perder esta batalha. Se necessário, jogue atento."
+117061	"No papel parece maravilhoso, mas quão eficaz é esta mina, realmente? Por favor, prove."
+117062	"Atire nessa belezura e todos abrirão caminho para você! Eles também não terão outra escolha..."
+117063	"Essas minas estão em desenvolvimento há muito tempo. Funcionam para fugas e ataques!"
+117064	"Temos que prender os terroristas. Eles se renderam, não deve ser difícil."
+117065	"Alguns dos meus parceiros estão em um 'cruzeiro perigoso'. É uma exploração vergonhosa, mas eles precisam de ajuda de qualquer maneira."
+117066	"Socorro! Perdemos um barco e os barcos estão à deriva! E somos apenas pessoal de apoio..."
+117067	"Nosso barco acabou de pegar alguns desertores e não podemos correr o risco de ficar mais tempo. Você poderia nos dar reforços?"
+117068	"Bem, você veio! Depois do incidente com o refém, tudo que eu quero fazer é ir para casa!"
+117069	"Eu estive coordenando nossas defesas durante sua ausência. Você poderia me acompanhar de volta?"
+117010	"Você não vai deixar um amigo desarmado e indefeso, vai?"
+117011	"Eu estou sem munição para chegar aqui! Um pequeno favor para que eu possa me manter à tona?"
+117012	"Que tal eu trocá-lo por um armamento tão impressionante? Não vai cair nas mãos do inimigo, palavra."
+117013	"Eu te apoiei e agora você tem que me apoiar! Você só tem que escoltar um pouco, isso é tudo."
+117014	"Tenho meu próprio projeto militar. Quer investir nele? Dê-me pessoal bem treinado?"
+117015	"Não estou procurando derramamento de sangue. Enquanto minha frota for intimidante, servirá para assustar os desordeiros."
+117016	"Esses produtos são geralmente um pouco mais regulamentados, então nós dois temos que manter isso em segredo, ok?"
+117017	"Eu preciso de armas inofensivas para reforçar meu espaço pessoal. Os Cinco Grandes podem ser um pouco agressivos."
+117018	"Tão perto da ação, os sistemas de armas são vendidos por um preço mais alto. Por exemplo, seus sistemas de atordoamento."
+117019	"Eles garantiram que eu poderia passar minha mercadoria sem problemas! E não foi assim! Pow, ao mar com tudo..."
+117020	"Eu não chamo de catação. É... mais uma questão de reciclagem. Limpar o oceano."
+117021	"Quando a União recuperar o controle, todos esses lindos restos mortais sem dono serão perdidos para sempre!"
+117022	"O União está disposta a levar esses criminosos a julgamento. Traga-os aqui e cortarei sua oferta de escolta pela metade."
+117023	"Minha tripulação! Traga esses covardes aqui! Eu tenho que... compensá-los!!"
+117024	"Em casa, os primeiros a responder ao altruísmo são tratados como heróis. Compartilharemos a fama."
+117025	"Estou aqui para testar os escudos em condições adversas... Mas esta nave terrorista é mais do que pensamos que encontraríamos!"
+117026	"Preservar a lei nestes tempos difíceis é uma maneira segura de impressionar os investidores."
+117027	"Esta era a área de perfuração de Usoyev. Você gostaria de me ajudar a derrubar outro tipo de praga?"
+117028	"É muito mais fácil derrubar espiões e paletós aqui. Isso é para sua própria proteção."
+117029	"Esses criminosos estão bloqueando nossas linhas de abastecimento para nos matar de fome."
+117030	"Terroristas assumiram nosso novo barco de guerra. Você não se importa se eles o copiarem!"
+117031	"Há uma recompensa generosa para este capitão. Afunde-os. Cassian está disposto a compartilhar."
+117032	"Às vezes, a destruição é inevitável. Por exemplo, quando estamos em perigo."
+117033	"Não me diga que você não está tentando levar o melhor sobre Saayman? Nessa batalha, eles não acusarão ninguém de nada."
+117034	"Aqueles desgraçados afundaram nosso comboio. Por favor, pegue nossa remessa de volta enquanto cuidamos dos sobreviventes!"
+117035	"Tenho um orçamento muito apertado para materiais. Não gosto de estar aqui, mas é aqui que você encontra coisas boas."
+117036	"Qualquer carga abandonada nos ajudará a identificar a identidade desses terroristas. Podemos contar com você, certo?"
+117037	"Tenho muito interesse em metais resistentes. Além disso, não há contabilidade a ser feita aqui."
+117038	"Ignorar as Indústrias Cassian e vender suas mercadorias pode ser muito lucrativo para você. Deixe-me fazer uma oferta."
+117039	"Em breve a União assumirá este setor e toda a sua riqueza será desperdiçada."
+117040	"Essas minas terrestres serão uma ameaça por muitos anos... Traga algumas para ver se eu consigo desativá-las!"
+117041	"As minas são muito valiosas porque os materiais são muito caros. Que pena ter que explodi-las!"
+117042	"Avisar o União sobre este setor cheio de minas vai ajudar a todos nós. Lembre-se, primeiro precisamos de evidências."
+117043	"Nossos bloqueadores precisam de energia. Ajude-nos e não os usaremos contra você."
+117044	"Viemos para proteger os civis perdidos. Confio em você para apoiar esta missão."
+117045	"Isso... Todos os experimentos com nossos escudos esgotaram nossa energia... Você poderia me ajudar a começar isso?"
+117085	"Você veio nos ajudar? Ótimo, agora poderíamos usar um aliado com poder de ataque!"
+117086	"Estamos em perigo e não temos sistemas defensivos! E por que precisaríamos de um, até agora?!"
+117087	"Eu desprezo a violência, mas este setor não pode cair nas mãos da Guarda! Lidere o ataque e nós manteremos posições."
+117088	"Precisamos de reforços, caso contrário, esses terroristas vão bombardear nossa geleira de pesquisa e destruí-la!"
+117089	"Viemos resgatar o que os bastardos bombardearam. Você poderia nos proteger?"
+117090	"Nosso observatório... Não sobrou nada. Se você enviar mais tropas, poderemos evitar mais perdas!"
+117091	"Forçar os navios inimigos a parar pode salvar vidas. Já vi isso em mais de uma ocasião."
+117092	"Fiz parte da equipe de P&D que desenvolveu esses pulsos eletromagnéticos. Posso atestar sua eficiência."
+117093	"Nós desistimos! Mas eles continuaram atirando em nós! Dê uma surra nesses bastardos por nós."
+117094	"Reconectamos nossa fonte de alimentação para manter os escudos. Portanto, não se preocupe conosco; conserte sua própria frota."
+117095	"Estar no chão esgota qualquer um. Mas não apenas acumule drones, você tem que usá-los!"
+117096	"Consertar seu barco não vai adiantar nada quando ele está no fundo do mar. Você tem que estar sempre vigilante."
+117097	"Ativar os escudos pode fazer a diferença entre pegar sucata e consertar. Pelo menos funcionou para nós."
+117098	"É difícil consertar frotas de alta tecnologia como a sua, então certifique-se de que não as quebrem."
+117099	"Escudos cinéticos reduzem o atrito. Dessa forma, você pode ficar à frente de qualquer um!"
+117100	"Não podemos partir ainda, mas precisamos de algum tipo de sinalização de alerta. Algumas minas estrategicamente colocadas devem ser suficientes."
+117101	"Construir uma barricada com minas é uma ótima tática defensiva. É assim que temos mantido nossa posição."
+117102	"As minas são um desastre biológico, mas desta vez teremos que pensar em mais do que apenas os estoques de peixes!"
+117103	"Os terroristas viram nossa bandeira e atacaram. Eles não se importam que não somos nada mais do que um veículo para transportar alimentos congelados."
+117104	"Se não fosse pelo comerciante que distraiu os invasores, não teríamos chegado aqui... Espero que ele esteja bem."
+117105	"Dá para acreditar que as pessoas vêm aqui para nadar para se divertir? Que bom que os encontramos, mas agora precisamos de alguém para nos levar! Rápido!"
+117106	"A evacuação deste setor já está em andamento, acabamos de proteger outra equipe de investigação isolada."
+117107	"O que a Global Union está fazendo além de cruzar os dedos? Pelo menos você pode nos tirar daqui."
+117108	"Levamos amostras congeladas de pesquisa a bordo. Elas devem ser protegidas a todo custo."
+117070	"Ter alguns mísseis será o suficiente para assustar os terroristas! Eu também não posso usá-los..."
+117071	"Prefiro parar de negociar a me tornar um traficante de armas, mas os Guardiões precisam desesperadamente de munição!"
+117072	"Tenho alguns amigos do Guardian que estão me pedindo mísseis. Para investigar! Pelo menos, essas são as últimas notícias que tenho..."
+117073	"Que bom ver você! Por favor, não me deixe aqui! Por favor!"
+117074	"Se você me deixou com uma pequena frota, eu poderia coordenar as linhas de abastecimento para esta área!"
