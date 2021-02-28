@@ -150,7 +150,7 @@
 1003693	Hummel 3000
 1003697	TestRiceFarmSprayer
 1003738	TestPatrolTim
-1002626	Embarcação de Comando
+1002626	Barco de Comando
 1003054	Titã
 1000449	Rover de expedição lunar
 1000004	NO LOCA repair drone moon

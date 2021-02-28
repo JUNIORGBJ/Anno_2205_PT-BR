@@ -182,7 +182,7 @@
 11000169	"Ibarra-Foxcom está tentando sabotar nossos novos protótipos cibernéticos. A mudança de Usoyev para a indústria de biotecnologia está atingindo-os com força ..."
 11000170	"Posso provar que Cassian está subornando o Conselho. Além disso, você está interessado em proteger as evidências, a menos que também tenha algo a ver com isso."
 11000171	"As negociações entre nossas colônias lunares e a Guarda Orbital estavam em perigo, mas pensar que eles iriam perseguir nosso diplomata aqui ...!"
-11000196	Escolta a [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] até [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] enquanto desvia dos inimigos.
+11000196	Escolte o [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] até [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] enquanto desvia dos inimigos.
 11000213	Aprimoramento veterano lançado
 11000214	Desafie-se no nível de dificuldade Veterano
 11000215	Desfrute de uma visão geral aprimorada de suas cidades
