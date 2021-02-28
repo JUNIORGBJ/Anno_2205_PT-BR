@@ -1,10 +1,10 @@
 117075	"Os Guardiões estão amplamente espalhados. Com mais algumas tropas, podemos pelo menos isolar este setor!"
-117076	"Eu preciso sair daqui ... Posso ir desacompanhado, mas ter uma arma me daria um grande impulso de coragem!"
-117077	"Ok, eu não gosto de atirar em ninguém, mas ouvi dizer que existem métodos menos violentos ... Para escapar?"
-117078	"Os Keepers não produzem essas armas. Acho que é muito complicado ..."
+117076	"Eu preciso sair daqui... Posso ir desacompanhado, mas ter uma arma me daria um grande impulso de coragem!"
+117077	"Ok, eu não gosto de atirar em ninguém, mas ouvi dizer que existem métodos menos violentos... Para escapar?"
+117078	"Os Keepers não produzem essas armas. Acho que é muito complicado..."
 117079	"Eu tive que fugir! Algumas peças do barco são baratas. Mas eu preciso recuperá-las."
 117080	"Um carregamento inteiro se perdeu no caminho! Não sobrou nada, temos que recuperar o que pudermos!"
-117081	"Vamos ver ... O que eu preciso não pertence a mim, tecnicamente. Mas não pertence mais a ninguém!"
+117081	"Vamos ver... O que eu preciso não pertence a mim, tecnicamente. Mas não pertence mais a ninguém!"
 117082	"Nossas defesas não estão resistindo! Rápido, traga-me os sobreviventes!"
 117083	"A vitória é nossa! Os bandidos desistiram, não atire, ok?"
 117084	"Enviei uma equipe em busca de sobreviventes. Eles enviaram um sinal para buscá-los!"
@@ -17,7 +17,7 @@
 119686	"Aqueles ratos terroristas estão por toda parte! Até nos meus barcos! Mas eles não sabem para onde estão indo, hein?"
 119687	"Recebi muitos relatórios de que a área foi invadida. Sua presença é necessária."
 119688	"Escute: eu preciso de uma abertura para entrar na base da Guarda Orbital. Você acerta os fogos de artifício e eu cuidarei do trabalho. O que você acha do plano?"
-119689	"Isso é um desastre! Com os estabilizadores climáticos, a Guarda Orbital pode causar estragos em todo o planeta ... Não deixe isso acontecer!"
+119689	"Isso é um desastre! Com os estabilizadores climáticos, a Guarda Orbital pode causar estragos em todo o planeta... Não deixe isso acontecer!"
 119690	"Nós, Guardiões do Ártico, não temos como nos defender quando a Guarda Orbital nos alcança. Conto com você."
 102985	Item fisgado
 102600	[NOTIFICATION_CHARACTER_NAME] anuncie que a União Global está fornecendo apoio financeiro suficiente.
@@ -101,7 +101,7 @@
 120147	"Os costumes são um verdadeiro aborrecimento! Eles não me deixam colocar as plantas em minha casa na lua! Acho que revesti-las primeiro com resina também é decorativo."
 120148	"Muitos de nós agora temos família na Lua, incluindo eu. Você poderia pegar os pacotes para garantir que eles não se percam durante a mudança?"
 120149	"Os preparativos para a primeira Feira de Artes Culinárias já estão em andamento! Nosso objetivo é mostrar como as pessoas comem ao redor do mundo e além."
-120150	"Não acredito que ganhamos o sorteio! Um jantar chique em um navio de cruzeiro, há algo mais romântico? Mas precisamos de um meio de transporte ..."
+120150	"Não acredito que ganhamos o sorteio! Um jantar chique em um navio de cruzeiro, há algo mais romântico? Mas precisamos de um meio de transporte..."
 120151	"Olhe ao seu redor: todo mundo está usando uma gola alta nesta temporada. E nós somos o principal fornecedor - basta olhar a lista de pedidos."
 120152	"Estou encarregado do repovoamento desta área. Sua contribuição enviaria uma mensagem forte! Precisamos de várias espécies."
 120153	"Algumas pessoas não entendem por que meu restaurante três estrelas não serve carne. Bem, eu chamo isso de estilo de vida. Você está interessado em ser meu fornecedor?"
@@ -113,7 +113,7 @@
 120159	"Agora qualquer um pode subir aqui! Bem, nem todos. Você poderia ajudar com as assinaturas para pedir cachorros?"
 120160	"Soube do pedido dos cachorros! É um absurdo ter um animal de estimação em um ambiente tão hostil! É melhor ter algas de estimação."
 120608	"Tenho dois recém-chegados muito estranhos. Eles não têm identificação e não são daqui, mas insistem em encontrar uma caixa azul lá fora. Quem sabe como chegaram aqui!"
-120864	"Estamos de volta a essas datas importantes! Pedi aos meus ajudantes que preparassem presentes para meus queridos amigos. E em um lugar perfeito para a ocasião ..."
+120864	"Estamos de volta a essas datas importantes! Pedi aos meus ajudantes que preparassem presentes para meus queridos amigos. E em um lugar perfeito para a ocasião..."
 120865	Presentes desbloqueados em todas as sessões
 120878	[NOTIFICATION_CHARACTER_NAME] acha que ele merece o leite e os biscoitos agora.
 120875	[NOTIFICATION_CHARACTER_NAME] não vai revelar o segredo por trás de suas entregas super-rápidas de Natal.
