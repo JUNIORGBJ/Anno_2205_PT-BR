@@ -3,6 +3,6 @@ employee=Empregado
 warehouse=Armazém
 settlement=Estabelecimentos
 Workers=Trabalhadores
-Custodians=Tutores
+Custodians=Tutores-Guardiões
 Akia Floes=Akia Icebergs
 Greentide=Mare Verde

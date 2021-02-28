@@ -13,18 +13,18 @@
 114738	"Antes de começarmos a construir nosso primeiro canal, você terá que examinar algumas rachaduras na planície de gelo. Não adianta preparar a área e depois descobrir que a camada é intransitável."
 114739	"A preocupação do Dr. Young é exagerada. Não vamos perder o ponto. A construção de quebra-gelos requer um suprimento estável de materiais."
 114740	"É um prazer informar que as equipes estão prontas para se mudar para o local. Eles estão ansiosos para lançar este projeto que dará vida a este lugar desolado."
-114741	"Seria de se esperar que os tutores do Ártico apreciassem o crescimento econômico que vem desse projeto. Certifique-se de que haja mãos suficientes."
+114741	"Seria de se esperar que os guardiões do Ártico apreciassem o crescimento econômico que vem desse projeto. Certifique-se de que haja mãos suficientes."
 114742	"Recebi relatos de fraturas no gelo. Vamos ter que construir uma malha para evitar que os blocos de gelo rompam o canal. Você poderia ajudar com a entrega dos materiais?"
 114743	"Não temos escolha: devemos detonar um iceberg para o segundo canal, caso contrário o gelo ficará intransitável. Enviarei as coordenadas."
 114744	"Parece bom para mim. Perder o apoio dos Guardiões é um grande revés em um momento tão crítico. Mas ainda... Isso garante o fornecimento de energia para nossos quebra-gelos."
-114746	"Responda imediatamente! Um iceberg solto afundou um navio na área do terceiro canal. Os sobreviventes mal conseguiram chegar aos botes salva-vidas. Não... não sabemos quantos morreram."
+114746	"Responda imediatamente! Um iceberg solto afundou um barco na área do terceiro canal. Os sobreviventes mal conseguiram chegar aos botes salva-vidas. Não... não sabemos quantos morreram."
 114747	"Você tem estimulantes suficientes? Os sobreviventes precisam de força! Eu sabia que o projeto era arriscado, mas achei que valia a pena. Mas como pode valer a pena sacrificar vidas humanas?"
 114748	"Eu me apressei... Nunca deveria ter forçado o caminho mais curto. Não estamos correndo mais riscos. Certifique-se de que os quebra-gelos estejam equipados com uma cobertura de diamante."
 117748	"Antes de começarmos a construir nosso primeiro canal, você terá que examinar algumas rachaduras na superfície do gelo. Queremos descartar que a camada seja intransitável."
 117749	"A preocupação do Dr. Young é um exagero. Não devemos nos distrair: precisamos de cientistas suficientes para terminar nossos cálculos e preparar o equipamento."
 117750	"Estou feliz em informar que as equipes estão prontas para serem transferidas para o local. Eles estão ansiosos para lançar este projeto porque ele trará vida a este lugar desolado."
 117751	"É difícil estabelecer uma fonte de alimentação estável aqui. Certifique-se de que não flutue durante as últimas calibrações. Ah, eu não mencionei que íamos usar explosivos?"
-117752	"Agora, coloque a equipe a uma distância segura. E não se preocupe com os Tutores; este procedimento atende aos mais altos padrões. Vou tranquilizá-los."
+117752	"Agora, coloque a equipe a uma distância segura. E não se preocupe com os guardiões; este procedimento atende aos mais altos padrões. Vou tranquilizá-los."
 117753	"Rápido e eficiente, minha ética de trabalho preferida. A honra de apertar o botão é toda sua."
 117754	"Fomos avisados ​​sobre o próximo lugar. Também fomos avisados ​​de que devemos proteger a vida selvagem. Vamos mostrar que temos boa vontade."
 117755	"Não podemos continuar com explosivos fixos; o terreno é muito difícil. Mas por que não usamos o que já temos, nossa energia móvel?"
@@ -33,7 +33,7 @@
 117758	"O gelo é muito mais duro do que esperávamos. Bem, perseverança é o que separa o joio do trigo. Abasteça a broca e terminaremos em pouco tempo."
 117759	"As cargas explosivas estão no lugar, mas a equipe ainda está lá. O raio de evacuação é impreciso, mas com certeza tudo ficará bem."
 117760	"Seu trabalho tem sido excelente, estou ansioso para ver o andamento desse projeto. E agora, vamos passar para a atração principal."
-117761	"Responda imediatamente! Um navio quebra-gelo afundou tentando abrir um canal! Os sobreviventes mal conseguiram chegar aos botes salva-vidas. Não... não sabemos quantos morreram."
+117761	"Responda imediatamente! Um barco quebra-gelo afundou tentando abrir um canal! Os sobreviventes mal conseguiram chegar aos botes salva-vidas. Não... não sabemos quantos morreram."
 117762	"Temos que levá-los para um lugar quente! Eu sabia que o método era arriscado, mas achei que valeu a pena. Mas como pode valer a pena sacrificar vidas humanas?"
 117763	"Eu me apressei... nunca deveria ter forçado o caminho mais curto. Pegue de volta as partes do quebra-gelo, caso contrário, será perigoso se aproximar do local."
 117764	"Chega de correr riscos. Eu encomendei pessoalmente o desenvolvimento de um método que pode ser facilmente controlado. E será criado por nossas mentes mais brilhantes."
@@ -142,45 +142,45 @@
 117326	Estabeleceu a zona de mineração do terceiro meteorito
 117327	[GUIDNAME 117321]
 114760	"Antes de começarmos a perfurar os meteoritos, devemos primeiro determinar exatamente o que estamos procurando. Você poderia localizar amostras de meteoritos para nós?"
-114761	"Você sabe que tecnicamente eles não são meteoritos, mas meteoróides, já que ... Oh! Com licença, você vai ter que abrigar alguns cientistas de meteoritos que vão analisar nossos resultados."
+114761	"Você sabe que tecnicamente eles não são meteoritos, mas meteoróides, já que... Oh! Com licença, você vai ter que abrigar alguns cientistas de meteoritos que vão analisar nossos resultados."
 114762	"Já temos a análise! E os minerais lá dentro farão com que todas as minas da Terra rachem de inveja. Obviamente, ainda teremos que abrir nossos meteoritos. Deixo isso em suas mãos."
 114763	"Minha chefe elogiou nosso progresso. Ela está confiante de que isso mostra que a mineração é um negócio duradouro. E por falar em mineração: vamos precisar de titânio para fornecer ferramentas para nossos mineradores."
 114764	"As Indústrias Cassian têm grandes planos agora. Eu apreciaria se você pudesse cuidar da entrega sem mim; estou em uma reunião."
 114765	"Espero que você trate este assunto de forma confidencial. As Indústrias Cassian decidiram buscar a ideia de uma segunda mina, mas perdemos contato com nossa equipe de expedição. Por favor, encontre-os!"
 114766	"A equipe adoeceu com a radiação e meu chefe foi libertado! Se não tivermos que transferir os pacientes, ficaremos felizes em recompensá-lo pelo tratamento."
-114767	"Meu superior está apaziguando as partes do fus ... quero dizer, a mídia. Mas o resultado ainda está faltando. A expedição encontrou lixo radioativo e preciso que você o remova."
+114767	"Meu superior está apaziguando as partes do fus... quero dizer, a mídia. Mas o resultado ainda está faltando. A expedição encontrou lixo radioativo e preciso que você o remova."
 114768	"Eles aprovaram minha proposta para uma mina automatizada minimamente tripulada! E eu fui encarregado do projeto. Você vai me ajudar a escoltar o equipamento de perfuração, certo?"
 114769	"A furadeira é um protótipo experimental e está sugando nossa fonte de alimentação! Meu superior não responde! Por favor, me ajude!"
 114770	"Recebi um aviso de que a furadeira está superaquecendo e pode falhar! O que vamos fazer? Você tem algo que possamos fazer? Tanto faz!"
 118292	"Antes de perfurar os meteoritos, devemos primeiro determinar exatamente o que estamos procurando. Você poderia localizar amostras de meteoritos para nós?"
-118293	"Você sabe que tecnicamente eles não são meteoritos, mas meteoróides, já que ... Oh! Com licença, você vai ter que abrigar alguns cientistas de meteoritos que vão analisar nossos resultados."
+118293	"Você sabe que tecnicamente eles não são meteoritos, mas meteoróides, já que... Oh! Com licença, você vai ter que abrigar alguns cientistas de meteoritos que vão analisar nossos resultados."
 118294	"Já temos a análise! E os minerais lá dentro farão com que todas as minas da Terra rachem de inveja. Obviamente, ainda teremos que quebrar nosso meteorito. Deixo-o em suas mãos."
 118295	"Minha chefe elogiou nosso progresso. Ela está confiante de que isso mostra que a mineração é um negócio duradouro. E por falar em mineração: vamos precisar de titânio para as ferramentas."
 118296	"As Indústrias Cassian têm grandes planos agora. Eu realmente apreciaria se você pudesse cuidar da entrega enquanto eu participo de uma reunião."
 118297	"Espero que você trate este assunto de forma confidencial. As Indústrias Cassian decidiram prosseguir com uma segunda mina, mas perdemos contato com nossa equipe de expedição. Por favor, encontre-os!"
 118298	"A equipe adoeceu com a radiação e meu chefe foi libertado! Se não tivermos que transferir os pacientes, ficaremos felizes em recompensá-lo."
-118299	"Meu superior está acalmando as partes do fusível ... quero dizer, a mídia. Teremos que dar à próxima equipe tudo de que precisam para lidar com as condições radioativas que encontrarão lá."
-118300	"É um trabalho bem pago com seguro total. Meu superior não tem dúvidas de que haverá muitos candidatos para nossa segunda equipe!" Mas ... você poderia ajudar, certo? "
+118299	"Meu superior está acalmando as partes do fusível... quero dizer, a mídia. Teremos que dar à próxima equipe tudo de que precisam para lidar com as condições radioativas que encontrarão lá."
+118300	"É um trabalho bem pago com seguro total. Meu superior não tem dúvidas de que haverá muitos candidatos para nossa segunda equipe!" Mas... você poderia ajudar, certo? "
 118301	“Não foi fácil resistir a este escândalo. A imprensa abordou a questão dos resíduos radioativos na área. Por favor, resolva isso”.
 118302	"Mal conseguimos preencher todas as vagas. Meu superior quer que acompanhemos a nova equipe de escavação. Tenho certeza de que tudo está indo bem."
-118303	"Minha proposta foi aprovada. Uma mina automatizada com um mínimo de pessoal. E ... eu assumo a responsabilidade pessoalmente. Espero que ainda me ajudem com o equipamento de perfuração ..."
-118304	“Desta vez precisamos de uma equipe para controlar a perfuração por controle remoto. Assim reduzimos muito os riscos e o trabalho fica mais atraente. Pelo menos, espero que sim ...”
+118303	"Minha proposta foi aprovada. Uma mina automatizada com um mínimo de pessoal. E... eu assumo a responsabilidade pessoalmente. Espero que ainda me ajudem com o equipamento de perfuração..."
+118304	“Desta vez precisamos de uma equipe para controlar a perfuração por controle remoto. Assim reduzimos muito os riscos e o trabalho fica mais atraente. Pelo menos, espero que sim...”
 118305	"Recebi um aviso de que a furadeira está superaquecendo e pode quebrar! O que vamos fazer? Você tem algo que possamos fazer? Tanto faz!"
 118306	"A furadeira é um protótipo experimental e está sugando nossa fonte de alimentação! Meu superior não responde. Por favor, me ajude desta vez!"
-118307	"Tenho uma proposta. Uma cabeça de perfuração em forma de diamante reduzirá consideravelmente os custos de energia. Ainda não consegui confirmar isso com meu superior ... mas com certeza funciona! Tem que funcionar!
+118307	"Tenho uma proposta. Uma cabeça de perfuração em forma de diamante reduzirá consideravelmente os custos de energia. Ainda não consegui confirmar isso com meu superior... mas com certeza funciona! Tem que funcionar!
 109047	"É um prazer vê-lo. Tenho uma proposta para você das Indústrias Cassian: você teria interesse em usar a matéria que compõe as estrelas?"
 114924	"Por um tempo, tive medo de que meu superior estivesse certo em considerar o projeto uma utopia. Mas, em vez disso, recebi mais tarefas desse tipo."
 115320	Alcance o nível corporativo 15 para iniciar a segunda mina de meteorito.
 115321	Alcance o nível corporativo 30 para iniciar a terceira mina de meteorito.
 120056	Extraia materiais raros de impactos de meteoritos na superfície lunar.
-114866	[NOTIFICATION_CHARACTER_NAME] thinks it's the right time to lean back and let everything develop.
-114867	[NOTIFICATION_CHARACTER_NAME] is satisfied with the publicity and plans for the next hotel event.
-114868	[NOTIFICATION_CHARACTER_NAME] withdraws from the project, having gathered all informations she needed.
-115328	The [NOTIFICATION_CHARACTER_NAME] announces the first guests are already on their way.
-115329	[NOTIFICATION_CHARACTER_NAME] is delighted to see things going so well.
-115330	[NOTIFICATION_CHARACTER_NAME] mentions she might have added vision recorders to the androids' functionalities.
-115331	[NOTIFICATION_CHARACTER_NAME] is happy to see some of his business partners on the guestlist.
-120396	[NOTIFICATION_CHARACTER_NAME] hopes to secretly discuss business with his partners tonight, in private.
+114866	[NOTIFICATION_CHARACTER_NAME] acha que que é o momento certo para deixar tudo se desenrolar.
+114867	[NOTIFICATION_CHARACTER_NAME] está satisfeita com a publicidade e está planejando o próximo evento do hotel.
+114868	[NOTIFICATION_CHARACTER_NAME] sai do projeto após ter reunido todas as informações de que precisava.
+115328	[NOTIFICATION_CHARACTER_NAME] anuncia que os primeiros convidados estão a caminho.
+115329	[NOTIFICATION_CHARACTER_NAME] está feliz em ver que as coisas estão indo bem.
+115330	[NOTIFICATION_CHARACTER_NAME] menciona que pode ter adicionado gravadores de visão às funcionalidades dos andróides.
+115331	[NOTIFICATION_CHARACTER_NAME] está feliz em ver alguns de seus parceiros de negócios na lista de convidados.
+120396	[NOTIFICATION_CHARACTER_NAME] espera falar com seus sócios sobre negócios esta noite, secretamente e em particular.
 114869	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003167] Ornamental</font>
 114870	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003167] Ornamental</font>
 114871	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003167] Ornamental</font>
@@ -197,120 +197,120 @@
 118314	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003169] Ornamental</font>
 118315	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003169] Ornamental</font>
 114879	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003169] Ornamental</font>
-119925	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003167]</font> Ornament & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002165]</font> Setting
-119926	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003168]</font> Ornament & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002166]</font> Setting
-119927	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003169]</font> Ornament & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002167]</font> Setting
-115332	[NOTIFICATION_CHARACTER_NAME] is happy to be among the first guests at your newly opened hotel.
-115333	[NOTIFICATION_CHARACTER_NAME] feared he would die out there and so poured out his woes to other passengers.
-120401	[THIRDPARTY_NAME] comments on the exposure and the clientel of the hotel.
-120405	[THIRDPARTY_NAME] natters about the oddities she experienced during the trip.
-117869	The [NOTIFICATION_CHARACTER_NAME] has a proposal, but you'll have to accept before she tells you.
-117870	The [NOTIFICATION_CHARACTER_NAME] promises not to bother you until problems spring up.
-117871	The [NOTIFICATION_CHARACTER_NAME] is contemplating the next big thing.
-117872	[NOTIFICATION_CHARACTER_NAME] seems not to be interested in finances. Information, however...
-117875	[NOTIFICATION_CHARACTER_NAME] explains this site dates back to the First Wave of Moon colonization.
-117876	[NOTIFICATION_CHARACTER_NAME] reveals it was planned as a tourist area before it was abandoned.
-117877	[NOTIFICATION_CHARACTER_NAME] has plans with this site and wants you to revive the project.
-117328	Project stage 1 completed
-117329	Crater hotel finished
-117330	[GUIDNAME 1003167] & [GUIDNAME 2002165] unlocked
-117331	Project stage 2 completed
-117332	War tours established
-117333	[GUIDNAME 1003168] & [GUIDNAME 2002166] unlocked
-117334	Project stage 3 completed
-117335	Opening celebration started
-117336	[GUIDNAME 1003169] & [GUIDNAME 2002167] unlocked
-114771	"The hotel was near completion when the owner got hit by a sudden case of accident. But the facade could use a little grandeur, don't you think? Fancy bait for golden fish."
-114772	"Our future guests have extraordinary taste. Our service personnel must be able to read their every wish from their eyes... and not only that. Provide me some human resources to work with here, okay?"
-114773	"We haven't even opened! And they're already flaming us about the view on the hotel rating plattforms. We better get rid of the old worker barracks at the site."
-114774	"Demolishing the worker barracks wasn't enough. Now they're screaming about wanting the 'real lunar life'. Let's just cater to their romantic ideas, okay. Give them a big, authentic lunar city."
-114775	"And here they are, our first visitors! Please, give them a fitting reception. And make sure our special guest gets the special treatment."
-114776	"Our hotel's ratings are dropping. Our guests are complaining about the lack of unique, extreme experiences. Why not give them a show? Fire them up a little."
-114777	"Give them a war and they'll perk up. The adrenaline junkies among our guests are dying to take a tour through the lunar civil war sites. Let's grant them their suicidal little wish. Just provide some bio-enhanced space suits for them."
-114778	"The civil war tour is quite popular, but we should've used more reliable vehicles. Some broke down, so we had to drag them back here. All those hours trapped in a steel box. Makes our guests talkative, I'm sure."
-114779	"I've planned a big anniversary event. It'll put our hotel on everyone's lips. But to handle that we are gonna have to ramp up our staff with Androids. Any extra hands and eyes are welcome."
-114780	"Already made sure exclusive invitations find their way to our special guests. I've set up a menu that'll tickle their palates. Let's make sure that we have enough food to deliver it."
-114781	"Check! Didn't have all that super-rare meat foodstuff on my radar. I'm not into steak and wine or whatever it's called. But only the best for our guests. Fly the stuff in."
-118316	"The hotel was near completion, when the owner was struck by a sudden case of smashup. Only the facade could use a little grandiosity. Fancy bait catches golden fish."
-118317	"Our future guests have extraordinary tastes. Our service staff has to read their every wishes from their eyes. Provide me some human ressources to work with here, okay?"
-118318	"Without shield generators we won't get far. A few meteor hits and we can kiss this hotel goodbye. We better get to building the generators now."
-118319	"We have the first bookings and the pre-orderers already cry for the 'real lunar life.' Let's cater to these romantic ideas. Give them a big, authentic lunar city."
-118320	"And here they are, our first visitors! Please, give them a fitting reception. And make sure our special guest gets the special treatment."
-118321	"Our hotel's ratings are dropping. The guests whine about the lack of unique, extreme experiences. Already have an idea, but we need navigation systems for that."
-118322	"Now available: Tours through the lunar civil war sites! The adrenaline junkies among our guests will approve. Just provide some bio-enhanced space suits for them."
-118323	"We don't have them go to actual warzones of course. Doesn't mean this never was one, though. Just demonstrate what the forgotten landmines around here are capable of."
-118324	"Give them a war and the spirits rise, huh? They're almost out for blood now. And we have a substitute. Robots demolishing robots should be an a-ok, ethically. Sort of."
-118325	"The civil war tour is quite popular. But it seems our vehicles had a... malfunctioning. All those hours trapped in a steel box. Makes our guests talkative, I'm sure."
-118326	"I've planned for a big anniversary event. That'll make our hotel a talking point. Means we gotta ramp up our staff with Androids."
-118327	"Already made sure exclusive invitations find their way to our special guests. I've set up a menu that'll tickle their palates. Make sure we'll have enough food."
-118328	"Didn't have all the super-rare meat foodstuff on my radar. I'm not into steak and wine or what it's called. But only the best for our guests. Fly the stuff in."
-118329	"Wow, these people are really digging in. Keep them steaks coming or there'll be customer complaints. I just wonder, what's so great about meat?"
-118330	"Let's get to the highlight - a buffet in zero gravity. Don't worry, we won't be paying those laundry bills. But we will be setting a trend, trust me."
-118331	"Okay, our glamourized bouncing castle needs more juice than I thought. Having the high-society fall on their backsides would disturb their animated conversations."
-109048	"What to do with this old ruin? Well, I have an idea. Of course, no 'satisfaction guaranteed or your money back'! And you'd have to invest a lot before it pays off!"
-114925	You may keep all the profits for yourself. I'm totally fine with my role as silent observer.
-115322	Reach Corporation Level of 15 to begin the second hotel expansion.
-115323	Reach Corporation Level of 30 to begin the third hotel expansion.
-120057	Create and supply the biggest tourist attraction in outer space.
-108452	"Just one slip of the pen on the form and boom, the suppliers scatter your goods all over the place!"
-108453	"Stiffin' ol' Nic on the bills! Bring those bums to me and you can have the... reminder fee."
-108454	"Let's just say it's a... special bottle message, with contents very dear to me."
-108617	"An early cargo drop! Thought we'd save some time and try a cheaper shipping method."
-108462	"The supply firm let me down here. But I know you wouldn't let ol' Nic down!"
-108463	"When they asked me about a good, reliable supplier who asks no questions... guess whom I recommended."
-108466	"Mutinary! Thankless bunch! But I'm reasonable... Drag them here and we'll talk about raises. My way."
-108467	"Has Big Five written all over it! But Nic always delivers! Or his good friends..."
-108470	"Thought ol' Nic wouldn't see it coming! The cargo hold is full of... unstable substances. Let's spring the trap!"
-108471	"Look, didn't mean no harm, when I told him you're behind the loss. But he seems... displeased."
-108474	"So many ships lost to today's violence. Would be a waste, if their packages remained unplunder... err, undelivered."
-108475	"Just threw my crates overboard! For some bad checks! Ah, good thing I got me some of those fancy tracking devices."
-108456	"It's... it's practically mine. The paperwork is... is just a little behind. Collect it, it'll be fine."
-108460	"Release is in a few weeks. But one of my customers is on pins and needles, know what I mean?"
-108618	"There're things you just shouldn't steal. Someone's gonna learn that lesson today."
-108464	"Sent those goods over and over. Confiscated every time. But with your label on them, maybe… just maybe…"
-108465	"I know, the reek... It's... ugh, just make sure it's delivered. The receiver will get the message."
-108468	"Why do those Union agents always target my ships. Got nothin' to hide... say, how discreet are you?"
-108469	"Not stolen... found it! And found a customer for it! But it seems someone misses it really badly."
-108472	"If she blows the whistle, I'd be forced to publish all my business relations. You wouldn't want that."
-108473	"Bah, postage free delivery! Let's hope this new start-up isn't caught in a series of... unfortunate events."
-121241	"So my clients decided to show up unannounced and in a bad mood. Think you can help getting their stuff to them?"
-121243	"The Big Five have been getting awfully competitive lately... Let's intercept some deliveries, they'll be busy blaming each other."
-108626	"Really, a trading partner! Came all the way out here! But err... can you pick them up while I prepare the documents?"
-108627	"Oh no... seems I lost that shipment! But if I request a retrieval team everyone will know I screwed up!"
-108628	"Express delivery. Said I didn't care where they drop off, as long as they do it quickly... well."
-108629	"Man, of all things the raiders picked my freighter! The crew got out okay, but we gotta salvage what's left of the cargo."
-108630	"Man, the Union cut the supplies for the Arctic Protection Fund again. Could you pitch in just this once?"
-108631	"I need to get on this customer's good side. The how-to guides say stuff about free giveaways. Worth a try."
-108632	"Oops, that transporter should've made it here. That's what the Custodians get for being so damn stingy about everything."
-108633	"A distress signal! Yeah, it comes from a poacher ship. But, we can't just leave those people strained, right?"
-108634	"I'm not a friend of violence, but the Custodian orders are. No raider ships allowed here. Say, could you..."
-108635	"Yo, I'm not making that up! There's a whole fleet of them in this sector! And still, no one believes me!"
-108636	"I'm supposed to check on a data cache for Dr. Meticulous, but I don't even know where to start!"
-108637	"My fellow Custodians said it's way important. Only someone reliable like I could do it. But I need help."
-108638	"Wanted to install some anti-theft trackers, but the raiders beat us to the punch. In all senses of the word."
-108639	"A fellow roped me into testing his new detection system. Got loads to do, but how could I say no?"
-108640	"Nah, only heard good things about this trader. He forgot to provide some info in the papers, but that can happen to anybody."
-108641	"Having them owe us is definitely gonna pay off for the Custodians, and boy do we need that."
-108642	"I told him not to go. Now a friend of mine is stuck in hostile waters. I'd appreciate if you kept this to yourself, 'kay?"
-108643	"Yo, those polluters, they've directly run into our trap. Why won't the Big Five leave us in peace?"
-108644	"Why isn't the Global Union doing anything about these pirate threats? Sometimes I wonder if they've forgotten about us."
-108645	"No kiddin', fellow Custodians doing business with poachers! Know where they are, but you have to keep a low profile."
-121244	"You got a minute? I'm kind of stressing out about these deliveries, I just can't figure out how to organize this!"
-121245	"The poaching is getting out of hand! I just can't catch those bastards, they've got surveillance and keep switching locations."
-108647	"One of our agents needs a get-away, stat. Can I trust you with her safety?"
-108648	"My contacts dropped off some supplies. They couldn't risk sending the coordinates, but we've got the general area."
-108649	"Had to abandon medicine supplies to get away from Orbital Watch hellhounds. But, I need those here, asap!"
-108650	"I've discovered a great place to restock. Had nearby agents dig up LEC caches, but they still need to be picked up."
-108651	"More refugees just arrived and we're missing basically everything. A small donation would be great."
-108652	"My Orbital Watch contact must replace the shipment she has sent us or she's in deep shit. We're not letting her down, right?"
-108654	"One of our rovers is acting up again. If you get it here somehow, we'll fix it on our own."
-108655	"Damn, their life support systems! No time to lose! We have to get to this fugitive rover now!"
-108656	"An intact, abandoned vehicle? There? Clearly a Orbital Watch trap, I'm not falling for."
-108657	"I need a good diversion. It's still a risk, but for their route plans I'm willing to take it."
-108658	"A lot of my trading goods come from abandoned First Wave facilities. We can't afford to be picky. Keep your eyes open!"
-108659	"We're safe to collect the caches now. After I jammed the mine field Drake had put up there. Barbaric."
-108660	"The Orbital Watch stumbled over one of my old hideouts. Get the stuff back before they realize what exactly they found."
-108661	"Yeah, go ahead, grab more of that! Orbital Watch, taking from those who have nothing left."
-108662	"Shit, surveillance drones! But my smugglers risked a lot to get here, we're not blowing this off now."
-108663	"Good, the supply delivery made it here. But one thoughtless move and the Watch got us. Counting on you."
-108664	"Our convoy drove right into an Orbital Watch trap. We're lucky no one was injured, so please make sure it stays that way."
+119925	Ajustes de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003167]</font> elemento decorativo e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002165]</font>
+119926	Ajustes de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003168]</font> elemento decorativo e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002166]</font>
+119927	Ajustes de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003169]</font> elemento decorativo e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002167]</font>
+115332	[NOTIFICATION_CHARACTER_NAME] temos o prazer de estar entre os primeiros hóspedes do seu hotel recém-inaugurado.
+115333	[NOTIFICATION_CHARACTER_NAME] temeu que ele morresse lá e então contou suas dores aos outros passageiros.
+120401	[THIRDPARTY_NAME] comenta sobre a exposição e a clientela do hotel.
+120405	[THIRDPARTY_NAME] reclama sobre as estranhezas que ela experimentou durante a viagem.
+117869	[NOTIFICATION_CHARACTER_NAME] tem uma proposta, mas você terá que aceitar antes que ela lhe diga.
+117870	[NOTIFICATION_CHARACTER_NAME] promete não incomodá-lo enquanto não houver problemas.
+117871	[NOTIFICATION_CHARACTER_NAME] está estudando o próximo grande passo.
+117872	Parece que a [NOTIFICATION_CHARACTER_NAME] não está interessada em finanças. No entanto, a informação...
+117875	[NOTIFICATION_CHARACTER_NAME] explica que este lugar data a primeira onda de colonização lunar.
+117876	[NOTIFICATION_CHARACTER_NAME] revela que foi planejada como uma área turística antes de ser abandonada.
+117877	[NOTIFICATION_CHARACTER_NAME] tem planos para este lugar e quer que você reative o projeto.
+117328	Fase 1 do projeto concluída
+117329	Hotel da Cratera concluído
+117330	Desbloqueado [GUIDNAME 1003167] e [GUIDNAME 2002165]
+117331	Fase 2 do projeto concluída
+117332	Cursos de guerra estabelecidos
+117333	Desbloqueado [GUIDNAME 1003168] e [GUIDNAME 2002166]
+117334	Fase 3 do projeto concluído
+117335	A celebração da inauguração começou
+117336	Desbloqueado [GUIDNAME 1003169] e [GUIDNAME 2002167]
+114771	"O hotel estava quase pronto quando o proprietário sofreu um acidente repentino. Mas a fachada precisa de um pouco de brilho, você não acha? Uma isca bonita para peixes dourados."
+114772	"Nossos futuros hóspedes têm um gosto extraordinário. Nossa equipe de serviço deve ser capaz de ler todos e cada um de seus desejos em seus olhos... e não apenas isso. Chame recursos humanos para trabalhar aqui, ok?"
+114773	"Ainda nem abrimos... ...e já estamos sendo esmagados pelas vistas nas plataformas de avaliação dos hotéis! É melhor nos livrarmos do antigo quartel de trabalhadores."
+114774	"Não foi suficiente demolir o quartel dos trabalhadores. Agora eles não se calam quanto a querer a 'verdadeira vida lunar'. Vamos satisfazer suas idéias românticas. Dê-lhes uma grande e autêntica cidade lunar."
+114775	"Aqui estão nossos primeiros convidados! Dêem as boas-vindas como eles merecem. E certifique-se de que o convidado de honra receba um tratamento especial."
+114776	"As avaliações do nosso hotel estão piorando. Nossos hóspedes reclamam da falta de experiências exclusivas e radicais. Por que não fazemos um show para eles? Vamos animar um pouco as coisas..."
+114777	"Dê a eles uma guerra e eles certamente se alegrarão. Os hóspedes viciados em adrenalina mal podem esperar para visitar os locais da guerra civil lunar. Nós vamos conceder a eles seu pequeno desejo suicida. Você tem que fazer para eles trajes espaciais bi-aprimorados . "
+114778	"A excursão da guerra civil é bastante popular, mas deveríamos ter usado veículos em melhores condições. Alguns quebraram e tivemos que empurrá-los aqui. Tantas horas presos em uma caixa de aço... Claro, isso faz com que falemos com nossos convidados. "
+114779	"Fiz uma grande festa de aniversário. Depois disso, todos vão falar sobre nosso hotel. Mas, para isso, teremos que expandir a equipe com andróides. Poderíamos usar mais pares de olhos e mãos."
+114780	“Já garanti que os convites exclusivos cheguem aos nossos convidados especiais. Preparei um menu que vai deliciar o seu paladar. Vamos garantir que teremos comida suficiente”.
+114781	"Confirmado! Eu não tinha toda aquela carne mal passada no meu radar. Eu não gosto de bife e vinho, ou como quer que se chame. Mas, para nossos convidados, nós só queremos o melhor. Traga coisas."
+118316	"O hotel estava quase pronto quando o proprietário faliu de repente. A única coisa é que a fachada precisava de um pouco de brilho. Isca elegante para os peixes maiores."
+118317	"Nossos futuros hóspedes têm um gosto extraordinário. Nossa equipe de serviço deve ler cada um dos desejos em seus olhos. Chame os recursos humanos para trabalhar aqui, ok?"
+118318	"Sem geradores de escudo não iremos muito longe. Alguns impactos de meteoros e podemos dizer adeus a este hotel agora. É melhor começarmos a construir os geradores imediatamente."
+118319	"Já temos as primeiras reservas e pedidos para a 'verdadeira vida lunar'. Vamos realizar essas ideias românticas. Dê a eles uma grande e autêntica cidade lunar."
+118320	"Aqui estão nossos primeiros convidados! Dêem as boas-vindas como eles merecem. E certifique-se de que o convidado de honra receba um tratamento especial."
+118321	"As críticas ao nosso hotel estão piorando. Os hóspedes reclamam da falta de experiências exclusivas e radicais. Já temos uma ideia, mas para isso precisamos de sistemas de navegação."
+118322	"Disponível agora - Passeios de cenário da Guerra Civil Lunar! Os hóspedes que adoram adrenalina vão gostar. Você deve preparar trajes espaciais aprimorados para eles."
+118323	"Não os levamos para zonas de guerra reais, é claro. Mas isso não significa que não foram uma vez. Mostre a eles o que algumas minas terrestres esquecidas ainda podem fazer."
+118324	"Dê a eles uma guerra e seus espíritos se animarão, ok? Eles estão sedentos de sangue. E nós temos um substituto. Robôs destruindo robôs seriam eticamente aceitáveis. Mais ou menos..."
+118325	"Esta excursão sobre a guerra civil é bastante popular. Mas parece que nossos veículos sofreram uma... avaria. Tantas horas presos em uma caixa de aço... É claro, isso faz nossos convidados falarem."
+118326	"Eu dei uma grande festa de aniversário. Isso colocará nosso hotel na boca de todos. Isso significa que teremos que expandir nossa equipe de andróides."
+118327	“Já garanti que os convites exclusivos cheguem aos nossos convidados especiais. Preparei um menu que vai deliciar o seu paladar. Certifique-se de que temos comida suficiente”.
+118328	"Eu não tinha toda a carne mal passada no meu radar. Não gosto dessa coisa de bife e vinho, ou como quer que se chame. Mas, para os nossos convidados, só queremos o melhor. Traga as coisas."
+118329	"Meu Deus, essas pessoas estão cravando os dentes que você não vê... Os bifes não param de chegar, senão teremos reclamações dos clientes. E eu me pergunto: o que há de especial na carne?"
+118330	"Vamos seguir para o prato principal: um bufê em gravidade zero. Não se preocupe, não temos que pagar os custos da lavanderia. Mas vamos definir a tendência, eu lhe digo."
+118331	"Ei, este castelo inflável glamoroso está consumindo mais energia do que eu esperava. Se a alta sociedade cair de bunda, sua conversa animada vai sofrer."
+109048	"O que você pode fazer com este velho naufrágio? Tenho uma ideia... Embora não haja nenhuma garantia de satisfação e nenhum dinheiro de volta! E você terá que investir muito antes de ter lucro!"
+114925	Você pode ficar com todos os benefícios. Não tenho nenhum problema com meu papel de... observador silencioso.
+115322	Alcance o nível corporativo 15 para iniciar a segunda expansão do hotel.
+115323	Alcance o nível corporativo 30 para iniciar a terceira expansão do hotel.
+120057	Crie e atenda à maior atração turística do espaço sideral.
+108452	"Apenas um deslize da caneta no formulário e boom, os fornecedores espalham suas mercadorias por todo o lugar!"
+108453	"Bata no velho Nic onde dói mais! Traga-me aqueles drones e você pode manter a... taxa de alerta."
+108454	"Digamos que seja uma... mensagem especial em uma garrafa com um conteúdo muito caro para mim."
+108617	"Uma entrega antecipada de mercadorias! Pensei em economizar um pouco de tempo e tentar um método de envio mais barato."
+108462	"A empresa de suprimentos me desapontou. Mas sei que você não desapontaria o velho Nic!"
+108463	"Quando questionado sobre um fornecedor bom e confiável, não faça perguntas... adivinhe quem eu recomendei."
+108466	"Amotinados! Seu bando de pessoas ingratas! Mas eu sou uma pessoa razoável... Arraste-os aqui e conversaremos sobre aumentos.. À minha maneira."
+108467	"Isso traz a marca dos Cinco Grandes! Mas Nic sempre compensa! Ou seus bons amigos..."
+108470	"Achei que o velho Nic não esperaria! O compartimento de carga está cheio de... substâncias instáveis. Vamos ativar a armadilha!"
+108471	"Eu não queria fazer nada de errado quando disse a ele que você está por trás da perda. Mas ele parece... enojado."
+108474	"Tantos barcos perdidos para a violência de hoje. Seria uma perda se sua mercadoria fosse deixada destrancada... quero dizer... não entregue."
+108475	"Ele apenas jogou minhas caixas no mar! Opa, por algumas verificações sem fundo! Oh, graças a Deus eu tenho um daqueles dispositivos de rastreamento extravagantes."
+108456	"É... é praticamente meu. A papelada... está um pouco atrasada. Pegue-a, nada vai acontecer."
+108460	"Vai ser lançado em algumas semanas. Mas estou com um dos meus clientes nervoso, entendeu?
+108618	"Há coisas que você simplesmente não roubaria. E alguém vai aprender essa lição hoje."
+108464	"Mandei aquela mercadoria várias vezes e eles sempre a confiscam. Mas se levar sua etiqueta... talvez..."
+108465	"Eu sabia, que fedor... É... ugh, certifique-se de que chegue ao seu destino. O destinatário entenderá a mensagem."
+108468	"Por que os agentes do sindicato sempre vão atrás dos meus barcos? Não tenho nada a esconder... diga-me, até onde vai sua discrição?"
+108469	"Não é roubado, eu... achei! E achei um cliente! Mas parece que alguém está perdendo muito."
+108472	"Se ela soar o alarme, terei de abrir a público todas as minhas relações comerciais. Você não se importa se isso acontecer.
+108473	"Bah, entrega gratuita! Vamos torcer para que este novo projeto não entre em uma série de... eventos infelizes."
+121241	"Meus clientes decidiram aparecer de bom humor e de mau humor. Você acha que poderia ajudar a conviver com eles?"
+121243	"Os Cinco Grandes têm sido muito competitivos ultimamente... Vamos interceptar algumas entregas, eles estarão muito ocupados culpando uns aos outros."
+108626	"Um sócio comercial! Ele veio até aqui! Você pode... isto... pegá-lo enquanto eu preparo os documentos?"
+108627	"Oh, não... Parece que perdi aquele carregamento! Mas se eu solicitar uma equipe de recuperação, o mundo inteiro saberá que estraguei tudo!"
+108628	"Entrega expressa. Eu disse que não me importava para onde fosse, contanto que fosse feito rapidamente... bem."
+108629	"Por que eles tiveram que escolher meu cargueiro! A tripulação sobreviveu, mas temos que recuperar o que resta da carga."
+108630	"A União reduziu novamente o fornecimento do Fundo de Proteção da Arca. Você poderia contribuir, só desta vez?"
+108631	"Tenho que conquistar esse cliente. Os guias para um bom trabalho falam sobre dar presentes. Vale a pena tentar."
+108632	"Uau, o transportador deveria ter chegado. Isso é o que acontece com os Keepers por serem tão mesquinhos."
+108633	"Um sinal de socorro! Vem de um barco caçador. Mas não podemos abandonar essas pessoas..."
+108634	"Eu não gosto de violência, mas as ordens dos Protetores são violentas. A presença de barcos de assalto não é permitida aqui. Você poderia...?"
+108635	"Não estou inventando! Há uma frota inteira neste setor! Mas ninguém acredita em mim!"
+108636	"Eu tenho um cache de dados para verificar o Dr. Meticuloso e nem sei por onde começar!"
+108637	"Os outros Protetores disseram que era muito importante. Somente alguém como eu poderia fazer isso. Mas eu preciso de ajuda."
+108638	"Eu queria instalar dispositivos de rastreamento anti-roubo, mas os invasores estão na nossa frente. Em ambos os sentidos."
+108639	"Um colega me convenceu a experimentar seu novo sistema de detecção. Tenho muito que fazer, mas como posso recusar?"
+108640	"Não, só ouvi coisas boas sobre este comerciante. Ele se esqueceu de me fornecer informações nos papéis, mas isso pode acontecer com qualquer pessoa."
+108641	"Temos um seguro que beneficia os Guardiões e precisamos desesperadamente de algo assim."
+108642	"Eu disse a ele para não ir. E agora, um amigo meu está preso em águas hostis. Eu agradeceria se você esconder o segredo de mim... ok?"
+108643	"Esses poluidores foram direto para a nossa armadilha. Por que os Cinco Grandes não nos deixam em paz?"
+108644	"Por que a Global Union não está fazendo nada sobre essas ameaças de piratas? Às vezes me pergunto se eles se esqueceram de nós."
+108645	"Inacreditável! Companheiros Guardiões fazendo acordos com caçadores furtivos! Eu sei onde eles estão, mas você tem que tentar ser discreto."
+121244	"Você tem um minuto? Essas entregas estão me estressando, não tenho ideia de como organizar isso!"
+121245	"A caça furtiva está ficando fora de controle! Não posso pegar esses desgraçados, eles têm sistemas de vigilância e mudam de localização constantemente."
+108647	"Um de nossos agentes precisa de uma maneira de escapar. Posso confiar em você a segurança dele?"
+108648	"Meus contatos trouxeram suprimentos. Eles não podiam se arriscar a enviar as coordenadas, mas nós conhecemos a área."
+108649	"Eles tiveram que abandonar suprimentos médicos para escapar dos cães da Guarda Orbital. E eu preciso deles o mais rápido possível!"
+108650	"Encontrei um lugar perfeito para reabastecer. Consegui que agentes na área removessem os caches do LEC, mas eles ainda precisam ser coletados."
+108651	“Mais refugiados acabaram de chegar e nos falta tudo. Uma pequena doação seria ótimo para nós”.
+108652	"Meu contato da Guarda tem que substituir a remessa que ela nos enviou; se ela não o fizer, ela terá problemas. Não vamos desapontá-la, vamos?"
+108654	"Um de nossos rovers está tendo problemas de novo. Se você conseguir pegar aqui, nós mesmos consertaremos."
+108655	"Droga, seus sistemas de suporte de vida! Não há tempo a perder! Temos que chegar àquele veículo espacial fugitivo agora mesmo!"
+108656	"Um veículo abandonado intacto? Lá? Isso é obviamente uma armadilha da Guarda Orbital e eu não vou cair nessa."
+108657	"Preciso de uma boa distração. É um risco, mas vale a pena correr nos seus planos de rota."
+108658	"Grande parte da minha mercadoria comercial vem de instalações abandonadas da First Wave. Não podemos ser escrupulosos. Mantenha os olhos abertos!"
+108659	"Agora, podemos coletar os esconderijos com segurança. Depois de interferir no campo minado que Drake colocou. Uma barbárie."
+108660	"A Guarda Orbital encontrou um de meus covis. Recupere tudo antes que eles percebam o que encontraram."
+108661	"Sim, vá atrás de mais! A Guarda Orbital rouba aqueles que não têm mais nada."
+108662	"Merda, drones de vigilância! Mas meus contrabandistas arriscaram muito para chegar aqui, agora não vamos explodir isso."
+108663	"Bem, a queda de suprimentos chegou. Mas um movimento inconsciente e a Guarda vai nos pegar. Estou contando com você."
+108664	"Nosso comboio foi direto para a armadilha da Guarda Orbital. Temos sorte que ninguém se feriu, então certifique-se de que tudo continue assim."
