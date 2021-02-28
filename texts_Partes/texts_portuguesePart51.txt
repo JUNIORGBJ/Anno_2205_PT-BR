@@ -22,7 +22,7 @@
 14001670	Aproximando-se do domínio
 14001671	Dominado pela competição
 14001682	[GUIDNAME 121480]
-14001687	Mercado livre
+14001687	livre Mercado
 14001683	Líder de mercado
 14001820	75% de domínio
 14001134	O mercado de açoes
