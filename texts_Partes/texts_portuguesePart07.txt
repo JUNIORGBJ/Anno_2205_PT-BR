@@ -98,32 +98,32 @@
 117960	[NOTIFICATION_CHARACTER_NAME] Recebe os seus novos edifícios.
 117961	[NOTIFICATION_CHARACTER_NAME] Apresenta-se como membro da União Global.
 117962	[NOTIFICATION_CHARACTER_NAME] Instrui você a operar uma porto espacial aqui
-120147	"Customs have been a pain, they won't let my house plants through to the moon! I guess encasing them in resin first is decorative, too."
-120148	"Many of us have family up on the moon now, including me. Can you pick up the parcels to make sure they're not lost in transit?"
-120149	"Peparations for our first Culinary Art Fair are well under way! We strive to show how people around the world and beyond eat."
-120150	"I can't believe we won the raffle! A fancy dinner on a cruise, it doesn't get more romantic than that! We do need a ride, though..."
-120151	"Look around you, everyone's wearing high collars this season. And we're the main supplier, just check the order list."
-120152	"I am the sponsor of the animal repopulation efforts in this area. Your contribution would send a strong signal! We need various species."
-120153	"Some don't understand why my three-star restaurant doesn't serve meat. Well, I call this a lifestyle. Interested in being my supplier?"
-120154	"Care to join me on a tour to appreciate the skyline? This city flourished thanks to us, after all."
-120155	"I've been saving for forever to get my diving school off the ground! But I do need the perfect spot now, too."
-120156	"Hey! Can I hitch a ride with you? It's an unconvential way to travel out here, but there are stranger things."
-120157	"The food up here is decent, but I can't help but miss the food from home, you know? A lot of us feel that way, so why not boost morale?"
-120158	"Vegetables are all fine and dandy, but what about fruits? All were told is 'nah, need too much water'! You don't think so, right?"
-120159	"Everyone can come up here now! Well, not really anyone. Can you help with signatures for a petition to keep dogs?"
-120160	"I heard about the dog petition, it's preposterous to keep a pet in such a hostile environment! They're better off with pet algae."
-120608	"I got two strange newcomers. No IDs and not from here, but they insist on finding a blue box out there. Heck, if I knew how they got here!"
-120864	"It's that time of the year again! So I had my little helpers lay out some stocking fillers for my dearest friends. At a well-fitting place, if I may say so."
-120865	Presents unlocked in all sessions
-120878	[NOTIFICATION_CHARACTER_NAME] thinks he deserves the milk and cookies now.
-120875	[NOTIFICATION_CHARACTER_NAME] won't give away the secret behind his super-fast christmas deliveries.
-120901	Find [CONDITION_SOURCE_OBJECT_ASSET] on any island in the arctic region
-120879	"Don't know if it's my beard or what... The whole company is burying me in wishlists. We'd rather gather some specialists to take care of that!"
-120880	Сhristmas tree ornamental unlocked
-120881	[NOTIFICATION_CHARACTER_NAME] can't believe people are mistaking him for Santa.
-120882	[NOTIFICATION_CHARACTER_NAME] is glad he doesn't have to seize his red mantle.
-120883	Find a gathering of Santas at a public building in the temperate region
-120884	Santas found
+120147	"Os costumes são um verdadeiro aborrecimento! Eles não me deixam colocar as plantas em minha casa na lua! Acho que revesti-las primeiro com resina também é decorativo."
+120148	"Muitos de nós agora temos família na Lua, incluindo eu. Você poderia pegar os pacotes para garantir que eles não se percam durante a mudança?"
+120149	"Os preparativos para a primeira Feira de Artes Culinárias já estão em andamento! Nosso objetivo é mostrar como as pessoas comem ao redor do mundo e além."
+120150	"Não acredito que ganhamos o sorteio! Um jantar chique em um navio de cruzeiro, há algo mais romântico? Mas precisamos de um meio de transporte ..."
+120151	"Olhe ao seu redor: todo mundo está usando uma gola alta nesta temporada. E nós somos o principal fornecedor - basta olhar a lista de pedidos."
+120152	"Estou encarregado do repovoamento desta área. Sua contribuição enviaria uma mensagem forte! Precisamos de várias espécies."
+120153	"Algumas pessoas não entendem por que meu restaurante três estrelas não serve carne. Bem, eu chamo isso de estilo de vida. Você está interessado em ser meu fornecedor?"
+120154	"Gostaria de fazer um tour comigo para apreciar a paisagem? Afinal, esta cidade prosperou por sua causa."
+120155	"Estou economizando para a eternidade para começar minha escola de mergulho! Mas agora preciso encontrar o lugar perfeito."
+120156	"Ei! Você poderia me levar? É uma maneira muito pouco convencional de viajar, mas há coisas mais estranhas."
+120157	"Aqui a comida é decente, mas não posso deixar de sentir falta da comida de casa. A mesma coisa acontece com muitos de nós, por que não elevar um pouco o moral?"
+120158	"Legumes estão bem, mas e frutas? Tudo o que nos dizem é" não, é preciso muita água "! Você não acha isso, acha?"
+120159	"Agora qualquer um pode subir aqui! Bem, nem todos. Você poderia ajudar com as assinaturas para pedir cachorros?"
+120160	"Soube do pedido dos cachorros! É um absurdo ter um animal de estimação em um ambiente tão hostil! É melhor ter algas de estimação."
+120608	"Tenho dois recém-chegados muito estranhos. Eles não têm identificação e não são daqui, mas insistem em encontrar uma caixa azul lá fora. Quem sabe como chegaram aqui!"
+120864	"Estamos de volta a essas datas importantes! Pedi aos meus ajudantes que preparassem presentes para meus queridos amigos. E em um lugar perfeito para a ocasião ..."
+120865	Presentes desbloqueados em todas as sessões
+120878	[NOTIFICATION_CHARACTER_NAME] acha que ele merece o leite e os biscoitos agora.
+120875	[NOTIFICATION_CHARACTER_NAME] não vai revelar o segredo por trás de suas entregas super-rápidas de Natal.
+120901	Encontre [CONDITION_SOURCE_OBJECT_ASSET] em qualquer ilha da região ártica
+120879	"Não sei se é por causa da barba ou o quê... Toda a empresa está entregando listas de presentes. Temos que encontrar especialistas para cuidar de tudo isso!"
+120880	Árvore de Natal ornamental desbloqueada
+120881	[NOTIFICATION_CHARACTER_NAME] não posso acreditar que as pessoas o estão confundindo com o Papai Noel.
+120882	[NOTIFICATION_CHARACTER_NAME] está feliz por não ter que agarrar seu manto vermelho.
+120883	Encontre uma reunião de Papai Noel em um prédio público na região temperada
+120884	Papais Noel encontrados
 100083	Manutenção
 100086	Finalizar
 100087	Montante
@@ -160,17 +160,17 @@
 116451	Bloqueado
 116454	Carregando...
 120939	Projeto Bloqueado
-100081	NO LOCA Provided by Global Union, Kelprim Strait is the heart of your corporation – and the switchpoint of your participation in the upcoming Lunar Licensing Program. Over time, this lush island chain will come to harbour bustling cities. <br />Investors and specialists are already flocking to the central island’s metropolis, to take part in your new, groundbreaking project: The construction of a gargantuan spaceport.
-100569	NO LOCA <font color="#DB7B20">Stairway to the stars</font>, ready to be ascended
-100126	NO LOCA Acknowledging your economic accomplishments, Global Union assigned you this island atoll. A lavish reward, for Carmine Reef is rich in natural resources. Weather-proof dales offer excellent conditions for the cultivation of rice and soy.<br />Yet, the islands’ true treasures are hidden below earth: Large deposits of copper wait to be harvested from the craggy highlands. Turned into superalloys, they become the essential construction material for space technology.
-100570	NO LOCA <font color="#DB7B20">Providing treasures</font><br /> of the soil to forward production
-100124	NO LOCA Session Arctic 1 Description Text
-100571	NO LOCA Session Arctic 1 Short Description Text
-102727	NO LOCA The Orbital Watch is constantly infiltrating the Arctic and tries to take over the entire Nemiah Glacier - a crucial strategic spot for controlling a major part in the polar region. They claim their ground by erecting fortified base buildings and defensive structures.<br>It is of utmost importance to Global Union to reclaim these territories and to fight back the Orbital Watch.
-102728	NO LOCA <font color="#DB7B20">Reclaim</font> the Orbital Watch's Territories
-100125	NO LOCA Seemingly unending, the building parcels distributed by the Lunar Licensing Program stretch to the Moon’s lightless horizon. Still, they are all unclaimed, all except one.<br />You are at the crest of the Second Wave and Global Union assigned you this especially promising parcel. And now, jealously watched by your competitors, you plant your flag on lunar ground, claiming the rich Regolith veins of Novikov Crater.
-100572	NO LOCA <font color="#DB7B20">The hawk</font> has landed to build its nest
-100859	Transferência <br />de energía
+100081	Fornecido pela União Global, o Estreito de Kelprim é o coração de sua corporação e o centro de sua participação no próximo Programa de Licença Lunar. Com o tempo, essa exuberante cadeia de ilhas acabará hospedando cidades prósperas.<br />Investidores e especialistas já se dirigem à metrópole da ilha central para participar de seu novo e revolucionário projeto: A construção de um colossal espaçoporto.
+100569	<font color="#DB7B20">Escada para as estrelas</font>, pronto para promover
+100126	Reconhecendo suas realizações financeiras, a União Global designou você para o atol desta ilha. Uma recompensa generosa, já que o Carmine Reef é muito rico em recursos naturais. Os vales protegidos oferecem excelentes condições para o cultivo de arroz e soja.<br />Mas os verdadeiros tesouros da ilha estão escondidos abaixo da superfície: grandes depósitos de cobre aguardam para serem coletados nas montanhas acidentadas. Convertidos em superligas, eles são o material de construção essencial para a tecnologia espacial.
+100570	<font color="#DB7B20">Fornece tesouros</font><br /> da Terra para melhorar a produção
+100124	Texto descritivo da sessão 1 do Ártico
+100571	Breve texto descritivo da sessão 1 do Ártico
+102727	A Guarda Orbital está constantemente se infiltrando no Ártico e tentando dominar toda a Geleira Nemiah, uma localização estratégica para controlar uma porção significativa da região polar. Eles reivindicam seu território erguendo bases fortificadas e estruturas defensivas.<br>É de vital importância para a União Global reivindicar esses territórios e lutar contra a Guarda Orbital.
+102728	<font color="#DB7B20">Recuperar</font> os Territórios da Guarda Orbital
+100125	Aparentemente intermináveis, os terrenos de construção distribuídos pelo Programa de Licença Lunar se estendem até o horizonte escuro da lua. Mas eles ainda não foram reivindicados, exceto um.<br />Você está no topo da Segunda Onda e a União Global designou a você este enredo especialmente promissor. E agora, quando seus concorrentes olham para você com inveja, você prega sua bandeira no solo lunar, reivindicando as ricas costuras de regolito da cratera Novikov.
+100572	<font color="#DB7B20">O Falcão</font> pousou para construir seu ninho
+100859	Transferência<br />de energía
 100860	Criar transferência de energia
 105088	Selecione o nível de dificuldade
 106064	Recompensas mínimas
@@ -197,9 +197,9 @@
 120659	Créditos Exigidos
 120661	Tenha todos requerimentos para assumir esse setor.
 120796	Setor: [GUIDNAME]
-121353	Hold your competitor's corporation shares to take over this sector.
+121353	Mantenha as ações corporativas da concorrência para assumir este setor.
 121381	[GUIDNAME 14000987]
-120753	Contract Extension
+120753	Extensão de contrato
 100027	Logística
 100028	Temperado
 100029	Ártico
@@ -227,26 +227,26 @@
 100299	Detalhes
 105766	Filtro de Informação
 100323	Entre no Setor
-100347	<font face="Roboto Medium">Incoming</font> Routes
-100348	<font face="Roboto Medium">Outgoing</font> Routes
-100481	New Region unlocked!
-100482	Moon
-100520	Edit Transfer Route
-100521	Update
-100568	<font face="Roboto Medium">Total</font> Transfer Routes
-100573	Unlock new region: <br /> <font size="26" color="#DB7B20" face="Roboto Medium">Moon</font>
+100347	<font face="Roboto Medium">Rotas</font> de entrada
+100348	<font face="Roboto Medium">Rotas</font> de saída
+100481	Nova região desbloqueada!
+100482	Lua
+100520	Editar rota de transferência
+100521	Atualizar
+100568	Rotas de transferência <font face="Roboto Medium">totais</font>
+100573	Desbloquear nova região: <br /> <font size="26" color="#DB7B20" face="Roboto Medium">Lua</font>
 105845	Nível
-105847	Assignments
+105847	Tarefas
 108501	Carregando
-108519	Collect Rare Materials
-108520	Space Station
-108521	Space Station
-108552	Route Type
-108569	Additional vehicle costs
+108519	Colete Materiais Raros
+108520	Estação Espacial
+108521	Estação Espacial
+108552	Tipo de rota
+108569	Custos adicionais do veículo
 108573	Custo
-115438	Select a sector to found a branch in
+115438	Selecione um setor para fundar uma filial
 114603	Renda
-115440	NO LOCA Settled In
+115440	Assentou
 116531	Há navios danificados. Começar assim mesmo?
 116532	Atenção
 116904	Selecionar Mercadorias
@@ -281,20 +281,20 @@
 119894	Personalize seu veículo de comando
 119895	Editar Tema do Veiculo
 119896	Personalize sua sede
-119987	Ruby Red
-119988	Sapphire Blue
-119989	Emerald Green
-119990	Citrine Yellow
-119991	Onyx Black
+119987	Vermelho rubi
+119988	Azul safira
+119989	Verde esmeralda
+119990	Amarelo Citrino
+119991	Preto Ônix
 120102	Nível [CORPORATION_LEVEL] - [CORPORATION_DIFFICULTY]
 120347	Azul Claro
 120373	Temas
 121120	Uma DLC é necessário para jogar
 116840	Empréstimos de Emergência
 116842	Reembolso de construção
-116845	Trading Post Restocking
+116845	Reposição de postos comerciais
 116846	Saída de armazém
-116847	Freqüência de tarefas
+116847	Frequência de tarefas
 116848	Recompensas de tarefas
 117971	Realocar Edifícios
 121116	Negociação de Preços
