@@ -1,30 +1,30 @@
-12000219	Accumulator Overload
-12000220	Lei Sheng Joint Venture
-12000228	Hydrogen Enrichment
-12000225	Orbital Laser
-12000223	Iridium Reprocessing
-12000224	Power Saving Mode
-12000221	Energy Wholesale Deal
-12000222	Lei Sheng Security Infiltration
-12000226	Liquid Extraction
-12000227	Paid Overtime
-12000205	Kinetic Micro-Generator
+12000219	Sobrecarga do acumulador
+12000220	Operação conjunta Lei Sheng
+12000228	Enriquecimento de Hidrogênio
+12000225	Laser Orbital
+12000223	Reprocessamento de Iridio
+12000224	Modo de economia de energia
+12000221	Transação de atacado de energia
+12000222	Violação de segurança da Lei Sheng
+12000226	Extração Líquida
+12000227	Horas extras pagas
+12000205	Micro-Gerador Cinético
 12000255	[GUIDNAME 12013361]
 12000256	[GUIDNAME 12013364]
 12000257	[GUIDNAME 12013363]
 12000258	[GUIDNAME 12013364]
 12000259	[GUIDNAME 12013361]
-12000231	Mineral Cultivation
-12000232	Cassian Venture
-12000240	Cobalt Alloys
-12000237	Staggered Detonation Pattern
-12000235	Magnetite Reprocessing
-12000236	Semi-autonomous Machinery
-12000233	Heavy Industry Wholesale Deal
-12000234	Cassian Security Infiltration
-12000238	Aluminum Separation
-12000239	Austerity Policy
-12000241	Orbital Warehouses
+12000231	Cultivo Mineral
+12000232	Operação Conjunta Cassian
+12000240	Ligas de cobalto
+12000237	Padrão de detonação escalonado
+12000235	Reprocessamento de magnetita
+12000236	Maquinário Semi-autônomo
+12000233	Transação de atacado da indústria pesada
+12000234	Violação de segurança da Cassian
+12000238	Separação de Alumínio
+12000239	Política de Austeridade
+12000241	Armazéns orbitais
 12000261	[GUIDNAME 12013364]
 12000262	[GUIDNAME 12013361]
 12000263	[GUIDNAME 12013363]
@@ -121,74 +121,74 @@
 12000443	[GUIDNAME 12013044]
 12000444	[GUIDNAME 12013045]
 12000445	[GUIDNAME 12013046]
-12013322	All Employees
-12013325	Special Action Shield Upgrade
-12013326	Special Action Repair Upgrade
-12013328	Special Action Wave Mine Upgrade
-12013329	Special Action Wave Mine Upgrade
-12000058	[GUIDNAME 12000168] Kit
-12000091	[GUIDNAME 12000169] Kit
-12000055	[GUIDNAME 12013068] Kit
+12013322	Todos os empregados
+12013325	Aprimoramento do escudo de ação especial
+12013326	Aprimoramento do reparo de ação especial
+12013328	Aprimoramento da mina de ação especial
+12013329	Aprimoramento da mina de ação especial
+12000058	Kit de[GUIDNAME 12000168]
+12000091	Kit de[GUIDNAME 12000169]
+12000055	Kit de[GUIDNAME 12013068]
 12000098	[GUIDNAME 6000495]
 12000099	[GUIDNAME 6000496]
 12000100	[GUIDNAME 6000497]
-12000033	Orbit
+12000033	Órbita
 12000465	A.D.A.M.
 12013108	Nic Papadakis
-12013120	Mysterious Woman
+12013120	Mulher misteriosa
 12013121	Anthony Goodwin
 12013122	Ville Jorgensen
 12013123	Aidan Bhargava
-12012822	Only the Brightest
-12012838	Commencing Countdown
-12012844	Put Your Helmet On
-12012846	Assembly in Orbit
-12012848	Artificial Brain
-12012850	Rewiring
+12012822	Apenas o mais brilhante
+12012838	Iniciando a contagem regressiva
+12012844	Coloque seu capacete
+12012846	Montagem em órbita
+12012848	Cérebro artificial
+12012850	Religados
 12013099	TQ SummerEvent EventStartCheck
 12013100	TQ SummerEvent EventEndCheck
-12013060	Old Traditions
-12013071	Old Traditions
-12013076	Old Traditions
-12013088	Not Watermarked
-12013097	Sweet Tooth
-12013124	Core Meltdown
-12013144	Summer Recess
-12013147	Historical Mistakes
-12013148	Meteorite Enthusiast
-12013262	Any Workshop
-12013267	Any Workshop
+12013060	Antigas Tradições
+12013071	Antigas Tradições
+12013076	Antigas Tradições
+12013088	Sem marca d'água
+12013097	Guloso
+12013124	Núcleo derretido
+12013144	Férias de verão
+12013147	Erros históricos
+12013148	Entusiasta de meteoritos
+12013262	Qualquer oficina
+12013267	Qualquer oficina
 26002094	Mudar
 26002095	Manter
 26002096	Geo-Engenharia
 26002097	Novo Traço do Setor
 13000000	[GUIDNAME 5001002]
 11000000	[GUIDNAME 5001002]
-13000170	Arctic Sector
-13000108	Spaceport Prototype
-13000112	Spaceport Wreckage
-13000113	Nic Papadakis' Ship
-13000114	Cargo Ship
-13000115	Business Partner's Ship
-13000116	Global Union Inspectors' Ship
-13000117	Structural Engineers
-13000118	Papadakis' Drone Prototype
-13000119	Business Partner's Ship
-13000120	Papadakis' Tracking Drone
-13000121	Sea Mine
-13000122	Security Ship
-13000123	Papadakis' Flare Ship
-13000125	Orbital Watch Charger
-13000126	Orbital Watch Eradicator
-13000127	Orbital Watch Bombarder
-13000128	Orbital Watch Hunter
+13000170	Setor Ártico
+13000108	Protótipo do espaçoporto
+13000112	Destroços do espaçoporto
+13000113	Barco Nic Papadakis
+13000114	Barco de mercadorias
+13000115	Barco de sócio
+13000116	Barco do Inspetores da União Global
+13000117	Engenheiros estruturais
+13000118	Protótipo de Drone da Papadakis
+13000119	Barco de sócio
+13000120	Rastreamento de drones Papadakis
+13000121	Mina marina
+13000122	Barco de segurança
+13000123	Barco farol da Papadakis
+13000125	Patrulheiro da guarda orbital
+13000126	Erradicador da guarda orbital
+13000127	Bombardeiro da guarda orbital
+13000128	Caçador da guarda orbital
 13000652	[GUIDNAME 13000389]
 13000650	[GUIDNAME 13000390]
 13000651	[GUIDNAME 13000391]
-13000751	Reactors
-1003784	Small Geyser
-1003851	Medium Geyser
-1003785	Big Geyser
+13000751	Reatores
+1003784	Gêiser pequeno
+1003851	Gêiser Médio
+1003785	Gêiser grande
 13000388	[GUIDNAME 13000393]
 13000158	[GUIDNAME 13000447]
 13000604	[GUIDNAME 13000158]
@@ -202,16 +202,16 @@
 13000633	[GUIDNAME 13000424]
 13000634	[GUIDNAME 13000424]
 13000635	[GUIDNAME 13000424]
-13000155	Sealed Facility
-13000427	AI Personality Storage
-13000428	Synthetics Mainframe
+13000155	Instalações seladas
+13000427	Armazenamento de personalidade AI
+13000428	Ordenador central de sintéticos
 13000429	[GUIDNAME 13000428]
-13001120	PCP Any Reactor
-15000002	Solar System Model
-13000562	Holographic Sculpture
-13000563	Corporate Holograph
+13001120	PCP Any Reator
+15000002	Modelo de Sistema Solar
+13000562	Escultura Holográfica
+13000563	Holografia Corporativa
 13000212	All OW Vehicles - PlayerCounterPool
-13000343	Bomb Drone
+13000343	Bomba Drone
 13000253	[GUIDNAME 13000389]
 13000394	[GUIDNAME 13000389]
 13000395	[GUIDNAME 13000389]
@@ -242,50 +242,50 @@
 13000418	[GUIDNAME 13000391]
 13000419	[GUIDNAME 13000391]
 13000420	[GUIDNAME 13000391]
-13000378	Geothermal Generator
-13000393	Synthetics
-13000814	Fleet
-13001119	Reactors
-13000075	Madrigal Islands
-13000132	Greentide Archipelago
-13000163	Savik Province
-13000080	Proceed with Nic Papadakis' assignments concerning the Proto-Spaceport.
-13000081	Finders Keepers
-13000082	Good Connections
-13000083	Foreign Business
-13000084	Outsourcing
-13000085	Meeting the Clients
-13000086	Official Procedures
-13000087	Key Component
-13000089	Cancelled Plans
-13000090	On Hot Coals
-13000091	Piling Up
-13000092	Surprise Visit
-13000093	Structural Integrity
-13000094	Raising Morale
-13000095	Details, Details
-13000096	The Cord
-13000098	Freelancers
-13000099	In High Spirits
-13000100	Small Favor
-13000101	Hook, Line and Sinker
-13000102	In This Together
-13000103	Shortages
-13000104	Tag, You're It
-13000105	Collateral Damage
-13000106	Forgive and Forget
-13000724	Redacted Research
-13000753	Compatibility Issues
-13000754	Locked Away
-13001273	Read-Only Memory
-13000755	Reanimation
-13000756	Past Progressive
-13000758	Adam and Eve
-13000759	Artificial Life
-13000642	Warmth in the Cold
-13000656	Digging Deeper
-13000658	Crossroads
-13000714	Locally Sourced Energy
+13000378	Gerador Geotérmico
+13000393	Sintéticos
+13000814	Frota
+13001119	Reatores
+13000075	Ilhas Madrigal
+13000132	Arquipélago da Maré Verde
+13000163	Província de Savik
+13000080	Prossiga com as tarefas de Nic Papadakis relacionadas ao protótipo do espaçoporto.
+13000081	Achado não é roubado
+13000082	Boas conexões
+13000083	Negócios Estrangeiros
+13000084	Terceirização
+13000085	Conhecendo os clientes
+13000086	Procedimentos Oficiais
+13000087	Componente chave
+13000089	Planos Cancelados
+13000090	Em Carvões Quentes
+13000091	Empilhando
+13000092	Visita surpresa
+13000093	Integridade Estrutural
+13000094	Aumentando a moral
+13000095	Detalhes e mais detalhes
+13000096	O cordão
+13000098	Autônomos
+13000099	Em alto astral
+13000100	Pequeno Favor
+13000101	Gancho e gancho
+13000102	Juntos nisso
+13000103	Escassez
+13000104	Apanhado
+13000105	Dano colateral
+13000106	Perdoe e esqueça
+13000724	Pesquisa classificada
+13000753	Problemas de compatibilidade
+13000754	Encerrado
+13001273	Memória somente leitura
+13000755	ressuscitação
+13000756	Passado progressivo
+13000758	Adão e Eva
+13000759	Vida artificial
+13000642	Calor no frio
+13000656	Indo mais fundo
+13000658	Encruzilhada
+13000714	Energia de origem local
 13000210	[GUIDNAME 13001023] : [MILITARY_SECTOR_EFFECT_SESSION]
 13000601	[GUIDNAME 13001024] : [MILITARY_SECTOR_EFFECT_SESSION]
 13000602	[GUIDNAME 13001025] : [MILITARY_SECTOR_EFFECT_SESSION]
@@ -295,22 +295,22 @@
 13000206	MilitaryEffectTest
 13000227	MilitaryEffectTest
 13000228	MilitaryEffectTest
-13000232	Blockade
-13000588	Occupation
-13000589	Pillage
+13000232	Bloqueio
+13000588	Ocupação
+13000589	Saque
 13001082	[GUIDNAME 13000232]
 13001083	[GUIDNAME 13000588]
 13001084	[GUIDNAME 13000589]
-13000002	<font [MINIMAPDOT_COLOR 2001947]>+1 Trade Route</font> to the World Market
-13000004	[NOTIFICATION_CHARACTER_NAME] is happy to see the first elevator working.
-13000005	[NOTIFICATION_CHARACTER_NAME] is planning the third elevator.
-13000003	[NOTIFICATION_CHARACTER_NAME] reminds you to not forget your own part in this.
-13000219	[NOTIFICATION_CHARACTER_NAME] is appalled at your cowardly attack.
-13000220	[NOTIFICATION_CHARACTER_NAME] is thankful for your protection.
-13000222	[NOTIFICATION_CHARACTER_NAME] reminds you that you are far from uninvolved.
-13000224	[NOTIFICATION_CHARACTER_NAME] can't thank you enough.
-13000006	"Look at this beauty! Early spaceport prototype, built and then dismantled by the Global Union. There should still be some usable parts around here. We refurbish it and share the route!"
-13000007	"There's a real mint to be made up there, if you know the right people. And with the right partner to provide the manpower, of course."
-13000008	"Y'know, I'm usually an all-local-business guy, but I gotta expand my horizon once in a while! I'll introduce you to my new business partners sometime. But can you supply the workers with tools first?"
-13000009	"Papadakis Enterprises offers a great many goods, but electricity isn't one of them. How would I even box and ship it? I leave that in your capable hands."
-13000010	"So about my clients. Their stakes in this are pretty high, so they want a face to put to my new business partner. Not to worry! Just drop by our meeting and give me a lift back."
+13000002	<font [MINIMAPDOT_COLOR 2001947]>+1 Rota comercial</font> para o mercado mundial
+13000004	[NOTIFICATION_CHARACTER_NAME] está feliz em ver o primeiro elevador funcionando.
+13000005	[NOTIFICATION_CHARACTER_NAME] está planejando o terceiro elevador.
+13000003	[NOTIFICATION_CHARACTER_NAME] lembra você de não esquecer sua própria parte nisso.
+13000219	[NOTIFICATION_CHARACTER_NAME] está horrorizada com seu ataque covarde.
+13000220	[NOTIFICATION_CHARACTER_NAME] está grato por sua proteção.
+13000222	[NOTIFICATION_CHARACTER_NAME] lembra que você está longe de ser indiferente.
+13000224	[NOTIFICATION_CHARACTER_NAME] não sabe como te agradecer.
+13000006	"Olhe para essa beleza! Um antigo protótipo de espaçoporto construído e depois desmontado pela União Global. Ainda deve haver peças utilizáveis. Nós o renovamos e compartilhamos a rota!"
+13000007	"Você pode conseguir muito aqui se encontrar as pessoas certas. E com o parceiro certo para fornecer mão de obra, é claro."
+13000008	"Sou o tipo de pessoa que gosta de fazer negócios locais, mas de vez em quando tenho que ampliar meus horizontes! Vou apresentá-los aos meus novos parceiros. Mas você pode primeiro fornecer as ferramentas aos empregados?"
+13000009	"A Papadakis Enterprises oferece muitas mercadorias de alta qualidade, mas eletricidade não é uma delas. Como vou embalá-la e despachá-la? Deixo isso para você."
+13000010	"Sobre meus clientes... Eles estão jogando muito, então querem dar uma cara no meu novo parceiro. Tudo bem! Basta passar por nossa reunião e me dar uma carona de volta."
