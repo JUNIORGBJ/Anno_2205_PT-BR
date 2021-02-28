@@ -1,24 +1,24 @@
-117075	"Us Custodians are stretched thin. With more troops we can at least isolate this sector!"
-117076	"I really need to get out of here... I'll be fine on my own, but a weapon would help with the courage!"
-117077	"Okay, I don't like shooting at anyone, but I heard there's less violent methods? Just to get away?"
-117078	"Custodians aren't producing any of these weapons. Too complicated, I guess?"
-117079	"I had to scramble for my life! A few lost ship parts is a low price to pay. Still, I need them back."
-117080	"A whole supply shipment was lost on the way! There's nothing left, we need whatever's still good!"
-117081	"Alright, what I need isn't technically mine. But it doesn't belong to anyone anymore!"
-117082	"Our defenses just don't hold! Quick, get the survivors to me!"
-117083	"We managed a victory! The bad guys surrendered, so don't shoot, okay?"
-117084	"I have a team out and looking for survivors. They just send a signal, they need a pick-up!"
-106028	Our latest cargo shuttle from space crashed in this area. Find its contents for us!
-106029	Help us collect the lost freight scattered throughout this area!
-106030	I'd like to make you a trade offer. Interested?
-106031	I'd strongly suggest you approach this mission my way.
-106057	Our engines have broken down! Please tow us to the trading center.
-108478	Please escort us out of this battlefield!
-119686	"Those terrorist rats are crawling all over the place and my ships! But they don't know what they're in for, right?"
-119687	"I've received numerous reports that the site has been hit by raiders. Your presence is requested."
-119688	"Listen, I need an opening to get into the Orbital Watch base. You provide the fireworks, I get the job done. Sound like a plan?"
-119689	"This is a disaster! With the Climate Stabilizers the Oribital Watch could wreak havoc across the globe... Don't let it come to that!"
-119690	"Us Arctic Custodians have no defense for when the Orbital Watch reaches us. I am counting on our partnership with you."
+117075	"Os Guardiões estão amplamente espalhados. Com mais algumas tropas, podemos pelo menos isolar este setor!"
+117076	"Eu preciso sair daqui ... Posso ir desacompanhado, mas ter uma arma me daria um grande impulso de coragem!"
+117077	"Ok, eu não gosto de atirar em ninguém, mas ouvi dizer que existem métodos menos violentos ... Para escapar?"
+117078	"Os Keepers não produzem essas armas. Acho que é muito complicado ..."
+117079	"Eu tive que fugir! Algumas peças do barco são baratas. Mas eu preciso recuperá-las."
+117080	"Um carregamento inteiro se perdeu no caminho! Não sobrou nada, temos que recuperar o que pudermos!"
+117081	"Vamos ver ... O que eu preciso não pertence a mim, tecnicamente. Mas não pertence mais a ninguém!"
+117082	"Nossas defesas não estão resistindo! Rápido, traga-me os sobreviventes!"
+117083	"A vitória é nossa! Os bandidos desistiram, não atire, ok?"
+117084	"Enviei uma equipe em busca de sobreviventes. Eles enviaram um sinal para buscá-los!"
+106028	Nosso último ônibus de carga do espaço caiu nesta área. Encontre a mercadoria!
+106029	Ajude-nos a recolher a carga perdida que está espalhada por esta área!
+106030	Eu gostaria de fazer uma oferta comercial. Te interessa?
+106031	Eu recomendo fortemente que você enfrente esta missão do meu jeito.
+106057	Nossos motores estão com defeito! Reboque-nos até o centro de distribuição.
+108478	Por favor, nos acompanhe e nos tire deste campo de batalha!
+119686	"Aqueles ratos terroristas estão por toda parte! Até nos meus barcos! Mas eles não sabem para onde estão indo, hein?"
+119687	"Recebi muitos relatórios de que a área foi invadida. Sua presença é necessária."
+119688	"Escute: eu preciso de uma abertura para entrar na base da Guarda Orbital. Você acerta os fogos de artifício e eu cuidarei do trabalho. O que você acha do plano?"
+119689	"Isso é um desastre! Com os estabilizadores climáticos, a Guarda Orbital pode causar estragos em todo o planeta ... Não deixe isso acontecer!"
+119690	"Nós, Guardiões do Ártico, não temos como nos defender quando a Guarda Orbital nos alcança. Conto com você."
 102985	Item fisgado
 102600	[NOTIFICATION_CHARACTER_NAME] anuncie que a União Global está fornecendo apoio financeiro suficiente.
 108487	[NOTIFICATION_CHARACTER_NAME] avisa que seu saldo de crédito está no vermelho.
@@ -29,42 +29,42 @@
 108669	Item de tarefa
 108670	Drone de rastreamento
 108671	Drone de ataque
-108948	Item arrasável
-108949	Item Destrutível
+108948	Item arrastável
+108949	Item destrutível
 108950	Item colecionável
 116593	Supervisor de projeto do setor
 116594	Comerciante
 116595	Posto avançado
 116823	Cliente de missão
 120425	Adversário
-116697	[NOTIFICATION_CHARACTER_NAME] shows you the command ship next to the unfinished spaceport.
-114562	[NOTIFICATION_CHARACTER_NAME] reminds you that your command ship is at anchor near the spaceport.
-115436	[NOTIFICATION_CHARACTER_NAME] explains your command ship’s controls. Right-click to move it.
-116694	[NOTIFICATION_CHARACTER_NAME] invites you to enter a trade relationship with him.
-114595	[NOTIFICATION_CHARACTER_NAME] reminds you that you are free to trade with him if you need specific goods.
-116695	[NOTIFICATION_CHARACTER_NAME] welcomes you as a new trading partner.
-114609	[NOTIFICATION_CHARACTER_NAME] reminds you that you are free to trade with him if you need specific goods.
-116696	[NOTIFICATION_CHARACTER_NAME] invites you to enter a trade relationship with her.
-114610	[NOTIFICATION_CHARACTER_NAME] reminds you that you are free to trade with her if you need specific goods.
-116698	[NOTIFICATION_CHARACTER_NAME] invites you to his dockyard in a nearby sector. You can improve your fleet there.
-114612	[NOTIFICATION_CHARACTER_NAME] reminds you that you can expand and enhance your fleet at the docks.
-116703	[NOTIFICATION_CHARACTER_NAME] informs you about modules. Use them to upgrade your factories.
-114614	[NOTIFICATION_CHARACTER_NAME] reminds you that you can enhance your factories with modules.
-116704	[NOTIFICATION_CHARACTER_NAME] explains that modules are a handy way to enhance the productivity of your buildings.
-115416	[NOTIFICATION_CHARACTER_NAME] offers to join forces with you in a joint project.
-116630	[NOTIFICATION_CHARACTER_NAME] offers you to join forces in a joint project in this sector.
-116631	[NOTIFICATION_CHARACTER_NAME] keeps goods and materials for sale at the local trading center.
-116705	[NOTIFICATION_CHARACTER_NAME] thinks that helping others is a great way to help yourself.
-116706	[NOTIFICATION_CHARACTER_NAME] forwards some requests to you.
-116707	[NOTIFICATION_CHARACTER_NAME] has some Assignments coming in for you.
-116714	[NOTIFICATION_CHARACTER_NAME] explains that some islands can only be accessed via bridges.
-116908	[NOTIFICATION_CHARACTER_NAME] reckons helping others is a great way to help yourself.
-117117	[NOTIFICATION_CHARACTER_NAME] informs you that you can now establish routes to or from the space station to continuously buy or sell goods.
-117121	[NOTIFICATION_CHARACTER_NAME] reminds you that you can establish routes to or from the space station to continuously buy or sell goods.
-117123	[NOTIFICATION_CHARACTER_NAME] wonders if you might be interested in buying or selling some goods now.
-117986	[NOTIFICATION_CHARACTER_NAME] informs you that you can build a bridge in this sector.
-120204	[NOTIFICATION_CHARACTER_NAME] informs you that you can also move buildings and don't have to demolish them.
-120741	[NOTIFICATION_CHARACTER_NAME] suggests you check out the convenient promotion menu.
+116697	[NOTIFICATION_CHARACTER_NAME] mostra a barco de comando ao lado do espaçoporto incompleto.
+114562	[NOTIFICATION_CHARACTER_NAME] lembra que sua barco de comando está ancorada perto do espaçoporto.
+115436	[NOTIFICATION_CHARACTER_NAME] explica os controles do seu barco de comando. Clique com o botão direito para movê-lo.
+116694	[NOTIFICATION_CHARACTER_NAME] convida você a entrar em uma relação comercial com ele.
+114595	[NOTIFICATION_CHARACTER_NAME] lembra que você é livre para negociar com ele se precisar de bens específicos.
+116695	[NOTIFICATION_CHARACTER_NAME] dá as boas-vindas a você como um novo parceiro comercial.
+114609	[NOTIFICATION_CHARACTER_NAME] lembra que você é livre para negociar com ele se precisar de bens específicos.
+116696	[NOTIFICATION_CHARACTER_NAME] convida você a entrar em uma relação comercial com ela.
+114610	[NOTIFICATION_CHARACTER_NAME] lembra que você é livre para negociar com ela se precisar de produtos específicos.
+116698	[NOTIFICATION_CHARACTER_NAME] convida você para seu estaleiro em um setor próximo. Você pode melhorar sua frota lá.
+114612	[NOTIFICATION_CHARACTER_NAME] lembra que você pode expandir e aprimorar sua frota nas docas.
+116703	[NOTIFICATION_CHARACTER_NAME] informa sobre os módulos. Use-os para atualizar suas fábricas.
+114614	[NOTIFICATION_CHARACTER_NAME] lembra que você pode aprimorar suas fábricas com módulos.
+116704	[NOTIFICATION_CHARACTER_NAME] explica que os módulos são uma maneira prática de aumentar a produtividade de seus edifícios.
+115416	[NOTIFICATION_CHARACTER_NAME] se oferece para unir forças com você em um projeto conjunto.
+116630	[NOTIFICATION_CHARACTER_NAME] oferece a você unir forças em um projeto conjunto neste setor.
+116631	[NOTIFICATION_CHARACTER_NAME] mantém bens e materiais à venda no centro comercial local.
+116705	[NOTIFICATION_CHARACTER_NAME] pensa que ajudar os outros é uma ótima maneira de se ajudar.
+116706	[NOTIFICATION_CHARACTER_NAME] enviar-lhe alguns pedidos.
+116707	[NOTIFICATION_CHARACTER_NAME] tem algumas tarefas para você.
+116714	[NOTIFICATION_CHARACTER_NAME] explica que algumas ilhas só podem ser acessadas por meio de pontes.
+116908	[NOTIFICATION_CHARACTER_NAME] considera que ajudar os outros é uma ótima maneira de ajudar a si mesmo.
+117117	[NOTIFICATION_CHARACTER_NAME] informa que agora você pode estabelecer rotas de ida e volta para a estação espacial para comprar ou vender mercadorias regularmente.
+117121	[NOTIFICATION_CHARACTER_NAME] lembra que você pode definir rotas de ida e volta para a estação espacial para comprar ou vender mercadorias regularmente.
+117123	[NOTIFICATION_CHARACTER_NAME] se pergunta se você estaria interessado em comprar ou vender alguns produtos agora.
+117986	[NOTIFICATION_CHARACTER_NAME] informa que você pode construir uma ponte neste setor.
+120204	[NOTIFICATION_CHARACTER_NAME] informa que você também pode mover edifícios e não precisa demoli-los.
+120741	[NOTIFICATION_CHARACTER_NAME] sugere que você verifique o menu de promoção acessível.
 121422	1 de 2
 121423	2 de 2
 121424	1 de 3
