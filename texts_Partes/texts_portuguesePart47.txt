@@ -1,51 +1,51 @@
-10000042	Be grateful, I'm leaving you the fruits of multiple lifetimes of work. That's why the location's undocumented, don't want the nosey buggers finding it.
-10000043	You know where to look, right? Underwater warehouses are for the ages, they said! Or maybe y'all are underwater yourselves now?
-10000044	So how's the future? Still fighting them tsunamis and high tide? Not expecting an answer, just let an old man wax philosophical. But you better build something that lasts.
-10000045	Underwater earthquakes are only getting worse. Had to abandon my own treasures. Not safe, they said! Well now at least there's you to take care of them.
-10000046	...this thing recording? Right! You're back! Thought I had just one? Not when there are whole cities down there! So, you got something shiny, and I want my Lady safe.
-10000047	You're listening to this log that means... I'm not around to take care of my ship. You ain't getting a peep on the second stash until I'm sure she's fine! Incentive, ya see?
-10000048	Salt water can do something fierce to a nuclear generator, and it never was all that stable. But she's fine, isn't she? A year or three wouldn't harm her!
-10000049	Alright, whatever you just did caused a power surge. How's that for clairvoyance? Just kidding. Alright, I'm convinced, the location-... is-... got it? ...
-10000050	... Alright, I'm convinced, the location is south of here, got it? My ship's a vessel for the ages, whatever hiccups you've fixed, they're not gonna bring her down. You there yet?
-10000051	The sea's been rumbling again, but they said not to worry. I bet they're causing this! Holing up at the bottom of the Ebashi trench like sardines in a tin is messing with their heads!
-10000052	That's it, that's my treasure! Not much use to me anymore... I can't reach it, the hatches caved in. That'll happen to those Tech weirdos too, sooner or later.
-10000054	I bet you thought you'd seen the last of me! Alright, I got one more. Didn't wanna give this one up, but you gotta do me one more favor in return.
-10000055	This one's a bit tricky, so listen up. People these days have the attention span of ants. It's 2085 and we're still stuck on earth! If I was... Right, right, where was I? Ah, the storage.
-10000056	Locks are the parts that rust first, so just in case, there's a failsafe. Nice of me to record it, right? It's split in three parts, so you don't flood the whole thing by accident.
-10000057	Computer says you got them modules. Not sure about the power supply these days, but those Techs told me it'll last a good century! Don't trust them as far as I can throw'em, though.
-10000058	See, all fine and dandy. There are some neat defense mechanisms, too. Be sure to get the module order right! I had to duck for cover a few times before...
-10000059	Those defense subs scorched the hull a few times, too. But I always reset it in the nick of time. Oh the irony if my own security sank my ship one day!
-10000060	Doors still locked? Well listen up. One day the Lady's gonna run outta fuel. And I want to keep her going till the sodding end of the world. So you refuel her... and I'll give you the key.
-10000061	There you go, my haul is yours. It's not like I'll need it where I'm headed... or am now, I s'pose. But my Lady, she's gonna be around long after I'm gone.
-10000142	Project stage 1 completed
-10000143	Trenchcoat's First Warehouse salvaged
-10000144	First Iridium generator activated
-10000145	Project stage 2 completed
-10000146	Trenchcoat's Second Warehouse salvaged
-10000147	Second Iridium generator activated
-10000148	Project stage 3 completed
-10000149	Trenchcoat's Third Warehouse salvaged
-10000150	Third Iridium generator activated
-10000262	The badly damaged log describes [NOTIFICATION_CHARACTER_NAME]'s secret hideaway.
-10000263	[NOTIFICATION_CHARACTER_NAME] wants you to fulfill his last wish.
+10000042	Você já pode me agradecer por eu deixado para você o fruto de várias vidas de trabalho. Portanto, o local não está documentado. Não queremos que os fofoqueiros descubram.
+10000043	Você sabe onde procurar, certo? Disseram que os armazéns subaquáticos durariam para sempre! Ou talvez todos vocês estejam debaixo d'água?
+10000044	Como o futuro aparenta? Ainda lutando contra tsunamis e marés? Não espero resposta, mas deixo um velho filosofar um pouco. É melhor você construir algo que dure.
+10000045	As ondas gigantes só pioraram. Tive que abandonar meus próprios tesouros. Eles disseram que não era seguro! Bem, pelo menos agora você está lá para cuidar deles.
+10000046	... essa coisa está gravando? Uau! Você voltou! Você achou que eu só tinha um? Não quando há cidades inteiras lá! Você tem algo brilhante e eu quero que minha Senhora esteja segura.
+10000047	Você está ouvindo este registro, o que significa ... Não estou mais lá para cuidar do meu barco. Você não verá o segundo esconderijo até que eu tenha certeza de que ela está bem! O incentivo é a chave, entendeu?
+10000048	A água salgada pode ser fatal para um gerador nuclear e nunca foi muito estável. Mas ela está bem, certo? Alguns anos não vão doer!
+10000049	O que quer que você tenha feito, você apenas entrou em curto-circuito. Que capacidade de clarividência. É piada. Bem, eu não duvido, a localização ... é ... você entendeu? ...
+10000050	... Bem, eu não duvido, a localização é um lugar ao sul daqui. O tem? Meu barco foi feito para suportar, então, seja o que for que você preparou, você não vai afundá-lo. Voce ja esta ai
+10000051	O mar está agitado de novo, mas eles dizem para não se preocupar. Aposto que isso está sendo causado por eles! Estar no fundo da vala de Ebashi como sardinhas enlatadas está os incomodando!
+10000052	É isso, esse é o meu tesouro! Já não me adianta muito ... Não chego lá, as escotilhas cederam. Mais cedo ou mais tarde, isso também acontecerá com os geeks da tecnologia.
+10000054	Aposto que você pensou que não me veria de novo! Ok, eu tenho mais um. Eu não queria desistir desse, mas em troca você tem que me fazer mais um favor.
+10000055	Este é complicado, então ouça bem. Hoje as pessoas não têm capacidade de retenção. Estamos no ano de 2085 e ainda estamos presos na Terra! Se eu fosse ... Bem, para onde iria? Oh sim, o armazém.
+10000056	As fechaduras são as primeiras a enferrujar, por isso, para o caso, existe um sistema de reforço. Foi uma boa ideia registrar, hein? Está dividido em três partes para que não inunde tudo por acidente.
+10000057	O computador diz que você tem os módulos. Não sei como funciona a fonte de alimentação hoje em dia, mas aqueles técnicos me disseram que duraria um século sem problemas. Embora eu não confie em um fio de cabelo ...
+10000058	Você vê? Tudo em ordem. Existem também alguns sistemas de defesa excelentes. Certifique-se de que os módulos estão na ordem correta! Tive que me abaixar para me proteger várias vezes ...
+10000059	E aqueles submarinos de defesa queimaram o casco em mais de uma ocasião. Mas sempre consigo zerar no último minuto. Como seria irônico se minha própria segurança afundasse meu navio!
+10000060	As portas ainda estão fechadas? Bem, me escute bem. Um dia a Senhora ficará sem combustível. É tudo que eu quero para mantê-la até a porra do fim do mundo. Então você reabastece ... e eu lhe darei a chave.
+10000061	Aqui, meu saque é seu. Eu não preciso dele onde quer que eu vá ... ou onde estou agora, eu acho. Mas minha senhora continuará a existir muito depois do meu desaparecimento.
+10000142	Fase 1 do projeto concluído
+10000143	Recuperado o primeiro armazém Trenchcoat
+10000144	Primeiro gerador de irídio ativado
+10000145	Fase 2 do projeto concluída
+10000146	Recuperado o segundo armazém Trenchcoat
+10000147	Segundo gerador de irídio ativado
+10000148	Fase 3 do projeto concluída
+10000149	Recuperado o terceiro armazém Trenchcoat
+10000150	Terceiro gerador de irídio ativado
+10000262	O registro está muito danificado e descreve o esconderijo secreto de [NOTIFICATION_CHARACTER_NAME].
+10000263	[NOTIFICATION_CHARACTER_NAME] quer que você cumpra seu último desejo.
 10000122	"[GUIDNAME 10000151]"
-10000123	Reach a Corporation Level of 10 to decode the next log.
-10000124	Reach a Corporation Level of 20 to decode the next log.
+10000123	Alcance o nível Corporativo 10 para decodificar o próximo registro.
+10000124	Alcance o nível Corporativo 20 para decodificar o próximo registro.
 10000125	"[GUIDNAME 10000198]"
 10000126	Satisfaça o último desejo de um velho amigo e recupere seus tesouros perdidos.
 10000081	Rodeando uma cordilheira acidentada, este vale fértil se abre para uma faixa costeira rasa. Seus penhascos e bancos de areia traiçoeiros há muito são o principal cais de uma frota de barcos enferrujados que guardam segredos do passado.
 10000291	Em torno de uma imponente cordilheira, este vale fértil se abre para uma ampla área costeira.
 10000219	Cargueiro desaparecido sem deixar vestígios
-10000220	Factory accident lowers production
-10000221	Falls short of production goals
-10000222	Power shortage brings down production
-10000223	Power outage pauses production
-10000224	Bulk purchase
-10000225	Walk-out at key facilities to delay shipments until Tuesday
-10000226	Unfortunate transportation accident, several workers wounded
-10000227	Working drones down due to yet unknown causes
-10000228	Malfunctioning drones going on rampage
-10000229	Software virus brings down production
+10000220	Um acidente na fábrica reduz a produção
+10000221	Não atende às metas de produção
+10000222	A escassez de energia reduz a produção
+10000223	Uma queda de energia interrompe a produção
+10000224	Compra em massa
+10000225	Parada nas principais instalações para atrasar os envios até terça-feira
+10000226	Infeliz acidente de transporte, vários trabalhadores feridos
+10000227	Drones trabalhando fora de serviço por razões ainda desconhecidas
+10000228	Alguns drones funcionam mal e estão violentos
+10000229	Um vírus de computador reduz a produção
 10000230	Hackers halt production as systems reboot
 10000231	Increased working hours lead to strike
 10000232	Controversial working policies drop efficiency
