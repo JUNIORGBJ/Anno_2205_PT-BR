@@ -258,10 +258,10 @@
 7000239	"A equipe identificou as sementes infectadas. As diretrizes dos curadores exigem que limpemos a câmara completamente e eu tenho o antídoto perfeito."
 7000522	Expanda seu território
 7001722	Abrigue pesquisadores de campo suficientes para desenvolver o módulo biocatalisador.
-7001853	Conecte [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] ao seu(a) [COMMANDO_VEHICLE] no porto
+7001853	Conecte [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] em seu(a) [COMMANDO_VEHICLE] no porto
 7001854	Carregue [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
 7001855	Encontre [CONDITION_SOURCE_OBJECT_ASSET] no Vale
-7001856	Conecte [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] ao seu(a) [COMMANDO_VEHICLE] na câmara de sementes
+7001856	Conecte [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] em seu(a) [COMMANDO_VEHICLE] na câmara de sementes
 7001857	Use o drone para selar os vazamentos
 7001858	Drene os pântanos [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 7001859	Ative <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font> no topo da estrutura
