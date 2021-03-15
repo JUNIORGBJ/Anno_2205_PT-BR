@@ -1,22 +1,22 @@
-14001572	You are about to establish yourself as the agriculture industry leader.
-14001603	Hold your Dominance in this industry branch
-14001599	Hold your Dominance in the Biotecnología Industry
-14001556	Hold your Dominance in the Electronics Industry
-14001600	Hold your Dominance in the Energy Industry
-14001601	Hold your Dominance in the Heavy Industry
-14001602	Hold your Dominance in the Agricultural Industry
-14001557	Disrupt your competitor's Dominance by buying shares or building facilities
-14001604	Disrupt your competitor's Dominance in the Biotecnología Industry by buying shares or building facilities
-14001605	Disrupt your competitor's Dominance in the Electronics Industry by buying shares or building facilities
-14001606	Disrupt your competitor's Dominance in the Energy Industry by buying shares or building facilities
-14001607	Disrupt your competitor's Dominance in the Heavy Industry by buying shares or building facilities
-14001608	Disrupt your competitor's Dominance in the Agricultural Industry by buying shares or building facilities
-14001643	Keep your Industry Dominance at least at: [CONDITION_AMOUNT_COUNTER_AMOUNT]%
-14001640	Push your competitor's Industry Dominance below: [CONDITION_AMOUNT_COUNTER_AMOUNT]%
-14001033	Dominance Gains
-14001032	Industry Dominance
-14001558	[NOTIFICATION_CHARACTER_NAME] encourages you to hold your market position.
-14001559	[NOTIFICATION_CHARACTER_NAME] is striving for industry dominance.
+14001572	Você está prestes a se estabelecer como líder do setor agrícola.
+14001603	Preserve seu domínio neste ramo da indústria
+14001599	Preserve seu domínio na indústria de biotecnologia
+14001556	Preserve seu domínio na indústria de eletrônicos
+14001600	Preserve seu domínio na indústria de energia
+14001601	Preserve seu domínio na indústria pesada
+14001602	Preserve seu domínio na indústria agrícola
+14001557	Interrompa o domínio de seu concorrente comprando ações ou construindo instalações
+14001604	Interrompa o domínio de seu concorrente na indústria de biotecnologia comprando ações ou construindo instalações
+14001605	Interrompa o domínio de seu concorrente na indústria de eletrônicos comprando ações ou construindo instalações
+14001606	Interrompa o domínio de seu concorrente na indústria de energia comprando ações ou construindo instalações
+14001607	Interrompa o domínio de seu concorrente na indústria pesada comprando ações ou construindo instalações
+14001608	Interrompa o domínio de seu concorrente na indústria agrícola comprando ações ou construindo instalações
+14001643	Mantenha seu domínio industrial, pelo menos em: [CONDITION_AMOUNT_COUNTER_AMOUNT]%
+14001640	Reduza o domínio industrial do seu concorrente abaixo de: [CONDITION_AMOUNT_COUNTER_AMOUNT]%
+14001033	Ganhos de domínio
+14001032	Domínio da industrial
+14001558	[NOTIFICATION_CHARACTER_NAME] incentiva você a manter sua posição no mercado.
+14001559	[NOTIFICATION_CHARACTER_NAME] está se esforçando para dominar a indústria.
 14001609	Domínio indústrial atual:
 14001664	Dominância iminente
 14001670	Aproximando-se do domínio
@@ -35,10 +35,10 @@
 14001142	Assuma o controle dos Cinco Grandes
 14001143	Torne-se a última corporação ativa a dominar os mercados e superar seus inimigos!
 14001144	Junte-se ao mercado de ações
-14001153	[NOTIFICATION_CHARACTER_NAME] informs you that your Corporation is ready to join the stock market.<br />
-14001154	[NOTIFICATION_CHARACTER_NAME] explains that in return for half of its shares your corporation can now be traded publicly.<br />
-14001155	[NOTIFICATION_CHARACTER_NAME] mentions that cities with Trading Floors can hold additional high ranked employees.<br />
-14001156	[NOTIFICATION_CHARACTER_NAME] is satisfied with the recent purchase.<br />
+14001153	[NOTIFICATION_CHARACTER_NAME] informa que sua Corporação está pronta para entrar no mercado de ações.<br />
+14001154	[NOTIFICATION_CHARACTER_NAME] explica que em troca da metade de suas ações, agora você pode negociar publicamente com sua corporação.<br />
+14001155	[NOTIFICATION_CHARACTER_NAME] menciona que cidades com bolsas de valores podem acomodar empregados de alto escalão.<br />
+14001156	[NOTIFICATION_CHARACTER_NAME] está satisfeita com a aquisição recente.<br />
 14000928	[PERMANENT_SECTOR_EFFECT]
 14000929	[TEMPORARY_SECTOR_EFFECT]
 14000932	[PERMANENT_SECTOR_EFFECT_DESCRIPTION]
@@ -48,87 +48,87 @@
 14001274	[BUILDING_EFFECT_DESCRIPTION]
 14001764	(Remaining Time Temporary Sector Effect)
 14002013	[CORPORATION_CREDIT_MAX_EXTENSION]
-14001040	Changed My Mind
-14001042	Relocation Service
-14001158	Interior Decorator
-14001161	Eco Evangelist
-14001163	Chief Optimizer
-14001165	Narcissist
-14001169	Investment Banker
-14001167	Cross-Shareholder
-14001171	The One Percent
-14001174	Fully Automated
-14001196	Not On My Watch!
-14001183	Subdue the Earth
-14001185	Urban Gardening
-14001188	Cosmic Radiation
-14001190	Polar Survivor
-14001192	Flood Control
-14001194	Updating Firewall
-14001198	No Pressure
-14001200	Anno Day
-14001202	The Old School
-14001204	Anything But the Kitchen Sink
-14001235	Courier of the Year
-14001237	Bodyguard
-14001041	Spend 100,000 credits demolishing buildings.
-14001043	Spend 1,000,000 credits relocating buildings.
-14001160	Construct each ornamental building at least once.
-14001162	Reach a population of 1,000,000 over all sectors without constructing Gas Power Stations or Fusion Reactors.
-14001164	Construct 100 Maintenance Modules in a single sector.
-14001166	Construct the Veteran Statue.
-14001170	Buy one share of any corporation.
-14001168	Buy one share of each corporation.
-14001172	Buy all shares of all Big Five corporations and leave no sectors controlled by them.
-14001175	Have a credit balance of +10,000 without any employees.
-14001197	Complete any Calamity Counter Measure.
-14001184	Complete 10 Calamity Counter Measures.
-14001187	Complete 5 Smog Counter Measures.
-14001189	Complete 5 Solar Flare Counter Measures.
-14001191	Complete 5 Polar Night Counter Measures.
-14001193	Complete 5 Climate Warfare Counter Measures.
-14001195	Complete 5 Hacker Attack Counter Measures.
-14001199	Complete the Lunar Licensing Program on Veteran difficulty in under 10 hours according to the corporation playtime.
-14001201	Play on the 22nd of May.
-14001203	Reach a population of 2,000,000 on Veteran difficulty.
-14001205	Run 30 Trade Routes from a single sector.
-14001236	Complete 10 distribution Assignments.
-14001238	Complete 10 escorting Assignments.
-14001218	[NOTIFICATION_CHARACTER_NAME] is outraged at your attempted sabotage.
-14001220	[NOTIFICATION_CHARACTER_NAME] appreciates your covert support.
-14001688	[NOTIFICATION_CHARACTER_NAME] initiates an auction.
-14001689	[NOTIFICATION_CHARACTER_NAME] is leading the auction.
-14001690	[NOTIFICATION_CHARACTER_NAME] aknowledges your winning bid.
-14001691	[NOTIFICATION_CHARACTER_NAME] aknowledges your winning bid.
-14001692	[NOTIFICATION_CHARACTER_NAME] made the winning bid.
-14001693	[NOTIFICATION_CHARACTER_NAME] is happy to hold stocks in your company.
-14001694	[NOTIFICATION_CHARACTER_NAME] is wary of your strategy.
-14001695	[NOTIFICATION_CHARACTER_NAME] begrudgingly accepts the takeover.
-14001696	[NOTIFICATION_CHARACTER_NAME] sees this as a sound investment.
-14001701	[NOTIFICATION_CHARACTER_NAME] is annoyed at your interference.
-14001748	[NOTIFICATION_CHARACTER_NAME] congratulates you on taking over the Big Five.
-14001697	[NOTIFICATION_CHARACTER_NAME] is close to reaching market dominance.
-14001698	[NOTIFICATION_CHARACTER_NAME] monopolized the market.
-14001699	[NOTIFICATION_CHARACTER_NAME] reluctantly congratulates you.
-14001749	[NOTIFICATION_CHARACTER_NAME] urges you to defend your market dominance.
+14001040	Mudei de ideia
+14001042	Serviço de translado
+14001158	Decorador de interiores
+14001161	Eco-evangelista
+14001163	Otimizador chefe
+14001165	Narcisista
+14001169	Banqueiro de investimento
+14001167	Acionista múltiplo
+14001171	Um por cento
+14001174	Totalmente automatizado
+14001196	Não no meu turno!
+14001183	Subjugar a terra
+14001185	Jardinagem urbana
+14001188	Radiação cósmica
+14001190	Sobrevivente Polar
+14001192	Controle de inundação
+14001194	Atualizando Firewall
+14001198	Sem pressão
+14001200	Dia de Ano Novo
+14001202	A antiga escola
+14001204	Tudo exceto a pia da cozinha
+14001235	Mensageiro do ano
+14001237	Escolta
+14001041	Gaste 100.000 créditos demolindo edifícios.
+14001043	Gaste 1.000.000 de créditos realocando edifícios.
+14001160	Construa cada edifício decorativo pelo menos uma vez.
+14001162	Alcance uma população de 1.000.000 em todos os setores sem construir centrais elétricas a gás ou reatores de fusão.
+14001164	Construa 100 módulos de manutenção em um único setor.
+14001166	Construa a estátua do veterano.
+14001170	Compre uma ação de qualquer corporação.
+14001168	Compre uma ação de cada corporação.
+14001172	Compre todas as ações de todas as cinco grandes corporações e não deixe nenhum setor controlado por elas.
+14001175	Tenha um saldo de crédito de +10.000 sem empregados.
+14001197	Conclua todas as contra-medidas de Calamidade.
+14001184	Conclua 10 contra-medidas de calamidade.
+14001187	Conclua 5 contra-medidas de poluição atmosférica.
+14001189	Conclua 5 contra-medidas contra incêndios solares.
+14001191	Conclua 5 contra-medidas noturnas polares.
+14001193	Conclua 5 contra-medidas de guerra climática.
+14001195	Conclua 5 contra-medidas de ataque de hacker.
+14001199	Conclua o Programa de Licença Lunar na dificuldade Veterano em menos de 10 horas com base no tempo de jogo.
+14001201	Jogue no dia 22 de maio.
+14001203	Alcance uma população de 2.000.000 na dificuldade Veterano.
+14001205	Execute 30 rotas comerciais de um único setor.
+14001236	Complete 10 tarefas de distribuição.
+14001238	Complete 10 tarefas de escolta.
+14001218	[NOTIFICATION_CHARACTER_NAME] está indignada com sua tentativa de sabotagem.
+14001220	[NOTIFICATION_CHARACTER_NAME] agradece seu apoio secreto.
+14001688	[NOTIFICATION_CHARACTER_NAME] inicia um leilão.
+14001689	[NOTIFICATION_CHARACTER_NAME] está liderando o leilão.
+14001690	[NOTIFICATION_CHARACTER_NAME] reconhece seu lance vencedor.
+14001691	[NOTIFICATION_CHARACTER_NAME] reconhece seu lance vencedor.
+14001692	[NOTIFICATION_CHARACTER_NAME] fez o lance vencedor.
+14001693	[NOTIFICATION_CHARACTER_NAME] tem o prazer de manter ações em sua companhia.
+14001694	[NOTIFICATION_CHARACTER_NAME] desconfia de sua estratégia.
+14001695	[NOTIFICATION_CHARACTER_NAME] aceita relutantemente a aquisição.
+14001696	[NOTIFICATION_CHARACTER_NAME] vê isso como um bom investimento.
+14001701	[NOTIFICATION_CHARACTER_NAME] está irritada com a sua interferência.
+14001748	[NOTIFICATION_CHARACTER_NAME] parabeniza você por dominar os Cinco Grandes.
+14001697	[NOTIFICATION_CHARACTER_NAME] está perto de alcançar o domínio do mercado.
+14001698	[NOTIFICATION_CHARACTER_NAME] monopolizou o mercado.
+14001699	[NOTIFICATION_CHARACTER_NAME] relutantemente parabeniza você.
+14001749	[NOTIFICATION_CHARACTER_NAME] exorta você a defender seu domínio do mercado.
 14001639	[CONDITION_AMOUNT_COUNTER_CURRENT_AMOUNT]%
-14001272	Maintain enough Parks, Gardens, Trees, or Preserves
-14001291	Vote for Lei Sheng in the Council
-14001292	Sell one of your Lei Sheng shares
-14001293	Transfer a patent to Lei Sheng through Espionage
-14001776	Your counter measure was unsuccessful
-14001779	You supported Lei Sheng's competitor
-14001780	Your actions harmed Lei Sheng
-14001794	Construction can now be resumed
-14001795	Energy Transfer Routes now operate losslessly
-14001984	Enter the Sector: [TEMPORARY_SECTOR_EFFECT_SESSION]
-14001294	[NOTIFICATION_CHARACTER_NAME] offers to help your ailing account.
-14001295	[NOTIFICATION_CHARACTER_NAME] implores you to fight the root cause of the deluge.
-14001296	[NOTIFICATION_CHARACTER_NAME] knows who is behind this data breach.
-14001297	[NOTIFICATION_CHARACTER_NAME] wants to help you meet the new safety standards.
-14001298	[NOTIFICATION_CHARACTER_NAME] warns you to take care of your employees' health.
-14001299	[NOTIFICATION_CHARACTER_NAME] observed your struggles and offers a deal.
-14001300	[NOTIFICATION_CHARACTER_NAME] is exasperated about the air quality.
+14001272	Mantenha parques, jardins, árvores ou terrenos suficientes.
+14001291	Vote em Lei Sheng no Conselho
+14001292	Venda uma de suas ações da Lei Sheng
+14001293	Transfira uma patente para Lei Sheng por meio de Espionagem
+14001776	Sua contra-medida não surtiu efeito.
+14001779	Você apoiou o concorrente Lei Sheng
+14001780	Suas ações prejudicaram a Lei Sheng
+14001794	A construção pode ser retomada
+14001795	Agora, as rotas de transferência de energia funcionam sem perdas
+14001984	Entre no Setor: [TEMPORARY_SECTOR_EFFECT_SESSION]
+14001294	[NOTIFICATION_CHARACTER_NAME] se oferece para ajudá-lo com suas contas em dificuldades.
+14001295	[NOTIFICATION_CHARACTER_NAME] implora que você resolva a raiz do problema da avalanche.
+14001296	[NOTIFICATION_CHARACTER_NAME] sabe quem está por trás dessa violação de dados.
+14001297	[NOTIFICATION_CHARACTER_NAME] deseja ajudá-lo a atender aos novos padrões de segurança.
+14001298	[NOTIFICATION_CHARACTER_NAME] avisa que você deve cuidar da saúde de seus empregados.
+14001299	[NOTIFICATION_CHARACTER_NAME] está ciente de seus esforços e lhe oferece um acordo.
+14001300	[NOTIFICATION_CHARACTER_NAME] está exasperada com a qualidade do ar.
 14001420	[GUIDNAME 121399]: [GUIDNAME 121421]
 14001395	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121422]
 14001396	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121423]
@@ -139,21 +139,21 @@
 14001410	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121428]
 14001411	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121429]
 14001412	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121430]
-14001775	"If you decide to blunder around there isn't much I can save. But you're loaded anyway, right?"
-14001778	"So that's how you choose to respond to our generous offer."
-14001796	"Alright! I got the new scaffolding set up and supplied your staff, new construction work is good to go."
-14001797	"Excellent. And now, for our part of the bargain we've extended our magnetic shielding to your transfer routes."
-14001284	"Huh, Usoyev seems way too old-fashioned to employ this level of ingenuity, but no doubt it's them. I think bribing Volodin with his precious oil is your best chance here."
-14001285	"Oh you found Ibarra-FoxCom's newest transmitters! Get me the rest and I can reprogram them to kick out the intruders. And I get state-of-the-art tech! Win-win."
-14001286	"Cassian Industries has been really agressive lately, must be their merger preparations. I don't think they'll back down easily. I propose taking an eye for an eye or something."
-14001287	"Sorry, Lei Sheng are pretty much professionals at this. Other than getting on Tian's good side, you don't stand a chance stopping this, let alone taking it to court."
-14001288	"You don't seriously think Saayman got their lead position by playing nice? Maybe if you properly scare them they'll learn not to mess with you."
-14001260	"This isn't regulated rainfall, this is the Orbital Watch controlling our Climate Stabilizer! You have to act before it turns worse."
-14001261	"My friend, are you trying to choke your citizens? I can't do business like this! Here's a tip, free of charge: a metropolis needs greenery to breathe."
-14001262	"Looks like a pretty sophisticated data breach. It'll be far easier to find the culprits first. If you knock out the jammers I can tell you who's to blame."
-14001264	"Sorry, Custodian safety laws won't let you build during the polar night just like that. You'll need to reinforce your equipment against the extreme cold."
-14001265	"Upgrading your machines isn't enough, though. Not seeing the sun for so long always makes me seriously cranky! Your staff needs some additional nutrients, too."
-14001266	"Electricity is our business and solar flares are a danger Lei Sheng is well-prepared for. Show your support and I'll arrange for a shared use of our artificial magnetic field."
+14001775	"Se você decidir trepar, não há muito que eu possa fazer."
+14001778	"Uau, é assim que você decide responder à nossa oferta generosa?"
+14001796	"Já estou com o novo andaime pronto e estocando sua equipe, para que as novas obras possam começar."
+14001797	"Ótimo. E agora, para honrar nossa parte do acordo, estendemos nossa proteção magnética às suas rotas de transferência."
+14001284	"Ei, Usoyev é muito antiquado para usar esse nível de engenhosidade, mas é definitivamente deles. Acho que sua melhor aposta seria subornar Volodin com seu precioso produto bruto."
+14001285	"Você encontrou os mais novos transmissores da Ibarra-FoxCom! Traga-me o resto e eu posso reprogramá-los para expulsar os intrusos. E além disso, recebo tecnologia de ponta! Nós dois vencemos."
+14001286	"As Indústrias Cassian têm sido muito agressivas ultimamente, deve ser por causa dos preparativos para a fusão. Não acho que eles irão embora facilmente. Sugiro aplicar olho por olho, ou algo semelhante."
+14001287	"Desculpe, Lei Sheng é profissional nisso. Além do gosto de Tian, ​​você não tem chance de impedir isso, muito menos levá-lo ao tribunal."
+14001288	"Você não está pensando seriamente que Saayman ocupa uma posição de liderança por ser bem comportado? Talvez se você puder assustá-los direito, eles aprenderão a não ficar no seu caminho."
+14001260	"Esta não é uma chuva regulada, esta é a Guarda Orbital controlando nosso estabilizador de clima! Você tem que agir antes que as coisas piorem."
+14001261	"Você está tentando afogar seus cidadãos? Não posso fazer negócios assim! Dou um conselho grátis: uma metrópole precisa de espaços verdes para respirar."
+14001262	"Parece uma violação de dados bastante sofisticada, será muito mais fácil encontrar o culpado primeiro. Se você derrubar os sistemas de interferência, posso dizer quem é o culpado."
+14001264	"Desculpe, as leis de segurança dos Keepers não permitem que você construa assim durante a noite polar. Você terá que reforçar seu equipamento contra o frio extremo."
+14001265	"Mas apenas atualizar suas máquinas não é suficiente. Não ver o sol por tanto tempo me deixa de mau humor! Além disso, seus empregados precisam de nutrientes extras."
+14001266	"A eletricidade é o nosso negócio e as explosões solares são um perigo para o qual Lei Sheng está muito preparado. Mostre seu apoio e eu cuidarei para que o uso de nosso campo magnético artificial seja compartilhado."
 14001613	[GUIDNAME 109065] [GUIDNAME 14001555]
 14001614	[GUIDNAME 109065] [GUIDNAME 14001565]
 14001615	[GUIDNAME 109065] [GUIDNAME 14001566]
@@ -179,15 +179,15 @@
 14001635	[GUIDNAME 109084] [GUIDNAME 14001566]
 14001636	[GUIDNAME 109084] [GUIDNAME 14001567]
 14001637	[GUIDNAME 109084] [GUIDNAME 14001568]
-14002099	Unlimited branded modules for Biotecnología Facilities
-14002100	Unlimited branded modules for Electronics Facilities
-14002101	Unlimited branded modules for Energy Facilities
-14002102	Unlimited branded modules for Heavy Industry Facilities
-14002103	Unlimited branded modules for Agriculture Facilities
+14002099	Módulos de marca ilimitados para instalações de biotecnologia
+14002100	Módulos de marca ilimitados para instalações eletrônicas
+14002101	Módulos de marca ilimitados para instalações de energia
+14002102	Módulos de branding ilimitados para instalações da indústria pesada
+14002103	Módulos de marca ilimitados para instalações agrícolas
 14000023	[GUIDNAME 14000026]
-14000098	Competitor Influence
+14000098	Influência do concorrente
 14001037	[GUIDNAME 14001130]
-2002511	Inside Jobs
+2002511	Trabalhos de infiltração
 2002512	[GUIDNAME 121562]
 2002516	[GUIDNAME 121563]
 2002518	[GUIDNAME 121564]
@@ -269,12 +269,12 @@
 14001551	[GUIDNAME 14000002] : [TEMPORARY_SECTOR_EFFECT_SESSION]
 14001977	[GUIDNAME 14000002] : [TEMPORARY_SECTOR_EFFECT_SESSION]
 14001573	[GUIDNAME 14000002] : [TEMPORARY_SECTOR_EFFECT_SESSION]
-14001215	Qualquer corporação dos Big Five
-14001223	Qualquer missão de contramedida
-14001494	Qualquer missão de contramedida para erupções solares
-14001495	Qualquer missão de contramedida para ataques de hackers
-14001496	Qualquer missão de contramedida para noites polares
-14001702	Qualquer missão de contramedida para poluição atmosférica
+14001215	Qualquer corporação dos Cinco Grandes
+14001223	Qualquer missão de contra-medida
+14001494	Qualquer missão de contra-medida para erupções solares
+14001495	Qualquer missão de contra-medida para ataques de hackers
+14001496	Qualquer missão de contra-medida para noites polares
+14001702	Qualquer missão de contra-medida para poluição atmosférica
 14001240	Qualquer missão de distribuição
 14001241	Qualquer missão de escolta
 14001271	Qualquer parque, jardim ou árvore
@@ -289,7 +289,7 @@
 14001709	[GUIDNAME 14001253]
 14001710	[GUIDNAME 14001253]
 14001711	[GUIDNAME 14001253]
-14002280	Agriculture Benefits
+14002280	Benefícios da agricultura
 14002281	[GUIDNAME 14001252]
 14002282	[GUIDNAME 14001252]
 14002283	[GUIDNAME 14001252]
@@ -299,7 +299,7 @@
 14002287	[GUIDNAME 14001252]
 14002288	[GUIDNAME 14001252]
 14002289	[GUIDNAME 14001252]
-14002320	Agriculture Benefits
+14002320	Benefícios da agricultura
 14002321	[GUIDNAME 14001252]
 14002322	[GUIDNAME 14001252]
 14002323	[GUIDNAME 14001252]
@@ -309,7 +309,7 @@
 14002327	[GUIDNAME 14001252]
 14002328	[GUIDNAME 14001252]
 14002329	[GUIDNAME 14001252]
-14001250	Heavy Industry Benefits
+14001250	Benefícios da indústria pesada
 14001712	[GUIDNAME 14001250]
 14001713	[GUIDNAME 14001250]
 14001714	[GUIDNAME 14001250]
