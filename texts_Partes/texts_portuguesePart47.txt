@@ -231,7 +231,7 @@
 7000332	"Mas criar um departamento de pesquisa é a principal prioridade. Temos que estar prontos para tudo."
 7000331	"Aqui está o problema: um vírus saiu da câmara. Se quisermos ter uma equipe de pesquisa à altura da tarefa, dependemos de sua rede de suprimentos, seu espaçoporto."
 7000334	"Embora os pântanos sejam o habitat de maior biodiversidade por aqui, não temos escolha a não ser drená-los. Não podemos trabalhar com o pouco espaço que temos."
-7000333	"Não qualquer um. O departamento de pesquisa precisa de especialistas para combater o vírus."
+7000333	"Não vale qualquer pessoa. O departamento de pesquisa precisa de especialistas para combater o vírus."
 7001456	"A equipe recolheu as primeiras amostras, mas não encontramos vestígios do vírus. Quero fazer mais testes, mas não temos pessoal suficiente."
 7000335	"A amostra de musgo é livre de vírus e surpreendentemente versátil. Projetei um módulo de agricultura com ela; vá em frente e veja por si mesmo como nosso trabalho é importante."
 7000218	"Não podemos fazer nada com as sementes congeladas, mas não é tão fácil derretê-las. Um controle de temperatura fixa pode fazer isso sem o risco de um surto viral."
