@@ -111,7 +111,7 @@
 118358	A crise energética é evitada! Por alguns dias preciosos a excitação dos cidadãos da Terra e Luna não conhecia limites. Foram realizados desfiles de robôs e comemorações em gravidade zero, salões iluminados com luzes holográficas alimentadas por energia de fusão. O Programa de Licenciamento Lunar pode não ter acabado com todos os problemas da humanidade, muito menos com a ameaça do Orbital Watch.
 118361	[NOTIFICATION_CHARACTER_NAME] pede que você permita o acesso aos servidores de investigação da Guarda Orbital.
 118362	[NOTIFICATION_CHARACTER_NAME] parabeniza você por sua grande vitória contra Drake.
-118367	Conquiste um vitória no setor em crise "[GUIDNAME 5100393]"
+118367	Conquiste uma vitória no setor em crise "[GUIDNAME 5100393]"
 118365	[NOTIFICATION_CHARACTER_NAME] está impressionado com suas habilidades furtivas.
 118366	[NOTIFICATION_CHARACTER_NAME] ganhou acesso aos servidores da Guarda Orbital e está causando o caos.
 119713	Alcance o próximo nível corporativo para entrar nos servidores secretos da Guarda Orbital
