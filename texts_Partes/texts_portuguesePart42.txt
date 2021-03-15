@@ -10,7 +10,7 @@
 2002065	Alvo da missão
 2001766	Nova tarefa disponível
 2001768	Pronto para conclusão
-2001801	Aprimoramento pausado
+2001801	Aprimoramento em pausa
 2001976	Capacidade de armazenamento atingida
 2002003	Bom
 2002004	Satisfação reduzida
