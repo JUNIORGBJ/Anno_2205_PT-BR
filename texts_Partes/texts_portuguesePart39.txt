@@ -1,10 +1,10 @@
 1003725	Rua
-1001297	Monumental Bridge
-1001298	Monumental Bridge
-1001299	Monumental Bridge
-1001300	Monumental Bridge
-1001301	Monumental Bridge
-1001302	Monumental Bridge
+1001297	Ponte Monumental
+1001298	Ponte Monumental
+1001299	Ponte Monumental
+1001300	Ponte Monumental
+1001301	Ponte Monumental
+1001302	Ponte Monumental
 1000247	Habitação ártica
 1000248	Habitação ártica
 1000245	Centro Comunitário
@@ -30,13 +30,13 @@
 1000384	Complexo Neuro-Módulo
 1000385	Laboratórios fechados a ar
 1000390	Trocador de calor
-1000391	Domos Geradores
+1000391	Cúpulas geradoras
 1000397	Rede de aterragem
 1000398	Colônia de Coral
 1000399	Recipientes de enriquecimento
 1000400	Correia transportadora de enlatamento
 1000411	Fundidores de compressão
-1000412	Criocâmara
+1000412	Crio-câmara
 1000418	Cadinhos
 1000414	Perfuração de crosta profunda
 1000423	Cabeça de perfuração revestida
@@ -127,7 +127,7 @@
 1001238	Espaçoporto de transmissão
 1002664	Gerador de escudo grande
 1002663	Gerador de escudo pequeno
-1003167	Deque de observação
+1003167	Dec de observação
 1003168	Arena ComBot
 1003169	Lançador Bungie
 1000180	Pistas lunares
