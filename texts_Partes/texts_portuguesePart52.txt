@@ -180,7 +180,7 @@
 12013476	Você acabou de baixar a DLC Orbita
 12013477	Dirige sua própria estação orbital
 12013478	Aplique tecnologias revolucionárias.
-12013479	e mais ...
+12013479	e mais...
 12013172	Acessar Nexus Tecnológico
 12013342	Ativar maior distância da câmera
 12013278	Nexus Tecnológico
