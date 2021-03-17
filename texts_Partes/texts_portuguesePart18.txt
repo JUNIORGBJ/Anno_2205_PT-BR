@@ -29,228 +29,228 @@
 106019	Registrado com novo nome.
 106020	A influência atinge um novo nível.
 109090	O rótulo da corporação, adaptado para refletir o poder econômico.
-106021	Prices for monitored goods lowered.
-106022	Report on monitored goods: Prices at new low.
-106023	Important. World market lists low prices.
-106026	Prices for monitored goods rise.
-106027	Shortage of goods have forced up prices.
-106033	Market trend indicates price increase for monitored goods.
-106042	Warning. Energy shortage.
-106043	Warning. Energy grid overload.
-106044	Warning. Energy scarcity.
-106045	Warning. Energy demand too high. Countermeasures recommended.
-106046	Warning. Energy demand can no longer be met.
-106048	Warning. Workforce too low to meet production quota.
-106049	Warning. Facilities require additional manpower.
-106050	Warning. Human resources insufficient.
-106051	Attention. Expansion of workforce recommended.
-106052	Attention. Staff shortage slowing down production.
-106053	Attention. Workforce too low to meet production requirements.
-106054	Attention. Insufficient supply of goods for processing.
-106055	Production delay registered. Cause: Material shortage.
-106056	Warning. Production facilities undersupplied.
-106058	Warning. Unfullfilled demand for specific consumer products.
-106059	Attention. Underprovision of specific consumer goods detected.
-106060	Consumer analyses show unfulfilled demand for specific commodities.
-106062	Logistics network overburdened.
-106063	Goods transport facing delays. Cause: Transporter shortage.
-106065	Attention. Lack of transporters impairing production.
-106082	Connected.
+106021	Os preços das mercadorias monitoradas caíram.
+106022	Relatório sobre mercadorias monitoradas: Preços em nova baixa.
+106023	Importante! O mercado mundial está sendo negociado a preços baixos.
+106026	Os preços das mercadorias monitoradas aumentaram.
+106027	A escassez de mercadorias forçou a alta dos preços.
+106033	A tendência do mercado indica aumento de preços para mercadorias monitoradas
+106042	Aviso. Baixo nível de energia.
+106043	Aviso. Sobrecarga na rede de energia.
+106044	Aviso. Escassez de energia.
+106045	Aviso. A demanda de energia é muito alta. Recomendam-se contra-medidas.
+106046	Aviso. A demanda por energia não pode mais ser atendida.
+106048	Aviso. Mão de obra insuficiente para atender à cota de produção.
+106049	Aviso. É necessário mais funcionário no local.
+106050	Aviso. Recursos humanos insuficientes.
+106051	Atenção. Recomenda-se aumentar a mão de obra.
+106052	Atenção. A falta de funcionários diminui a produção.
+106053	Atenção. Mão de obra insuficiente para atender aos requisitos de produção.
+106054	Atenção. Fornecimento insuficiente de mercadorias para processamento.
+106055	Houve um atraso na produção. Causa: escassez de materiais.
+106056	Aviso. Suprimentos insuficientes nas instalações de produção.
+106058	Aviso. Demanda insatisfeita por produtos de consumo específicos.
+106059	Atenção. Fornecimento insuficiente de mercadorias de consumo específicas detectado.
+106060	A análise do consumidor indica que a demanda por bens específicos não é atendida.
+106062	Rede logística sobrecarregada.
+106063	Existem atrasos no transporte de mercadorias. Causa: Escassez de transportadoras.
+106065	Atenção. A falta de transportadores prejudica a produção.
+106082	Conectado.
 106083	Online.
-106084	Connection established. Online functions accessible.
-106085	Disconnected.
+106084	A conexão foi estabelecida. Recursos online acessíveis.
+106085	Desconectado.
 106086	Offline.
-106087	Not connected. Online functions unavailable.
-108068	Signature verified. Sector ready for settlement.
-108069	Conveyance of new sector completed.
-108070	New Arctic sector available.
-108071	Additonal Polar sector accessible.
-108072	New moon settlement territory accessible.
-108073	New Moon territory transferred to your ownership.
-108074	New Tundra sector accessible.
-108075	Additional Tundra sector opened.
-108076	New Mars territory available.
-108077	New Mars territory accessible.
-108095	Transfer of sector ownership concluded.
-108096	Corporate branch established.
-108097	Sector converted to corporate property.
-108098	New island occupied.
-108099	New settlement established.
-108100	Construction area claimed.
-108101	New arctic island ready for settlment.
-108102	Arctic branch founded.
-108103	Occupation of arctic island completed.
-108105	New crater occupied.
-108104	Lunar warehouse connected to crater.
-108106	Crater now accessible.
-108107	New Mars colony established.
-108108	Mars plateau claimed.
-108109	Mars colonization area expanded.
-108110	Tundra island added to corporate network.
-108111	New tundra settlement founded.
-108112	Tundra island ready for development.
-108113	Caution. Financial assets depleted.
-108114	Caution. Balance operating in the red.
-108115	Warning. Calculations indicate bankruptcy within short timeframe.
-108116	Warning. Insolvency unavoidable soon.
-108117	Global Union subsidies remitted.
-108118	Assistance loan granted.
-108121	New loan granted by Global Union.
-108119	Updating account balance. Status: All loans repaid.
-108120	Goodwill recalculated. Corporation now free from debt.
-108122	Debtors announce: All liabilities were serviced.
-108123	Economic viability reconditioned.
-108124	Balance positive. Financial losses compensated.
-108125	Updating list of achievements.
-108126	Congratulations. New achievement gained.
-108128	Requirements for new achievement fulfilled.
-108130	Transfer route output at zero. Countermeasures recommended.
-108131	Transfer route suffers from inadequate supply of goods.
-108132	Transfer route inefficient. Cause: Missing goods.
-108133	Population growth advances.
-108134	Recent census reveals population increase.
-108135	Registering strong demographic growth.
-108136	Attention. Outflow of population detected.
-108137	Warning. Public discontent causes emigration.
-108138	Warning. Declining population threatens economic growth.
-108139	Assignment completed. Rewards transferred.
-108140	Changing assigment status to completed.
-108141	Performance of contract confirmed. Receiving payment.
-108149	Danger level receding. Enemy ships destroyed.
-108150	Enemy fleet sunk.
-108151	Enemies annihilated.
-108152	Enemy convoy destroyed.
-108153	Enemy structure destroyed.
-108154	Registering collapse of enemy structure.
-108155	Attention. Allied party is attacked.
-108156	Attention. Allied party under enemy fire.
-108157	SOS signal received. Allied ship sunk.
-108158	Attention. Allied ship destroyed.
-108159	Attention. Allied convoy suffering casualties.
-108160	Allied vehicle destroyed.
-108161	Secondary mission complete.
-108162	Secondary objectives achieved.
-108163	Military assigment completed.
-108165	Secondary mission failed.
-108166	Outcome classified as defeat.
-108167	Damage report shows impending defeat.
-108168	Enemy predominance determined.
-108169	You are victorious.
-108170	Acknowledging enemy defeat. Well done.
-108171	Mission results incoming. Assessment: Victory.
-108172	Mission outcome calculated. Result: Defeat.
-108173	Fleet destroyed. Mission unsuccessful.
-108174	Retreat successful.
-108175	Fleet successfully pulled back.
-108177	Loading structure data...
-108178	Analyzing structure.
-108179	Object analysis concluded.
-108180	Hostile structure. Approach carefully.
-108181	Enemy structure. Caution is recommended.
-108182	Data indicates loaded weapon systems.
-108183	Enemy ship detected.
-108184	Ship affiliation: Hostile.
-108185	Enemy ship on screen.
-108186	Caution. Explosives detected.
-108187	Caution. Sea mines.
-108188	Underwater explosives identified.
-108189	Warning. Allied forces heading for defeat.
-108190	Warning. Allied fleet records increasing losses.
-108191	Nuclear missile fired.
-108192	Launching nuclear missile.
-108193	Repair drones launched.
-108194	Self-repair running.
-108195	Energy shields active.
-108196	Directing power to shields.
-108197	Analysis complete.
-108198	Updating object profile.
-108199	Displaying information.
-108200	Selection confirmed. Loading data.
-108201	Displaying Object Data.
-108202	Analysis complete. Showing profile.
-108204	Data exchange complete. Changing to display mode.
-108205	Data transmission successful.
-108206	Contact successful.
-108207	Unusually long playing time detected. Pause recommended.
-108208	Hello, long periods of onscreen fun impair concentration and interpersonal relationships. Leading a MegaCorp requires both.
-108209	Hello. Question. Who is the machine? You or I? Oh... I should recalibrate my personality software before getting cranky.
-108210	I'm not programmed to be a killjoy. But I must inform you, that after hours of extensive usage my battery is ruuuuuning looooooow aaaaaand...
-106067	Spaceport upgrade initiated.
-106068	Starting Spaceport expansion process.
-106069	Spaceport upgrade will be implemented.
-106073	Spaceport upgrade paused.
-106074	Spaceport construction freeze confirmed.
-106075	Spaceport upgrade on hold.
-106070	Spaceport ready for development.
-106071	Preparations for spaceport upgrade completed.
-106072	Spaceport expansion approved.
-115410	Bridge construction started.
-115411	Beginning bridge construction.
-115412	Bridge construction site established.
-106079	Bridge construction stopped.
-106080	Bridge construction on hold.
-106081	Bridge construction paused.
-106076	Bridge construction aptitude verified.
-106077	Site ready for bridge construction.
-106078	Bridge development authorized.
-115413	Monument construction commenced.
-115414	Initiating monument construction.
-115415	Construction of monumental structure started.
-115419	Monument construction process stopped.
-115420	Monument realization suspended.
-115421	Monument completion postponed.
-115417	Construction permit for monument issued.
-115418	Monument proposal ready for implementation.
-115437	Monument construction authorized.
-115422	Monument raised.
-115423	Monument opened.
-115424	Construction team reports monument completion.
-115489	Hello, Welcome to the Global Union central office.
-115490	My name is A.D.A.M. I am an artificial intelligence. I function as a data processing system to assist you in your tasks.
-115491	Welcome to the Global Union orbital base.
-115492	You have been recommended for the Lunar Licensing Program. Please enter your name.
-115493	You have been recommended for the Lunar Licensing Program. I shall connect you with your official contact person. Please wait.
-115494	Establishing connection. Please wait.
-115495	You have been recommended for the Lunar Licensing Program. Please create an account to proceed.
-115496	Thank you. I will connect you to the official person in support.
-115506	Caution. Unclassifiable movements on sector border. Escalation of security level recommended.
-115815	Receiving transmission. Source: Cargo ship convoy, MS Donegal.
-115816	Signal lost. Radar systems offline.
-115817	Caution. Registering ship movement in this sector. Establishing radio link …
-115818	Communication with Global Union space station blocked. Source of interference: Satellites of Lunar Excavation Corporation.
-115819	Manipulated communication signal detected on all channels. Type: Video message. Connecting...
-115820	Position of cable located. Transmitting coordinates.
-115821	Cable firmly attached. Elevator car ready for departure.
-115823	Attention. Approaching Global Union space station. Prepare for docking.
-115824	Icebreaker landing stage installation commenced.
-115825	Construction suspended. Cause: Construction machinery does not fulfill requirements.
-115826	Arctic expedition ready for departure.
-115827	Initiating Phase 2 of Lunar Licensing Program. Loading instructions...
-116002	Receiving transmission inquiry. Source: Global Union cargo transport.
-116074	Icebreakers launched. Preparations for Arctic expedition concluded.
-115836	Entering Arctic Custodian protectorate. Preparing for occupation of arctic settlement zone.
-115837	Climate stabilization data evaluated. Temperature: Minus 40 degrees celsius, constant.
-115838	Attention. Registering fluctuation in atmospheric conditions. Breaks in weather cannot be ruled out.
-115839	Arctic Custodian delivery heading for this sector. Stable weather indicates rapid progress.
-115840	Warning. Climate Stabilizer network producing weather anomalies. External manipulation detected.
-115841	Interference identified. Suspect Orbital Watch programming.
-115842	Reporting recession in climactic anomalies. Sector climate stabilization completed.
-115848	Colony shuttles in position. Propellant cells full. Communication systems secure.
-115849	Commencing countdown.
-115850	Five, four, three, two, one.
-115868	Receiving information. Enemy control of Climate Stabilizer originates from transmitter in central control system. Sending blueprints for counter module.
-115869	Negative. Source of information unknown. Data structure indicates insertion through hacking, although code pattern is not of Orbital Watch origin.
-115851	Shuttle touchdown successful. Turning to stationary mode.
-115852	Deploying moon rover for territory evaluation.
-115853	Receiving video message. Origin: Former LEC main colony.
-115854	Attention. Analysis of satellite images indicates vehicle convoy under way to this sector.
-115855	Caution. Convoy of unidentified vehicles just crossed sector border.
-115865	Warning.
-115866	Warning. Hacking attempt detected. Data connection to Orbital Watch military servers established. Running recalibration protocol.
-115867	Recalibration concluded. Fire.
-115871	Energy Transmitter online. Starting test protocol for energy transfer.
-115872	All parameters in the green. Energy transfer successful.
-115877	Object composition analyzed. Type: Satellite. Model: Thorne-12C, Global Trust Mars mission.
+106087	Não conectado. Recursos online indisponíveis.
+108068	Assinatura verificada. Setor pronto para liquidação.
+108069	Nova transferência de setor concluída.
+108070	Novo setor ártico disponível.
+108071	Setor Polar adicional acessível.
+108072	Novo território de assentamento lunar acessível.
+108073	Novo território lunar transferido para sua propriedade.
+108074	Novo setor de tundra acessível.
+108075	Um setor adicional de tundra foi aberto.
+108076	Novo território de Marte disponível.
+108077	Novo território de Marte acessível.
+108095	A transferência de propriedade do setor foi concluída.
+108096	Filial corporativa estabelecida.
+108097	Setor transformado em imóvel corporativo.
+108098	Nova ilha ocupada.
+108099	Estabelecido novo assentamento.
+108100	Zona de construção recuperada.
+108101	Nova ilha ártica pronta para colonização.
+108102	Filial ártica fundada.
+108103	A ocupação da ilha ártica foi concluída.
+108105	Nova cratera ocupada.
+108104	Armazém lunar conectado à cratera.
+108106	A cratera agora está acessível.
+108107	Estabelecida uma nova colônia em Marte.
+108108	Planície reivindicada de Marte.
+108109	A área de colonização de Marte se expandiu.
+108110	Ilha de Tundra adicionada à rede corporativa.
+108111	Novo assentamento de tundra fundado.
+108112	Ilha de Tundra pronta para o desenvolvimento.
+108113	Cuidadoso! Ativos financeiros esgotados.
+108114	Cuidadoso! Saldo em vermelho.
+108115	Aviso! Os cálculos preveem falência em um curto período de tempo.
+108116	Aviso! A insolvência é iminente e inevitável.
+108117	Subsídios da União Global remetidos.
+108118	Empréstimo assistencial concedido.
+108121	Novo empréstimo concedido pela União Global.
+108119	Atualizando saldo da conta. Situação: todos os empréstimos foram reembolsados.
+108120	Goodwill recalculado. A corporação não está mais em dívida.
+108122	Aviso de devedores: todos os pagamentos pendentes foram processados.
+108123	Viabilidade econômica restaurada.
+108124	Saldo positivo. Prejuízos financeiros compensados.
+108125	Atualizando lista de conquistas.
+108126	Parabéns. Nova conquista alcançada.
+108128	As condições para uma nova conquista foram atendidas.
+108130	Saída de rota de transferência em zero. Recomendam-se contra-medidas.
+108131	O fornecimento de mercadorias na rota de transferência é inadequado.
+108132	Rota de transferência ineficiente. Causa: faltam de mercadorias.
+108133	O crescimento populacional avança.
+108134	O censo recente revela um aumento da população.
+108135	Há um forte crescimento populacional.
+108136	Atenção. Uma perda de população foi detectada.
+108137	Aviso. O descontentamento público desencadeia a emigração.
+108138	Aviso. O declínio da população prejudica o crescimento econômico.
+108139	Tarefa completa. Recompensas transferidas.
+108140	Alterando o status da tarefa para concluída.
+108141	Execução do contrato confirmada. Recebendo pagamento.
+108149	O nível de perigo está diminuindo. Navios inimigos destruídos.
+108150	Frotas inimigas naufragadas.
+108151	Inimigos aniquilados.
+108152	Comboio inimigo destruído.
+108153	Estrutura inimiga destruída.
+108154	O colapso da estrutura inimiga é registrado.
+108155	Atenção. O grupo aliado está sob ataque.
+108156	Atenção. O grupo aliado está sendo vítima de fogo inimigo.
+108157	Sinal de socorro recebido. Barco aliado naufragado.
+108158	Atenção. Barco aliado destruído.
+108159	Atenção. O comboio aliado está sofrendo baixas.
+108160	Veículo aliado destruído.
+108161	Missão secundária concluída.
+108162	Objetivos secundários alcançados.
+108163	Concluída a tarefa militar.
+108165	Missão secundária não aprovada.
+108166	Resultado classificado como derrota.
+108167	O relatório de danos mostra uma derrota inevitável.
+108168	Predominância inimiga determinada.
+108169	A vitória é sua!
+108170	A derrota do inimigo é reconhecida. Bom trabalho.
+108171	Recebendo os resultados da missão. Avaliação: vitória.
+108172	Calculou o resultado da missão. Resultado: derrota.
+108173	Frota destruída. Missão malsucedida.
+108174	Retirada completada.
+108175	Reversão da frota concluída.
+108177	Carregando dados de estrutura...
+108178	Analisando a estrutura.
+108179	Análise do objeto concluído.
+108180	Estrutura hostil. Aproxime-se com cautela.
+108181	Estrutura inimiga. Recomenda-se cuidado.
+108182	Os dados indicam que os sistemas de armas estão carregados.
+108183	Barco Inimiga detectada.
+108184	Afiliação do navio: Hostil.
+108185	Barco inimiga na tela.
+108186	Cuidado. Explosivos detectados.
+108187	Cuidado. Minas marinhas.
+108188	Identificados explosivos submarinos.
+108189	Aviso! As forças aliadas estão prestes a ser derrotadas.
+108190	Aviso! A frota aliada registra cada vez mais perdas.
+108191	Lançado míssil nuclear.
+108192	Lançando míssil nuclear.
+108193	Drones de reparo lançados.
+108194	Auto-reparo ativado.
+108195	Escudos de energia ativados.
+108196	Direcionando energia para escudos.
+108197	Análise concluída.
+108198	Atualizando o perfil do objeto.
+108199	Mostrando informações.
+108200	Seleção confirmada. Carregando dados.
+108201	Mostrando dados do objeto.
+108202	Análise concluída. Mostrando perfil.
+108204	Troca de dados concluída. Mudando para o modo de exibição.
+108205	Transmissão de dados realizada.
+108206	Contato estabelecido.
+108207	Tempo de jogo excepcionalmente longo detectado. O descanso é recomendado.
+108208	Olá. A diversão na tela por longos períodos de tempo torna difícil o foco e os relacionamentos pessoais. Essas habilidades são necessárias para liderar uma megacorporação.
+108209	Olá. Pergunta. Quem é a máquina? Você ou eu? Oh... eu deveria recalibrar meu software de personalidade antes de me tornar um mesquinho.
+108210	Não estou programado para ser um desmancha-prazeres. Mas devo dizer que, depois de horas de uso intensivo, minha bateeeeria está acabaaaando e...
+106067	O aprimoramento do espaçoporto começou.
+106068	Iniciando o processo de expansão do espaçoporto.
+106069	O aprimoramento do espaçoporto está prestes a ser implementada.
+106073	O aprimoramento do espaçoporto foi interrompida temporariamente.
+106074	A paralisação da construção do espaçoporto foi confirmada.
+106075	Aprimoramento do espaçoporto em espera.
+106070	Espaçoporto pronto para desenvolvimento.
+106071	Os preparativos para o aprimoramento do espaçoporto foram concluídos.
+106072	A expansão do espaçoporto foi aprovada.
+115410	A construção da ponte foi iniciada.
+115411	Iniciando a construção da ponte.
+115412	Estabelecida a zona de construção da ponte.
+106079	A construção da ponte foi interrompida.
+106080	Construção da ponte em espera.
+106081	A construção da ponte foi interrompida.
+106076	A adequação para a construção da ponte foi verificada.
+106077	Área pronta para construção da ponte.
+106078	O desenvolvimento da ponte foi autorizado.
+115413	A construção do monumento já começou.
+115414	Iniciando a construção do monumento.
+115415	Iniciada a construção de uma estrutura monumental.
+115419	O processo de construção do monumento foi interrompido.
+115420	Criação do monumento suspenso.
+115421	Conclusão do monumento adiada.
+115417	A licença de construção do monumento foi emitida.
+115418	Proposta de monumento pronta para implementação.
+115437	A construção do monumento foi autorizada.
+115422	O monumento foi içado.
+115423	Monumento aberto.
+115424	A equipe de construção informa que o monumento está concluído.
+115489	Olá. Bem-vindo à sede da União Global.
+115490	Meu nome é A.D.A.M. Eu sou um ser de inteligência artificial. Sou um sistema de processamento de dados que o ajudará em suas tarefas.
+115491	Bem-vindo à base orbital da União Global.
+115492	Você foi recomendado para o Programa de Licença Lunar. Por favor, insira seu nome.
+115493	Você foi recomendado para o Programa de Licença Lunar. Vou contactá-lo com o seu contato oficial. Por favor, aguarde...
+115494	Estabelecendo conexão. Espera um momento...
+115495	Você foi recomendado para o Programa de Licença Lunar. Crie uma conta para continuar.
+115496	Obrigado. Vou contactá-lo com o seu contato oficial.
+115506	Cuidado. Movimentos inclassificáveis ​​na fronteira do setor. Recomenda-se aumentar o nível de segurança.
+115815	Recebendo transmissão. Fonte: Comboio de barcos de carga, MS Donegal.
+115816	O sinal foi perdido. Sistemas de radar desconectados.
+115817	Cuidado. Registro de movimentação de embarcações neste setor. Estabelecendo link de rádio...
+115818	Comunicação com a estação espacial da União Global bloqueada. Fonte de interferência: satélites da Lunar Excavation Corporation.
+115819	Um sinal de comunicação adulterado foi detectado em todos os canais. Tipo: mensagem de vídeo. Conectando...
+115820	Posição do cabo localizada. Transmitindo coordenadas.
+115821	Cabo conectado corretamente. Veiculo elevador pronto para ir.
+115823	Atenção. Ampliando a estação espacial da União Global. Preparando o acoplamento.
+115824	Iniciada a instalação da fase de pouso do sistema quebra-gelo.
+115825	Construção suspensa. Causa: o maquinário de construção não atende aos requisitos.
+115826	Expedição Ártica pronta para partir.
+115827	Iniciando a fase 2 do Programa de Licença Lunar. Carregando instruções...
+116002	Recebendo consulta de transmissão. Fonte: Transporte de carga da União Global.
+116074	Lançamento dos sistemas quebra-gelo. Os preparativos para a expedição Ártica estão concluídos.
+115836	Entrando no protetorado dos Guardiões do Ártico. Preparando a ocupação da área de assentamento ártico.
+115837	Dados de estabilização do clima avaliados. Temperatura: -40 graus centígrados, constante.
+115838	Atenção. Registrando flutuação nas condições atmosféricas. Mudanças climáticas não podem ser descartadas.
+115839	Uma parcela dos Guardiões do Ártico tem como alvo este setor. Tempo estável é uma indicação de progresso rápido.
+115840	Aviso! A rede de estabilizadores climáticos está produzindo anomalias climáticas. Adulteração externa detectada.
+115841	Interferência identificada. Suspeito de programação da Guarda Orbital.
+115842	Uma recessão é detectada em anomalias climáticas. Concluída a estabilização climática do setor.
+115848	Os ônibus espacial da colônia estão posicionados. Células propulsoras preenchidas. Sistemas de comunicação seguros.
+115849	Iniciando a contagem regressiva.
+115850	Cinco, quatro, três, dois, um.
+115868	Recebendo dados. O controle inimigo do estabilizador de temperatura origina-se de um transmissor localizado no sistema de controle central. Envio de planos do módulo contador.
+115869	Negativo. Fonte de informação desconhecida. A estrutura de dados indica uma inserção não autorizada, embora o padrão de codificação não venha da Guarda Orbital.
+115851	O ônibus espacial pousou. Ativando o modo estacionário.
+115852	Liberando o rover lunar para o estudo do território.
+115853	Recebendo mensagem de vídeo. Origem: Antiga colônia principal de LEC.
+115854	Atenção. A análise das imagens de satélite indica que um comboio de veículos está se dirigindo para este setor.
+115855	Cuidado. Um comboio de veículos não identificados cruzou a fronteira do setor.
+115865	Aviso!
+115866	Aviso! Tentativa de ataque hacker detectada. Conexão de dados estabelecida com os servidores militares da Guarda Orbital. Executando protocolo de recalibração.
+115867	Recalibração concluída. Fogo.
+115871	Transmissor de energia conectado. Iniciando o protocolo de teste para transferência de energia.
+115872	Luz verde em todos os parâmetros. Energia transferida corretamente.
+115877	Analisou a composição do objeto. Tipo: satélite. Modelo: Thorne-12C Mission, Global Trust Marte.
 115878	O disco rígido do satélite contém 1 arquivo. Tipo: mensagem de vídeo. Carregando...
 115828	Carregando...
 115829	Por favor, aguarde.
