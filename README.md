@@ -17,11 +17,20 @@ _ "Traduzir 100% do jogo com a melhor qualidade possível" _
 
 Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, portanto ficarei feliz se você puder ajudar de alguma forma o projeto, tradução, erros ortográficos e revisão em jogo!
 
-## Instalação
+## Instalação 1
 
 Se você desejar testar a tradução em jogo, será preciso colar e substituir o arquivo ```data18.rda``` no caminho especificado abaixo:
 
 ```Anno 2205\maindata```
+
+## Instalação 2
+
+1. Baixe o arquivo Traducao.Anno.2205v0.9.9_Data.rar e extraia. Mova a pasta ```data``` para a pasta de instalação do Anno 2205, esta pasta não deve sobrescrever nada.
+2. Execute o Anno 2205 pelo menos uma vez (se ainda não o fez). Isso é para gerar as pastas de configuração em seus documentos.
+3. Em ```C: \ Usuários \ [SEU-USUARIO] \ Documentos \ Anno 2205 \ config```, abra o arquivo ```engine.ini``` com o bloco de notas ou similar.
+4. Na terceira entrada, ```PreferLocalFiles: false``` mude para ```PreferLocalFiles: true```. Isso diz ao jogo para carregar a pasta ```data``` que você acabou de copiar, em vez de carregar as pastas de instalação principais.
+5. Execute o jogo, e altere a idioma para português do Brasil.
+
 
 ## Ferramentas Ultilizadas
 
