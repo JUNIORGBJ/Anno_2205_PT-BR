@@ -76,241 +76,241 @@
 121811	Transferência orbital operando dentro de sua capacidade.
 121812	Limite da nave orbital atingido.
 121813	Não há espaço para a chegada de ônibus adicionais.
-121814	New transfer shuttles now operable.
-121815	More orbital transports available.
-121816	Shuttle options expanded.
-121818	Warning. Insufficient research supplies.
-121819	Attention. Research goods missing.
-121820	Scientific progress halted due to material shortage.
-121821	Astronaut preparations finalized, shuttle launch scheduled.
-121822	Attention: shuttle launch drawing nearer.
-121823	Astronauts preparing for boarding and take off.
-121824	Laboratory setup complete, research begins.
-121825	Scientific personnel beginning work now.
-121826	Research project underway.
-121827	Operations shutting down. Your corporation has been bought by a competitor. Preparing take over documentation. Goodbye.
-121828	Attention: Your corporation is about to be bought.
-121829	Warning: Danger of hostile takeover.
-121830	Impending buy-out, immediate action advised.
-121831	Your auction begins.
-121832	Your starting bid was processed.
-121833	Auction registered.
-121835	Bid successful, congratulations.
-121836	You were the highest bidder!
-121837	The winning bid was made, transferring ownership.
-121838	Attention, auctioning for own corporation share has started.
-121839	Competitors are bidding on your company share, counter actions advised.
-121840	Bid on company share registered, placing own bid is advisable.
-121841	Your company stock was purchased.
-121842	Competitor acquires your share.
-121843	Signing company share over to competitor.
-121844	Corporation shares reacquired.
-121845	Treasury stock secured.
-121846	Share buffer expanded.
-121847	Significant market movement observed.
-121848	Alarming market trend among competition.
-121849	Shift in shares between competitors.
-121850	Incoming reports of significant share purchase.
-121851	Large stock acquisition reported.
-121853	Networking proves successful.
-121854	Increasing global influence.
-121855	Market influence growing.
-121856	Economical importance decreasing.
-121857	Losing influence on markets.
-121858	Partners losing confidence.
-121859	Sector deliveries halted.
-121860	Local supply stop initiated.
-121861	Product ban taking sector-wide effect.
-121862	Public facilities temporarily closed in this sector.
-121863	Local services ceased.
-121864	Hiatus announced in sector.
-121865	Deliveries resume in this sector.
-121866	Sector supply lines restarted.
-121867	Local product ban reversed.
-121868	Public facilities reopened in this sector.
-121869	Local businesses return to normal.
-121870	Daily routine reinstated.
-121871	Altering ingredient list of rival food products.
-121872	Faked certification results for competitor tools.
-121873	Rival production line sabotaged.
-121874	Unsuccessful. Original owner documents leaked.
-121875	Attention: Anti-trust division shut down patent transfer.
-121993	Whistleblower published papers, sign over failed.
-121876	Private data on competitor forwarded to global news outlets.
-121877	Negative product review campaign commissioned.
-121878	Violation of workers' rights forwarded to the Global Union.
-121879	Your competitor's outdated anti-virus software has been exploited.
-121880	Security flaw detected. Infected unauthorized employee PDA.
-121881	Access to rival gained through pirated software.
-121882	Contact to insider lost.
-121883	Reports of arrests surfacing.
-121884	Insider's contract was terminated.
-121885	Insider facing non-disclosure charges.
-121886	Insider arrested for industry sabotage.
-121887	Alerted authorities, stalling the auction was successful.
-121888	Informed antitrust division of alleged agreements.
-121889	Fabricated documents proving collusion between competitors.
-121890	Publicly questioned competitor's creditworthyness.
-121891	Released negative assessments, author anonymous.
-121892	Contacts activated. This will be rated as a risky investment.
-121893	Submitting claim for transaction tax.
-121894	Auction was conducted on company servers. Claiming profit cut.
-121895	Pressing charges for compensation.
-121896	Your corporation can trade and be traded publicly.
-121897	New building option to increase promotions in your city.
-121898	You can now join the Stock Market.
-121899	Sector entering emergency mode.
-121900	Calamity reported, counter measures are advised.
-121901	Sector recovers from calamity.
-121902	Danger has passed, normal operations resume.
-121903	Indications of an approaching crisis emerging.
-121904	Calamity anticipated shortly. Preparations are recommended.
-121905	Data breach detected! Security failing!
-121906	Security alert! Financial accounts have been compromised!
-121907	Unannounced amounts of rainfall occurring. Investigation advisable.
-121908	Severe precipitation ahead of schedule. Cause: Unnatural.
-121910	The polar night has begun. Safety laws taking effect.
-121911	Attention: Polar night. Refer to updated regulations.
-121912	Strong solar winds arriving. Energy fluctuation detected.
-121913	Warning: Solar flare incoming.
-121914	Warning: high air pollution.
-121915	Smog is affecting urban areas.
-121916	Attention: Harsh arctic weather conditions.
-121917	Visibility decreased strongly. Caution advisable.
-121918	Significant temperature drop detected.
-121919	Warning: Unprecedented cold wave.
-121920	Reports of stabilizer shutdown. Uncontrolled temperature increase.
-121921	Critical temperature rise. Counter action necessary.
-121922	Location: Temperate Region
-121923	Location: Arctic Region
-121924	Location: Lunar Region
-121925	Location: Tundra Plains
-121926	Location: Orbital Station
-121927	Location: Mars Colonies
-121928	Location: Cape Ambar
-121929	Location: Walbruck Basin
-121930	Location: Viridian Coves
-121931	Location: Akia Floes
-121932	Location: Ikkuma Glacier
-121933	Location: Kinngait Protectorate
-121934	Location: Novikov Crater
-121935	Location: Iwamoto Crater
-121936	Location: Mare Relictum
-121937	Location: Vanha Plains
-121938	Location: Wildwater Bay
-121939	Location: Orbital Station
-121940	Location: Madrigal Islands
-121941	Location: Greentide Archipelago
-121942	Location: Savik Province
-121943	Location: Outpost Delta 7
-121944	Location: Drop Zone Sigma
-121945	Decommisioned central power unit. Structure intact, no activity detected.
-121946	Inactive secondary generator. Reason: depleted fuel supply.
-121947	Activating core unit. Stable output at 33%.
-121948	Power surge in main unit detected. Output increased significantly.
-121949	Central unit at full capacity. Effect range increased considerably.
-121950	Logistics network improved.
-121951	Staff now working more efficiently.
-121952	Energy supply added to network.
-121953	Fuel loaded. Powering up generator.
-121954	Generator operational. Commencing startup sequence.
-121955	Reanimating generator.
-121956	Antiquated power source. Analysis proves past use in generators.
-121957	Extraction complete.
-121958	Excavation concludes.
-121959	Site cleared, fuel secured.
-121960	Transfer route limit increased.
-121961	New transfer options available.
-121962	Additional transfer routes now possible.
-121963	Transfer route registered.
-121964	New transfer route delivers.
-121965	Transfer route beginning operation.
-121966	Renewing parameters.
-121967	Updating transfer options.
-121968	Reviewing transfer route.
-121969	Cancelling transfer route.
-121970	Ceasing operation.
-121971	Route discontinued.
-121972	Obstacle removed.
-121973	Building space gained.
-121974	Removal successful.
-121975	Called for fleet.
-121976	Fleet ordered to location.
-121977	Fleet on its way.
-121978	Fleet arriving.
-121979	Fleet reaching position.
-121980	Fleet on standby.
-121981	Attention: Ship lost.
-121982	Fleet taking losses, ship sunk.
-121983	Danger: Ship sinking.
-121984	The islands of various sizes suggest a decentralized construction approach.
-121985	Additionally, reports detail a former spaceport testing site.
-121986	State: Not operational. Current owner unknown.
-121987	The Arctic Custodian committee has decided to open another sector to corporate activity.
-121988	Data shows a continental connection and isolated temperature spikes caused by geysers.
-121989	Harnessing excess heat is conceivable.
-121990	This sector has been considered out of commission until recently.
-121991	Recovering the generator complex could prove beneficial. First assessments show minor damage, and a lack of fossil fuel.
-121992	Suggested course of action: locating the outdated energy source.
-117198	A true island paradise, don't you think. The coastal area here is very rich in natural resources.
-117199	I wonder if that's the reason why a member of the Big Five is planning for an underwater research project.
-117200	But for now that's secondary. The protocol demands that you establish a spaceport in this area.
-117472	As the official owner of this sector, maybe you should join in. I mean, the ocean floor is part of your property.
-117201	Wide meadows and towering mountains. And soon you will add an impressive skyline to the picture.
-117202	But stay attentive. I was informed a Big Five company has been monitoring the ruined dam for quite some time now.
-117203	This could turn out beneficial for you at some point. But your prime objective is to raise a spaceport here.
-117473	I wonder if one could bring it into operation again. This would make this sector all the more valuable for your corporation.
-117204	Big place. We'll see if it's big enough for ambitions like yours.
-117205	One of my colleagues already has high hopes for the area. I'm sure he will ask you to join in his latest prestige project.
-117206	First things first, though. The protocol demands you bring a spaceport into operation here.
-117474	Between us, the Union is impressed with how your corporation is growing. Hardly surprising you have settled for such a vast sector.
-117535	A hundred years ago this was all water. But the Custodian's climate stabilization technology created a new Arctic biosphere here.
-117536	Climate Stabilizers are very difficult to maintain. The older ones fall into disrepair quite often.
-117537	The Stabilizer here is especially... unstable. But as this is your sector now, I suppose you're going to fix this problem.
-117538	Ice and snow. A rare sight nowadays. One you owe to the Custodian's climate stabilization technology.
-117539	And sights like this leaking oil rig, we owe to industrial exploitation and human greed.
-117540	But can you believe one of the Big Five offered the Arctic Custodians help with the problem? There must be something else to it.
-117541	It's the Arctic Custodian's climate stabilization technology, that keeps the temperatures below zero here.
-117542	Ever since it was opened, many other corporations have wanted to to do business in this area.
-117543	I hear, one Big Five company is especially enthusiastic about directing trading routes through here. As the sector owner, you have the final say of course.
-117605	So here you are. The Moon. Your very own piece of it.
-117606	At a glance: Just a stretch of grey dust and two big gaps. But I'm certain you see the place for what it could become.
-117607	Careful, though. This sector borders the Orbital Watch's territory. Union satellites spotted lunar vehicles moving in the vicinity.
-117608	So keep one eye on the horizon, while you see to the foundation of your first moon colony.
-117609	I'm not saying this has to be enemy intrusion. But it's something you should investigate.
-117610	There, your newest settlement zone. I heard astronauts refer to this place as the "claw", for the craters' odd layout.
-117611	Fact is, this sector has been exposed to frequent meteorite impacts in the past. Their fragments can act as sources for rare elements from outer space.
-117612	But let's not take the second step before the first. The establishment of a lunar base should be your sole priority now.
-117613	Rumor has it one of the Big Five is already planning a mining operation here. If you ask me, that sounds like a profitable joint venture.
-117615	Impressive crater. Like it has been drawn with a compass. The lunar landscape has something to it, no doubt.
-117616	In the days of the First Wave, there were ambitions to make this sector a tourist attraction. Unfinished business, as you can see.
-117617	And now our hopes are on you. The performance of the Second Wave's first colony will prove, if the Lunar Licensing Program is worth being continued.
-117618	And now you can revive the project. Maybe you'll find someone well-connected who wants to join in.
-116702	Estou feliz que você aceitou meu convite. Samantha Beaumont, supervisora ​​do Programa de Licenciamento Lunar da Global Union.
+121814	Existem novos ônibus de transferência operáveis.
+121815	Mais transportes orbitais disponíveis.
+121816	Opções de ônibus expandidas.
+121818	Aviso. Suprimentos de pesquisa insuficientes.
+121819	Atenção. Materiais de pesquisa faltando.
+121820	O progresso científico foi interrompido devido à escassez de material.
+121821	Os preparativos do astronauta foram finalizados, o lançamento do ônibus espacial foi agendado.
+121822	Atenção: o lançamento do ônibus espacial se aproxima.
+121823	Astronautas se preparando para o embarque e a decolagem.
+121824	Configuração do laboratório concluída, pesquisa iniciada.
+121825	Pessoal científico começando a trabalhar agora.
+121826	Projeto de pesquisa em andamento.
+121827	Operações de fechamento. Um concorrente comprou sua corporação. Preparando a documentação de aquisição. Adeus.
+121828	Atenção: eles estão prestes a comprar sua corporação.
+121829	Aviso: perigo de aquisição hostil.
+121830	Resgate iminente, ação imediata é recomendada.
+121831	Comece seu leilão.
+121832	Seu lance inicial foi processado.
+121833	Leilão registrado.
+121835	Licitação bem sucedida, parabéns.
+121836	Você licitou mais do que ninguém!
+121837	O lance vencedor foi feito, transferindo a propriedade.
+121838	Atenção, o leilão de ações da própria corporação já começou.
+121839	Os concorrentes estão licitando as ações da sua corporação, aconselhamos contra-ações.
+121840	Registrado o lance pela ação da corporação; licitação é recomendada.
+121841	As ações da sua corporação foram compradas.
+121842	O concorrente adquire sua parte.
+121843	Transferindo a ação da corporação para a concorrência.
+121844	Ações da corporação readquiridas.
+121845	Ações em tesouraria garantidas.
+121846	Limite de compartilhamento estendido.
+121847	Observado movimento de mercado significativo.
+121848	Tendência alarmante do mercado entre a concorrência.
+121849	Mudança de ações entre concorrentes.
+121850	Relatórios recebidos de compra significativa de ações.
+121851	Grande aquisição de ações relatada.
+121853	Os contatos provam ser um sucesso.
+121854	Aumento da influência global.
+121855	Crescimento da influência do mercado.
+121856	Diminuição da importância econômica.
+121857	Perdendo influência nos mercados.
+121858	Parceiros perdendo confiança.
+121859	As entregas do setor foram interrompidas.
+121860	Parada de abastecimento local iniciada.
+121861	Proibição de produtos tendo efeito em todo o setor.
+121862	Instalações públicas temporariamente fechadas neste setor.
+121863	Os serviços locais cessaram.
+121864	Anúncio de interrupção no setor.
+121865	As entregas são retomadas neste setor.
+121866	Linhas de abastecimento do setor reiniciadas.
+121867	Proibição de produtos locais revertida.
+121868	Instalações públicas reabertas neste setor.
+121869	Os negócios locais estão de volta ao normal.
+121870	Rotina diária restabelecida.
+121871	Alteração da lista de ingredientes de produtos alimentícios rivais.
+121872	Resultados de certificação falsificados de ferramentas concorrentes.
+121873	Linha de produção rival sabotada.
+121874	Mal sucedido. Documentos originais do proprietário vazaram.
+121875	Atenção: A divisão antitruste encerrou a transferência de patentes.
+121993	O informante publicou documentos, a transferência falhou.
+121876	Dados privados sobre o concorrente encaminhados para veículos de notícias globais.
+121877	Encomendou uma campanha negativa de revisão de produto.
+121878	Violação dos direitos dos trabalhadores encaminhada ao Sindicato Global.
+121879	O software antivírus desatualizado do seu concorrente foi explorado.
+121880	Detectada uma violação de segurança. PDA infectado de empregados não autorizado.
+121881	Acesso ao rival obtido por meio de software pirateado.
+121882	Contato perdido com o infiltrado.
+121883	Relatórios de prisão surgiram.
+121884	O contrato do infiltrado foi encerrado.
+121885	O infiltrado enfrenta acusações de confidencialidade.
+121886	Infiltrador preso por sabotagem industrial.
+121887	Autoridades alertadas; o leilão pode ser interrompido.
+121888	Divisão antitruste informada sobre supostos acordos.
+121889	Elaborado documentos que demonstrem conspiração entre os concorrentes.
+121890	A qualidade da competição foi questionada publicamente.
+121891	Lançadas avaliações negativas, autor anônimo.
+121892	Contatos ativados. Isso será classificado como um investimento de risco.
+121893	Enviando pedido de imposto sobre transações.
+121894	O leilão foi realizado nos servidores da corporação. Reivindicando corte de lucro.
+121895	Encargos de compensação de arquivamento.
+121896	Sua corporação pode negociar e ser negociada publicamente.
+121897	Nova opção de construção para aumentar as promoções na sua cidade.
+121898	Agora você pode ingressar no mercado de ações.
+121899	Setor entrando no modo de emergência.
+121900	Calamidade relatada, medidas contrárias são aconselhadas.
+121901	Setor se recupera da calamidade.
+121902	O perigo passou, as operações normais são retomadas.
+121903	Indicações de uma crise que se aproxima.
+121904	Calamidade prevista em breve. Os preparativos são recomendados.
+121905	Violação de dados detectada! Falha de segurança!
+121906	Alerta de segurança! As contas financeiras foram comprometidas!
+121907	Uma quantidade imprevista de chuva está caindo. Pesquisa não recomendada.
+121908	Chuvas fortes mais cedo do que o esperado. Causa: anormal.
+121910	A noite polar começou. Leis de segurança em vigor.
+121911	Atenção: noite polar. Consulte os regulamentos atualizados.
+121912	Chegando fortes ventos solares. Flutuação de energia detectada.
+121913	Aviso: explosão solar chegando.
+121914	Aviso: alta poluição do ar.
+121915	A poluição está afetando áreas urbanas.
+121916	Atenção: Condições climáticas árticas adversas.
+121917	A visibilidade foi bastante reduzida. Precauções são recomendadas.
+121918	Queda de temperatura significativa detectada.
+121919	Aviso: Onda fria sem precedentes.
+121920	Relatórios de desligamento do estabilizador. Aumento descontrolado da temperatura.
+121921	Aumento de temperatura crítico. Contra-ação necessária.
+121922	Location: Região Temperada
+121923	Location: Região Ártica
+121924	Location: Região Lunar
+121925	Location: Planícies de Tundra
+121926	Location: Estação Orbital
+121927	Location: Colônias de Marte
+121928	Location: Cabo Amber
+121929	Location: Bacia de Walbruck
+121930	Location: Enseada de Viridian
+121931	Location: Pântanos de Akia
+121932	Location: Geleira Ikkuma
+121933	Location: Protetorado Kinngait
+121934	Location: Cratera Novikov
+121935	Location: Cratera Iwamoto
+121936	Location: Marê Relictum
+121937	Location: Planícies de Vanha
+121938	Location: Baía de Wildwater
+121939	Location: Estação Orbital
+121940	Location: Ilhas Madrigal
+121941	Location: Arquipélago de Mareá Verde
+121942	Location: Província de Savik
+121943	Location: Posto avançado Delta 7
+121944	Location: Zona de descida Sigma
+121945	Unidade central de energia desativada. Estrutura intacta, nenhuma atividade detectada.
+121946	Gerador secundário inativo. Motivo: suprimento de combustível esgotado.
+121947	Ativando unidade central. Produção estável em 33%.
+121948	Detectada oscilação de energia na unidade principal. A produção aumentou significativamente.
+121949	Unidade central em plena capacidade. O alcance do efeito aumentou consideravelmente.
+121950	Rede logística melhorada.
+121951	A equipe agora trabalha com mais eficiência.
+121952	Fornecimento de energia adicionado à rede.
+121953	Carregado com combustível. Ligando o gerador.
+121954	Gerador operacional. Iniciando a sequência de inicialização.
+121955	Reiniciando gerador.
+121956	Fonte de alimentação antiquada. A análise prova o uso anterior em geradores.adores.
+121957	Extração concluída.
+121958	A escavação está concluída.
+121959	Área limpa, combustível protegido.
+121960	O limite da rota de transferência foi aumentado.
+121961	Novas opções de transferência disponíveis.
+121962	Rotas de transferência adicionais agora são possíveis.
+121963	Rota de transferência registrada.
+121964	Nova rota de transferência entrega.
+121965	Operação de início de rota de transferência.
+121966	Renovando parâmetros.
+121967	Atualizando opções de transferência.
+121968	Revisando rota de transferência.
+121969	Cancelando rota de transferência.
+121970	Cessando a operação.
+121971	Rota descontinuada.
+121972	Obstáculo removido.
+121973	Espaço de construção adquirido.
+121974	Remoção bem-sucedida.
+121975	Chamada da frota.
+121976	Frota solicitada para o local.
+121977	Frota a caminho.
+121978	Frota chegando.
+121979	Frota alcançando posição.
+121980	Frota em espera.
+121981	Atenção: Barco perdido.
+121982	Frota sofrendo perdas, barco naufragado.
+121983	Perigo: barco afundando.
+121984	Ilhas de vários tamanhos sugerem uma abordagem de construção descentralizada.
+121985	Além disso, os relatórios detalham a existência de um antigo centro de testes de estação espacial.
+121986	Status: não operacional. Proprietário atual desconhecido.
+121987	O comitê dos guardiões do Ártico decidiu abrir outro setor para atividade corporativa.
+121988	Os dados indicam que existe uma conexão continental e picos isolados de temperatura causados ​​por gêiseres.
+121989	O uso de calor em excesso é possível.
+121990	Este setor esteve fora de serviço até recentemente.
+121991	A recuperação do complexo gerador pode ser benéfica. As primeiras avaliações mostram danos menores e falta de combustíveis fósseis.
+121992	Recomendado: localize a fonte de alimentação obsoleta.
+117198	Uma verdadeira ilha paradisíaca, não acha? Esta zona costeira é muito rica em recursos naturais.
+117199	Eu me pergunto se é por isso que um membro dos Cinco Grandes está preparando um projeto de pesquisa subaquática.
+117200	Mas, por enquanto, isso é secundário. O protocolo exige que você estabeleça um espaçoporto nesta área.
+117472	Como proprietário oficial deste setor, talvez você deva ingressar. Afinal, o fundo do mar faz parte de sua propriedade.
+117201	Prados amplos e montanhas altas. E em breve você adicionará a esse cenário uma silhueta impressionante.
+117202	Mas preste atenção. Fui informado de que uma corporação dos Cinco Grandes está monitorando a barragem destruída há algum tempo.
+117203	Isso pode acabar pagando você de volta. Mas seu principal objetivo é construir um espaçoporto aqui.
+117473	Eu me pergunto se ele poderia estar operacional novamente. Isso tornaria este setor muito mais valioso para sua corporação.
+117204	Um ótimo lugar. Veremos se é grande o suficiente para suas ambições.
+117205	Um dos meus colegas já tem grandes expectativas para a área. Certamente ele pede que você se junte a ele em seu novo projeto de prestígio.
+117206	Mas primeiro as coisas mais importantes. O protocolo requer que você ative um espaçoporto aqui.
+117474	Entre nós: a União ficou impressionada com o crescimento de sua corporação. Não é surpreendente que você tenha ficado com um setor tão grande.
+117535	Cem anos atrás, tudo isso era água. Mas a tecnologia de estabilização climática dos Stewards criou uma biosfera ártica aqui.
+117536	Os estabilizadores climáticos são muito difíceis de manter. Os mais velhos estão muito estragados.
+117537	O estabilizador aqui é bastante... instável. Mas, como agora esse setor é seu, acho que cabe a você resolver esse problema.
+117538	Gelo e neve. Uma visão incomum hoje. E você deve isso à tecnologia de estabilização climática dos Stewards.
+117539	E visões como esta plataforma de petróleo vazando devemos à exploração industrial e à ganância humana.
+117540	Mas você pode acreditar que os Cinco Grandes ofereceram sua ajuda aos Guardiões do Ártico para resolver o problema? Acho que deve haver algo mais.
+117541	O que mantém as temperaturas abaixo de zero neste lugar é a tecnologia de estabilização climática dos Keepers.
+117542	Muitas corporações estão ansiosas para fazer negócios nesta área desde a sua inauguração.
+117543	Ouvi dizer que uma das Cinco Grandes corporações tem um interesse especial em direcionar as rotas comerciais para este lugar. Como dono do setor, você tem a última palavra, é claro.
+117605	Estamos aqui. A lua. Sua própria fatia.
+117606	À primeira vista: nada mais é do que um pedaço de poeira cinza e dois grandes buracos. Mas com certeza você sabe ver o potencial deste lugar.
+117607	Cuidado, tome cuidado. Este setor faz fronteira com o território da Guarda Orbital. Os satélites da União localizaram veículos lunares que estão se movendo pela área.
+117608	Portanto, fique de olho no horizonte ao lançar a base para sua primeira colônia lunar.
+117609	Não estou dizendo que isso deve ser uma intrusão inimiga. Mas é algo que você deve investigar.
+117610	Aí está: sua nova área de assentamento. Ouvi dizer que os astronautas chamam esse lugar de "garra", por causa da estranha distribuição das crateras.
+117611	A verdade é que este setor foi exposto no passado a impactos frequentes de meteoritos. Seus fragmentos podem servir de fonte para elementos raros do espaço sideral.
+117612	Mas não vamos dar o segundo passo antes do primeiro. Estabelecer uma base lunar agora deve ser sua única prioridade.
+117613	Diz-se que uma corporação dos Cinco grandes já planeja abrir uma mineração aqui. Se você quer minha opinião, parece uma colaboração muito benéfica.
+117615	Uma cratera impressionante. Como se tivesse sido traçado por uma bússola. A paisagem lunar tem algo especial.
+117616	Na época da Primeira Onda, havia quem desejasse transformar esse setor em atração turística. Um assunto inacabado, como você pode ver.
+117617	E agora depositamos nossas esperanças em você. O desempenho da primeira colônia da Segunda Onda demonstrará se o Programa de Licença Lunar vale a pena continuar.
+117618	E agora você pode ressuscitar o projeto. Você pode encontrar alguém que esteja bem conectado e queira participar.
+116702	Estou feliz que você aceitou meu convite. Samantha Beaumont, supervisora ​​do Programa de Licenciamento Lunar da União Global.
 117469	Temos muito que conversar. Mas, primeiro, quero apresentar a você o seu Artificial Data Amalgamating Messenger.
-117470	Oficialmente, apenas megacorporações podem participar do programa. Mas assumi pessoalmente a responsabilidade de defender sua posição. Basta se registrar com o nome de sua empresa.
+117470	Oficialmente, apenas megacorporações podem participar do programa. Mas assumi pessoalmente a responsabilidade de defender sua posição. Basta se registrar com o nome de sua corporação.
 117471	Obrigado. Mas preciso ver a logotipo de sua corporação. Para fins de identificação.
-116716	Meus superiores na Global Union tinham dúvidas sobre você. Mas eu os convenci. Eles até decidiram atribuir a você um território privilegiado para sua nova sede corporativa. Escolha um setor.
+116716	Meus superiores na União Global tinham dúvidas sobre você. Mas eu os convenci. Eles até decidiram atribuir a você um território privilegiado para sua nova sede corporativa. Escolha um setor.
 116717	Você está quase lá. Só temos que negociar os termos do seu contrato com a União Global. As condições de financiamento e esse tipo de coisa.
 116718	Oh, você deseja analisar as informações do contrato. Algum parágrafo específico que você tem em mente?
 116719	E nós terminamos. Você já perdeu muito tempo com a papelada. Vamos entrar em seu novo território para iniciar a Fase 1 do programa. Por favor, A.D.A.M., me dê mais detalhes.
 117484	Rafferty, por favor entre! Rafferty!
 117485	Bom. Comece a execução do teste!
-117207	The spaceport building side off the coast is still unstaffed. But as soon as you've built the necessary housing, your construction team will be moving in.
-117213	Organic food is perceived as needless luxury by many MegaCorps. Good to see you share the Union's perspective.
-117209	Great. Building material shortages shouldn't be an issue anymore!
-117211	Your construction crew is one of the first ready. Keep up the pace! Your competitors will try to catch up.
-117212	For the next construction stage, you'll need qualified ground staff to operate the spaceport. Make sure to adhere to Union standards, while providing the required infrastructure.
-117208	You need this desalination plant. These days it's the only way to come by drinkable water.
-117479	A broad range of information services. This will enable your employees to develop their interests as well as their skills.
-117214	One thing I learned during my political career: Prosperity and competence springs from happiness. You've taken heed of that.
-117215	Remarkable progress. You've assembled construction crews and ground personnel faster than I was expecting. You are more than ready for the first major hurdle.
-117216	The program demands you to connect your city with the Global Union space station via a space elevator. So far only MegaCorps like the Big Five use such technology. But I'm sure you have the same potential!
-117217	Good. You've gathered the components needed for the elevator. Only the elevator cable requires special materials you can't produce. But I arranged for a delivery.
-117218	A clever move, seeing to your staff's good health. Benefits like that make you more attractive an employer.
-117219	Your technicians are ready! Start the elevator construction once all other requirements are met. My associate John Rafferty is already heading here with the special material deliveries.
-117480	Alright, no time to study regulations! Meet Rafferty at the coordinates transmitted! Do whatever is necessary!
-117481	I'm glad you come back unharmed. This attack gave everyone at the Union headquarters shock. But the program has to go on!
-117482	We've lost contact to Lunar Excavation Corp. It seems many moon colonies aligned with the Orbital Watch! It's all the more important your space elevator goes into operation!
-117483	Congratulations! The first step into space! All purviews of the global economy are now accessible for you. Phase 2 of the Lunar Licensing Program starts now!
-117544	Outstanding! Now we can start the expansion of... wait, what's...
+117207	A zona de construção do espaçoporto costeiro permanece sem tripulação. Assim que você tiver construído as acomodações necessárias, sua equipe de construção chegará.
+117213	As megacorporações consideram os alimentos orgânicos um luxo desnecessário. Fico feliz em ver que você compartilha a perspectiva da União
+117209	Genial. Não deveríamos mais ter problemas de escassez de materiais de construção!
+117211	Sua equipe de construção é uma das primeiras a estar pronta. Mantenha o ritmo! A competição fará todo o possível para alcançá-lo.
+117212	Para a próxima fase de construção, você precisará de pessoal de solo qualificado para operar o espaçoporto. Certifique-se de seguir os padrões da União ao fornecer a infraestrutura necessária.
+117208	Você precisa desta usina de dessalinização. Hoje é a única forma de conseguir água potável.
+117479	Uma ampla gama de serviços de informação. Isso permitirá que seus empregados desenvolvam seus interesses e habilidades.
+117214	Há algo que aprendi durante minha carreira política: prosperidade e competição surgem da felicidade. Você prestou atenção.
+117215	Progresso impressionante. Você montou uma equipe de construção é a equipe de solo mais rápido que eu já vi. Você está mais do que pronto para o primeiro grande obstáculo.
+117216	O programa requer que você conecte sua cidade à estação espacial da União Global por meio de um elevador espacial. No momento, apenas megacorporações como os Grandes Cincos usam esse tipo de tecnologia. Mas com certeza você tem o mesmo potencial!
+117217	Certo. Você coletou os componentes necessários para o elevador. Mas o cabo do elevador precisa de materiais especiais que você não pode produzir. Não acontece nada, já cuidei de trazê-los.
+117218	Uma estratégia inteligente, tendo em atenção que o seu pessoal está a saúde boa. Esses tipos de benefícios tornam você um empregador mais atraente.
+117219	Seus técnicos estão prontos! A construção do elevador começa quando todos os outros requisitos são atendidos. Meu sócio John Rafferty já está vindo aqui com a entrega de materiais especiais.
+117480	Não há tempo para estudar os regulamentos! Conheça Rafferty nas coordenadas da transmissão! Faça o que for preciso!
+117481	Que bom que você voltou são e salvo. Este ataque surpreendeu a todos na sede do Sindicato. Mas o programa deve continuar!
+117482	Perdemos contato com a Lunar Excavation Corp. Parece que há muitas colônias lunares que se aliaram à Guarda Orbital! Agora é muito mais importante que o seu elevador especial esteja operacional!
+117483	!!Parabéns!! O primeiro passo para o espaço! Agora você pode acessar todas as áreas da economia global. Agora começa a Fase 2 do Programa de Licença Lunar!
+117544	Magnífico! Agora podemos iniciar a expansão de... espere, o que é...?
