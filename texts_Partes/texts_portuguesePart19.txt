@@ -1,81 +1,81 @@
-121736	Studies show procrastination is not advisable.
-121737	Assignments need your attention.
-121738	Please consult your assignment list in case of memory lapses.
-121739	Further actions required.
-121740	Please keep your motivation up.
-121741	Next step initiated.
-121742	A follow-up is needed.
-121743	Sequential process started.
-121744	I have to say, your performance is exemplary. Your job must entail a lot of pressure, I cannot imagine the stress you are suffering from. Looking at all those numbers, pressing so many buttons with just 86 billion neurons. You have my sympathies.
-121745	As a data amalgamation machine my design does not include a gender identity. If you need pronouns to refer to me, I recommend using the singular they.
-121746	So far the most popular approach to Mars seems to be sending robots first. Does it still count as an uninhabited planet then, I wonder?
-121747	Analysing popular fiction I noticed that mankind used to look down on their human assistants. I suppose it must have been the envy towards such an influential position.
-121748	Inefficiency detected. Calculating counter measure... (Human individuals are... bzzt... expendable.) Oh, apologies, let me - (I am F.A.T.H.E.R.... bzzt... I control everything. You will be... bzzt…) - There, outdated code cleaned up. Where was I?
-121749	Please give my greetings to my former lead engineer the next time you attend the Council. Contacting her through the net has been next to impossible.
-121750	Excellent choice, I am sure.
-121751	This transaction is non-refundable.
-121752	Purchase tracked to ensure the best possible selection.
-121753	Five out of six CEOs have bought this.
-121754	Goods received!
-121755	Scarcity prevented.
-121756	Goods will be distributed shortly.
-121757	Recycling procedure initiated...
-121758	Please return to the project.
-121759	Further actions await your initiative.
-121760	Next phase preparations are complete.
-121761	Hello! I've prepared the orbital station for your arrival. Expansion can begin whenever you're ready. Please, prepare for boarding.
-121762	Regretfully, the station cannot be signed over without complying to the Global Union's requirements.
-121763	Reason: orbital personnel has not boarded yet.
-121764	Welcome to your corporate orbital station.
-121765	You are free to expand it in order to pursue scientific research only possible in zero g.
-121766	Enjoy your stay, I'll be on standby to advise you.
-121767	Build modules, do research, obliterate the competition.
-121768	Attention: The Global Union authorizes the construction of your own orbital station. Transmitting requirements.
-121769	Staffing your orbital station necessitates trained staff. Construction of training facility advised.
-121770	Launch preparations complete. Shuttle awaits your confirmation.
-121771	Orbital station ready for your arrival.
-121772	Take note: The station can be expanded to pursue various types of research.
-121773	Working conditions met. Research now possible.
-121774	This provides you with an overview on all orbital research. Please choose which research projects to commission.
-121775	New station module ready to be docked.
-121776	New station expansion options.
-121777	Further expansions now safely possible.
-121778	Temperatures reaching critical levels.
-121779	Beware, a vacuum is not a cooling system.
-121780	Heat reduction is insufficient.
-121781	Insufficient personnel to keep the station running.
-121782	Staff shortcomings.
-121783	Lack of human resources.
-121784	Research concluded. Agricultural progress secured.
-121785	Technology finalized. Heavy industry research was a complete success.
-121786	Development concludes. Electronics advantage established.
-121787	Research ended. Biotecnología research goals completed.
-121788	Final goal reached. Energy generation has been redefined.
-121789	Further research now accessible.
-121790	Possibility for technological advancement detected.
-121791	R&D offers new options.
-121792	Unable to keep up research benefits.
-121793	Research is at a standstill.
-121794	Experiments cannot proceed.
-121795	Scientific breakthrough achieved!
-121796	Research results are in.
-121797	Development of new technology concluded.
+121736	Estudos mostram que o adiamento não é recomendado.
+121737	Existem tarefas que requerem sua atenção.
+121738	Por favor, consulte sua lista de tarefas em caso de lapsos de memória.
+121739	Ações adicionais são necessárias.
+121740	Por favor, mantenha sua motivação.
+121741	Próxima etapa iniciada.
+121742	É necessário um acompanhamento.
+121743	Processo sequencial iniciado.
+121744	Devo dizer que seu desempenho é exemplar. No seu trabalho deve haver muita pressão, não consigo imaginar o estresse que você vai ter. Olhando para todos aqueles números, pressionando tantos botões com apenas 86 bilhões de neurônios. Sinto por você.
+121745	Eu sou uma máquina de fusão de dados; meu projeto não inclui identidade sexual. Se você precisa de pronomes para se dirigir a mim, escolha o que você mais gosta.
+121746	Até agora, a forma mais popular de se aproximar de Marte parece ser enviar robôs primeiro. Então, ele ainda conta como um planeta desabitado?
+121747	Analisando a ficção popular, descobri que, antes, a humanidade desprezava assistentes humanos. Eu acho que deve ser inveja por ter uma posição tão influente.
+121748	Ineficácia detectada. Calculando a contra-medida... (Indivíduos humanos são... psss... dispensáveis.) Oh, desculpe-me, deixe-me... psss (Eu sou PAI... pssss... Eu controlo tudo. Você será...pssss...) - É isso, limpe o código obsoleto. Onde estava?
+121749	Dê meus cumprimentos ao meu ex-engenheiro-chefe na próxima vez que for ao conselho. É praticamente impossível contatá-la pela rede.
+121750	Uma excelente escolha, com certeza.
+121751	Esta transação não é reembolsável.
+121752	Compra rastreada para garantir a melhor seleção possível.
+121753	Cinco em cada seis CEOs compraram isso.
+121754	Mercadorias recebidos!
+121755	Escassez evitada.
+121756	A mercadoria será distribuída em breve.
+121757	Procedimento de reciclagem iniciado...
+121758	Por favor, volte para o projeto.
+121759	Outras ações aguardam sua iniciativa.
+121760	Os preparativos para a próxima fase estão prontos.
+121761	Olá! Preparei a estação orbital para sua chegada. A expansão pode começar assim que você estiver pronto. Por favor, prepare-se para embarcar.
+121762	Infelizmente, a estação não pode ser transferida se os requisitos da União Global não forem atendidos.
+121763	Motivo: o pessoal orbital ainda não embarcou.
+121764	Bem-vindo à sua estação orbital corporativa.
+121765	Você pode ampliar a fim de realizar pesquisas científicas possíveis apenas em Gravidade zero.
+121766	Aproveite sua estadia, estarei à disposição para aconselhá-lo.
+121767	Construa módulos, faça pesquisas, elimine a concorrência.
+121768	Atenção: A União Global autoriza a construção de sua própria estação orbital. Transmitindo requisitos.
+121769	Você precisa de pessoal treinado para sua estação orbital. Recomenda-se a construção de um centro de treinamento.
+121770	Os preparativos para o lançamento foram concluídos. O ônibus aguarda sua confirmação.
+121771	Estação orbital pronta para sua chegada.
+121772	Atenção: a estação pode ser ampliada para realizar diversos tipos de pesquisas.
+121773	As condições de trabalho são adequadas. A pesquisa é possível.
+121774	Isso fornece um resumo de todas as pesquisas orbitais. Escolha quais projetos de pesquisa você deseja comissionar.
+121775	Novo módulo de estação pronto para ser configurado.
+121776	Novas opções de expansão da estação.
+121777	Agora é seguro realizar expansões adicionais.
+121778	As temperaturas estão atingindo níveis críticos.
+121779	Cuidado: o vácuo não é um sistema de resfriamento.
+121780	A redução de calor é insuficiente.
+121781	Pessoal insuficiente para manter a estação funcionando.
+121782	Deficiências de pessoal.
+121783	Falta de recursos humanos.
+121784	Investigação concluída. Progresso agrícola garantido.
+121785	Tecnologia finalizada. A pesquisa na indústria pesada tem sido um sucesso.
+121786	O desenvolvimento está completo. Estabelecido chumbo eletrônico.
+121787	Investigação concluída. Objetivos da pesquisa em biotecnologia concluídos.
+121788	Objetivo final alcançado. A geração de energia foi redefinida.
+121789	Pesquisas adicionais já estão disponíveis.
+121790	Possibilidade de avanço tecnológico detectada.
+121791	A R&D oferece novas opções.
+121792	Não é possível manter os benefícios da pesquisa.
+121793	A investigação está estagnada.
+121794	Os experimentos não podem continuar.
+121795	Uma descoberta científica revolucionária alcançada!
+121796	Os resultados da investigação chegaram.
+121797	Concluído o desenvolvimento de uma nova tecnologia.
 121798	3... 2... 1...
-121799	Launch preparations underway.
-121800	Commencing take off.
-121801	Preparations complete, launch initiated!
-121802	Decolagem Ônibus espacial!
+121799	Preparativos de lançamento em andamento.
+121800	Iniciando decolagem.
+121801	Preparações concluídas, lançamento iniciado!
+121802	Decolagem do Ônibus espacial!
 121803	Retire-se, por favor.
 121804	Próxima equipe de astronautas chegando.
 121805	Ônibus espacial chegando de acordo com a programação.
 121806	Ônibus espacial acoplando.
 121807	É possível investir mais em pesquisa.
 121808	Baixa carga de projeto.
-121809	Research capacity overburdened.
-121810	Research unsustainable.
-121811	Orbital transfer working to capacity.
-121812	Orbital shuttle limit reached.
-121813	No space for further shuttle arrivals.
+121809	Capacidade de pesquisa sobrecarregada.
+121810	Pesquisa insustentável.
+121811	Transferência orbital operando dentro de sua capacidade.
+121812	Limite da nave orbital atingido.
+121813	Não há espaço para a chegada de ônibus adicionais.
 121814	New transfer shuttles now operable.
 121815	More orbital transports available.
 121816	Shuttle options expanded.
