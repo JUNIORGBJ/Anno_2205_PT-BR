@@ -1,81 +1,81 @@
-117486	In the Arctic, all your actions will fall under the supervision of the Arctic Custodians. Let's have a look at their territory.
-117487	It was a diplomatic feat to make the Custodians open their lands for private corporations. So your choice of location is somewhat limited.
-117488	Good. Let's send your Arctic expedition on the way then. But please make sure you stay within the designated settlement zones.
-117489	Not exactly a warm welcome. But let's just proceed with Phase 2. We need Arctic resources for rocket construction, so we have to establish a base of operations on one of these islands.
-117490	Set up your new location wherever you want. All of the islands are suitable.
-117491	If you build a Distribution Center here, I can officially sign the island over to you.
-117492	With the acquisition of this island you earned the mining rights for this area. The Arctic Custodians will watch you like a hawk from now on.
-117493	Their directives are strict. But you should adhere to them while building up your basic infrastructure. The heating standards alone will be a challenge.
-117494	Your production facilities give off enough warmth to heat your entire settlement. But without insulation materials, the effect would evaporate.
-117495	I've never eaten real fish in my life. The polar regions are the only places on Earth where you still can find it in harvestable quantities.
-117497	Well, that's exactly what's on the agenda right now. The Orbital Watch is still threatening the Union trade routes. You have to establish your own shipping docks at the spaceport.
-117498	Great! Our control and communication systems in space will be operated with these interfaces.
-117499	Your arctic settlement is growing at a steady pace. The staff requirements for your spaceport's shipping docks should be met by now.
-117500	Jorgensen is right! We have to interfere, official admission or not! Enact a hacking counterattack against the Orbital Watch's jamming stations! Or destroy them, if you must!
-117501	You're back? Now how's the status?
-117502	Our hackers are at their consoles! A.D.A.M., connect us to the Climate Stabilizer network!
-117503	So, did it work?
-117504	And I'm sure we haven't seen the last of them. But the Global Union will not give in to Drake's demands. The Lunar Licensing Program must continue.
-117505	The Orbital Watch presents a greater threat than we thought. Drake must have secret supporters. It's essential the Union shows a strong presence on the Moon.
-117506	And to make this possible, we need you to send a fleet of colony shuttles up there. Time to conduct some space technology research.
-117507	Being exposed to those freezing temperatures all day... your arctic staff will sure appreciate the extra vitamins.
-117508	In times like these, it's important that people move closer together. Especially with terrorism at our very doorstep.
-117509	Excellent. Your arctic community is provided with everything. Go ahead and recruit a research team.
-117511	The blueprints do look promissing. But I spoke with John Rafferty and there are some practical issues.
-117512	The production is running? Good. Besides launch pad and shuttle construction, metal like this has many other applications.
-117513	Phase 3 is within reach. But coordinating all the different branches of your space program will be a tremendous task. You will have to delegate some responsibilities, like it or not.
-117514	Swift data processing is essential for your ground staff. Good thing you've planned ahead.
-117515	One step closer to immortality. And I'm not referring to the miracle drug you've developed. You will live on through your deeds.
-117516	Security controls. Essential in our spaceport. Even more so when you're dealing with terrorists of the Orbital Watch's caliber.
-117517	Great! Everything is going according to schedule! Not long before you cross the final frontier, so to speak.
-117518	I hear, John Rafferty is already reviewing the plans for the launch ramps. Let's complete the final stages and make those plans a reality.
-117519	You heard the man! The systems are ready and the shuttles are in position! Just start the countdown.
-117520	A historic moment! The eyes of the world are upon you! Phase 3 has begun! The Second Wave heads for the Moon!
-117619	Oh, no... could... could this?
-117620	The Orbital Watch, for sure! Stay on your guard!
-117622	Just got the word! The Orbital Watch... they're taking concerted actions all over the globe. Attacking the Union's energy grid. And their weapons... We've never seen something like that!
-117623	It's way off the official procedures. But I activated an... old contact of mine. If anyone can find out what's really going on, it's her.
-117624	Here and now, it all converges. All your efforts, all your sacrifices.
-117625	It's finished! Phase 3... finished! Sorry, I have to... collect myself. A.D.A.M. can you take over?
-117626	Congratulation! Phase 3 of the Lunar Licensing Program is finished. But one last point remains on the project plan. And that is to thank you! For all you've done for humanity! You're the forerunner of a new era of prosperity!
-117546	You came a long way. But there's still another 250 000 miles to cross for you. Your colonists are waiting for orders.
-117547	And be careful. As far as we know the Orbital Watch has overtaken most of the LEC's colonies. Up there, you will be on your own.
-117554	Safety requirements demand you only found moon colonies in craters. They offer the best protection against cosmic radiation and meteor impacts.
-117555	Don't let him upset you. Drake is dangerous, no question. But you've proven you can cope with him.
-117557	The Moon has no atmosphere. Even the tiniest meteor particles could do tremendous damage to your colony. Energy shields prevent that.
-117558	Your colonies are under a lot of pressure. Quite literally. Only the toughest materials qualify for space structures.
-117559	Oxygen facilities. The most critical component to your astronauts very survival.
-117560	It's official. This sector holds the first colony to meet the standards of the Lunar Licensing Program. No cause for complaints.
-117561	Don't leave our good old Earth out of the picture, though. To send your lunar yield down, you must establish additional landing stages for cargo shuttles.
-117562	It's amazing how big your colony has grown in such a short time.
-117563	The human body is not fit for zero gravity exposure. Good thing your Biotecnología division found a way to reduce health risks for your astronauts.
-117565	Excellent. Soon Earth and Moon won't feel so far apart anymore.
-117564	Listen. I was told to keep this confidential. But you see, LEC fugitives secretly fled to Earth... The Global Union didn't find a proper solution. So they transferred them to Arctic protectorates.
-117566	And now I've been informed, that Drake is leading a battlefleet there to annihilate them. Please, you must step in.
-117567	The fugitives are safe. But Drake's fleet, his dreadnoughts... These aren't mere mercenaries. Drake must have military facilities on Earth.
-117568	Thank you. With a big corporation like yours backing them, the Custodians could set-up defensive works. For now, they were able to stop Drake's ships and protect the fugitives.
-117569	The landing stages are ready to accept cargo shuttles. Now you can establish interorbital transportation routes.
-117570	But that doesn't mean your colony is safe. The supply lines from Earth are easy targets. I'd recommend you make your colony as self-sustaining and independent as possible.
-117571	Up here, your colonists are constantly exposed to cosmic radiation. Their spacesuits fend off some of it. The rest is neutralized by potent medicine like this.
-117572	Living on the Moon is like living in a fishbowl. One small leak and conditions become hostile. But you're prepared.
-117573	You must have tried the... food here as well. I'm glad you're not expecting your colonists to live off nothing but pap from tubes.
-117574	A self-contained lunar community. In the beginning it was only small steps. But now you stand firmly and your colony has taken roots.
-117575	You're ready to get to the core of the Lunar Licensing Program: Fusion energy generation. It's all theory, still. But I believe in you.
-117576	Deuterium. One of the basic elements of fusion power generation. But don't ask me how this all works. That's what your Scientists are for.
-117577	Things are progressing. The first deuterium deliveries just entered the lunar orbit.
-117578	Helium-3. The fuel of the future. So far it's potential hasn't been tapped. But that's about to change.
-117580	Fusion power cells. The batteries of tomorrow! Put them in a Fusion Reactor and energy concern will be passé.
-117581	This all looks promissing. I must say I'm a little wired up right now.
-117582	It works! It really works! You've just created a clean supply of infinite energy! This will catapult humanity into a new era!
-117583	Now, share your achievements with the world! The Global Union wants you to build the two most powerful energy transmitters ever seen.
-117584	This will be the most difficult construction project you have undergone so far. But judging from your employees motivation, you've bright prospects.
-117585	Great! Your engineers will need tons of these materials to build the energy transmitters.
-117586	The fusion reactors are connected, the satellites are calibrated. On this side of the orbit, everything is ready for power transmission.
-117587	Putting up its counterpart on Earth will be even more of a challenge. Looking at the Lunar Licensing Program funding, better see that you have enough investors on board.
-117588	And that's only one part of the challenge. Looking at the Lunar Licensing Program funds, I say you better see that you have enough investors on board.
-117589	I knew it would be a mammoth project. But seeing thousands of people work towards a sole goal, across the orbit... just incredible.
-117590	Bioenhancement is the latest thing on Earth. And it really adds to mankind's diversity. It's fascinating how our idea of beauty can change at a whim.
-117591	One outfit for all occassions. At will it alters its texture, thickness, color, style... The future is now, indeed.
+117486	No Ártico, todas as suas ações ficarão sob a supervisão dos Guardiões do Ártico. Vamos dar uma olhada em seu território.
+117487	Conseguir que os Guardiões abram suas terras para empresas privadas tem sido um feito diplomático. A escolha do seu local é limitada.
+117488	Certo. Enviaremos sua expedição ártica. Mas, por favor, fique dentro das áreas de assentamento designadas.
+117489	Não é exatamente uma recepção calorosa. Vamos continuar com a fase 2. Precisamos de recursos árticos para a construção de foguetes, então devemos estabelecer uma base de operações em uma dessas ilhas.
+117490	Defina seu novo local como preferir. Todas as ilhas são boas candidatas.
+117491	Se você construir um centro de distribuição, posso entregar oficialmente a ilha para você.
+117492	Com a aquisição desta ilha, você ganhou os direitos de mineração desta área. De agora em diante, os Guardiões do Ártico cuidarão de você com uma centena de olhos.
+117493	Suas diretrizes são muito rígidas. Você deve respeitá-los durante a construção de sua infraestrutura básica. Apenas os regulamentos de aquecimento já representam um desafio.
+117494	Suas instalações de produção produzem calor suficiente para aquecer todo o assentamento. Mas sem materiais isolantes, o efeito evaporaria.
+117495	Não comi peixe de verdade em toda a minha vida. As regiões polares são os únicos lugares onde ainda pode ser encontrado em quantidades úteis.
+117497	No momento, isso é apenas o que está na agenda. A Guarda Orbital ainda ameaça as rotas comerciais da União. Você tem que estabelecer sua própria doca de expedição em seu espaçoporto.
+117498	Frio! Nossos sistemas de comunicação e controle espaciais serão operados por meio dessas interfaces.
+117499	Seu assentamento ártico está crescendo a uma taxa constante. Os requisitos de pessoal para a doca de expedição em seu espaçoporto agora devem ser atendidos.
+117500	Jorgensen está certo! Temos que interferir, com ou sem reconhecimento oficial! Faça um contra-ataque de infiltração contra as estações de interferência da Guarda Orbital! Ou destrua-os, se necessário!
+117501	Você voltou? Qual é a situação no momento?
+117502	Nossos hackers estão em seus consoles! A.D.A.M., conecte-nos com a rede de estabilizadores climáticos!
+117503	Então, funcionou?
+117504	Certamente isso não acabou aqui. Mas a União Global não cederá às exigências de Drake. O Programa de Licença Lunar deve continuar.
+117505	A Guarda Orbital representa uma ameaça maior do que pensávamos. Drake deve ter seguidores secretos. É essencial que a União demonstre uma forte presença na Lua.
+117506	E para que isso seja possível, precisamos que você envie uma frota de naves coloniais para lá. É hora de fazer uma pequena pesquisa em tecnologia espacial.
+117507	Sua equipe ártica está exposta a essas temperaturas congelantes o dia todo... eles certamente apreciarão de vitaminas extras.
+117508	Em momentos como este, é importante que as pessoas se aproximem. Especialmente com o terrorismo à sua porta.
+117509	Excelente. Sua comunidade ártica já tem tudo. Vá em frente, recrute uma equipe de investigação.
+117511	Os planos são promissores. Mas tenho conversado com John Rafferty e há algumas questões práticas...
+117512	A produção está em andamento? Certo. Além de painéis de lançamento e construção de ônibus espacial, esse tipo de metal tem inúmeras aplicações.
+117513	A Fase 3 está ao seu alcance. Sim, a coordenação entre os diferentes ramos de seu programa espacial será uma tarefa muito complicada. Goste ou não, você terá que delegar algumas responsabilidades.
+117514	É essencial que os dados sejam processados ​​rapidamente para o seu funcionário da terra. Que bom que você se organizou.
+117515	Mais um passo para a imortalidade. E não me refiro à droga milagrosa que você desenvolveu. Você vai viver por meio de suas ações.
+117516	Controles de segurança. Algo essencial em nosso espaçoporto. Principalmente quando lidamos com terroristas do calibre da Guarda Orbital.
+117517	Ótimo! Tudo está indo de acordo com o planejado! Não vai demorar muito para você cruzar a fronteira final.
+117518	Ouvi dizer que John Rafferty já está revisando os planos da plataforma de lançamento. Concluiremos as fases finais para que esses planos se tornem realidade.
+117519	Você ouviu o homem! Os sistemas estão prontos e os ônibus estão posicionados! A contagem regressiva começa agora.
+117520	É um momento histórico! O mundo está olhando para você! A fase 3 começou! A segunda onda está a caminho da Lua!
+117619	Oh não... Seria... Seria isso...?
+117620	A Guarda Orbital, com certeza! Mantenha-se alerta!
+117622	Eu acabei de descobrir! A Guarda Orbital... está realizando ações coordenadas em todo o mundo. Atacando a rede elétrica da União. E suas armas... nunca vimos nada assim!
+117623	Está longe dos procedimentos oficiais. Mas eu ativei um... um contato antigo. Se há alguém que pode descobrir o que está acontecendo, é ela.
+117624	Tudo converge aqui e agora. Todos os seus esforços, todos os seus sacrifícios.
+117625	Você terminou! Fase 3... concluído! Desculpe, eu tenho que... me recompor. A.D.A.M., você pode assumir o controle?
+117626	!!Parabéns!! A Fase 3 do Programa de Licença Lunar foi concluída. Mas ainda há um ponto pendente no plano do projeto. Obrigado! Por tudo que você fez pela humanidade! Você é o prenúncio de uma nova prosperidade!
+117546	Você percorreu um longo caminho. Mas você ainda tem 250.000 milhas pela frente. Seus colonos aguardam suas ordens.
+117547	Tenha cuidado. Até onde sabemos, a Guarda Orbital assumiu o controle da maioria das colônias LEC. Lá em cima você está sozinho.
+117554	Os requisitos de segurança permitem apenas que você encontre colônias lunares nas crateras. Eles oferecem a melhor proteção contra a radiação cósmica e o impacto de meteoros.
+117555	Não deixe isso te afetar. Drake é perigoso, disso não há dúvida. Mas você mostrou que pode lidar com isso.
+117557	A Lua não tem atmosfera. Mesmo as menores partículas de meteorito causariam enormes danos à sua colônia. Escudos de energia evitam que isso aconteça.
+117558	Suas colônias estão sob muita pressão. Literalmente. Apenas os materiais mais resistentes podem ser usados ​​em estruturas espaciais.
+117559	Instalações de oxigênio. O componente mais essencial para a sobrevivência de seus astronautas.
+117560	É oficial. Neste setor está a primeira colônia que atende aos padrões do Programa de Licença Lunar. Não há motivo para reclamar.
+117561	Mas não tire nossa querida velha Terra de cena. Para reduzir sua produção lunar, você deve definir fases de pouso adicionais para os ônibus de carga.
+117562	É incrível o quanto seu bairro cresceu em tão pouco tempo.
+117563	O corpo humano não pode ser exposto à gravidade zero. Ainda bem que seu departamento de biotecnologia encontrou uma maneira de reduzir os riscos à saúde de seus astronautas.
+117565	Excelente. Em breve, a Terra e a Lua não estarão mais tão distantes.
+117564	Escuta. Disseram-me para tratar este assunto de forma confidencial. Mas veja, os fugitivos do LEC fugiram secretamente para a Terra... A União Global não encontrou uma solução adequada. Então, eles foram transferidos para protetores do ártico.
+117566	E agora fui informado de que Drake está no comando de uma frota de combate a caminho para aniquilá-los. Você tem que intervir.
+117567	Os fugitivos estão seguros. Mas a frota de Drake, seus barcos de guerra... Eles não são meros mercenários. Drake deve ter instalações militares na Terra.
+117568	Obrigado. Com o apoio de uma grande empresa como a sua, os Guardiões podem preparar ações defensivas. Até agora, eles conseguiram parar os barcos de Drake e proteger os fugitivos.
+117569	As fases de pouso estão prontas para receber os ônibus de carga. Agora você pode estabelecer rotas de transporte inter-orbital.
+117570	Mas isso não significa que sua colônia esteja segura. As linhas de abastecimento da Terra são alvos fáceis. Recomendo que sua vizinhança seja o mais autossuficiente e independente possível.
+117571	Aqui, seus colonos estão constantemente expostos à radiação cósmica. Seus trajes espaciais repelem parte disso. O resto é neutralizado com um medicamento poderoso como este.
+117572	Viver na Lua é como viver em um aquário. Um pequeno vazamento e as condições se tornam hostis. Mas você está preparado.
+117573	Você deve ter experimentado a... comida aqui também. Fico feliz que você não espere que seus colonos se alimentem dos restos dos tubos.
+117574	Uma comunidade lunar autossuficiente. No início, eram apenas pequenos passos. Mas agora você tem uma posição estável e sua colônia criou raízes.
+117575	Você está pronto para chegar ao coração do Programa de Licença Lunar: geração de energia de fusão. No momento, é apenas uma teoria. Mas eu acredito em você.
+117576	Deutério. Um dos elementos básicos da geração de energia de fusão. Mas não me pergunte como tudo isso funciona, é para isso que você tem seus cientistas.
+117577	As coisas estão progredindo. As primeiras remessas de deutério acabam de entrar na órbita lunar.
+117578	Hélio-3. O combustível do futuro. Seu potencial ainda não foi explorado. Mas isso está para mudar.
+117580	Células de energia de fusão. As baterias de amanhã! Coloque-as em um reator de fusão e os problemas de energia serão coisa do passado.
+117581	Todas essas promessas. Devo admitir que estou bastante animado.
+117582	Trabalho! Realmente funciona! Você acabou de criar um suprimento de energia limpo e infinito! Isso vai catapultar a humanidade para uma nova era!
+117583	Agora você deve compartilhar suas conquistas com o resto do mundo! A União Global quer que você construa os dois transmissores de energia mais poderosos já vistos.
+117584	Este será o projeto de construção mais difícil que você já enfrentou. Mas, a julgar pela motivação de seus funcionários, seus clientes em potencial são brilhantes.
+117585	Certo! Seus engenheiros vão precisar de toneladas desses materiais para construir transmissores de energia.
+117586	Os reatores de fusão são conectados e os satélites calibrados. Deste lado da órbita tudo está pronto para a transmissão de energia.
+117587	Colocar o sistema complementar na Terra seria um desafio ainda maior. Considerando como funciona o financiamento para o Programa de Licença Lunar, você deve conseguir mais investidores.
+117588	E isso é apenas parte do desafio. Ao considerar os fundos do Programa de Licença Lunar, você deve se certificar de que tem investidores suficientes.
+117589	Eu sabia que seria um projeto monumental. Mas ver milhares de pessoas em toda a órbita trabalhando com o mesmo objetivo... é simplesmente incrível.
+117590	O aprimoramento duplo é a última novidade na Terra. E fomenta muito a diversidade da humanidade. É fascinante ver como nosso conceito de beleza pode mudar em um segundo.
+117591	Um terno para qualquer ocasião. Modifique sua textura, espessura, cor, estilo... Este é o futuro, sem dúvida.
 117592	Meat? From real animals? Well, there will be people who view this as a luxury. But others will see it as overly decadent.
 117594	Oh yes, this will decongest the Aeromobile traffic a little. The skylanes are way too crowded as it is.
 117595	I see, you've won enough investors over to your cause. The funding of your new energy transmission project should be taken care of now.
@@ -84,7 +84,7 @@
 117600	The lack of reliable energy sources is Earth's greatest weakness. Especially in conflicted times like ours. But you hold the key for a peaceful future. The Lunar Licensing Program is about to be completed.
 117601	One last point remains on my project plan. And that is to thank you! For all you've done for humanity! You're the forerunner of a new era of prosperity!
 119697	Each one of Virgil Drake's schemes you stop brings us closer to a peaceful colonization of the Moon. Keep it up.
-119698	Just got the word! The Orbital Watch ... they're taking concerted actions all over the globe. Attacking the Union's energy grid. But I activated an ... old contact of mine. If anyone can find out what's really going on, it's her.
+119698	Just got the word! The Orbital Watch... they're taking concerted actions all over the globe. Attacking the Union's energy grid. But I activated an... old contact of mine. If anyone can find out what's really going on, it's her.
 117627	The Union has great plans! Your corporation will become the government-accredited provider of lunar resources. And as a sign of gratitude, you're given building permits for a corporate headquarter of your choice.
 117628	Your stocks are going through the roof! Every financier on Earth has to consider putting his money into your company. They would be shortsighted if they didn't.
 117629	A device reassembling material at will. Technology like this would not have been possible, if you hadn't provided us an infinite source of energy.
