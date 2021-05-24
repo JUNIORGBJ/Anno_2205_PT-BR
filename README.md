@@ -1,10 +1,12 @@
-[![Discord](https://img.shields.io/discord/721047801957580821?color=blueviolet&label=Discord)](https://discord.gg/5ByWTzFFcj)
-Baixar Aqui >>>>>
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Anno_2205_PT-BR)](https://github.com/JUNIORGBJ/Anno_2205_PT-BR/releases/latest)<<<<<Baixar Aqui
+[![Discord](https://img.shields.io/discord/721047801957580821?color=blueviolet&label=Discord&style=for-the-badge)](https://discord.gg/5ByWTzFFcj)
 
 <h1 align="center"><figure>
   <img src="Anno_2205.PNG">
 </figure></h1>
+
+## Baixar Tradução
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Anno_2205_PT-BR?label=Lan%C3%A7amento&style=for-the-badge)](https://github.com/JUNIORGBJ/Anno_2205_PT-BR/releases/latest)
 
 
 ## Sobre a Tradução
