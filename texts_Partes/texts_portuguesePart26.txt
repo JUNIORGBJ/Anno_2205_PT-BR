@@ -222,13 +222,13 @@
 109190	Isso aí.
 109191	O quê? Sim, isso.
 109192	Então você não está cego, afinal.
-109193	Yeah, é esse.
+109193	Sim, é esse.
 109194	Boa. É isso.
 109195	Exatamente.
 109196	Por aqui.
 109197	Agora vá para lá.
 109198	Está ali. Não vê?
-109199	Yeah, ali. Agora, rápido.
+109199	Sim, ali. Agora, rápido.
 109200	Pare de perder tempo e vá.
 109201	De fato, está aqui.
 109202	Por favor, vá até lá imediatamente.
@@ -258,11 +258,11 @@
 109220	Pessoas como você são responsáveis pela situação atual.
 109221	Não guardo rancor contra os caçadores que mataram meu pai. Eu tinha quando era um garoto de dezessete anos. Mas com o tempo, percebi algo. Quando você cresce em uma sociedade que se define pelo ato de tomar, ter, acumular... Torna-se natural brutalizar seus semelhantes e ser brutalizado por eles.
 109222	Houve esforços para permitir animais de estimação na Lua. Mal ambiente adequado. Oh, isso me lembra, preciso comprar mais ração para o Haluuq... Espero que ele esteja se comportando enquanto estou fora.
-109223	Os Arctic Custodians estão aqui para proteger tesouros que a maioria das pessoas nem sabe que existem. Tesouros como a chance de viver em um planeta saudável e habitável.
+109223	Os Guardiões do Ártico estão aqui para proteger tesouros que a maioria das pessoas nem sabe que existem. Tesouros como a chance de viver em um planeta saudável e habitável.
 109224	Não é que eu seja contra o Programa de Licenciamento Lunar. É apenas que não sou um amigo de ações impulsivas. Mas talvez a corporação simplesmente careça de experiência em desenvolvimento a longo prazo. Bem, estamos por aqui há mais tempo do que eles.
 109225	É uma luta constante proteger nossa reserva ártica das bocas vorazes do grande negócio. Eu gostaria que a corporação nos desse mais apoio, mas eles estão ocupados demais pescando por votos.
 109226	A única coisa mais surpreendente do que a ganância humana é a crença irracional de que têm direito a essa ganância. Os Cinco Grandes conhecem bem esse pensamento.
-109227	Os Arctic Custodians são a consciência ambiental da humanidade. Não é surpresa que não sejamos populares.
+109227	Os Guardiões do Ártico são a consciência ambiental da humanidade. Não é surpresa que não sejamos populares.
 109228	Há apenas alguns dias, fomos contatados por alguém. Ela se recusa a dar o verdadeiro nome, então eu me recuso a aceitar suas mensagens como qualquer coisa além de manipulação.
 109229	A Terra é como uma estufa. Para proteger a vida dentro dela, todas as condições devem ser equilibradas com o maior cuidado. Mas os Cinco Grandes preferem jogar pedras.
 109230	Sou frequentemente considerado rude ou taciturno. Apenas não tolero idiotas facilmente.
