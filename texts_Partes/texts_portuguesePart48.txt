@@ -1,316 +1,316 @@
-7001172  Você é minha melhor aposta quando se trata de fazer as coisas acontecerem!
-7001176  Bem, você tentou.
-7001177  Um passo para frente, dois para trás... Bem.
-7001179  Certo, vou resolver isso de um jeito ou de outro.
-7001180  Faça como quiser.
-7001182  A tarefa não vai a lugar algum, mas ainda é importante.
-7001183  Todos temos nossos fardos, e o seu é essa tarefa que te dei.
-7001184  Eu mesmo cuidaria disso se pudesse.
-7001206  Isso foi resolvido... Mais trabalho pela frente!
-7001207  Esse é um bom trabalho, mas ainda não estamos livres.
-7001208  Se quisermos enfrentar essa tempestade, precisamos manter o foco.
-7001587  Posso ver a luz no fim! Só mais um empurrãozinho agora.
-7001588  Eu odeio dizer isso, mas... mais uma coisa.
-7001280  Os novos lotes estão no analisador, vou dar um trago. E antes que diga algo - eu sei tudo sobre a política do Custódio. Saúde isso, natureza aquilo! Eu preciso de um tempo.
-7001281  Meu sobrinho está lá na Lua e não liga há semanas. Tenho medo de que a Vigilância Orbital esteja atrás dele... ou pior, que ele esteja comprando a propaganda deles. Droga, em que encrenca aquele idiota se meteu?
-7001282  O Howard realmente ama o trabalho dele. Você poderia me enganar, ele sempre está tão mal-humorado com tudo. Mas pensando bem, talvez seja a cara dele mesmo.
-7001283  O Jorgenson é o estranho entre os Custódios. Alegro-me que ele seja o responsável pelo comércio por aqui, dá um ar mais animado à área. Conheci o namorado dele também, eles formam um casal fofo.
-7001284  O estilo de vida recluso do Custódio Ártico não é para mim. Acho que eles interpretaram mal o objetivo da Eco e levaram a austeridade um pouco pessoalmente demais.
-7001288  Este cofre foi construído após a catástrofe da Fenda Ebashi e seus tsunamis. As coisas estavam bem sombrias naquela época e as pessoas ficaram obcecadas em deixar legados que durassem.
-7001289  Enquanto nós, Custódios, somos tecnicamente sucessores da Iniciativa Eden, a maioria dos registros sobre os cofres e seus conteúdos foi perdida. Invadir o cofre vai envolver alguns testes arriscados.
-7001589  O Howard está determinado a tirar as corporações do Ártico. Ele não se importa muito com o que acontece com as planícies da tundra, desde que suas milhas de neve intocada estejam seguras.
-7001299  Certo, eu sei como cuidar do gelo. Estou só esperando por você.
-7001300  Preparações completas! Não posso começar a trabalhar no gerador sem você, porém.
-7001301  Tenho notícias sobre o vírus. É melhor você vir até aqui.
-7001626  Ambos estamos ansiosos para entrar no cofre de sementes, mas primeiro precisaremos de pesquisadores locais para lidar com o que encontrarmos aqui.
-7001627  Perfeito. E não se preocupe, o vulcão próximo não vai entrar em erupção e enterrar seu assentamento. Estou monitorando isso.
-7001628  Mas há um motivo real para se preocupar: estamos lidando com um vírus. Isolar o setor não é uma opção, já que dependemos de suprimentos de alimentos externos. Mas com seu espaçoporto como porta de entrada, estamos seguros.
-7001629  Ótimo, precisaremos da sua rede corporativa completa se eu estiver certo. Se este for um patógeno antigo e atingir um centro populacional importante, estaremos em apuros.
-7001630  Vamos precisar de uma divisão de pesquisa maior, mas se estabelecer naquele pântano e você será desenterrado em alguns séculos. Primeiro, teremos que drená-lo.
-7001637  Howard não vai gostar dessas bombas, mas o que ele vai fazer além de balançar o dedo? A colonização da tundra foi ideia dele, afinal.
-7001638  Os outros Custódios estão ansiosos para redirecionar colonos para minha jurisdição. Mas não enquanto eu estiver no comando, só estou autorizando especialistas. Vamos precisar de uma equipe de especialistas para combater o vírus.
-7001639  A equipe ficará bem, até agora os sintomas só foram observados em animais. Mas estou de olho, isso é algo que nunca vi antes.
-7001640  A equipe conseguiu extrair as primeiras amostras do cofre, mas até agora sem sorte em encontrar o vírus ou provar minha teoria. Preciso de novos olhares realizando testes nisso.
-7001641  As sementes que a nova equipe conseguiu recuperar não mostram vestígios do vírus. No entanto, há boas notícias para você.
-7001642  Amostramos uma espécie de musgo exótico e estou bastante certo de que veio do cofre. Para fortalecer nossa relação, eu projetei um módulo que explora o crescimento exponencial do musgo. Experimente!
-7001643  Legal, não é? Imagine o que seremos capazes de fazer quando garantirmos o cofre inteiro.
-7001662  O cofre de sementes é nosso objetivo, mas não podemos simplesmente entrar. Se consertarmos o controle de temperatura, descongelaremos o cofre sem correr o risco de o vírus sair do controle.
-7001663  Instalar um aquecedor em um freezer parece paradoxal, mas lembre-se de que o século XXI foi a era das mudanças climáticas e o século XXII, da correção climática. Pense nisso como algum tipo de estabilizador.
-7001664  Consegui os projetos classificados do estabilizador climático. Não estamos simplesmente copiando, é claro, mas com pessoal suficiente, podemos revisar a antiga tecnologia.
-7001666  Ah, eu disse que o vulcão era seguro? Hah, bem, agora é. A Iniciativa Eden achou que nada aconteceria, mas ele entrou em erupção pouco depois e enterrou os dutos de ventilação. Teremos que limpá-los.
-7001674  Acabei de voltar de verificar os antigos módulos de temperatura e... Sem chance, completamente queimados. O aquecimento global e a correção climática cobraram seu preço. Vamos precisar de novos.
-7001676  Abastecer essa máquina está longe de ser ecológico; afinal, precisamos de energia suficiente para descongelar uma camada de gelo. É inevitável, então vamos fazer isso direito.
-7001677  Bom, tudo pronto para inicializar!
-7001678  Vamos torcer para que isso corra bem, por todos nós. Eu mandei a equipe sair, então acione a alavanca quando estiver pronto.
-7001679  Funcionou, o clima do cofre está estável! Espere até consertarmos o reator nuclear, precisaremos do controle de temperatura para isso.
-7001680  Quando o reator explodiu, meus chefes apenas colocaram um aviso de 'Não Entrar' no setor e agora a maior parte dos destroços ainda está por aí. Temos muito trabalho pela frente.
-7001681  Bom começo. O cofre e o vírus terão que esperar até resolvermos esse risco à saúde.
-7001682  O reator foi construído para durar, mas certamente não resistir a uma erupção vulcânica. Ela danificou o sistema de refrigeração e é a primeira parte que teremos que reconstruir.
-7001683  Limpar todo esse lixo radioativo é uma tarefa logística enorme, mas tem que ser feito. Não é de se admirar que fechar o setor tenha sido a solução mais fácil.
-7001684  A maior parte dos destroços foi removida e os sistemas de refrigeração estão prontos. Podemos começar com a equipe no gerador agora, só dê a eles um impulso primeiro.
-7001685  O gerador é necessário para abrir as portas do cofre sem destruí-las. E talvez tenhamos que fechá-las novamente. Mantenha a energia vindo, o gerador precisa de um impulso para começar.
-7001687  Tudo certo, temos luz verde, estamos-- espere, estou recebendo uma chamada de emergência. ... Ok, acione o botão de ativação, não temos tempo a perder. Nossa equipe acabou de encontrar uma cepa mutante do vírus.
-7001775  Ótimo, o reator nuclear está estável e as portas estão operacionais! A equipe está coletando amostras neste exato momento.
-7001689  Como suspeitávamos: é Febre de Expansão, uma doença anteriormente extinta com uma alta taxa de mortalidade que causa crescimentos malignos. Vou precisar de mais amostras vivas para estudar as mutações.
-7001691  Droga. Pesquisadores de campo acabaram de relatar o início dos sintomas. Apresse-se, você precisa realocá-los o mais rápido possível!
-7001693  Estou no meio do desenvolvimento de uma vacina, mas enquanto isso, precisamos de medicamentos para fortalecer os sistemas imunológicos dos pacientes. A matriz principal dos Custódios do Ártico foi informada.
-7001776  Você salvou muitas vidas. E eu trago boas notícias também!
-7001701  Howard está do nosso lado. Ele sugeriu que enviassemos as sementes para um laboratório dos Custódios melhor equipado. Analisar o vírus está sendo muito mais difícil do que eu pensava.
-7001703  Meus colegas estão tendo dores de cabeça com as cepas do vírus, precisaremos apoiá-los localmente! Aparentemente, um dos recipientes de sementes não está apenas carregando o que está escrito no rótulo.
-7001704  Os resultados estão prontos. A irregularidade que encontraram costumava ser um prato de massa. Não posso acreditar que tudo isso aconteceu porque alguém deixou cair o almoço...
-7001705  Consigo imaginar o que aconteceu. O vulcão danificou o cofre, deixando as sementes infectadas expostas e voilà, germinação! Hora de soldar esses vazamentos.
-7001706  Com a causa raiz das infecções eliminada, ainda temos os mosquitos. Eles são portadores da doença e continuarão a espalhá-la até secarmos seus pântanos.
-7001708  Ótima notícia! Minha vacina experimental está mostrando resultados promissores, vou aplicá-la imediatamente na equipe. No entanto, os animais terão que ser tratados individualmente na natureza.
-7001709  Novas infecções são um risco enquanto o vírus ainda estiver afetando sei lá quantos recipientes de sementes. Teremos que expandir nossa equipe para catalogá-los todos.
-7001710  Os Custódios estão esperando que limpemos o cofre e finalmente consegui algo pronto. Uma espécie de antidoto em spray e desinfetante em um só. Deve funcionar.
-7001777  E Howard também está em dívida com você, mesmo que ele nunca admitisse.
-7001716  Esta semente germinante é incrível! Veja como suas propriedades resistentes ao frio possibilitam reações a essas temperaturas?
-7001717  Então, o que o novo módulo está fazendo pelas suas instalações árticas? Não me diga que você nem o instalou ainda!
-7001718  Houve uma coisa boa resultante deste desastre nuclear, organismos absorvedores de raios gama!
-7001719  Ainda é preciso proteger seu novo módulo dos meteoritos, mas ele vai impulsionar sua produção na lua por conta própria. Bem, se você o alimentar o suficiente.
-7001720  Viu? Este último módulo é o mais eficaz! O cofre é como a biblioteca de Alexandria, exceto que a salvamos.
-7001721  E eu pensava que você só estava me ajudando para colocar as mãos no módulo? Talvez eu estivesse errado sobre você.
-7001624  Meus colegas Custódios do Ártico têm falado sobre você. Se metade do que estão dizendo for verdade, você ficará muito interessado no que descobri.
-7001305  Prazer em conhecê-lo! Sou Esther Nylund, bióloga-chefe dos Custódios do Ártico e responsável pelos Vaults de Sementes aqui. Espécies extintas não são a única coisa que eles preservaram. Me ajude e você terá acesso exclusivo.
-7001623  Desculpe, sem entrada para leigos. Você precisa mostrar algum conhecimento científico ou minhas mãos estão amarradas.
-7001306  Que bom que você pôde vir. Este é um lugar lindo, mas isolado.
-7001307  Esse pode ser o motivo pelo qual a Iniciativa Eden escolheu este lugar. Dois séculos atrás, eles construíram um Vault de Sementes aqui para preservar espécies agora extintas. É isso que estamos buscando.
-7001308  No entanto, o cofre não foi mantido adequadamente e tem vazamentos. Ele trouxe algo mais do passado, algo perigoso.
-7001312  Sou cientista, não um fazedor de milagres!
-7001315  Eu mesmo não sou físico, mas é para isso que nossa equipe está aqui. Ainda assim, não estamos prontos.
-7001350  Estou trabalhando sem parar, mas encarar a centrífuga não a fará girar mais rápido, acredite em mim.
-7001318  Obrigado. Falo sério.
-7001711  Mas antes de podermos entrar no cofre propriamente dito, temos que consertar o controle de temperatura danificado. Vou preparar os planos, fique ligado.
-7001712  Vou preparar a operação. Enquanto isso, tenho boas notícias: a equipe desenvolveu um módulo resistente ao frio usando suas novas descobertas!
-7001713  Agora é minha vez. Eu aviso quando tiver os primeiros resultados sobre aquelas cepas mutantes. Por enquanto, você pode testar os novos módulos, os modificamos para operação lunar.
-7001714  Já temos resultados. Agora você pode instalar novos módulos especialmente eficazes em climas moderados.
-7001715  Vencemos o vírus, de uma vez por todas! A equipe está arquivando séculos de amostras. Parece que o esforço da Iniciativa Eden não foi em vão!
-7001578  Isso vai ser moleza, certo?
-7001579  Tenho certeza de que você vai se sair muito bem.
-7001580  Certifique-se de ser minucioso.
-7001581  Obrigado!
-7001582  Muito obrigado!
-7001583  Valeu!
-7001584  Então, vamos ao trabalho!
-7001585  Sem tempo a perder, vamos direto ao assunto.
-7001586  Vou deixar você fazer sua parte, então.
-7001590  Ambos fazemos o que precisamos fazer, entendo.
-7001591  Seguindo as regras no Ártico e aqui sem se importar?
-7001592  E eu pensei que sua produção de energia não dependia de combustíveis fósseis.
-7001593  Levou mais de cem anos para recuperar o Ártico, mas tudo bem, queime.
-7001594  Estou olhando para o outro lado. Agora parece que também preciso de protetores auriculares.
-7001595  Se esse é o preço que tenho que pagar para garantir este setor...
-7001596  Já voltou das reuniões corporativas? Não estou reclamando.
-7001597  Já te disse, sem a devida autorização ninguém...! Oh! Você não é Howard.
-7001598  Venho defendendo o forte, é hora de trocar a guarda.
-7001599  Ai está.
-7001600  Precisa de mais alguma coisa?
-7001601  E eu pensei que você já teria se cansado disso...
-7001602  Vou olhar mais tarde.
-7001604  Parece útil.
-7001605  Não desperdice, não deseje.
-7001606  Oh, eu queria estocar isso!
-7001607  É caro despachar coisas daqui, então... obrigado.
-7001608  Não há mais vida selvagem no pântano, então vá em frente.
-7001609  O pântano é difícil de navegar. A instalação da bomba demorará um pouco.
-7001610  Grande expansão, hein?
-7001611  Você pode começar a drenagem agora.
-7001612  Você vai ter que ligar as bombas também.
-7001613  Não deixe o pântano esperando...
-7001614  Isso vai demorar um pouco, pegue uma cadeira.
-7001615  Toda aquela água tem que ir para algum lugar!
-7001616  As bombas estão fazendo seu trabalho.
-7001617  Menos pântano, mais terra.
-7001618  Finalmente. As bombas são um verdadeiro pé no saco.
-7001619  Bom trabalho. Moisés.
-7001741  Caminhar na lama é divertido, mas não muito.
-7001742  Por que a demora?
-7001743  Você pode pagar por isso, certo?
-7001747  O pântano está tão seco quanto uma conversa com Howard. É hora de desmontar a bomba.
-7001748  O solo não ficará mais seco.
-7001749  Não há mais perigo de afundar!
-7001761  Olha isso? Os sintomas são visíveis até mesmo para leigos.
-7001762  Não chegue muito perto.
-7001763  Estamos monitorando. Não há mais nada que possamos fazer agora.
-7001754  [NOTIFICATION_CHARACTER_NAME] está confiante de que você terá sucesso.
-7001755  [NOTIFICATION_CHARACTER_NAME] te agradece.
-7001756  [NOTIFICATION_CHARACTER_NAME] está desconfiado do impacto ambiental de suas instalações.
-7001757  [NOTIFICATION_CHARACTER_NAME] está preocupado com seu consumo de combustível.
-7001758  [NOTIFICATION_CHARACTER_NAME] olha sua mina com um olhar crítico.
-7001759  [NOTIFICATION_CHARACTER_NAME] está aliviado por vê-lo de volta.
-7001760  [NOTIFICATION_CHARACTER_NAME] está aliviado por vê-lo de volta.
-7001764  [NOTIFICATION_CHARACTER_NAME] supervisiona a construção da bomba.
-7001765  [NOTIFICATION_CHARACTER_NAME] está confusa sobre o atraso.
-7001766  [NOTIFICATION_CHARACTER_NAME] relata que a bomba está operacional.
-7001767  [NOTIFICATION_CHARACTER_NAME] garante que a drenagem ocorra sem problemas.
-7001768  [NOTIFICATION_CHARACTER_NAME] está esperando por você para terminar a drenagem.
-7001769  [NOTIFICATION_CHARACTER_NAME] confirma que a área está pronta para construção.
-7000410  Os ventos frios varrem as largas planícies de Vanha, onde o gelo ártico dá lugar a florestas de madeira. Há sementes armazenando dados genéticos de espécies extintas há muito tempo é apenas um tesouro nesta área.
-7001447  Atraia Executivos na Região Temperada
-7001450  DLC necessário
-7001451  Desbloquear Pré-Condição
-7001452  Executivos Requeridos
-7001453  Seus Executivos
-7001910  DLC Tundra Disponivel
-7001911  Explore a Vanha Plains
-7001912  Transforme pântanos em terras aráveis
-7001913  Descubra um legado perigoso
-7001914  Estabeleca novas cadeias produtivas
-7001915  Impulsione sua economia global
-7001916  Compre agora
-7001992  Você acabou de obter o DLC Tundra
-7001993  Aproveite a nova paisagem épica
-7001994  Alcance o sucesso em um novo projeto do setor
-7001995  e mais ...
-7001424  Bomba de Drenagem
-7001836  Lâmpadas? O que é isso?
-7001837  Invisível ao olho humano.
-7001838  Companheiro infalível da humanidade.
-7001839  Médicos em seu sangue, literalmente
-7001840  Ignore o cheiro.
-7001841  Simples, mas surpreendentemente nutritivo.
-7001842  Quente e agora sem odores.
-7001843  Repelente à água e ao frio.
-7001844  Agentes da vida.
-7001845  Não é ar, exatamente.
-7001890  Não funciona com [GUIDCATEGORY_SELECTED] ainda
-7001852  Prosseguir com o Projeto da Dr. Esther Nylund no Tundra
-7001893  Forneca musgo para processamento posterior.
-7001897  Forneca bebidas vitamínicas necessárias para seus empregados.
-7001899  Forneca tungstênio para processamento posterior.
-7001900  Use tungstênio para produzir nanochips para processamento posterior.
-7001901  Use nanochips e cobalto para produzir smartdrones exigidos por seus empregados.
-7001902  Forneca gás natural para processamento posterior.
-7001903  Use musgo e bioresina para produzir biocatalisadores para processamento posterior.
-7001904  Use cobalto e gás natural para produzir aerogel para processamento posterior.
-7001905  Use musgo e água para produzir lã para processamento posterior.
-7001906  Utilize lã e fibras de linho para produzir parkas para todos os climas exigidas por seus empregados.
-7001907  Use nanochips e células sintetizadas para produzir os robôs médicos exigidas por seus empregados.
-7001908  Fornece energia para abastecer fábricas com o consumo de gás natural.
-7001998  Drene pântanos e fornece acesso aos terrenos de construção adjacentes.
-7001544  Sociedade de preservação
-7001545  Conclua o Projeto do setor na Planície de Vanha.
-7001546  Ambiente de trabalho silencioso
-7001547  Estabeleça Cientistas da Tundra em uma de suas cidades.
-7001548  Piloto voando baixo
-7001549  Complete 10 tarefas para seus empregados da Planície de Vanha.
-7001550  Perdi meus óculos lá embaixo.
-7001551  Drene um pântano.
-7001552  Eu. Eu bebo. Sua. Batida.
-7001553  Drene todos os pântanos das Planícies de Vanha.
-7001554  Adulteração Industrial
-7001555  Construa um Módulo de Tundra em cada região.
-7001556  Que cheiro é esse?
-7001557  Construa 10 fazendas de bois-almiscarados nas Planícies de Vanha.
-7001558  Fim do Éden
-7001559  Construa 10 sondas de perfuração nas planícies de Vanha.
-7001560  É um tipo de mágica
-7001561  Produza Biocatalisadores e Aerogel.
-7001562  Globalização ... Concluída
-7001563  Realize 10 rotas de transferência saindo da Planície do Vanha.
-7001469  Módulo biocatalisador agrícola
-7001872  Módulo biocatalisador biotecnológico.
-7001468  Aerogel de energia
-7001875  Aerogel de industria pesada
-7001876  Aerogel eletrotônico
-7000007  Habitação de tundra
-7000008  Habitação de tundra
-7000012  [GUIDNAME 1000245]
-7000013  [GUIDNAME 1000246]
-7000041  Plantação de musgo
-7000045  Rancho de Musk-ox
-7000038  Plantação de linho
-7000043  Fazenda de girassol
-7000253  Fazenda de Algas
-7000048  Biorreator Avançado
-7000047  Câmara de Ionização
-7000257  Incubadora de células sintéticas
-7000027  Planta de dessalinização
-7000029  Fábrica de Nanoprecisão
-7000028  Alfaiate Boreal
-7000250  Drone favo de mel
-7000251  Centro de Microbótica
-7000030  Parque eólico
-7000256  Usina de combustível fóssil
-7000039  Extrator de Vitamina
-7000051  Equipamento de perfuração
-7000252  Robot Assembly Hall robô
-7000049  Fábrica de Biopolímero
-7000254  Pedreira de feldspato
-7000032  Mina de tungstênio
-7000255  Mina de Cobalto
-7000042  Superficie de musgo
-7000261  Prado para bois almiscarados
-7000263  [GUIDNAME 1000365]
-7000262  [GUIDNAME 1000366]
-7000313  [GUIDNAME 1000368]
-7000302  Câmaras do reator
-7000303  Câmara de alta pressão
-7000305  [GUIDNAME 1000372]
-7000306  [GUIDNAME 1000376]
-7000307  Sala antiestática
-7000304  Moinho de precisão
-7000308  Piso de montagem
-7000309  Autoclave
-7000310  [GUIDNAME 1000392]
-7000311  [GUIDNAME 1000391]
-7000312  [GUIDNAME 1000403]
-7000314  Torre de Perfuração
-7000316  [GUIDNAME 1000383]
-7000315  [GUIDNAME 1000417]
-7000318  [GUIDNAME 1000426]
-7000317  Tesoura de tungstênio
-7000319  [GUIDNAME 1000889]
-7000285  [GUIDNAME 109065] [GUIDNAME 102701]
-7000286  [GUIDNAME 109065] [GUIDNAME 102703]
-7000287  [GUIDNAME 109065] [GUIDNAME 102702]
-7000288  [GUIDNAME 109075] [GUIDNAME 102701]
-7000289  [GUIDNAME 109075] [GUIDNAME 102703]
-7000290  [GUIDNAME 109075] [GUIDNAME 102702]
-7000291  [GUIDNAME 109078] [GUIDNAME 102701]
-7000292  [GUIDNAME 109078] [GUIDNAME 102703]
-7000293  [GUIDNAME 109078] [GUIDNAME 102702]
-7000294  [GUIDNAME 109081] [GUIDNAME 102701]
-7000295  [GUIDNAME 109081] [GUIDNAME 102704]
-7001917  [GUIDNAME 109081] [GUIDNAME 102703]
-7000296  [GUIDNAME 109081] [GUIDNAME 102702]
-7000297  [GUIDNAME 109084] [GUIDNAME 102701]
-7000298  [GUIDNAME 109084] [GUIDNAME 102703]
-7000299  [GUIDNAME 109084] [GUIDNAME 102702]
-7000272  [GUIDNAME 102701]
-7000273  [GUIDNAME 102704]
-7000274  [GUIDNAME 102703]
-7000275  [GUIDNAME 102702]
-7001466  [GUIDNAME 7001469]
-7001877  [GUIDNAME 7001872]
-7001467  [GUIDNAME 7001468]
-7001878  [GUIDNAME 7001875]
-7001879  [GUIDNAME 7001876]
-7000158  [GUIDNAME 1000157]
-7000036  [GUIDNAME 1000123]
-7000159  [GUIDNAME 1000156]
-7000160  [GUIDNAME 1001229]
-7000161  [GUIDNAME 1001231]
-7000162  [GUIDNAME 1001232]
-7000163  [GUIDNAME 1000178]
-7001400  Zona de drenagem
-7001401  [GUIDNAME 7001400]
-7001402  [GUIDNAME 7001400]
-7001403  [GUIDNAME 7001400]
-7001404  [GUIDNAME 7001400]
-7001405  [GUIDNAME 7001400]
-7001406  [GUIDNAME 7001400]
-7001407  Bomba de drenagem
-7001408  [GUIDNAME 7001407]
-7001409  [GUIDNAME 7001407]
-7001410  [GUIDNAME 7001407]
-7001411  [GUIDNAME 7001407]
-7001412  [GUIDNAME 7001407]
-7001413  [GUIDNAME 7001407]
-7001414  Pântano drenado
-7001415  [GUIDNAME 7001414]
-7001416  [GUIDNAME 7001414]
-7001417  [GUIDNAME 7001414]
-7001418  [GUIDNAME 7001414]
-7001419  [GUIDNAME 7001414]
-7001420  [GUIDNAME 7001414]
+7001172	Você é minha melhor aposta quando se trata de fazer as coisas acontecerem!
+7001176	Bem, você tentou.
+7001177	Um passo para frente, dois para trás... Bem.
+7001179	Certo, vou resolver isso de um jeito ou de outro.
+7001180	Faça como quiser.
+7001182	A tarefa não vai a lugar algum, mas ainda é importante.
+7001183	Todos temos nossos fardos, e o seu é essa tarefa que te dei.
+7001184	Eu mesmo cuidaria disso se pudesse.
+7001206	Isso foi resolvido... Mais trabalho pela frente!
+7001207	Esse é um bom trabalho, mas ainda não estamos livres.
+7001208	Se quisermos enfrentar essa tempestade, precisamos manter o foco.
+7001587	Posso ver a luz no fim! Só mais um empurrãozinho agora.
+7001588	Eu odeio dizer isso, mas... mais uma coisa.
+7001280	Os novos lotes estão no analisador, vou dar um trago. E antes que diga algo - eu sei tudo sobre a política do Custódio. Saúde isso, natureza aquilo! Eu preciso de um tempo.
+7001281	Meu sobrinho está lá na Lua e não liga há semanas. Tenho medo de que a Vigilância Orbital esteja atrás dele... ou pior, que ele esteja comprando a propaganda deles. Droga, em que encrenca aquele idiota se meteu?
+7001282	O Howard realmente ama o trabalho dele. Você poderia me enganar, ele sempre está tão mal-humorado com tudo. Mas pensando bem, talvez seja a cara dele mesmo.
+7001283	O Jorgenson é o estranho entre os Custódios. Alegro-me que ele seja o responsável pelo comércio por aqui, dá um ar mais animado à área. Conheci o namorado dele também, eles formam um casal fofo.
+7001284	O estilo de vida recluso do Custódio Ártico não é para mim. Acho que eles interpretaram mal o objetivo da Eco e levaram a austeridade um pouco pessoalmente demais.
+7001288	Este cofre foi construído após a catástrofe da Fenda Ebashi e seus tsunamis. As coisas estavam bem sombrias naquela época e as pessoas ficaram obcecadas em deixar legados que durassem.
+7001289	Enquanto nós, Custódios, somos tecnicamente sucessores da Iniciativa Eden, a maioria dos registros sobre os cofres e seus conteúdos foi perdida. Invadir o cofre vai envolver alguns testes arriscados.
+7001589	O Howard está determinado a tirar as corporações do Ártico. Ele não se importa muito com o que acontece com as planícies da tundra, desde que suas milhas de neve intocada estejam seguras.
+7001299	Certo, eu sei como cuidar do gelo. Estou só esperando por você.
+7001300	Preparações completas! Não posso começar a trabalhar no gerador sem você, porém.
+7001301	Tenho notícias sobre o vírus. É melhor você vir até aqui.
+7001626	Ambos estamos ansiosos para entrar no cofre de sementes, mas primeiro precisaremos de pesquisadores locais para lidar com o que encontrarmos aqui.
+7001627	Perfeito. E não se preocupe, o vulcão próximo não vai entrar em erupção e enterrar seu assentamento. Estou monitorando isso.
+7001628	Mas há um motivo real para se preocupar: estamos lidando com um vírus. Isolar o setor não é uma opção, já que dependemos de suprimentos de alimentos externos. Mas com seu espaçoporto como porta de entrada, estamos seguros.
+7001629	Ótimo, precisaremos da sua rede corporativa completa se eu estiver certo. Se este for um patógeno antigo e atingir um centro populacional importante, estaremos em apuros.
+7001630	Vamos precisar de uma divisão de pesquisa maior, mas se estabelecer naquele pântano e você será desenterrado em alguns séculos. Primeiro, teremos que drená-lo.
+7001637	Howard não vai gostar dessas bombas, mas o que ele vai fazer além de balançar o dedo? A colonização da tundra foi ideia dele, afinal.
+7001638	Os outros Custódios estão ansiosos para redirecionar colonos para minha jurisdição. Mas não enquanto eu estiver no comando, só estou autorizando especialistas. Vamos precisar de uma equipe de especialistas para combater o vírus.
+7001639	A equipe ficará bem, até agora os sintomas só foram observados em animais. Mas estou de olho, isso é algo que nunca vi antes.
+7001640	A equipe conseguiu extrair as primeiras amostras do cofre, mas até agora sem sorte em encontrar o vírus ou provar minha teoria. Preciso de novos olhares realizando testes nisso.
+7001641	As sementes que a nova equipe conseguiu recuperar não mostram vestígios do vírus. No entanto, há boas notícias para você.
+7001642	Amostramos uma espécie de musgo exótico e estou bastante certo de que veio do cofre. Para fortalecer nossa relação, eu projetei um módulo que explora o crescimento exponencial do musgo. Experimente!
+7001643	Legal, não é? Imagine o que seremos capazes de fazer quando garantirmos o cofre inteiro.
+7001662	O cofre de sementes é nosso objetivo, mas não podemos simplesmente entrar. Se consertarmos o controle de temperatura, descongelaremos o cofre sem correr o risco de o vírus sair do controle.
+7001663	Instalar um aquecedor em um freezer parece paradoxal, mas lembre-se de que o século XXI foi a era das mudanças climáticas e o século XXII, da correção climática. Pense nisso como algum tipo de estabilizador.
+7001664	Consegui os projetos classificados do estabilizador climático. Não estamos simplesmente copiando, é claro, mas com pessoal suficiente, podemos revisar a antiga tecnologia.
+7001666	Ah, eu disse que o vulcão era seguro? Hah, bem, agora é. A Iniciativa Eden achou que nada aconteceria, mas ele entrou em erupção pouco depois e enterrou os dutos de ventilação. Teremos que limpá-los.
+7001674	Acabei de voltar de verificar os antigos módulos de temperatura e... Sem chance, completamente queimados. O aquecimento global e a correção climática cobraram seu preço. Vamos precisar de novos.
+7001676	Abastecer essa máquina está longe de ser ecológico; afinal, precisamos de energia suficiente para descongelar uma camada de gelo. É inevitável, então vamos fazer isso direito.
+7001677	Bom, tudo pronto para inicializar!
+7001678	Vamos torcer para que isso corra bem, por todos nós. Eu mandei a equipe sair, então acione a alavanca quando estiver pronto.
+7001679	Funcionou, o clima do cofre está estável! Espere até consertarmos o reator nuclear, precisaremos do controle de temperatura para isso.
+7001680	Quando o reator explodiu, meus chefes apenas colocaram um aviso de 'Não Entrar' no setor e agora a maior parte dos destroços ainda está por aí. Temos muito trabalho pela frente.
+7001681	Bom começo. O cofre e o vírus terão que esperar até resolvermos esse risco à saúde.
+7001682	O reator foi construído para durar, mas certamente não resistir a uma erupção vulcânica. Ela danificou o sistema de refrigeração e é a primeira parte que teremos que reconstruir.
+7001683	Limpar todo esse lixo radioativo é uma tarefa logística enorme, mas tem que ser feito. Não é de se admirar que fechar o setor tenha sido a solução mais fácil.
+7001684	A maior parte dos destroços foi removida e os sistemas de refrigeração estão prontos. Podemos começar com a equipe no gerador agora, só dê a eles um impulso primeiro.
+7001685	O gerador é necessário para abrir as portas do cofre sem destruí-las. E talvez tenhamos que fechá-las novamente. Mantenha a energia vindo, o gerador precisa de um impulso para começar.
+7001687	Tudo certo, temos luz verde, estamos-- espere, estou recebendo uma chamada de emergência. ... Ok, acione o botão de ativação, não temos tempo a perder. Nossa equipe acabou de encontrar uma cepa mutante do vírus.
+7001775	Ótimo, o reator nuclear está estável e as portas estão operacionais! A equipe está coletando amostras neste exato momento.
+7001689	Como suspeitávamos: é Febre de Expansão, uma doença anteriormente extinta com uma alta taxa de mortalidade que causa crescimentos malignos. Vou precisar de mais amostras vivas para estudar as mutações.
+7001691	Droga. Pesquisadores de campo acabaram de relatar o início dos sintomas. Apresse-se, você precisa realocá-los o mais rápido possível!
+7001693	Estou no meio do desenvolvimento de uma vacina, mas enquanto isso, precisamos de medicamentos para fortalecer os sistemas imunológicos dos pacientes. A matriz principal dos Custódios do Ártico foi informada.
+7001776	Você salvou muitas vidas. E eu trago boas notícias também!
+7001701	Howard está do nosso lado. Ele sugeriu que enviássemos as sementes para um laboratório dos Custódios melhor equipado. Analisar o vírus está sendo muito mais difícil do que eu pensava.
+7001703	Meus colegas estão tendo dores de cabeça com as cepas do vírus, precisaremos apoiá-los localmente! Aparentemente, um dos recipientes de sementes não está apenas carregando o que está escrito no rótulo.
+7001704	Os resultados estão prontos. A irregularidade que encontraram costumava ser um prato de massa. Não posso acreditar que tudo isso aconteceu porque alguém deixou cair o almoço...
+7001705	Consigo imaginar o que aconteceu. O vulcão danificou o cofre, deixando as sementes infectadas expostas e voltou a germinação! Hora de soldar esses vazamentos.
+7001706	Com a causa raiz das infecções eliminada, ainda temos os mosquitos. Eles são portadores da doença e continuarão a espalhá-la até secarmos seus pântanos.
+7001708	Ótima notícia! Minha vacina experimental está mostrando resultados promissores, vou aplicá-la imediatamente na equipe. No entanto, os animais terão que ser tratados individualmente na natureza.
+7001709	Novas infecções são um risco enquanto o vírus ainda estiver afetando sei lá quantos recipientes de sementes. Teremos que expandir nossa equipe para catalogá-los todos.
+7001710	Os Custódios estão esperando que limpemos o cofre e finalmente consegui algo pronto. Uma espécie de antidoto em spray e desinfetante em um só. Deve funcionar.
+7001777	E Howard também está em dívida com você, mesmo que ele nunca admitisse.
+7001716	Esta semente germinante é incrível! Veja como suas propriedades resistentes ao frio possibilitam reações a essas temperaturas?
+7001717	Então, o que o novo módulo está fazendo pelas suas instalações árticas? Não me diga que você nem o instalou ainda!
+7001718	Houve uma coisa boa resultante deste desastre nuclear, organismos absorvedores de raios gama!
+7001719	Ainda é preciso proteger seu novo módulo dos meteoritos, mas ele vai impulsionar sua produção na lua por conta própria. Bem, se você o alimentar o suficiente.
+7001720	Viu? Este último módulo é o mais eficaz! O cofre é como a biblioteca de Alexandria, exceto que a salvamos.
+7001721	E eu pensava que você só estava me ajudando para colocar as mãos no módulo? Talvez eu estivesse errado sobre você.
+7001624	Meus colegas Custódios do Ártico têm falado sobre você. Se metade do que estão dizendo for verdade, você ficará muito interessado no que descobri.
+7001305	Prazer em conhecê-lo! Sou Esther Nylund, bióloga-chefe dos Custódios do Ártico e responsável pelos Vaults de Sementes aqui. Espécies extintas não são a única coisa que eles preservaram. Me ajude e você terá acesso exclusivo.
+7001623	Desculpe, sem entrada para leigos. Você precisa mostrar algum conhecimento científico ou minhas mãos estão amarradas.
+7001306	Que bom que você pôde vir. Este é um lugar lindo, mas isolado.
+7001307	Esse pode ser o motivo pelo qual a Iniciativa Eden escolheu este lugar. Dois séculos atrás, eles construíram um Vault de Sementes aqui para preservar espécies agora extintas. É isso que estamos buscando.
+7001308	No entanto, o cofre não foi mantido adequadamente e tem vazamentos. Ele trouxe algo mais do passado, algo perigoso.
+7001312	Sou cientista, não um fazedor de milagres!
+7001315	Eu mesmo não sou físico, mas é para isso que nossa equipe está aqui. Ainda assim, não estamos prontos.
+7001350	Estou trabalhando sem parar, mas encarar a centrífuga não a fará girar mais rápido, acredite em mim.
+7001318	Obrigado. Falo sério.
+7001711	Mas antes de podermos entrar no cofre propriamente dito, temos que consertar o controle de temperatura danificado. Vou preparar os planos, fique ligado.
+7001712	Vou preparar a operação. Enquanto isso, tenho boas notícias: a equipe desenvolveu um módulo resistente ao frio usando suas novas descobertas!
+7001713	Agora é minha vez. Eu aviso quando tiver os primeiros resultados sobre aquelas cepas mutantes. Por enquanto, você pode testar os novos módulos, os modificamos para operação lunar.
+7001714	Já temos resultados. Agora você pode instalar novos módulos especialmente eficazes em climas moderados.
+7001715	Vencemos o vírus, de uma vez por todas! A equipe está arquivando séculos de amostras. Parece que o esforço da Iniciativa Eden não foi em vão!
+7001578	Isso vai ser moleza, certo?
+7001579	Tenho certeza de que você vai se sair muito bem.
+7001580	Certifique-se de ser minucioso.
+7001581	Obrigado!
+7001582	Muito obrigado!
+7001583	Valeu!
+7001584	Então, vamos ao trabalho!
+7001585	Sem tempo a perder, vamos direto ao assunto.
+7001586	Vou deixar você fazer sua parte, então.
+7001590	Ambos fazemos o que precisamos fazer, entendo.
+7001591	Seguindo as regras no Ártico e aqui sem se importar?
+7001592	E eu pensei que sua produção de energia não dependia de combustíveis fósseis.
+7001593	Levou mais de cem anos para recuperar o Ártico, mas tudo bem, queime.
+7001594	Estou olhando para o outro lado. Agora parece que também preciso de protetores auriculares.
+7001595	Se esse é o preço que tenho que pagar para garantir este setor...
+7001596	Já voltou das reuniões corporativas? Não estou reclamando.
+7001597	Já te disse, sem a devida autorização ninguém...! Oh! Você não é Howard.
+7001598	Venho defendendo o forte, é hora de trocar a guarda.
+7001599	Ai está.
+7001600	Precisa de mais alguma coisa?
+7001601	E eu pensei que você já teria se cansado disso...
+7001602	Vou olhar mais tarde.
+7001604	Parece útil.
+7001605	Não desperdice, não deseje.
+7001606	Oh, eu queria estocar isso!
+7001607	É caro despachar coisas daqui, então... obrigado.
+7001608	Não há mais vida selvagem no pântano, então vá em frente.
+7001609	O pântano é difícil de navegar. A instalação da bomba demorará um pouco.
+7001610	Grande expansão, hein?
+7001611	Você pode começar a drenagem agora.
+7001612	Você vai ter que ligar as bombas também.
+7001613	Não deixe o pântano esperando...
+7001614	Isso vai demorar um pouco, pegue uma cadeira.
+7001615	Toda aquela água tem que ir para algum lugar!
+7001616	As bombas estão fazendo seu trabalho.
+7001617	Menos pântano, mais terra.
+7001618	Finalmente. As bombas são um verdadeiro pé no saco.
+7001619	Bom trabalho. Moisés.
+7001741	Caminhar na lama é divertido, mas não muito.
+7001742	Por que a demora?
+7001743	Você pode pagar por isso, certo?
+7001747	O pântano está tão seco quanto uma conversa com Howard. É hora de desmontar a bomba.
+7001748	O solo não ficará mais seco.
+7001749	Não há mais perigo de afundar!
+7001761	Olha isso? Os sintomas são visíveis até mesmo para leigos.
+7001762	Não chegue muito perto.
+7001763	Estamos monitorando. Não há mais nada que possamos fazer agora.
+7001754	[NOTIFICATION_CHARACTER_NAME] está confiante de que você terá sucesso.
+7001755	[NOTIFICATION_CHARACTER_NAME] te agradece.
+7001756	[NOTIFICATION_CHARACTER_NAME] está desconfiado do impacto ambiental de suas instalações.
+7001757	[NOTIFICATION_CHARACTER_NAME] está preocupado com seu consumo de combustível.
+7001758	[NOTIFICATION_CHARACTER_NAME] olha sua mina com um olhar crítico.
+7001759	[NOTIFICATION_CHARACTER_NAME] está aliviado por vê-lo de volta.
+7001760	[NOTIFICATION_CHARACTER_NAME] está aliviado por vê-lo de volta.
+7001764	[NOTIFICATION_CHARACTER_NAME] supervisiona a construção da bomba.
+7001765	[NOTIFICATION_CHARACTER_NAME] está confusa sobre o atraso.
+7001766	[NOTIFICATION_CHARACTER_NAME] relata que a bomba está operacional.
+7001767	[NOTIFICATION_CHARACTER_NAME] garante que a drenagem ocorra sem problemas.
+7001768	[NOTIFICATION_CHARACTER_NAME] está esperando por você para terminar a drenagem.
+7001769	[NOTIFICATION_CHARACTER_NAME] confirma que a área está pronta para construção.
+7000410	Os ventos frios varrem as largas planícies de Vanha, onde o gelo ártico dá lugar a florestas de madeira. Há sementes armazenando dados genéticos de espécies extintas há muito tempo é apenas um tesouro nesta área.
+7001447	Atraia Executivos na Região Temperada
+7001450	DLC necessário
+7001451	Desbloquear Pré-Condição
+7001452	Executivos Requeridos
+7001453	Seus Executivos
+7001910	DLC Tundra Disponível
+7001911	Explore a planície de Vanha
+7001912	Transforme pântanos em terras aráveis
+7001913	Descubra um legado perigoso
+7001914	Estabeleça novas cadeias produtivas
+7001915	Impulsione sua economia global
+7001916	Compre agora
+7001992	Você acabou de obter o DLC Tundra
+7001993	Aproveite a nova paisagem épica
+7001994	Alcance o sucesso em um novo projeto do setor
+7001995	e mais ...
+7001424	Bomba de Drenagem
+7001836	Lâmpadas? O que é isso?
+7001837	Invisível ao olho humano.
+7001838	Companheiro infalível da humanidade.
+7001839	Médicos em seu sangue, literalmente
+7001840	Ignore o cheiro.
+7001841	Simples, mas surpreendentemente nutritivo.
+7001842	Quente e agora sem odores.
+7001843	Repelente à água e ao frio.
+7001844	Agentes da vida.
+7001845	Não é ar, exatamente.
+7001890	Não funciona com [GUIDCATEGORY_SELECTED] ainda
+7001852	Prosseguir com o Projeto da Dr. Esther Nylund no Tundra
+7001893	Forneça musgo para processamento posterior.
+7001897	Forneça bebidas vitamínicas necessárias para seus empregados.
+7001899	Forneça tungstênio para processamento posterior.
+7001900	Use tungstênio para produzir nano-chips para processamento posterior.
+7001901	Use nano-chips e cobalto para produzir smartdrones exigidos por seus empregados.
+7001902	Forneça gás natural para processamento posterior.
+7001903	Use musgo e bio-resina para produzir biocatalisadores para processamento posterior.
+7001904	Use cobalto e gás natural para produzir aerogel para processamento posterior.
+7001905	Use musgo e água para produzir lã para processamento posterior.
+7001906	Utilize lã e fibras de linho para produzir parkas para todos os climas exigidas por seus empregados.
+7001907	Use nano-chips e células sintetizadas para produzir os robôs médicos exigidas por seus empregados.
+7001908	Fornece energia para abastecer fábricas com o consumo de gás natural.
+7001998	Drene pântanos e fornece acesso aos terrenos de construção adjacentes.
+7001544	Sociedade de preservação
+7001545	Conclua o Projeto do setor na Planície de Vanha.
+7001546	Ambiente de trabalho silencioso
+7001547	Estabeleça Cientistas da Tundra em uma de suas cidades.
+7001548	Piloto voando baixo
+7001549	Complete 10 tarefas para seus empregados da Planície de Vanha.
+7001550	Perdi meus óculos lá embaixo.
+7001551	Drene um pântano.
+7001552	Eu. Eu bebo. Sua. Batida.
+7001553	Drene todos os pântanos das Planícies de Vanha.
+7001554	Adulteração Industrial
+7001555	Construa um Módulo de Tundra em cada região.
+7001556	Que cheiro é esse?
+7001557	Construa 10 fazendas de bois-almiscarados nas Planícies de Vanha.
+7001558	Fim do Éden
+7001559	Construa 10 sondas de perfuração nas planícies de Vanha.
+7001560	É um tipo de mágica
+7001561	Produza Biocatalisadores e Aerogel.
+7001562	Globalização ... Concluída
+7001563	Realize 10 rotas de transferência saindo da Planície do Vanha.
+7001469	Módulo biocatalisador agrícola
+7001872	Módulo biocatalisador biotecnológico.
+7001468	Aerogel de energia
+7001875	Aerogel de industria pesada
+7001876	Aerogel eletrotônico
+7000007	Habitação de tundra
+7000008	Habitação de tundra
+7000012	[GUIDNAME 1000245]
+7000013	[GUIDNAME 1000246]
+7000041	Plantação de musgo
+7000045	Rancho de Musk-ox
+7000038	Plantação de linho
+7000043	Fazenda de girassol
+7000253	Fazenda de Algas
+7000048	Biorreator Avançado
+7000047	Câmara de Ionização
+7000257	Incubadora de células sintéticas
+7000027	Planta de dessalinização
+7000029	Fábrica de Nanoprecisão
+7000028	Alfaiate Boreal
+7000250	Drone favo de mel
+7000251	Centro de Microbótica
+7000030	Parque eólico
+7000256	Usina de combustível fóssil
+7000039	Extrator de Vitamina
+7000051	Equipamento de perfuração
+7000252	Robot Assembly Hall robô
+7000049	Fábrica de Biopolímero
+7000254	Pedreira de feldspato
+7000032	Mina de tungstênio
+7000255	Mina de Cobalto
+7000042	Superfície de musgo
+7000261	Prado para bois almiscarados
+7000263	[GUIDNAME 1000365]
+7000262	[GUIDNAME 1000366]
+7000313	[GUIDNAME 1000368]
+7000302	Câmaras do reator
+7000303	Câmara de alta pressão
+7000305	[GUIDNAME 1000372]
+7000306	[GUIDNAME 1000376]
+7000307	Sala antiestática
+7000304	Moinho de precisão
+7000308	Piso de montagem
+7000309	Autoclave
+7000310	[GUIDNAME 1000392]
+7000311	[GUIDNAME 1000391]
+7000312	[GUIDNAME 1000403]
+7000314	Torre de Perfuração
+7000316	[GUIDNAME 1000383]
+7000315	[GUIDNAME 1000417]
+7000318	[GUIDNAME 1000426]
+7000317	Tesoura de tungstênio
+7000319	[GUIDNAME 1000889]
+7000285	[GUIDNAME 109065] [GUIDNAME 102701]
+7000286	[GUIDNAME 109065] [GUIDNAME 102703]
+7000287	[GUIDNAME 109065] [GUIDNAME 102702]
+7000288	[GUIDNAME 109075] [GUIDNAME 102701]
+7000289	[GUIDNAME 109075] [GUIDNAME 102703]
+7000290	[GUIDNAME 109075] [GUIDNAME 102702]
+7000291	[GUIDNAME 109078] [GUIDNAME 102701]
+7000292	[GUIDNAME 109078] [GUIDNAME 102703]
+7000293	[GUIDNAME 109078] [GUIDNAME 102702]
+7000294	[GUIDNAME 109081] [GUIDNAME 102701]
+7000295	[GUIDNAME 109081] [GUIDNAME 102704]
+7001917	[GUIDNAME 109081] [GUIDNAME 102703]
+7000296	[GUIDNAME 109081] [GUIDNAME 102702]
+7000297	[GUIDNAME 109084] [GUIDNAME 102701]
+7000298	[GUIDNAME 109084] [GUIDNAME 102703]
+7000299	[GUIDNAME 109084] [GUIDNAME 102702]
+7000272	[GUIDNAME 102701]
+7000273	[GUIDNAME 102704]
+7000274	[GUIDNAME 102703]
+7000275	[GUIDNAME 102702]
+7001466	[GUIDNAME 7001469]
+7001877	[GUIDNAME 7001872]
+7001467	[GUIDNAME 7001468]
+7001878	[GUIDNAME 7001875]
+7001879	[GUIDNAME 7001876]
+7000158	[GUIDNAME 1000157]
+7000036	[GUIDNAME 1000123]
+7000159	[GUIDNAME 1000156]
+7000160	[GUIDNAME 1001229]
+7000161	[GUIDNAME 1001231]
+7000162	[GUIDNAME 1001232]
+7000163	[GUIDNAME 1000178]
+7001400	Zona de drenagem
+7001401	[GUIDNAME 7001400]
+7001402	[GUIDNAME 7001400]
+7001403	[GUIDNAME 7001400]
+7001404	[GUIDNAME 7001400]
+7001405	[GUIDNAME 7001400]
+7001406	[GUIDNAME 7001400]
+7001407	Bomba de drenagem
+7001408	[GUIDNAME 7001407]
+7001409	[GUIDNAME 7001407]
+7001410	[GUIDNAME 7001407]
+7001411	[GUIDNAME 7001407]
+7001412	[GUIDNAME 7001407]
+7001413	[GUIDNAME 7001407]
+7001414	Pântano drenado
+7001415	[GUIDNAME 7001414]
+7001416	[GUIDNAME 7001414]
+7001417	[GUIDNAME 7001414]
+7001418	[GUIDNAME 7001414]
+7001419	[GUIDNAME 7001414]
+7001420	[GUIDNAME 7001414]
