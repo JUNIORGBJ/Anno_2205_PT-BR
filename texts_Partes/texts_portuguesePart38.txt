@@ -1,76 +1,76 @@
-117824	Choose a special corporation name.
-117825	There Will Be Cake
-117826	Choose a special corporation name.
-117827	Copycat
-117828	Choose a special corporation name.
-108607	Found an arctic settlement.
-108606	Whiteout
-114484	Wave Rider
-114485	Found a lunar settlement.
-114450	Expansionist
-114451	Claim 34 construction areas.
-114452	Creating Space
-114453	Claim a second construction area in any sector.
-114454	Chief Architect
-114455	Construct 10,000 buildings.
-114456	Overfishing
-114457	Construct 20 Fishing Harbours in a sector.
-114458	Gentrification
-114459	Demolish 100 buildings.
-114460	Looks Better There
-114461	Move 100 buildings.
-115398	Cornucopian
-115399	Construct 1,000 modules.
-116685	Multinational Company
-116686	Claim an area in every sector.
-116687	Bridge Day
-116688	Finish a bridge construction project.
+117824	Escolha um nome empresarial especial.
+117825	Haverá bolo
+117826	Escolha um nome empresarial especial.
+117827	Imitador
+117828	Escolha um nome empresarial especial.
+108607	Assentamento no Ártico encontrado.
+108606	Grande geada
+114484	Surfista
+114485	Assentamento lunar encontrado.
+114450	Expansionista
+114451	Reivindique 34 áreas de construção.
+114452	Criando Espaço
+114453	Reivindique uma segunda área de construção em qualquer setor.
+114454	Arquiteto chefe
+114455	Construa 10.000 edifícios.
+114456	Pesca excessiva
+114457	Construa 20 portos de pesca em um setor.
+114458	Gentrificação
+114459	Demolir 100 edifícios.
+114460	Parece melhor lá
+114461	Mova 100 edifícios.
+115398	Cornucópia
+115399	Construa 1000 módulos.
+116685	Companhia multinacional
+116686	Reivindique uma área em cada setor.
+116687	Dia da Ponte
+116688	Conclua um projeto de construção de ponte.
 117233	Monumental
-117234	Construct corporation headquarters.
-117239	Because I Can
-117240	Expand your corporation headquarter with all different modules.
-117241	Beautiful Mind
-117242	Construct 500 ornamentals.
-117355	Silicon Valley
-117356	Construct 10 silicon mines in one sector.
-117990	Eye-Hand Coordination
-117991	Demolish 30 buildings at once.
-114462	High-end Technology
-114463	Reach "Master" level for any ship.
-114464	Scientific Victory
-114466	Reach "Master" level for all ships.
-114465	Know Your Tools
-114467	Use 100 special actions.
-114469	Back to the Stone Age
-114468	Use the Tactical Nuke 50 times.
-114470	Medic!
-114471	Use the Repair Drones 50 times.
-114472	I'm Rubber, You're Glue
-114473	Use the Kinetic Shield 50 times.
-116506	Get Off Me!
-116507	Use the Wave Mine 50 times.
-116508	Stunning Presence
-116509	Use the E.M.-Pulse 50 times.
-116510	Me and THAT Army
-116511	Use the Support Fleet 50 times.
-116512	Problem Solver
-116513	Use the Long-Range Missile 50 times
-116514	Life Insurance
-116515	Use the Repair Buoy 50 times
-116516	Can't Touch This
-116517	Use the Energy Shield 50 times
-116518	The Maw
-116519	Use the Water Vortex 50 times
-116520	Kick Some Ice!
-116521	Use the Cold Bombs 50 times
-116522	Anti-Terror from the Deep
-116523	Use the Support Warsub 50 times
-117774	Early Adopter
-117775	Be part of the early testing phases of Anno 2205.
+117234	Construa a sede da corporação.
+117239	Porque eu posso
+117240	Expanda a sede da sua empresa com todos os diferentes módulos.
+117241	Mente linda
+117242	Construa 500 plantas ornamentais.
+117355	Vale do Silício
+117356	Construa 10 minas de silício em um setor.
+117990	Coordenação olho-nu
+117991	Demolir 30 edifícios de uma só vez.
+114462	Tecnologia de ponta
+114463	Alcance o nível "Mestre" em qualquer navio.
+114464	Vitória Científica
+114466	Alcance o nível "Mestre" em todos os navios.
+114465	Conheça suas ferramentas
+114467	Use 100 ações especiais.
+114469	De volta à Idade da Pedra
+114468	Use o míssil tático 50 vezes.
+114470	Médico!
+114471	Use os Drones de Reparo 50 vezes.
+114472	Eu sou borracha, você é cola
+114473	Use o Escudo Cinético 50 vezes.
+116506	Saia de cima de mim!
+116507	Use a Mina de Ondas 50 vezes.
+116508	Presença impressionante
+116509	Use o pulso eletromagnético 50 vezes.
+116510	Eu e ESSE exército
+116511	Use a Frota de Suporte 50 vezes.
+116512	Solucionador de problema
+116513	Use o míssil de longo alcance 50 vezes
+116514	Seguro de vida
+116515	Use a boia de reparo 50 vezes
+116516	Não posso tocar nisso
+116517	Use o Escudo de Energia 50 vezes
+116518	A mandíbula
+116519	Use o vórtice de água 50 vezes
+116520	Chute um pouco de gelo!
+116521	Use as bombas frias 50 vezes
+116522	Anti-Terror das Profundezas
+116523	Use o Submarino de Guerra de suporte 50 vezes.
+117774	Participante inicial
+117775	Faça parte das primeiras fases de testes do Anno 2205.
 117816	Abstergo
 117834	Abstergo Industries
 117835	Abstergo Entertainment
-117851	[NOTIFICATION_CHARACTER_NAME] wonders if you chose your corporation name because you are striving for a new world order.
+117851	[NOTIFICATION_CHARACTER_NAME] me pergunto se você escolheu o nome de sua empresa porque está tentando estabelecer uma nova ordem mundial.
 120756	ABSTERGO
 120757	abstergo
 117817	Umbrella
@@ -143,7 +143,7 @@
 117353	Encolhendo os Cinco Maiores
 117354	Alcance o primeiro lugar no ranking no modo difícil.
 117772	Riquezas de Asteróides
-117773	Conecte o Anno 2205 com "ANNO 2205 - Mina de Asteróide".
+117773	Conecte o Anno 2205 com "ANNO 2205 - Mina de Asteroide".
 117830	Parte do Sistema
 117831	Aceite Propina 20 vezes.
 117832	Incorruptível
