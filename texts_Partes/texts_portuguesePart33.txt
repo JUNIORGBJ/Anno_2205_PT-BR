@@ -150,7 +150,7 @@
 112962	Bravo!
 112963	Minhas recomendações!
 112974	Muito bem feito!
-112975	Superb!
+112975	Excelente!
 112976	Este é o resultado que eu esperava.
 112977	Uma mudança como essa já estava passando da hora.
 112978	Enfim.
