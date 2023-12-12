@@ -44,20 +44,20 @@
 109001  Use o drone para destruir [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
 116459  Use o drone para destruir o monitorado [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
 120073  Anexe [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] ao seu [COMMANDO_VEHICLE]
-100787  News Room
-100549  Strategy Map
-100788  Assignment Center
-100789  Corporate Profile
-100791  Global Storage
-100842  Council Menu
-103065  Corporate Profile
-103066  Corporation Level
-103081  Docks
-108437  Voting
-117118  Space Station
-102760  Sink the Eradicator ship
-102761  Destroy 6 Research Labs
-102762  Sink 50 Charger Class ships
+100787  100787  Sala de Notícias
+100549  Mapa Estratégico
+100788  Centro de Atribuições
+100789  Perfil Corporativo
+100791  Armazenamento Global
+100842  Menu do Conselho
+103065  Perfil Corporativo
+103066  Nível Corporativo
+103081  Docas
+108437  Votação
+117118  Estação Espacial
+102760  Afundar a nave Erradicadora
+102761  Destruir 6 Laboratórios de Pesquisa
+102762  Afundar 50 naves Classe Charger
 100105  [CONDITION_EVENT_SPECIFIC_TEXT]
 100191  NO LOCA Iniciar a Atribuição [CONDITION_EVENT_CONTEXT]
 100106  Completar a Atribuição [CONDITION_EVENT_CONTEXT]  
