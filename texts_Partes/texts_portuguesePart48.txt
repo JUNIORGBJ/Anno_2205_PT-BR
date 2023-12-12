@@ -1,106 +1,106 @@
-7001172  You're my best bet when it comes to getting stuff done!
-7001176  Well, you tried.
-7001177  One step forward, two steps back... Oh well.
-7001179  Fine, I'll get it done one way or another.
-7001180  Suit yourself.
-7001182  The task isn't going anywhere, but it's still important.
-7001183  We all have our cross to bear, and yours is that task I gave you.
-7001184  I'd be taking care of it myself if I could.
-7001206  That's taken care of... More work ahead!
-7001207  That's good work, but we're not in the clear yet.
-7001208  If we want to weather this storm, we need to stay focused.
-7001587  I can see the light at the end! Just a little push now.
-7001588  I hate to say this, but... one more thing.
-7001280  The new batches are in the analyzer, I'm going for a smoke. And before you say anything - I know all about the Custodian's policy. Health this, nature that! I need a break.
-7001281  My nephew is up there on the Moon and hasn't called in weeks. I'm afraid that the Orbital Watch is coming after him... or worse, that he's buying their propaganda. Damn, what has that idiot gotten himself into?
-7001282  Howard really does love his job. You could've fooled me though - he's always so sour about everything. Then again, maybe that's his natural face.
-7001283  Jorgenson is the odd one out among the Custodians. Glad he's the one manning the trading around here, makes the area a bit livelier. I met his boyfriend too, they make a cute couple.
-7001284  The reclusive Arctic Custodian lifestyle just isn't for me. I think they misinterpreted the Eco's mission statement and took the austerity a bit too personally.
-7001288  This vault was built following the Ebashi Trench catastrophe and its tsunamis. Things were looking pretty grim back then and people became obsessed with leaving legacies that would last.
-7001289  While we Custodians are technically the Eden Initiative's successors, most of their records regarding the vaults and their contents were lost. Breaking into the vault will involve some risky trial and error.
-7001589  Howard is keen on getting corporations out of the arctic. He doesn't care much what happens to the tundra plains as long as his miles of pristine snow are safe.
-7001299  Alright, I know how to take care of the ice. I'm just waiting for you.
-7001300  Preparations complete! I can't start working on the generator without you, though.
-7001301  I've got news on the virus. You'd better get over here.
-7001626  We're both eager to get into the seed vault, but first we'll need local researchers to deal with anything we find here.
-7001627  Perfect. And don't worry, the nearby volcano isn't going to erupt and bury your settlement. I'm monitoring it.
-7001628  But there's an actual reason to worry: we're dealing with a virus. Quarantining the sector is not an option, as we rely on outside food supplies. But with your spaceport as gateway we're on the safe side.
-7001629  Good, we'll need your full corporate network if I'm right. If this is an ancient pathogen and reaches a major population center, we're in trouble.
-7001630  We'll need a larger research division, but settle on that marsh and you'll be dug out in a few centuries. So first we'll have to pump it dry.
-7001637  Howard is not going to like these pumps, but what's he going to do besides waggle his finger? Colonizing the tundra was his idea, after all.
-7001638  The other Custodians are keen to redirect settlers over to my jurisdiction. But not on my watch, I'm only authorizing specialists. We'll need a team of experts to combat the virus.
-7001639  The staff will be fine, so far the symptoms have only been observed in animals. But I'm keeping an eye on it, it's nothing that I've ever seen before.
-7001640  The team was able to extract the first samples from the vault, but so far no luck in finding the virus or proving my theory. I need fresh pairs of eyes running tests on this.
-7001641  The seeds the new team was able to recover show no traces of the virus. However, there's good news for you.
-7001642  We've sampled a sprawling, but non-native moss species and I'm fairly certain it came from the vault. To strengthen our relationship, I've engineered a module that exploits the moss's exponential growth. Try it out!
-7001643  Neat, isn't it? Just think what we'll be able to do when we secure the entire vault.
-7001662  The seed vault is our goal, but we can't go waltzing in. If we repair the temperature control, we'll thaw the vault without risking the virus getting out of control.
-7001663  Installing a heater for a freezer sounds paradoxical, but remember the 21st century was the era of climate change and the 22nd of climate correction. Think of this as some kind of stabilizer.
-7001664  I managed to get the classified climate stabilizer blueprints. We're not copying them of course, but with enough staff we can give the old tech an overhaul.
-7001666  Oh, did I say the volcano is safe? Hah, well, it is now. The Eden Initiative thought nothing would happen, but it erupted not long afterwards and buried the ventilation shafts. We'll need to clear them.
-7001674  I just came back from checking on the old temperature modules and... No chance, completely fried. Global warming and climate correction took their toll. We'll need new ones.
-7001676  Fuelling this machinery is anything but eco-friendl; after all we need enough power to thaw an ice layer. It's unavoidable, so let's do this right.
-7001677  Good, all set to boot up!
-7001678  Let's hope this goes smoothly, for all our sakes. I had the team clear out so flip the lever once you're ready.
-7001679  It worked, the vault climate is stable! Wait till we fix the nuclear reactor, we'll need the temperature control for that.
-7001680  When the reactor blew up my bosses just slapped a 'Do Not Enter' sign on the sector and now most of the wreckage is still lying around. We've really got our work cut out for us.
-7001681  Good start. The vault and the virus will have to wait until we've taken care of this health hazard.
-7001682  The reactor was built to last, but certainly not to withstand a volcanic eruption. It ruptured the cooling system and that's the first part we'll have to reconstruct.
-7001683  Cleaning out all this radioactive waste is no small logistical feat, but it has to be done. No wonder closing off the sector was the easier solution.
-7001684  The wreckage is mostly cleared and the cooling systems are good to go. We can get the team started on the generator itself now, just give them a lift first.
-7001685  The generator is necessary to open the vault doors without destroying them. And we might have to close them again. Keep the power coming, the generator needs a push to start up.
-7001687  Alright, we've got green light, we're-- hold on, I'm getting an emergency call. ... Okay, hit the activation button, we've got no time to lose. Our team just found a mutated virus strain.
-7001775  Good, the nuclear reactor is stable and the doors are operational! The team is collecting samples as we speak.
-7001689  Just as we suspected: It's Sprawl Fever, a formerly extinct disease with a high mortality rate that causes malignant growths. I'll need more live samples to study the mutations.
-7001691  Damn. Field researchers just reported the onset of symptoms. Hurry up, you need to relocate them asap!
-7001693  I'm in the middle of engineering a vaccine, but in the meantime we need medication to boost our patients' immune systems. The Arctic Custodian main branch has been informed.
-7001776  You've saved many lives. And I bring good news, too!
-7001701  Howard's on our side. He suggested we ship out the seeds to a better-equipped Custodian lab. Analyzing the virus is a lot harder than I thought.
-7001703  My colleagues are having headaches over the virus strains, we'll need to back them up locally! Apparently one of the seed containers isn't just carrying what it says on the label.
-7001704  Results are in. The irregularity they found used to be a pasta dish. I can't believe all this happened because someone dropped their lunch...
-7001705  I can guess what happened. The volcano damaged the vault leaving the infected seeds exposed and voila, germination! Time to weld those leaks shut.
-7001706  With the root cause of infections stamped out, we still have the mosquitoes. They're carriers of the disease and will continue to spread it until we dry out their marshes.
-7001708  Excellent news! My experimental vaccine is showing promise, I'll have it deployed amongst the staff right away. The animals will have to be treated individually in the wild, however.
-7001709  New infections are a risk as long as the virus is still affecting who knows how many seed containers. We'll have to expand our team to catalog them all.
-7001710  The Custodians are waiting for us to clean out the vault and I've finally got something ready. Sort of a spray-on antidote and disinfectant in one. It should work.
-7001777  And Howard owes you too, even though he'd never admit it.
-7001716  This germinating seed is unbelievable! See how its cold-resistant properties make reactions possible at these temperatures?
-7001717  So what's the new module doing for your arctic facilities? Don't tell me you haven't even installed it yet!
-7001718  There was one good thing to come out of this nuclear disaster, gamma-ray absorbing organisms!
-7001719  You've still got to shield your new module from meteorites, but it'll boost your production on the moon all on its own. Well, if you feed it enough.
-7001720  See? This last module is the most effective! The vault is like the library of Alexandria, except we saved it.
-7001721  And here I thought you were only helping me out to get your hands on the module? Maybe I was wrong about you.
-7001624  My Arctic Custodian colleagues have been talking about you. If half of what they're saying is true you'll be very interested in what I've come across.
-7001305  Pleased to meet you! I'm Esther Nylund, Arctic Custodian chief biologist and in charge of the Seed Vaults here. Extinct species isn't the only thing they preserved. Help me out and you'll get exclusive access.
-7001623  Sorry, no entry for laypersons. You need to show some scientific background or my hands are tied.
-7001306  Glad you could make it. This is a beautiful place, but isolated.
-7001307  That might be the reason the Eden Initiative chose this place. Two centuries ago, they built a Seed Vault here to preserve now extinct species. That's what we're after.
-7001308  However, the vault hasn't been maintained properly and has leaks. It's brought something else with it from the past, something dangerous.
-7001312  I'm a scientist, not a miracle worker!
-7001315  I'm not a physicist myself, but that's what our team is for. Still, we're not ready.
-7001350  I'm working round the clock, but glaring at the centrifuge won't make it spin any faster, believe me.
-7001318  Thanks. I mean it.
-7001711  But before we can get into the vault proper we've got to fix the blown temperature control. I'll get the plans ready, stay tuned.
-7001712  I'll get the operation ready. In the meantime I've got good news: the team engineered a cold-resistant module using their new findings!
-7001713  Now it's my turn. I'll let you know once I have the first results on those mutated strains. For now you can test the new modules, we've modified them for lunar operation.
-7001714  We've already got results. You can now install new modules that are especially effective in moderate climates.
-7001715  We've defeated the virus, once and for all! The team is archiving centuries of samples. Looks like the Eden Initiative's endeavor wasn't for nothing!
-7001578  That's going to be a cakewalk, right?
-7001579  I'm sure you'll manage just fine.
-7001580  Make sure to be thorough.
-7001581  Thanks!
-7001582  Much appreciated!
-7001583  Ta!
-7001584  Well then, let's get to work!
-7001585  No time to waste, let's get right to it.
-7001586  I'll leave you to do your thing, then.
-7001590  We both do what we have to do, I get it.
-7001591  Playing by the books in the arctic and not a single care out here?
-7001592  And here I thought your energy production didn't rely on fossil fuels.
-7001593  It took well over a hundred years to get the arctic back, but sure, burn away.
-7001594  I'm already looking the other way. Now it seems I also need a pair of earmuffs.
-7001595  If this is the price I have to pay to get this sector secured...
-7001596  Back already from corporate meetings? I'm not complaining.
+7001172  Você é minha melhor aposta quando se trata de fazer as coisas acontecerem!
+7001176  Bem, você tentou.
+7001177  Um passo para frente, dois para trás... Bem.
+7001179  Certo, vou resolver isso de um jeito ou de outro.
+7001180  Faça como quiser.
+7001182  A tarefa não vai a lugar algum, mas ainda é importante.
+7001183  Todos temos nossos fardos, e o seu é essa tarefa que te dei.
+7001184  Eu mesmo cuidaria disso se pudesse.
+7001206  Isso foi resolvido... Mais trabalho pela frente!
+7001207  Esse é um bom trabalho, mas ainda não estamos livres.
+7001208  Se quisermos enfrentar essa tempestade, precisamos manter o foco.
+7001587  Posso ver a luz no fim! Só mais um empurrãozinho agora.
+7001588  Eu odeio dizer isso, mas... mais uma coisa.
+7001280  Os novos lotes estão no analisador, vou dar um trago. E antes que diga algo - eu sei tudo sobre a política do Custódio. Saúde isso, natureza aquilo! Eu preciso de um tempo.
+7001281  Meu sobrinho está lá na Lua e não liga há semanas. Tenho medo de que a Vigilância Orbital esteja atrás dele... ou pior, que ele esteja comprando a propaganda deles. Droga, em que encrenca aquele idiota se meteu?
+7001282  O Howard realmente ama o trabalho dele. Você poderia me enganar, ele sempre está tão mal-humorado com tudo. Mas pensando bem, talvez seja a cara dele mesmo.
+7001283  O Jorgenson é o estranho entre os Custódios. Alegro-me que ele seja o responsável pelo comércio por aqui, dá um ar mais animado à área. Conheci o namorado dele também, eles formam um casal fofo.
+7001284  O estilo de vida recluso do Custódio Ártico não é para mim. Acho que eles interpretaram mal o objetivo da Eco e levaram a austeridade um pouco pessoalmente demais.
+7001288  Este cofre foi construído após a catástrofe da Fenda Ebashi e seus tsunamis. As coisas estavam bem sombrias naquela época e as pessoas ficaram obcecadas em deixar legados que durassem.
+7001289  Enquanto nós, Custódios, somos tecnicamente sucessores da Iniciativa Eden, a maioria dos registros sobre os cofres e seus conteúdos foi perdida. Invadir o cofre vai envolver alguns testes arriscados.
+7001589  O Howard está determinado a tirar as corporações do Ártico. Ele não se importa muito com o que acontece com as planícies da tundra, desde que suas milhas de neve intocada estejam seguras.
+7001299  Certo, eu sei como cuidar do gelo. Estou só esperando por você.
+7001300  Preparações completas! Não posso começar a trabalhar no gerador sem você, porém.
+7001301  Tenho notícias sobre o vírus. É melhor você vir até aqui.
+7001626  Ambos estamos ansiosos para entrar no cofre de sementes, mas primeiro precisaremos de pesquisadores locais para lidar com o que encontrarmos aqui.
+7001627  Perfeito. E não se preocupe, o vulcão próximo não vai entrar em erupção e enterrar seu assentamento. Estou monitorando isso.
+7001628  Mas há um motivo real para se preocupar: estamos lidando com um vírus. Isolar o setor não é uma opção, já que dependemos de suprimentos de alimentos externos. Mas com seu espaçoporto como porta de entrada, estamos seguros.
+7001629  Ótimo, precisaremos da sua rede corporativa completa se eu estiver certo. Se este for um patógeno antigo e atingir um centro populacional importante, estaremos em apuros.
+7001630  Vamos precisar de uma divisão de pesquisa maior, mas se estabelecer naquele pântano e você será desenterrado em alguns séculos. Primeiro, teremos que drená-lo.
+7001637  Howard não vai gostar dessas bombas, mas o que ele vai fazer além de balançar o dedo? A colonização da tundra foi ideia dele, afinal.
+7001638  Os outros Custódios estão ansiosos para redirecionar colonos para minha jurisdição. Mas não enquanto eu estiver no comando, só estou autorizando especialistas. Vamos precisar de uma equipe de especialistas para combater o vírus.
+7001639  A equipe ficará bem, até agora os sintomas só foram observados em animais. Mas estou de olho, isso é algo que nunca vi antes.
+7001640  A equipe conseguiu extrair as primeiras amostras do cofre, mas até agora sem sorte em encontrar o vírus ou provar minha teoria. Preciso de novos olhares realizando testes nisso.
+7001641  As sementes que a nova equipe conseguiu recuperar não mostram vestígios do vírus. No entanto, há boas notícias para você.
+7001642  Amostramos uma espécie de musgo exótico e estou bastante certo de que veio do cofre. Para fortalecer nossa relação, eu projetei um módulo que explora o crescimento exponencial do musgo. Experimente!
+7001643  Legal, não é? Imagine o que seremos capazes de fazer quando garantirmos o cofre inteiro.
+7001662  O cofre de sementes é nosso objetivo, mas não podemos simplesmente entrar. Se consertarmos o controle de temperatura, descongelaremos o cofre sem correr o risco de o vírus sair do controle.
+7001663  Instalar um aquecedor em um freezer parece paradoxal, mas lembre-se de que o século XXI foi a era das mudanças climáticas e o século XXII, da correção climática. Pense nisso como algum tipo de estabilizador.
+7001664  Consegui os projetos classificados do estabilizador climático. Não estamos simplesmente copiando, é claro, mas com pessoal suficiente, podemos revisar a antiga tecnologia.
+7001666  Ah, eu disse que o vulcão era seguro? Hah, bem, agora é. A Iniciativa Eden achou que nada aconteceria, mas ele entrou em erupção pouco depois e enterrou os dutos de ventilação. Teremos que limpá-los.
+7001674  Acabei de voltar de verificar os antigos módulos de temperatura e... Sem chance, completamente queimados. O aquecimento global e a correção climática cobraram seu preço. Vamos precisar de novos.
+7001676  Abastecer essa máquina está longe de ser ecológico; afinal, precisamos de energia suficiente para descongelar uma camada de gelo. É inevitável, então vamos fazer isso direito.
+7001677  Bom, tudo pronto para inicializar!
+7001678  Vamos torcer para que isso corra bem, por todos nós. Eu mandei a equipe sair, então acione a alavanca quando estiver pronto.
+7001679  Funcionou, o clima do cofre está estável! Espere até consertarmos o reator nuclear, precisaremos do controle de temperatura para isso.
+7001680  Quando o reator explodiu, meus chefes apenas colocaram um aviso de 'Não Entrar' no setor e agora a maior parte dos destroços ainda está por aí. Temos muito trabalho pela frente.
+7001681  Bom começo. O cofre e o vírus terão que esperar até resolvermos esse risco à saúde.
+7001682  O reator foi construído para durar, mas certamente não resistir a uma erupção vulcânica. Ela danificou o sistema de refrigeração e é a primeira parte que teremos que reconstruir.
+7001683  Limpar todo esse lixo radioativo é uma tarefa logística enorme, mas tem que ser feito. Não é de se admirar que fechar o setor tenha sido a solução mais fácil.
+7001684  A maior parte dos destroços foi removida e os sistemas de refrigeração estão prontos. Podemos começar com a equipe no gerador agora, só dê a eles um impulso primeiro.
+7001685  O gerador é necessário para abrir as portas do cofre sem destruí-las. E talvez tenhamos que fechá-las novamente. Mantenha a energia vindo, o gerador precisa de um impulso para começar.
+7001687  Tudo certo, temos luz verde, estamos-- espere, estou recebendo uma chamada de emergência. ... Ok, acione o botão de ativação, não temos tempo a perder. Nossa equipe acabou de encontrar uma cepa mutante do vírus.
+7001775  Ótimo, o reator nuclear está estável e as portas estão operacionais! A equipe está coletando amostras neste exato momento.
+7001689  Como suspeitávamos: é Febre de Expansão, uma doença anteriormente extinta com uma alta taxa de mortalidade que causa crescimentos malignos. Vou precisar de mais amostras vivas para estudar as mutações.
+7001691  Droga. Pesquisadores de campo acabaram de relatar o início dos sintomas. Apresse-se, você precisa realocá-los o mais rápido possível!
+7001693  Estou no meio do desenvolvimento de uma vacina, mas enquanto isso, precisamos de medicamentos para fortalecer os sistemas imunológicos dos pacientes. A matriz principal dos Custódios do Ártico foi informada.
+7001776  Você salvou muitas vidas. E eu trago boas notícias também!
+7001701  Howard está do nosso lado. Ele sugeriu que enviassemos as sementes para um laboratório dos Custódios melhor equipado. Analisar o vírus está sendo muito mais difícil do que eu pensava.
+7001703  Meus colegas estão tendo dores de cabeça com as cepas do vírus, precisaremos apoiá-los localmente! Aparentemente, um dos recipientes de sementes não está apenas carregando o que está escrito no rótulo.
+7001704  Os resultados estão prontos. A irregularidade que encontraram costumava ser um prato de massa. Não posso acreditar que tudo isso aconteceu porque alguém deixou cair o almoço...
+7001705  Consigo imaginar o que aconteceu. O vulcão danificou o cofre, deixando as sementes infectadas expostas e voilà, germinação! Hora de soldar esses vazamentos.
+7001706  Com a causa raiz das infecções eliminada, ainda temos os mosquitos. Eles são portadores da doença e continuarão a espalhá-la até secarmos seus pântanos.
+7001708  Ótima notícia! Minha vacina experimental está mostrando resultados promissores, vou aplicá-la imediatamente na equipe. No entanto, os animais terão que ser tratados individualmente na natureza.
+7001709  Novas infecções são um risco enquanto o vírus ainda estiver afetando sei lá quantos recipientes de sementes. Teremos que expandir nossa equipe para catalogá-los todos.
+7001710  Os Custódios estão esperando que limpemos o cofre e finalmente consegui algo pronto. Uma espécie de antidoto em spray e desinfetante em um só. Deve funcionar.
+7001777  E Howard também está em dívida com você, mesmo que ele nunca admitisse.
+7001716  Esta semente germinante é incrível! Veja como suas propriedades resistentes ao frio possibilitam reações a essas temperaturas?
+7001717  Então, o que o novo módulo está fazendo pelas suas instalações árticas? Não me diga que você nem o instalou ainda!
+7001718  Houve uma coisa boa resultante deste desastre nuclear, organismos absorvedores de raios gama!
+7001719  Ainda é preciso proteger seu novo módulo dos meteoritos, mas ele vai impulsionar sua produção na lua por conta própria. Bem, se você o alimentar o suficiente.
+7001720  Viu? Este último módulo é o mais eficaz! O cofre é como a biblioteca de Alexandria, exceto que a salvamos.
+7001721  E eu pensava que você só estava me ajudando para colocar as mãos no módulo? Talvez eu estivesse errado sobre você.
+7001624  Meus colegas Custódios do Ártico têm falado sobre você. Se metade do que estão dizendo for verdade, você ficará muito interessado no que descobri.
+7001305  Prazer em conhecê-lo! Sou Esther Nylund, bióloga-chefe dos Custódios do Ártico e responsável pelos Vaults de Sementes aqui. Espécies extintas não são a única coisa que eles preservaram. Me ajude e você terá acesso exclusivo.
+7001623  Desculpe, sem entrada para leigos. Você precisa mostrar algum conhecimento científico ou minhas mãos estão amarradas.
+7001306  Que bom que você pôde vir. Este é um lugar lindo, mas isolado.
+7001307  Esse pode ser o motivo pelo qual a Iniciativa Eden escolheu este lugar. Dois séculos atrás, eles construíram um Vault de Sementes aqui para preservar espécies agora extintas. É isso que estamos buscando.
+7001308  No entanto, o cofre não foi mantido adequadamente e tem vazamentos. Ele trouxe algo mais do passado, algo perigoso.
+7001312  Sou cientista, não um fazedor de milagres!
+7001315  Eu mesmo não sou físico, mas é para isso que nossa equipe está aqui. Ainda assim, não estamos prontos.
+7001350  Estou trabalhando sem parar, mas encarar a centrífuga não a fará girar mais rápido, acredite em mim.
+7001318  Obrigado. Falo sério.
+7001711  Mas antes de podermos entrar no cofre propriamente dito, temos que consertar o controle de temperatura danificado. Vou preparar os planos, fique ligado.
+7001712  Vou preparar a operação. Enquanto isso, tenho boas notícias: a equipe desenvolveu um módulo resistente ao frio usando suas novas descobertas!
+7001713  Agora é minha vez. Eu aviso quando tiver os primeiros resultados sobre aquelas cepas mutantes. Por enquanto, você pode testar os novos módulos, os modificamos para operação lunar.
+7001714  Já temos resultados. Agora você pode instalar novos módulos especialmente eficazes em climas moderados.
+7001715  Vencemos o vírus, de uma vez por todas! A equipe está arquivando séculos de amostras. Parece que o esforço da Iniciativa Eden não foi em vão!
+7001578  Isso vai ser moleza, certo?
+7001579  Tenho certeza de que você vai se sair muito bem.
+7001580  Certifique-se de ser minucioso.
+7001581  Obrigado!
+7001582  Muito obrigado!
+7001583  Valeu!
+7001584  Então, vamos ao trabalho!
+7001585  Sem tempo a perder, vamos direto ao assunto.
+7001586  Vou deixar você fazer sua parte, então.
+7001590  Ambos fazemos o que precisamos fazer, entendo.
+7001591  Seguindo as regras no Ártico e aqui sem se importar?
+7001592  E eu pensei que sua produção de energia não dependia de combustíveis fósseis.
+7001593  Levou mais de cem anos para recuperar o Ártico, mas tudo bem, queime.
+7001594  Estou olhando para o outro lado. Agora parece que também preciso de protetores auriculares.
+7001595  Se esse é o preço que tenho que pagar para garantir este setor...
+7001596  Já voltou das reuniões corporativas? Não estou reclamando.
 7001597  Já te disse, sem a devida autorização ninguém...! Oh! Você não é Howard.
 7001598  Venho defendendo o forte, é hora de trocar a guarda.
 7001599  Ai está.
@@ -163,16 +163,16 @@
 7001994  Alcance o sucesso em um novo projeto do setor
 7001995  e mais ...
 7001424  Bomba de Drenagem
-7001836  "Lâmpadas? O que é isso?"
-7001837  "Invisível ao olho humano."
-7001838  "Companheiro infalível da humanidade."
-7001839  "Médicos em seu sangue, literalmente"
-7001840  "Ignore o cheiro."
-7001841  "Simples, mas surpreendentemente nutritivo."
-7001842  "Quente e agora sem odores."
-7001843  "Repelente à água e ao frio."
-7001844  "Agentes da vida."
-7001845  "Não é ar, exatamente."
+7001836  Lâmpadas? O que é isso?
+7001837  Invisível ao olho humano.
+7001838  Companheiro infalível da humanidade.
+7001839  Médicos em seu sangue, literalmente
+7001840  Ignore o cheiro.
+7001841  Simples, mas surpreendentemente nutritivo.
+7001842  Quente e agora sem odores.
+7001843  Repelente à água e ao frio.
+7001844  Agentes da vida.
+7001845  Não é ar, exatamente.
 7001890  Não funciona com [GUIDCATEGORY_SELECTED] ainda
 7001852  Prosseguir com o Projeto da Dr. Esther Nylund no Tundra
 7001893  Forneca musgo para processamento posterior.
