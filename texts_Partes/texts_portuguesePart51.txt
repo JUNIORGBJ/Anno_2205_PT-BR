@@ -17,7 +17,7 @@
 14001032	Domínio da industrial
 14001558	[NOTIFICATION_CHARACTER_NAME] incentiva você a manter sua posição no mercado.
 14001559	[NOTIFICATION_CHARACTER_NAME] está se esforçando para dominar a indústria.
-14001609	Domínio indústrial atual:
+14001609	Domínio industrial atual:
 14001664	Dominância iminente
 14001670	Aproximando-se do domínio
 14001671	Dominado pela competição
@@ -25,7 +25,7 @@
 14001687	Livre Mercado
 14001683	Líder de mercado
 14001820	75% de domínio
-14001134	O mercado de açoes
+14001134	O mercado de ações
 14001136	Junte-se ao mercado de ações
 14001137	Promova mais empregados, disponibilizando acesso às bolsas de valores de suas cidades. Negocie e compre ações de seus rivais para maximizar seus lucros e sua produção!
 14001138	Leilões de influência
