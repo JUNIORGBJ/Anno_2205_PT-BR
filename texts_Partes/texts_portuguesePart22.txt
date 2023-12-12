@@ -39,7 +39,7 @@
 114339  Isso vai liberar um pouco de capacidade.
 114340  Essa licença comercial está prestes a expirar.
 114341  Não se esqueça, essa licença expira em breve.
-114342  Esta foi uma rota temporária. Você terá que renová-la ou desregistrá-la.
+114342  Esta rota era temporária. Você terá que renová-la ou cancelá-la.
 114343  Nossos acordos comerciais estão prestes a expirar em breve.
 114344  A licença para esta rota está quase expirando. Você quer estender ou não?
 114345  Esta rota em breve será história. O que você quer fazer a respeito?
