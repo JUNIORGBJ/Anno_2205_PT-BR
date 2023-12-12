@@ -78,26 +78,26 @@
 113724	A ciência é essencial para o progresso   Mas parece que ainda não percebemos isso aqui  
 113725	O que está acontecendo aqui! Nem consigo pensar direito!
 113726	Nossos urbanistas estão confundindo insanidade com genialidade  
-113727  Entrar   Sair   Entrar! Sair! Você não me deixará trabalhar em paz?
+113727	Entrar   Sair   Entrar! Sair! Você não me deixará trabalhar em paz?
 113729	Talvez o momento não seja propício para grandes ideias, pelo menos não aqui      
 113730	A forma como somos tratados aqui está contra todo o bom senso  
 113731	Aposto que outras empresas apreciariam mais minhas habilidades  
-113732  Mãos frias, coração quente, hein? Por aqui é mais: Mãos frias, ombros frios  
-113723  Uma corporação multinacional, mas sem meios para pesquisa científica       algo está errado  
-113728  Eu deveria ter ficado na universidade  
-113738  Por que não melhorar este assentamento um pouco   Apenas um pensamento  
-113741  Você quer que nossa pesquisa dê resultados? Nos dê algo para trabalhar  
-113742  Não quero falar mal de nada  
-113740  Não quero parecer presunçoso, mas estamos abaixo do esperado aqui  
-113733  Hmm, a maioria das decisões aqui pelo menos faz algum sentido  
-113734  É cerebral, mas é trabalho mesmo assim  
-113735  Nosso assentamento é       nada de especial  
-113736  Estudos estão indo bem   Mas não vivo apenas para o trabalho  
-113739  Enquanto puder realizar minha pesquisa, estou bem  
-113737  É o ártico   O quão confortável pode ser?
-113743  Nossa pesquisa está progredindo bem   Estamos motivados  
-113744  Nenhuma razão para reclamações, de forma alguma  
-113745  Estou trabalhando em um projeto de pesquisa internacional importante   Claro que estou bem  
+113732	Mãos frias, coração quente, hein? Por aqui é mais: Mãos frias, ombros frios  
+113723	Uma corporação multinacional, mas sem meios para pesquisa científica       algo está errado  
+113728	Eu deveria ter ficado na universidade  
+113738	Por que não melhorar este assentamento um pouco   Apenas um pensamento  
+113741	Você quer que nossa pesquisa dê resultados? Nos dê algo para trabalhar  
+113742	Não quero falar mal de nada  
+113740	Não quero parecer presunçoso, mas estamos abaixo do esperado aqui  
+113733	Hmm, a maioria das decisões aqui pelo menos faz algum sentido  
+113734	É cerebral, mas é trabalho mesmo assim  
+113735	Nosso assentamento é       nada de especial  
+113736	Estudos estão indo bem   Mas não vivo apenas para o trabalho  
+113739	Enquanto puder realizar minha pesquisa, estou bem  
+113737	É o ártico   O quão confortável pode ser?
+113743	Nossa pesquisa está progredindo bem   Estamos motivados  
+113744	Nenhuma razão para reclamações, de forma alguma  
+113745	Estou trabalhando em um projeto de pesquisa internacional importante   Claro que estou bem  
 113746	Obrigado   Nossas preocupações nunca são ignoradas aqui  
 113747	O frio? Eu passo a maior parte do meu tempo no meu laboratório, então mal percebo  
 113748	Estamos no fim do mundo e ainda assim você nos oferece todo esse conforto  
@@ -143,8 +143,8 @@
 115705	Tudo está contabilizado?
 115709	Você pode descarregar ali  
 115712	Não sopa misteriosa! Não de novo      
-115713	Eu tranquei a porta       ?
-105721	Roger   Você está chegando alto e claro   Podemos começar a escavação aqui na Lua  
+115713	Eu tranquei a porta?
+105721	Recebido. Te escuto alto e claro. Podemos começar a escavação aqui na Lua  
 113774	Bom!
 113775	Trabalho de primeira qualidade!
 113776	Isso é coisa boa!
