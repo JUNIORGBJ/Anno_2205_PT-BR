@@ -46,7 +46,8 @@
 111828	Ridículo. A resposta é não.
 111829	Esqueça.
 111830	Você não tem o direito de ditar nada.
-111831	Você está enganado se pensa que vou fazer algo por você.
+111831	Você ao menos percebe o quão ridículo isso é? Não!
+111832	Você está enganado se pensa que vou fazer algo por você.
 111833	Para você? Não. Nem pensar.
 111834	Não, eu não acho. Não para você.
 111835	Você não será capaz de nos deter!
@@ -145,8 +146,8 @@
 111976	É tão fácil apenas usar pessoas e descartá-las como lixo. Se não acredita em mim, pergunte ao LEC.
 111977	Todo mundo precisa de algo em que acreditar. Para as corporações, é lucro. Para nós, somos... nós.
 111978	Os Opressores não me quebraram, o incidente na Cratera de Bainbridge não me quebrou. Você acha que pode me quebrar?
-111979	Did anyone ever tell you about what happened at the Bainbridge Crater? I didn't think so. For years we demanded justice, but no! When they do finally remember us, all they do is send people like you. As if nothing ever happened!
-111980	You shouldn't have believed their lies. You should have at least heard our side of the story, but oh no… It's so much easier just to call us villains and terrorists.
+111979	Alguém já lhe contou sobre o que aconteceu na Cratera Bainbridge? Mataram muitas pessoas para seu próprio benefício? Que os enviaram a minas de gelo no meio de um depósito de resíduos radioativos? Claro que não!
+111980	Você não deveria ter acreditado nas mentiras deles. Você deveria pelo menos ter ouvido o nosso lado da história, mas ah, não... É muito mais fácil nos chamar de vilões e terroristas.
 111981	Você não deveria ter acreditado em suas mentiras. Você pelo menos deveria ter ouvido o nosso lado da história, mas ah, é tão mais fácil nos chamar de vilões e terroristas.
 111982	Sabe, ninguém nunca pergunta de onde o LEC conseguiu seu dinheiro. Deixe-me contar um segredo, porém - eles conseguiram isso ao assassinar mineiros inocentes e suas famílias. Pergunte a eles.
 111983	Primeira Onda, Segunda Onda. Intervenção governamental, corporações sem rosto e imprudência. Eu me pergunto se a história se repetirá.
@@ -311,5 +312,5 @@
 109461	O que te deu essa ideia? Não.
 109462	Desculpe desapontar você, mas tenho que dizer não.
 109463	Gostaria de poder ajudar, mas como estão as coisas... desculpe.
-109464	Desculpe, mas a Ibarra-FoxCom não pode ajudar você.
-Desculpe, mas a Ibarra-FoxCom não pode ajudar você.
+109464	Lamento, mas temos de ficar de fora.
+109465	Desculpe, mas a Ibarra-FoxCom não pode ajudar você.
