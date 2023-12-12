@@ -1,316 +1,316 @@
-12013039  [GUIDNAME 12013024]
-12013040  [GUIDNAME 12013022]
-12013041  [GUIDNAME 12013023]
-12013010  A produtividade das instalações da indústria pesada aumentou 10%.
-12013011  As recompensas para as comissões das Industrias Cassian aumentaram em 50%.
-12013012  Os preços comerciais de mercadorias da indústria pesada aumentaram 50%.<br />
-12013013  Redução de segurança 25% mais rápida.<br />Aumento de 5% na eficácia de infiltradores em Cassian.
-12013014  Consiga 6 unidades de magnetita por minuto.
-12013015  A produtividade das instalações da indústria pesada aumentou 10%.<br />
-12013016  Dano e repulsão das Minas Ondulantes aumentados em 100% e custos de combustível reduzidos em 1.
-12013017  As minas de molibdênio também produzem alumínio.
-12013018  Redução do consumo de bens em 10%.<br />Geração de 10% da mão de obra<br />na região temperada.
-12013019  As fundições de plasma usam cobalto em vez de molibdênio.
-12013020  Um novo armazém global foi aberto para todos os materiais de construção.
-12013042  [GUIDNAME 12013022]
-12013043  [GUIDNAME 12013023]
-12013044  [GUIDNAME 12013024]
-12013045  [GUIDNAME 12013023]
-12013046  [GUIDNAME 12013022]
-12013338  Tecnologia
-12013339  Expansão da estação
-12013055  Recursos Alocados
-12013118  Requisitos tecnológicos
-12013115  Requisitos tecnológicos não atendidos.
-12013049  Construa mais oficinas orbitais da indústria correspondente.
-12013114  Demonstra a confiabilidade de uma tecnologia mais antiga
-12013050  Aplicar uma tecnologia mais antiga.
-12013086  Disponibilidade
-12013085  Tecnologia disponível em
-12013087  Tecnologia confiável
-12013112  Status da aplicação
-12013051  <font [GUI_COLOR Green]>Tecnologia aplicada</font>
-12013111  <font [GUI_COLOR OrangeHighlightDark1]>Os requisitos não são mais atendidos</font>
-12013337  Recursos para alocar
-12013343  <font [GUI_COLOR GreyLight1]>Clique para aplicar a tecnologia</font>
-12013344  <font [GUI_COLOR GreyLight1]>Clique para parar a aplicação</font>
-12013366  Status de expansão
-12013367  <font [GUI_COLOR Green]>Kits de expansão da estação produzidos</font>
-12013368  <font [GUI_COLOR OrangeHighlightDark1]>Kits em produção</font>
-12013369  Aplicar uma Tecnologia conectada para iniciar a produção
-12013370  Kits produzidos em:
-12013333  Aumento do tempo de execução
-12013547  Experiência insuficiente para algumas tecnologias
-12013304  Mercadoria Agrícola
-12013305  Mercadoria Biotecnológica
-12013306  Mercadoria Eletrônica
-12013307  Mercadoria Energética
-12013308  Mercadoria de Indústria Pesada
-12013335  Material Raro
-12013416  Produzido no Nexos Tecnológico
-12012931  Entre no mercado de ações antes de construir este edifício.
-12013151  A experiência é alcançada pelos astronautas em sua estação orbital.
-12013150  Aplique especializações no Nexos Tecnológico
-12013184  Reabasteça vôos para o lançamento da estação após um treinamento.
-12013185  Estimativa da Tripulação
-12013431  Não há astronautas suficientes no próximo vôo
-12013439  Construa um Centro de Treinamento para começar os treinos de Vôos para a estação.
-12013443  Menos astronautas esperados neste vôo do que o último
-12013444  Setor atualmente em construção.
-12013480  Período de Treino
-12013508  Não são possíveis rotas Energéticas.
-12013510  Não são possíveis rotas Energéticas para Estação Orbital.
-12013193  Anno-nauta
-12013195  Botânicos espaciais
-12013197  Astrofísicos
-12013199  Especialistas em fita adesiva
-12013201  Faz tudo
-12013203  A chave da vida
-12013205  Matéria do Universo
-12013207  Futuro da Humanidade
-12013209  Recifes digitais
-12013211  Alimentando Civilizações
-12013213  Montagem Completa
-12013215  Primeiro voo
-12013217  Tripulação Permanente
-12013219  Estação de Comandante
-12013221  Remontagem
-12013223  Órbita do Cemitério
-12013225  Desorbitante
-12013227  Cérebro extraterrestre
-12013229  Chefe de agricultura
-12013231  Desenvolvedor de Cyborgs
-12013233  Indústria leve
-12013235  Revolucionário Eletrônico
-12013237  Otimizador de energia
-12013239  Estação pressurizada
-12013241  O Micro-gestor visto de cima
-12013243  Baterias Humanas
-12013245  Desencadeado
-12013247  Entre amigos
-12013249  Diversificação de portfólio
-12013194  Construa pelo menos um centro de treinamento de cada tipo.
-12013196  Treine 100 biólogos para o mesmo vôo de ônibus espacial.
-12013198  Treine 100 físicos para o mesmo vôo do ônibus espacial.
-12013200  Treine 100 engenheiros para o mesmo vôo do ônibus espacial.
-12013202  Construa todos os tipos de Oficina Orbital pelo menos uma vez.
-12013204  Construa 5 câmaras de agricultura.
-12013206  Construa 5 salões da Indústria Pesada.
-12013208  Construa 5 complexos de biotecnologia.
-12013210  Construa 5 salas assépticas eletrônicas.
-12013212  Construa 5 grupos de energia.
-12013214  Construa 12 Oficinas Orbitais de qualquer tipo.
-12013216  Obtenha um saldo de experiência de 100.
-12013218  Obtenha um saldo de experiência de 600.
-12013220  Obtenha um saldo de experiência de 1200.
-12013222  Mova suas oficinas orbitais ou módulos 100 vezes.
-12013224  Derrube 50 Oficinas ou Módulos Orbitais.
-12013226  Derrube pelo menos 20 Oficinas Orbitais ou Módulos de uma vez.
-12013228  Aplique uma tecnologia.
-12013230  Aplique todas as tecnologias agrícolas.
-12013232  Aplique todas as tecnologias biotecnológicas.
-12013234  Aplique todas as tecnologias da indústria pesada.
-12013236  Aplique todas as tecnologias eletrônicas.
-12013238  Aplique todas as tecnologias de energia.
-12013240  Produz todas as extensões da estação.
-12013242  Aplique as Tecnologias de Overclocking de Armazéns Orbitais e Sistema de Controle.
-12013244  Aplique as tecnologias de trabalho robótico e micro-gerador cinético.
-12013246  Aplique todas as tecnologias de substituição de produto.
-12013248  Aplique todas as tecnologias de colaboração.
-12013250  Aplique uma tecnologia em cada setor.
-12012854  [SESSION_SCIENCE_WORKFORCE_PRODUCTION]
-12012888  [SESSION_SCIENCE_ENERGY_PRODUCTION]
-12013420  [INNOVATION_WORKSHOP_NAME]
-12013422  [INNOVATION_CURRENT_WORKSHOP_COUNT]
-12013421  [INNOVATION_REQUIRED_WORKSHOP_COUNT]
-12013423  [INNOVATION_CURRENT_WORKSHOP_COUNT] / [INNOVATION_REQUIRED_WORKSHOP_COUNT]
-12013430  [INNOVATION_WORKSHOP_ICON]
-12012959  [INNOVATION_DESCRIPTION]
-12013082  [INNOVATION_RESEARCH_TIME_REMAINING]
-12013417  [INNOVATION_WORKSHOP_NAME]
-12013418  [INNOVATION_REQUIRED_WORKSHOP_COUNT]
-12013419  [INNOVATION_CURRENT_WORKSHOP_COUNT]
-12013424  [INNOVATION_WORKSHOP_ICON]
-12013303  [ORBIT_MODULE_EMITTED_HEAT]
-12000143  [INTERNAL_STORAGE]
-12000144  [REMAINING_SCIENCE_INTERVAL]
-12000145  [PRODUCTION_TIME_LEFT]
-12013168  [EXPERTS_IN_NEXT_ROCKET]
-12013169  [EXPERTS_IN_LABS]
-12013170  [EXPERTS_FREE]
-12013171  [EXPERTS_TOTAL]
-12013189  [EXPERTS_IN_NEXT_ROCKET 12000095]
-12013190  [EXPERTS_IN_NEXT_ROCKET 12000096]
-12013191  [EXPERTS_IN_NEXT_ROCKET 12000097]
-12013406  [EXPERTS_REQUIRED]
-12013432  [EXPERTS_REQUIRED 12000095]
-12013433  [EXPERTS_REQUIRED 12000096]
-12013434  [EXPERTS_REQUIRED 12000097]
-12013435  [EXPERTS_IN_NEXT_ROCKET 12000097] / [EXPERTS_REQUIRED 12000097]
-12013436  [EXPERTS_IN_NEXT_ROCKET 12000096] / [EXPERTS_REQUIRED 12000096]
-12013437  [EXPERTS_IN_NEXT_ROCKET 12000095] / [EXPERTS_REQUIRED 12000095]
-12013491  [SCIENCE_EFFECT_NAME]
-12013492  [SCIENCE_EFFECT_DESCRIPTION]
-12013516  [SELECTED_TRAININGSCAMP_SPECIAL_DELIVERY_AMOUNT]
-12013520  [ASTRONAUT_TYPE_IN_CAMP_ICON]
-12013521  [ASTRONAUT_TYPE_IN_CAMP_NAME]
-12000470  [GUIDNAME 12000465]
-12012825  "Eu sou A.D.A.M, seu mensageiro Artificial da União de dados. Meu computador central entrou em órbita. Recomenda-se abrir um centro de treinamento de astronautas."
-12012826  "Agora meu hardware é resistente a mudanças climáticas e ataques terroristas, mas não pode funcionar sem especialistas humanos. Lançar o primeiro ônibus espacial é sua responsabilidade."
-12012827  "Os preparativos para sua chegada foram concluídos. Minha representação física está pronta para recebê-lo; por favor, não fique impressionado."
-12012828  "Expandindo a estação, posso implementar novas tecnologias para você. Recomendo conectar mais oficinas ao meu computador central."
-12012829  "O pessoal é altamente qualificado na sua área, mas é a sua estratégia corporativa que decide onde aplicar a sua experiência. Para tomar a decisão é necessário consultar as tecnologias disponíveis."
-12012830  "Só posso me concentrar na otimização de um número limitado de processos por vez. Decidir que ação tomar."
-12012831  [NOTIFICATION_CHARACTER_NAME] irá guiá-lo através da configuração de sua estação orbital.
-12012832  [NOTIFICATION_CHARACTER_NAME] informa que a estação está pronta para a chegada do ônibus.
-12012833  [NOTIFICATION_CHARACTER_NAME] preparou sua chegada.
-12012834  [NOTIFICATION_CHARACTER_NAME] fornece instruções sobre as opções de expansão.
-12012835  [NOTIFICATION_CHARACTER_NAME] aconselha você a consultar o Nexos Tecnológico.
-12012836  [NOTIFICATION_CHARACTER_NAME] fornece uma visão geral.
-12012876  [NOTIFICATION_CHARACTER_NAME] prepara a próxima etapa.
-12012877  [NOTIFICATION_CHARACTER_NAME] confirma um lançamento bem-sucedido.
-12012878  [NOTIFICATION_CHARACTER_NAME] lhe dá as boas-vindas na estação.
-12012879  [NOTIFICATION_CHARACTER_NAME] integra o novo módulo.
-12012880  [NOTIFICATION_CHARACTER_NAME]  aguarda sua decisão.
-12012881  [NOTIFICATION_CHARACTER_NAME] iniciou a implementação.
-12012837  Construa um Centro de Treinamento em qualquer Região
-12012839  Recrute e treine astronautas
-12012874  Lance o primeiro ônibus espacial para a Estação Orbital
-12012893  Construa um conector para o computador central da A.D.A.M.
-12012847  Construa qualquer Oficina Orbital.
-12012873  Abra o Nexo Tecnológico
-12012851  Selecione uma tecnologia.
-12012892  Introduza o [CONDITION_ACTIVE_SESSION_SESSION]
-12013548  Programa Orbital
-12012882  Tecnologias
-12013061  "Você quer que eu sugira algo? A temperatura ainda está subindo no hemisfério; eu recompenso seus empregados. Não faria mal nenhum organizar e fornecer uma festa de verão também."
-12013062  "Além de ser uma oportunidade para relaxar, você também pode convidar alguns oficiais da União Global. Se você puder recebê-los, eu cuidarei do resto fazendo acordos perto da órbita da Terra e outros assuntos..."
-12013063  "Para o toque final, ainda precisamos de mais uma coisa. Há uma tradição local que eu gostaria de trazer de volta, mesmo que a data não possa mais ser determinada. Cuidado para que não seja roubada!"
-12013064  Palo de mayo decorativo desbloqueado
-12013065  [NOTIFICATION_CHARACTER_NAME] recomenda a organização de um evento corporativo de verão.
-12013066  [NOTIFICATION_CHARACTER_NAME] menciona negociações com representantes da União Global.
-12013067  [NOTIFICATION_CHARACTER_NAME] descreve uma velha tradição.
-12013089  "Suponha que eu tivesse conseguido o emprego de um arquiteto famoso... Você estaria interessado? É seu se você me ajudar com alguma mercadoria. Sei que você não resiste a maravilhas."
-12013091  [NOTIFICATION_CHARACTER_NAME] oferece a você uma planta única.
-12013096  [NOTIFICATION_CHARACTER_NAME] te entrega rápidamente as plantas.
-12013103  [NOTIFICATION_CHARACTER_NAME] não pode ficar em um lugar com as plantas.
-12013090  Escultura de lírios decorativa desbloqueada
-12013098  "Como é que alguém vai trabalhar com este calor! Pedi um carregamento de sorvete, mas está derretendo no mar! Quando terminar, vá imediatamente e tome um pouco de sorvete."
-12013101  [NOTIFICATION_CHARACTER_NAME] está perturbado com seu sorvete encalhado.
-12013102  [NOTIFICATION_CHARACTER_NAME] incentiva você a tomar um sorvete.
-12013126  "Este calor está começando a dissolver meu equipamento e então eu vou. Com os ventiladores de hardware certos, posso começar a trabalhar de novo, talvez até mesmo ajudá-lo."
-12013127  [NOTIFICATION_CHARACTER_NAME] reclama sobre o superaquecimento do nó de dados.
-12013128  [NOTIFICATION_CHARACTER_NAME] agradece por violar uma conta em sua homenagem.
-12013129  "Durante esta época do ano, os negócios costumam ficar mais quietos do que nunca e a verdade é que todos nós poderíamos tirar férias. Por que não aproveitar isso para conseguir alguns favores?"
-12013130  [NOTIFICATION_CHARACTER_NAME] aconselha você a jogar bem.
-12013131  [NOTIFICATION_CHARACTER_NAME] agradece sua cooperação.
-12013145  Vote em qualquer corporação dos Cinco Grandes no Conselho
-12013146  Transferência com sucesso de uma patente para qualquer corporação dos Cinco Grandes
-12013132  "Está menos frio do que o normal! Mas se você quer minha opinião, a mudança climática é história. De qualquer forma, o Dr. Killjoy quer amostras de bloco de gelo. Tem a ver com algo dos mantos de gelo e o que aconteceu no século 21..."
-12013133  [NOTIFICATION_CHARACTER_NAME] tem uma missão em nome da pesquisa climática.
-12013134  [NOTIFICATION_CHARACTER_NAME] agradece mas fica em dúvida quanto aos resultados.
-12013135  "Você viu a impressionante chuva de meteoros ultimamente? Se você me trouxer os meteoritos, eu pagarei o dobro do valor deles. Mas não diga ao meu superior, ok?"
-12013136  [NOTIFICATION_CHARACTER_NAME] fala com entusiasmo sobre meteoritos.
-12013137  [NOTIFICATION_CHARACTER_NAME] está encantado com os espécimes.
-12013073  Fase 1 de 3
-12013074  Fase 2 de 3
-12013075  Fase 3 de 3
-12013373  Tecnologias
-12013374  Recrute seus astronautas
-12013375  Construa centros de treinamento para explorar astronautas especializados em sua população. Vôos regulares de transporte irão levá-los à sua estação orbital.
-12013376  Comande uma estação orbital
-12013377  Direcione a montagem em órbita das oficinas orbitais e módulos de suporte para maximizar a experiência de seus astronautas.
-12013404  Aplique novas tecnologias
-12013405  Sua experiência pode ser aplicada no Nexo tecnológico. Expanda sua estação com oficinas para acessar tecnologias mais avançadas.
-12013378  Ganho de experiência
-12013383  [NOTIFICATION_CHARACTER_NAME] cumprimenta você.
-12013384  [NOTIFICATION_CHARACTER_NAME] dá as boas-vindas à sua estação orbital.
-12013385  [NOTIFICATION_CHARACTER_NAME] menciona as tecnologias da estação.
-12013386  [NOTIFICATION_CHARACTER_NAME] está ao seu serviço.
-12000078  Instituto de Biologia
-12000107  Escultura de Lírio
-12000090  Polo de Maio
-12000088  Instituto de Física
-12000089  Instituto de Engenharia
-12000463  Instituto de Física
-12000015  Camarás de Agricultura
-12000016  Complexo biotecnológico
-12000017  Sala Eletrônica Limpa
-12000041  Grupo Energético
-12000042  Salão de Indústria Pesada
-12000003  Laboratório de G artificial
-12000034  Células solares
-12000012  Plataforma de empilhamento
-12000035  Radiador
-12000013  Estufa
-12000014  Sistema de reciclagem
-12000115  Sistema de redução de calor
-12000004  Conector
-12000008  Ordenador central A.D.A.M.
-12013072  Barco de delegados
-12013092  Barco discreto
-12013093  Cargueiro de Nic
-12013105  Barco neveiro
-12013106  Iate VIP
-12013138  Bloco de gelo meio derretido
-12013139  [GUIDNAME 12013138]
-12013140  [GUIDNAME 12013138]
-12013141  [GUIDNAME 12013138]
-12013149  Fragmento de meteorito
-12000027  Região orbital
-12000032  Astronautas
-12000094  Experiência
-12000095  Biólogos
-12000096  Físicos
-12000097  Engenheiros
-5000006  Órbita
-12000000  Setor DLC 02
-12000022  [CORPORATION_NAME] Estação Orbital
-12000174  Otimizador de Mutação
-12000175  Operação conjunta de Saayman
-12000184  Política de direitos dos animais
-12000181  Sistema de resgate
-12000179  Overclocking do sensor
-12000180  Monitoramento de colheita individual
-12000176  Transação de atacado agrícola
-12000177  Infiltração da Segurança Saayman
-12000182  Processo de filtragem dupla
-12000183  Programa de recompensas
-12000185  Suplemento dietético
-12000189  [GUIDNAME 12013364]
-12000190  [GUIDNAME 12013361]
-12000191  [GUIDNAME 12013363]
-12000192  [GUIDNAME 12013361]
-12000193  [GUIDNAME 12013364]
-12000195  Medicina personalizada
-12000196  Operação conjunta da usoyev
-12000204  Decomposição de resina
-12000201  Escudos meteóricos
-12000199  Reprocessamento petroquímico
-12000200  Reengenharia de DNA
-12000197  Transação de atacado de biotecnologia
-12000198  Infiltração de segurança da usoyev
-12000202  Doutrina de Peças Sobressalentes
-12000203  Regulador de consumo
-12000217  Mano de obra robótica
-12000243  [GUIDNAME 12013361]
-12000244  [GUIDNAME 12013364]
-12000245  [GUIDNAME 12013363]
-12000246  [GUIDNAME 12013364]
-12000247  [GUIDNAME 12013361]
-12000207  Auto-teste de Hardware 
-12000208  Operação conjunta da Ibarra-Foxcom
-12000216  Otimização de hardware
-12000213  Detecção de Danos
-12000211  Reprocessamento de grafeno
-12000212  Prototipagem Rápida
-12000209  Transação de atacado de eletrônicos
-12000210  Infiltração de segurança Ibarra-Foxcom
-12000214  Acessório antigravidade
-12000215  Eletrônicos de consumo
-12000229  Overclocking do sistema de controle
-12000249  [GUIDNAME 12013364]
-12000250  [GUIDNAME 12013361]
-12000251  [GUIDNAME 12013363]
-12000252  [GUIDNAME 12013361]
-12000253  [GUIDNAME 12013364]
+12013039	[GUIDNAME 12013024]
+12013040	[GUIDNAME 12013022]
+12013041	[GUIDNAME 12013023]
+12013010	A produtividade das instalações da indústria pesada aumentou 10%.
+12013011	As recompensas para as comissões das Industrias Cassian aumentaram em 50%.
+12013012	Os preços comerciais de mercadorias da indústria pesada aumentaram 50%.<br />
+12013013	Redução de segurança 25% mais rápida.<br />Aumento de 5% na eficácia de infiltradores em Cassian.
+12013014	Consiga 6 unidades de magnetita por minuto.
+12013015	A produtividade das instalações da indústria pesada aumentou 10%.<br />
+12013016	Dano e repulsão das Minas Ondulantes aumentados em 100% e custos de combustível reduzidos em 1.
+12013017	As minas de molibdênio também produzem alumínio.
+12013018	Redução do consumo de bens em 10%.<br />Geração de 10% da mão de obra<br />na região temperada.
+12013019	As fundições de plasma usam cobalto em vez de molibdênio.
+12013020	Um novo armazém global foi aberto para todos os materiais de construção.
+12013042	[GUIDNAME 12013022]
+12013043	[GUIDNAME 12013023]
+12013044	[GUIDNAME 12013024]
+12013045	[GUIDNAME 12013023]
+12013046	[GUIDNAME 12013022]
+12013338	Tecnologia
+12013339	Expansão da estação
+12013055	Recursos Alocados
+12013118	Requisitos tecnológicos
+12013115	Requisitos tecnológicos não atendidos.
+12013049	Construa mais oficinas orbitais da indústria correspondente.
+12013114	Demonstra a confiabilidade de uma tecnologia mais antiga
+12013050	Aplicar uma tecnologia mais antiga.
+12013086	Disponibilidade
+12013085	Tecnologia disponível em
+12013087	Tecnologia confiável
+12013112	Status da aplicação
+12013051	<font [GUI_COLOR Green]>Tecnologia aplicada</font>
+12013111	<font [GUI_COLOR OrangeHighlightDark1]>Os requisitos não são mais atendidos</font>
+12013337	Recursos para alocar
+12013343	<font [GUI_COLOR GreyLight1]>Clique para aplicar a tecnologia</font>
+12013344	<font [GUI_COLOR GreyLight1]>Clique para parar a aplicação</font>
+12013366	Status de expansão
+12013367	<font [GUI_COLOR Green]>Kits de expansão da estação produzidos</font>
+12013368	<font [GUI_COLOR OrangeHighlightDark1]>Kits em produção</font>
+12013369	Aplicar uma Tecnologia conectada para iniciar a produção
+12013370	Kits produzidos em:
+12013333	Aumento do tempo de execução
+12013547	Experiência insuficiente para algumas tecnologias
+12013304	Mercadoria Agrícola
+12013305	Mercadoria Biotecnológica
+12013306	Mercadoria Eletrônica
+12013307	Mercadoria Energética
+12013308	Mercadoria de Indústria Pesada
+12013335	Material Raro
+12013416	Produzido no Nexos Tecnológico
+12012931	Entre no mercado de ações antes de construir este edifício.
+12013151	A experiência é alcançada pelos astronautas em sua estação orbital.
+12013150	Aplique especializações no Nexos Tecnológico
+12013184	Reabasteça voos para o lançamento da estação após um treinamento.
+12013185	Estimativa da Tripulação
+12013431	Não há astronautas suficientes no próximo vôo
+12013439	Construa um Centro de Treinamento para começar os treinos de Voos para a estação.
+12013443	Menos astronautas esperados neste vôo do que o último
+12013444	Setor atualmente em construção.
+12013480	Período de Treino
+12013508	Não são possíveis rotas Energéticas.
+12013510	Não são possíveis rotas Energéticas para Estação Orbital.
+12013193	Anno-nauta
+12013195	Botânicos espaciais
+12013197	Astrofísicos
+12013199	Especialistas em fita adesiva
+12013201	Faz tudo
+12013203	A chave da vida
+12013205	Matéria do Universo
+12013207	Futuro da Humanidade
+12013209	Recifes digitais
+12013211	Alimentando Civilizações
+12013213	Montagem Completa
+12013215	Primeiro voo
+12013217	Tripulação Permanente
+12013219	Estação de Comandante
+12013221	Remontagem
+12013223	Órbita do Cemitério
+12013225	Desorbitante
+12013227	Cérebro extraterrestre
+12013229	Chefe de agricultura
+12013231	Desenvolvedor de Cyborgs
+12013233	Indústria leve
+12013235	Revolucionário Eletrônico
+12013237	Otimizador de energia
+12013239	Estação pressurizada
+12013241	O Micro-gestor visto de cima
+12013243	Baterias Humanas
+12013245	Desencadeado
+12013247	Entre amigos
+12013249	Diversificação de portfólio
+12013194	Construa pelo menos um centro de treinamento de cada tipo.
+12013196	Treine 100 biólogos para o mesmo vôo de ônibus espacial.
+12013198	Treine 100 físicos para o mesmo vôo do ônibus espacial.
+12013200	Treine 100 engenheiros para o mesmo vôo do ônibus espacial.
+12013202	Construa todos os tipos de Oficina Orbital pelo menos uma vez.
+12013204	Construa 5 câmaras de agricultura.
+12013206	Construa 5 salões da Indústria Pesada.
+12013208	Construa 5 complexos de biotecnologia.
+12013210	Construa 5 salas assépticas eletrônicas.
+12013212	Construa 5 grupos de energia.
+12013214	Construa 12 Oficinas Orbitais de qualquer tipo.
+12013216	Obtenha um saldo de experiência de 100.
+12013218	Obtenha um saldo de experiência de 600.
+12013220	Obtenha um saldo de experiência de 1200.
+12013222	Mova suas oficinas orbitais ou módulos 100 vezes.
+12013224	Derrube 50 Oficinas ou Módulos Orbitais.
+12013226	Derrube pelo menos 20 Oficinas Orbitais ou Módulos de uma vez.
+12013228	Aplique uma tecnologia.
+12013230	Aplique todas as tecnologias agrícolas.
+12013232	Aplique todas as tecnologias biotecnológicas.
+12013234	Aplique todas as tecnologias da indústria pesada.
+12013236	Aplique todas as tecnologias eletrônicas.
+12013238	Aplique todas as tecnologias de energia.
+12013240	Produz todas as extensões da estação.
+12013242	Aplique as Tecnologias de Overclocking de Armazéns Orbitais e Sistema de Controle.
+12013244	Aplique as tecnologias de trabalho robótico e micro-gerador cinético.
+12013246	Aplique todas as tecnologias de substituição de produto.
+12013248	Aplique todas as tecnologias de colaboração.
+12013250	Aplique uma tecnologia em cada setor.
+12012854	[SESSION_SCIENCE_WORKFORCE_PRODUCTION]
+12012888	[SESSION_SCIENCE_ENERGY_PRODUCTION]
+12013420	[INNOVATION_WORKSHOP_NAME]
+12013422	[INNOVATION_CURRENT_WORKSHOP_COUNT]
+12013421	[INNOVATION_REQUIRED_WORKSHOP_COUNT]
+12013423	[INNOVATION_CURRENT_WORKSHOP_COUNT] / [INNOVATION_REQUIRED_WORKSHOP_COUNT]
+12013430	[INNOVATION_WORKSHOP_ICON]
+12012959	[INNOVATION_DESCRIPTION]
+12013082	[INNOVATION_RESEARCH_TIME_REMAINING]
+12013417	[INNOVATION_WORKSHOP_NAME]
+12013418	[INNOVATION_REQUIRED_WORKSHOP_COUNT]
+12013419	[INNOVATION_CURRENT_WORKSHOP_COUNT]
+12013424	[INNOVATION_WORKSHOP_ICON]
+12013303	[ORBIT_MODULE_EMITTED_HEAT]
+12000143	[INTERNAL_STORAGE]
+12000144	[REMAINING_SCIENCE_INTERVAL]
+12000145	[PRODUCTION_TIME_LEFT]
+12013168	[EXPERTS_IN_NEXT_ROCKET]
+12013169	[EXPERTS_IN_LABS]
+12013170	[EXPERTS_FREE]
+12013171	[EXPERTS_TOTAL]
+12013189	[EXPERTS_IN_NEXT_ROCKET 12000095]
+12013190	[EXPERTS_IN_NEXT_ROCKET 12000096]
+12013191	[EXPERTS_IN_NEXT_ROCKET 12000097]
+12013406	[EXPERTS_REQUIRED]
+12013432	[EXPERTS_REQUIRED 12000095]
+12013433	[EXPERTS_REQUIRED 12000096]
+12013434	[EXPERTS_REQUIRED 12000097]
+12013435	[EXPERTS_IN_NEXT_ROCKET 12000097] / [EXPERTS_REQUIRED 12000097]
+12013436	[EXPERTS_IN_NEXT_ROCKET 12000096] / [EXPERTS_REQUIRED 12000096]
+12013437	[EXPERTS_IN_NEXT_ROCKET 12000095] / [EXPERTS_REQUIRED 12000095]
+12013491	[SCIENCE_EFFECT_NAME]
+12013492	[SCIENCE_EFFECT_DESCRIPTION]
+12013516	[SELECTED_TRAININGSCAMP_SPECIAL_DELIVERY_AMOUNT]
+12013520	[ASTRONAUT_TYPE_IN_CAMP_ICON]
+12013521	[ASTRONAUT_TYPE_IN_CAMP_NAME]
+12000470	[GUIDNAME 12000465]
+12012825	"Eu sou A.D.A.M, seu mensageiro Artificial da União de dados. Meu computador central entrou em órbita. Recomenda-se abrir um centro de treinamento de astronautas."
+12012826	"Agora meu hardware é resistente a mudanças climáticas e ataques terroristas, mas não pode funcionar sem especialistas humanos. Lançar o primeiro ônibus espacial é sua responsabilidade."
+12012827	"Os preparativos para sua chegada foram concluídos. Minha representação física está pronta para recebê-lo; por favor, não fique impressionado."
+12012828	"Expandindo a estação, posso implementar novas tecnologias para você. Recomendo conectar mais oficinas ao meu computador central."
+12012829	"O pessoal é altamente qualificado na sua área, mas é a sua estratégia corporativa que decide onde aplicar a sua experiência. Para tomar a decisão é necessário consultar as tecnologias disponíveis."
+12012830	"Só posso me concentrar na otimização de um número limitado de processos por vez. Decidir que ação tomar."
+12012831	[NOTIFICATION_CHARACTER_NAME] irá guiá-lo através da configuração de sua estação orbital.
+12012832	[NOTIFICATION_CHARACTER_NAME] informa que a estação está pronta para a chegada do ônibus.
+12012833	[NOTIFICATION_CHARACTER_NAME] preparou sua chegada.
+12012834	[NOTIFICATION_CHARACTER_NAME] fornece instruções sobre as opções de expansão.
+12012835	[NOTIFICATION_CHARACTER_NAME] aconselha você a consultar o Nexos Tecnológico.
+12012836	[NOTIFICATION_CHARACTER_NAME] fornece uma visão geral.
+12012876	[NOTIFICATION_CHARACTER_NAME] prepara a próxima etapa.
+12012877	[NOTIFICATION_CHARACTER_NAME] confirma um lançamento bem-sucedido.
+12012878	[NOTIFICATION_CHARACTER_NAME] lhe dá as boas-vindas na estação.
+12012879	[NOTIFICATION_CHARACTER_NAME] integra o novo módulo.
+12012880	[NOTIFICATION_CHARACTER_NAME]  aguarda sua decisão.
+12012881	[NOTIFICATION_CHARACTER_NAME] iniciou a implementação.
+12012837	Construa um Centro de Treinamento em qualquer Região
+12012839	Recrute e treine astronautas
+12012874	Lance o primeiro ônibus espacial para a Estação Orbital
+12012893	Construa um conector para o computador central da A.D.A.M.
+12012847	Construa qualquer Oficina Orbital.
+12012873	Abra o Nexo Tecnológico
+12012851	Selecione uma tecnologia.
+12012892	Introduza o [CONDITION_ACTIVE_SESSION_SESSION]
+12013548	Programa Orbital
+12012882	Tecnologias
+12013061	"Você quer que eu sugira algo? A temperatura ainda está subindo no hemisfério; eu recompenso seus empregados. Não faria mal nenhum organizar e fornecer uma festa de verão também."
+12013062	"Além de ser uma oportunidade para relaxar, você também pode convidar alguns oficiais da União Global. Se você puder recebê-los, eu cuidarei do resto fazendo acordos perto da órbita da Terra e outros assuntos..."
+12013063	"Para o toque final, ainda precisamos de mais uma coisa. Há uma tradição local que eu gostaria de trazer de volta, mesmo que a data não possa mais ser determinada. Cuidado para que não seja roubada!"
+12013064	Polo de Maio decorativo desbloqueado
+12013065	[NOTIFICATION_CHARACTER_NAME] recomenda a organização de um evento corporativo de verão.
+12013066	[NOTIFICATION_CHARACTER_NAME] menciona negociações com representantes da União Global.
+12013067	[NOTIFICATION_CHARACTER_NAME] descreve uma velha tradição.
+12013089	"Suponha que eu tivesse conseguido o emprego de um arquiteto famoso... Você estaria interessado? É seu se você me ajudar com alguma mercadoria. Sei que você não resiste a maravilhas."
+12013091	[NOTIFICATION_CHARACTER_NAME] oferece a você uma planta única.
+12013096	[NOTIFICATION_CHARACTER_NAME] te entrega rapidamente as plantas.
+12013103	[NOTIFICATION_CHARACTER_NAME] não pode ficar em um lugar com as plantas.
+12013090	Escultura de lírios decorativa desbloqueada
+12013098	"Como é que alguém vai trabalhar com este calor! Pedi um carregamento de sorvete, mas está derretendo no mar! Quando terminar, vá imediatamente e tome um pouco de sorvete."
+12013101	[NOTIFICATION_CHARACTER_NAME] está perturbado com seu sorvete encalhado.
+12013102	[NOTIFICATION_CHARACTER_NAME] incentiva você a tomar um sorvete.
+12013126	"Este calor está começando a dissolver meu equipamento e então eu vou. Com os ventiladores de hardware certos, posso começar a trabalhar de novo, talvez até mesmo ajudá-lo."
+12013127	[NOTIFICATION_CHARACTER_NAME] reclama sobre o superaquecimento do nó de dados.
+12013128	[NOTIFICATION_CHARACTER_NAME] agradece por violar uma conta em sua homenagem.
+12013129	"Durante esta época do ano, os negócios costumam ficar mais quietos do que nunca e a verdade é que todos nós poderíamos tirar férias. Por que não aproveitar isso para conseguir alguns favores?"
+12013130	[NOTIFICATION_CHARACTER_NAME] aconselha você a jogar bem.
+12013131	[NOTIFICATION_CHARACTER_NAME] agradece sua cooperação.
+12013145	Vote em qualquer corporação dos Cinco Grandes no Conselho
+12013146	Transferência com sucesso de uma patente para qualquer corporação dos Cinco Grandes
+12013132	"Está menos frio do que o normal! Mas se você quer minha opinião, a mudança climática é história. De qualquer forma, o Dr. Killjoy quer amostras de bloco de gelo. Tem a ver com algo dos mantos de gelo e o que aconteceu no século 21..."
+12013133	[NOTIFICATION_CHARACTER_NAME] tem uma missão em nome da pesquisa climática.
+12013134	[NOTIFICATION_CHARACTER_NAME] agradece mas fica em dúvida quanto aos resultados.
+12013135	"Você viu a impressionante chuva de meteoros ultimamente? Se você me trouxer os meteoritos, eu pagarei o dobro do valor deles. Mas não diga ao meu superior, ok?"
+12013136	[NOTIFICATION_CHARACTER_NAME] fala com entusiasmo sobre meteoritos.
+12013137	[NOTIFICATION_CHARACTER_NAME] está encantado com os espécimes.
+12013073	Fase 1 de 3
+12013074	Fase 2 de 3
+12013075	Fase 3 de 3
+12013373	Tecnologias
+12013374	Recrute seus astronautas
+12013375	Construa centros de treinamento para explorar astronautas especializados em sua população. Voos regulares de transporte irão levá-los à sua estação orbital.
+12013376	Comande uma estação orbital
+12013377	Direcione a montagem em órbita das oficinas orbitais e módulos de suporte para maximizar a experiência de seus astronautas.
+12013404	Aplique novas tecnologias
+12013405	Sua experiência pode ser aplicada no Nexo tecnológico. Expanda sua estação com oficinas para acessar tecnologias mais avançadas.
+12013378	Ganho de experiência
+12013383	[NOTIFICATION_CHARACTER_NAME] cumprimenta você.
+12013384	[NOTIFICATION_CHARACTER_NAME] dá as boas-vindas à sua estação orbital.
+12013385	[NOTIFICATION_CHARACTER_NAME] menciona as tecnologias da estação.
+12013386	[NOTIFICATION_CHARACTER_NAME] está ao seu serviço.
+12000078	Instituto de Biologia
+12000107	Escultura de Lírio
+12000090	Polo de Maio
+12000088	Instituto de Física
+12000089	Instituto de Engenharia
+12000463	Instituto de Física
+12000015	Camarás de Agricultura
+12000016	Complexo biotecnológico
+12000017	Sala Eletrônica Limpa
+12000041	Grupo Energético
+12000042	Salão de Indústria Pesada
+12000003	Laboratório de G artificial
+12000034	Células solares
+12000012	Plataforma de empilhamento
+12000035	Radiador
+12000013	Estufa
+12000014	Sistema de reciclagem
+12000115	Sistema de redução de calor
+12000004	Conector
+12000008	Ordenador central A.D.A.M.
+12013072	Barco de delegados
+12013092	Barco discreto
+12013093	Cargueiro de Nic
+12013105	Barco neveiro
+12013106	Iate VIP
+12013138	Bloco de gelo meio derretido
+12013139	[GUIDNAME 12013138]
+12013140	[GUIDNAME 12013138]
+12013141	[GUIDNAME 12013138]
+12013149	Fragmento de meteorito
+12000027	Região orbital
+12000032	Astronautas
+12000094	Experiência
+12000095	Biólogos
+12000096	Físicos
+12000097	Engenheiros
+5000006	Órbita
+12000000	Setor DLC 02
+12000022	[CORPORATION_NAME] Estação Orbital
+12000174	Otimizador de Mutação
+12000175	Operação conjunta de Saayman
+12000184	Política de direitos dos animais
+12000181	Sistema de resgate
+12000179	Overclocking do sensor
+12000180	Monitoramento de colheita individual
+12000176	Transação de atacado agrícola
+12000177	Infiltração da Segurança Saayman
+12000182	Processo de filtragem dupla
+12000183	Programa de recompensas
+12000185	Suplemento dietético
+12000189	[GUIDNAME 12013364]
+12000190	[GUIDNAME 12013361]
+12000191	[GUIDNAME 12013363]
+12000192	[GUIDNAME 12013361]
+12000193	[GUIDNAME 12013364]
+12000195	Medicina personalizada
+12000196	Operação conjunta da usoyev
+12000204	Decomposição de resina
+12000201	Escudos meteóricos
+12000199	Reprocessamento petroquímico
+12000200	Reengenharia de DNA
+12000197	Transação de atacado de biotecnologia
+12000198	Infiltração de segurança da usoyev
+12000202	Doutrina de Peças Sobressalentes
+12000203	Regulador de consumo
+12000217	Mano de obra robótica
+12000243	[GUIDNAME 12013361]
+12000244	[GUIDNAME 12013364]
+12000245	[GUIDNAME 12013363]
+12000246	[GUIDNAME 12013364]
+12000247	[GUIDNAME 12013361]
+12000207	Auto-teste de Hardware 
+12000208	Operação conjunta da Ibarra-Foxcom
+12000216	Otimização de hardware
+12000213	Detecção de Danos
+12000211	Reprocessamento de grafeno
+12000212	Prototipagem Rápida
+12000209	Transação de atacado de eletrônicos
+12000210	Infiltração de segurança Ibarra-Foxcom
+12000214	Acessório antigravidade
+12000215	Eletrônicos de consumo
+12000229	Overclocking do sistema de controle
+12000249	[GUIDNAME 12013364]
+12000250	[GUIDNAME 12013361]
+12000251	[GUIDNAME 12013363]
+12000252	[GUIDNAME 12013361]
+12000253	[GUIDNAME 12013364]
