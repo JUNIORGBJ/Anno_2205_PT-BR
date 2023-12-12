@@ -1,317 +1,316 @@
-109466  Por favor, não leve isso para o lado pessoal, mas é um não.
-109467  No momento certo! Gostaria de participar de um dos nossos empreendimentos?
-109468  Oi! Olha, houve esse desenvolvimento e poderíamos usar sua ajuda. Interessado?
-109469  Ei! Gostaria de me ajudar a implementar isso?
-109470  Ei! Você poderia me ajudar... hum, Ibarra-Fox Com com este projeto?
-109471  Engraçado, eu estava pensando em você. Eu poderia usar um pouco de ajuda aqui, sabe?
-109472  Fico feliz que você esteja livre! Veja, precisamos disso.
-109473  Estou em uma viagem de pesquisa para a empresa. Temos este novo e incrível projeto em andamento, você está interessado?
-109474  Oh, ei, que bom te ver! Estive fazendo algumas pesquisas no local para um projeto. Pode ser exatamente a sua praia.
-109475  O que você está fazendo por aqui? Ótimo te ver! Interessado em um pequeno projeto?
-109476  Eu só preciso sair do laboratório de vez em quando. Já que você está aqui, quer me ajudar com algo?
-109477  Uau, estou muito feliz por ter te encontrado. Tenho um projeto que acho que é totalmente do seu interesse.
-109478  Que coincidência nos encontrarmos aqui! Diga, você estaria interessado em assumir um projeto?
-109479  Os resultados finais estão aqui. E você foi... uau!
-109480  Parabéns! Sua solução estava perto do ótimo!
-109481  Uau! Você fez um trabalho incrível.
-109482  Você foi ótimo. A análise está fora dos gráficos!
-109483  Você pensa de forma inovadora! Eu gosto disso!
-109484  Foi fascinante ver isso! Muito obrigado!
-109485  Você descobriu! Ótimo!
-109486  Você foi incrível! Obrigado!
-109488  Parâmetros desfavoráveis. Você deu o seu melhor.
-109489  Todo mundo tem seus altos e baixos.
-109490  Ganha-se alguns, perde-se outros. Isso é ciência.
-113477  Hein? Meu projeto não é interessante o suficiente?
-113478  Por que você está se afastando? Eu perdi alguma coisa?
-113479  Entendo. Às vezes, uma nova abordagem de pesquisa é simplesmente irresistível!
-109492  Já voltou? Há algo errado com o nosso empreendimento?
-109493  Como está indo a tarefa?
-109494  Ainda dentro do cronograma com tudo?
-109495  Qual é o status atual?
-109496  É ótimo tê-lo no projeto. Quão avançado está?
-109497  Então? Como está indo? O projeto, quero dizer!
-109498  Você poderia me dar um relatório de status do projeto?
-109500  Quão avançado você está no projeto?
-109501  Parece que você encontrou!
-109502  Pelo que posso ver daqui, é isso.
-109503  É isso mesmo.
-109504  Ótimo, você encontrou.
-109505  Escaneando... Sim, é isso.
-109506  Essa nova telemetria é incrível! Sim, é isso.
-109507  Você trabalha com muita precisão. Gosto disso. É aquele ali, aliás.
-109508  Certo, é aquele ali!
-109509  Local confirmado. Inicie a transição.
-109510  Destino confirmado. Boa viagem.
-109511  Sim, é o local. Por favor, dirija-se para lá agora.
-109512  Você encontrou o local certo, então tudo que precisa fazer é ir até lá.
-109513  É o lugar. Se puder ir até lá agora...
-109514  É ali. Por favor, insira no seu GPS e vá até lá.
-109515  É isso. Por favor, vá para aquele local o mais rápido possível.
-109516  Deixe-me verificar a imagem de satélite... sim, é o lugar.
-109517  Trabalho incrível! Mas ainda temos mais uma fase para cobrir...
-109518  Ótimo, uma fase concluída. Está pronto para a próxima?
-109519  Bom trabalho. Com base nesses resultados, gostaria de oferecer a você um projeto de acompanhamento.
-109520  Olha, eu sei que vai ser perigoso... mas você poderia?
-109521  Ok, de acordo com os dados, isso vai ficar bem feio. Ainda vai fazer?
-109522  Os sensores indicam muitos inimigos. Eles provavelmente vão atirar em você. Ainda está dentro?
-109523  Eu odeio pedir para você entrar numa zona de combate, mas não tenho realmente outra escolha.
-109525  Tenho que ser honesto, vai ser bem perigoso. Ainda vai fazer?
-109526  Foi uma aplicação impressionante de tecnologia militar!
-109528  As análises pós-combate são muito impressionantes.
-109529  Uau. Isso foi quase eficiência ótima.
-109530  Você está bem?
-109531  É incrível que você tenha conseguido sobreviver a isso.
-109532  Uau. Você sobreviveu a isso? Você deve ser realmente resistente.
-109533  Escuta, estou envolvido em algo grande. Tecnologia revolucionária e tudo mais. Você quer me ajudar no teste?
-109534  Estou tão animado! Essa tecnologia pode ser um verdadeiro divisor de águas! Você quer me ajudar no teste de campo?
-109535  Uau, essa nova tecnologia é incrível! Você quer me ajudar no teste de campo?
-109538  Obrigado! Os resultados parecem muito promissores.
-109539  Obrigado, isso impulsionou minha pesquisa anos-luz adiante!
-109540  Sabe, você realmente compreende rapidamente as novas tecnologias!
-109541  Vamos fazer isso funcionar mais cedo ou mais tarde...
-109542  Bem, de volta à prancheta, suponho.
-109543  Apenas um contratempo! Nada mais.
-109544  O programa TechTomorrow da Ibarra-FoxCom continua! Fornecedores, nos vendam sua tecnologia!
-109545  Estamos à beira de uma descoberta e não podemos permitir uma escassez de materiais!
-109546  É oferta e demanda, e nossa demanda está bem alta no momento.
-109547  Precisamos de um estoque de materiais para levar nossa nova tecnologia ao mercado.
-109548  Queríamos que as coisas fossem mais baratas também!
-109549  Grande oferta, tudo o que você precisa, mundialmente! A preços acessíveis! Deem seus créditos à Ibarra-FoxCom!
-109550  Foi bem caro demais.
-109551  Nossa nova tecnologia reduziu drasticamente os custos de produção.
-109552  Agora que a produção se estabilizou, podemos vender nosso excedente.
-109553  Ops! Talvez devessemos ter vendido isso mais devagar.
-109554  Se você votasse na Ibarra-FoxCom, isso ajudaria a financiar meus estudos!
-109555  As pessoas se comunicam. A distância torna isso mais difícil. A Ibarra-FoxCom facilita.
-109556  A Ibarra-FoxCom está levando as comunicações para as estrelas.
-109557  Na Ibarra-FoxCom, as comunicações estão ganhando uma dimensão totalmente nova.
-109558  A comunicação é um dos nossos instintos mais básicos e nossa maior ferramenta. A Ibarra-FoxCom possibilita isso.
-109559  Você não se importa muito com o progresso científico, não é?
-109560  Bem, é sua escolha, suponho.
-109561  Tenho certeza de que você está fazendo o que acha melhor, mas verá.
-109562  Você é muito inteligente para ignorar os fatos desse jeito.
-109563  Talvez eu não tenha explicado as coisas claramente.
-109564  Agradecemos seu apoio.
-109565  Seu apoio significa muito.
-109566  Com você acreditando em nós, poderemos dar o próximo passo.
-109567  A Ibarra-FoxCom valoriza muito o seu apoio.
-109568  Obrigado por manter a fé. Eu realmente aprecio.
-109569  Não conseguiu decidir da última vez, huh? Sem problema, você ainda pode fazer a diferença nos apoiando.
-109570  Acho que o seu calendário estava como o meu. Caos total! Mas ainda não é tarde demais para nos emprestar seu apoio!
-109571  Ibarra-FoxCom. Somos líderes de mercado em robótica, comunicações, computação... Tenho certeza de que você está usando mais de um dos nossos produtos nas suas instalações.
-109572  A Ibarra-FoxCom é tudo sobre tecnologia. Comunicações, robótica, computação... estamos construindo o futuro hoje.
-109573  Na Ibarra-FoxCom, desenvolvemos tecnologias projetadas para ajudar a humanidade a realizar seus sonhos.
-109574  Robótica, comunicações, computação... Na Ibarra-FoxCom, o futuro começa hoje.
-109575  Estamos aqui para facilitar a vida por meio da tecnologia. Todos os dias.
-109576  Ibarra-FoxCom. Sempre com uma ótima ideia quando você precisa.
-109577  Somos pioneiros quando se trata de tecnologia! Acho que você é inteligente o suficiente para ver isso!
-109578  É difícil superar a tecnologia de ponta, eu sei.
-115426  Analisei seu desempenho. Não é ruim, mas nada supera a inovação!
-109579  Desempenho decente. Mas estamos apenas aquecendo os motores. Logo você estará comendo poeira!
-109580  Bom crescimento! Mas você tem a tecnologia para sustentá-lo?
-109581  Bom trabalho, mas você cantará uma música diferente quando nossa nova tecnologia chegar ao mercado!
-109582  Não fique muito animado. Estamos passando por uma reestruturação no momento.
-109583  Nos ultrapassar é uma coisa, mas se manter na frente é outra.
-109586  Continue tentando. Um dia você chegará lá!
-109587  O que posso dizer? Eu sei que nossa vantagem em tecnologia é difícil de superar.
-109588  Acho que é provavelmente porque nosso P&D continua produzindo uma ótima ideia após outra.
-109590  Nossa expertise em comunicações nos dá uma vantagem tão grande, eu sei.
-109591  Não fique para baixo. Nosso domínio em comunicações, computação e robótica não te deixa muitas opções...
-109592  Todos começamos pequenos. Claro, alguns de nós não permaneceram assim...
-109593  Você tem que dar às pessoas o que elas querem. E o que elas querem são nossos produtos.
-109595  Claro. Siga essa tendência totalmente irracional enquanto durar.
-109596  Mantenha aquele lugar quente para nós até terminarmos a reestruturação, tá?
-115427  O palco é seu. Mas assim que nossa pesquisa estiver pronta, seremos nós que estaremos no centro das atenções!
-109597  Sabe, inteligência artificial é minha praia. Mas às vezes isso te dá calafrios. Lembra do incidente em que essa IA começou a lançar bombas nucleares há cem anos? Poderíamos fazer muito melhor agora, se as coisas não fossem tão restritas.
-109598  Acredita nisso? Ouvi colegas dizendo que eu desperdicei dinheiro e recursos. Ainda bem que eles não são os responsáveis. Ou aqueles que protegem bem seus telefones.
-109599  Por que tenho que justificar meu orçamento o tempo todo? Por que meus chefes não conseguem ver que minha pesquisa garantirá a riqueza deles daqui a vinte anos?
-109600  Aquele cara, Volodin, ele parece... estranho para você de alguma forma? Começamos a falar sobre robótica e IA e ele ficou completamente obcecado. Não tem outra maneira de dizer. Depois ele saiu às pressas, acho que ficou envergonhado.
-109601  Para ser honesto, a Ibarra-FoxCom é como um parque de diversões gigante para mim. Posso experimentar todas as minhas ideias em condições ideais.
-109602  Espera aí, eu reguei as plantas esta semana? Comecei a programar um sistema de rega automática, mas aí minha mãe ficou chateada. Algo sobre as plantas precisarem de amor e os robôs serem autômatos sem alma e blá blá.
-109603  O mundo precisa de mais robôs. Grandes, pequenos, microscópicos - a lista de aplicações potenciais é interminável.
-109604  Às vezes, tenho muita inveja do passado. Claro, um monte de coisas ruins aconteceram, mas eles tinham IAs! Legais! Agora, graças a esse acidente estranho, estamos de volta à Idade da Pedra.
-109605  Já deu uma olhada na tecnologia da Lunar Excavation Corp.? Quero dizer, aquilo é antigo! Não sei como eles conseguem fazer qualquer coisa funcionar lá em cima... Bem, se um dia chegarmos à Lua também, faremos uma oferta a eles.
-109608  Quando penso em todas as grandes tecnologias com as quais pude brincar, meio que me sinto como uma criança numa loja de brinquedos. Hm, não. Provavelmente é ainda melhor que isso.
-113480  Ok. Hmmm. Você provavelmente foi detectado por radar de superfície ou vigilância orbital.
-113481  Você deveria conversar com alguns de nossos técnicos sobre camuflagem.
-113482  Cientificamente falando, evitar a detecção geralmente significa permanecer invisível.
-113483  Tudo bem, você está na área-alvo. Que tipo de scanners você tem?
-113484  Ótimo. Dê uma olhada ao redor. Sua interface vai te informar quando encontrar o certo.
-113485  Dê uma olhada. Você terá que confiar em scanners ópticos para este.
-113486  É esse. Nada supera uma boa tecnologia!
-113487  Você encontrou! Com nossa tecnologia e suas habilidades, foi fichinha.
-113488  Ei, nossos scanners ajudaram! Mesmo que você tenha usado o Bom e Velho Olho Humano Mark One para encontrar isso...
-115341  Atualização de status! Podemos continuar!
-115342  Ei! Você poderia dedicar um tempinho ao nosso projeto?
-115343  Há novas descobertas! Vamos continuar com nosso projeto.
-115344  Ei, hm... Você talvez tenha um tempinho para ouvir minha proposta?
-115345  Descobri algo extremamente interessante neste setor. Dá uma olhada!
-115346  Não fique chateado, tá? Só queria oferecer uma parceria a você.
-114634  Ei, por favor, não me expulse... Só estou perseguindo um projeto pessoal meu. Me dê um minuto e você verá como minha pesquisa vale a pena, ok?
-114635  Ok, aqui está a versão resumida... Estou pesquisando configurações antigas de IA. Você deve ter ouvido falar do incidente do FATHER em 2070. IA complexa fica louca, começa a lançar bombas nucleares.
-114636  De qualquer forma, depois disso, todos os AIs tiveram bloqueadores de identidade instalados. É por isso que as versões de hoje são tão estáveis e previsíveis. Sim, chato, eu sei...
-114637  Mas agora encontrei uma estrutura submersa que parece funcionar com algoritmos de IA antigos. Meu interesse é puramente científico, então se você me ajudar a recuperá-la, pode ficar com quaisquer materiais utilizáveis que encontrar.
-114643  Sorte nossa! Parece que a Arca ainda tem reservas de energia. Deixe-me ver se são suficientes para um reinício do sistema...
-114644  Bem-vindo à sua Arca. Meu nome é...
-114645  Bom, parece que temos que retirar a Arca completamente de seu túmulo aquático. Vou voltar para você.
-114646  Estou tentando convencer meus superiores a formar uma equipe de recuperação. Fique ligado.
-114696  Se tivermos sorte, a elevação vai reiniciar os sistemas da Arca e tirar alguns volts de sua bateria... Ok, os ganchos estão presos, inicie a elevação!
-114697  De volta. Mas você percebeu o que encontramos aqui? É uma unidade EVE! Eu... Vou ter que tirar um tempo para dar uma olhada mais de perto.
-114700  Vai levar algum tempo para analisar a condição da Arca. Vou te chamar.
-114698  Está funcionando! Levante-se e brilhe, bela peça de tecnologia antiga! Deixe-me ligar você!
-114699  Isso é tão legal! Software EVE funcionando! Isso poderia heraldar uma nova era de inteligência artificial! Muito obrigado!
-114695  Não posso falar. Totalmente imerso no código de personalidade da EVE. Você pode resgatar o resto da Arca.
-115072  Oh, oi. Prazer em conhecê-lo. Dra. Eleanor Hofwegen, doutora em filosofia. Trabalho em P&D na Ibarra-FoxCom. Então, se os jornais falam sobre tecnologia legal, nunca antes vista... provavelmente fui eu quem desenvolveu.
-115884  Uau, sua tecnologia transmissora de energia é incrível. Quem me dera ter pensado nisso. De qualquer forma, parabéns.
-109613  Que esplêndido.
-109614  Muito excelente.
-109615  Muito satisfatório.
-109616  Terminou bem.
-109617  Tenho certeza de que isso será aprovado.
-109618  Isso será bem recebido.
-109619  Esplêndido.
-109620  Tudo está bem quando termina bem.
-109621  Isso deixará algumas pessoas importantes felizes.
-109622  Muito esplêndido.
-109623  Meu superior está satisfeito com esse desenvolvimento.
-109624  A matriz ficará satisfeita ao ver isso resolvido.
-109625  Isso será bem visto na matriz.
-109626  Você acabou de subir em nossa estima.
-109627  Você acabou de causar uma ótima impressão com a diretoria.
-109628  Nosso CEO comentou favoravelmente sobre seu desempenho.
-109629  Seu trabalho impressionou meu superior.
-109630  Você impressionou meu CEO. Você deveria se orgulhar.
-109631  Bem feito. Parece que você sabe o que a diretoria gosta.
-109632  Meu CEO admira sua compreensão das prioridades.
-109633  Meu superior está satisfeito com sua conduta.
-109634  Você fez um trabalho admirável.
-109635  Esplêndido, você se saiu bem.
-109636  Que lamentável.
-109637  Que insatisfatório.
-109638  Tsk, tsk. Muito lamentável.
-109639  Uma situação muito lamentável.
-109640  Uma virada de eventos angustiante.
-109641  Deplorável, realmente.
-109642  Receio que meu CEO não ficará satisfeito.
-109643  Uma solução insatisfatória.
-109644  Isso não estava de acordo com nossas projeções.
-109645  Uma virada muito lamentável.
-109646  Seu fracasso não ficará sem consequências.
-109647  Receio que sua performance foi bastante insatisfatória.
-109648  Meu CEO esperava mais de você, assim como eu.
-109649  Deplorável. Você deve fazer melhor.
-109650  A diretoria não ficará satisfeita com sua performance.
-109651  Você percebe que haverá repercussões.
-109652  Sua performance não se conformou com nossas diretrizes.
-109653  Você deve perceber que isso foi inaceitável.
-109654  Você desagradou meu superior.
-109656  Bem-vindo à Cassian Industries. Posso te oferecer algo?
-109657  Cassian Industries te dá as boas-vindas.
-109658  Bem-vindo ao lar da Cassian Industries.
-109659  Cassian Industries, líder mundial em indústria pesada. Bem-vindo.
-109660  É esplêndido te ver. O que te traz à Cassian hoje?
-109662  Um prazer te ver.
-109664  A Cassian tem o prazer de te receber.
-109666  Meu CEO disse sim.
-109667  A diretoria deu sua aprovação.
-109668  O pedido foi aprovado.
-109669  Cassian Industries concorda.
-109670  Meu superior aprovou o pedido.
-109671  Você recebeu sinal verde.
-109672  Nosso CEO deu luz verde ao seu pedido.
-109673  Seu pedido foi aprovado.
-109674  Cassian avaliou e aprovou seu pedido.
-109675  Seu pedido foi aprovado no mais alto nível.
-109676  Pedimos desculpas, mas devemos recusar.
-109677  Não podemos concordar com este pedido.
-109678  A diretoria disse não.
-109679  Fui informado que devemos recusar.
-109680  Meu superior decidiu que a resposta é não.
-109681  Você deve entender que nossas prioridades estão em outro lugar.
-109682  Infelizmente, a Cassian Industries precisa negar seu pedido.
-109683  Meu CEO decidiu que seu pedido não está no interesse da Cassian.
-109684  Lamentavelmente, simplesmente não podemos conceder seu pedido.
-109685  Meu superior me instruiu a dizer que a resposta é não.
-109686  Agradecemos sua presença. Por favor, considere esta proposta para uma cooperação futura.
-109687  Cassian Industries gostaria de oferecer a você uma atribuição.
-109688  Meu CEO gostaria de fazer uma proposta que seja benéfica para ambos.
-109689  Em nome da Cassian, peço que considere a seguinte proposta.
-109690  Meu superior deseja oferecer a você uma atribuição.
-109691  Se você estiver interessado, meu superior tem uma atribuição que pode ser do seu agrado.
-109692  Meu superior me enviou aqui para entrar em contato com você. A Cassian Industries deseja chamá-lo para discutir este assunto.
-109693  Estou feliz por ter te alcançado. Meu CEO gostaria de oferecer a você uma atribuição.
-109694  É um prazer te ver aqui. Talvez você esteja interessado em uma atribuição que temos.
-109695  Ah, aqui está você. Meu superior pediu para entrar em contato com você sobre uma atribuição.
-109696  Que esplêndido te ver. Você estaria interessado em uma atribuição para a Cassian Industries?
-109697  Fui enviado para entrar em contato com você. Meu superior deseja oferecer a você uma atribuição.
-109698  Meu superior está impressionado com o que você alcançou.
-109699  O resultado certamente impressionou meu CEO, devo dizer.
-109700  Sua performance foi exatamente o que a Cassian esperava.
-109702  Seu trabalho recebeu reconhecimento favorável no mais alto nível.
-109703  A diretoria ficou muito impressionada.
-109704  Sua conclusão da tarefa foi exemplar.
-109705  A Cassian Industries valoriza sua profissionalismo.
-109706  Receio que meu superior terá pouca compreensão para tal... descuido.
-109707  Meu CEO ficou muito decepcionado com sua performance.
-109708  A Cassian Industries não tem um longo histórico de tolerar incompetência.
-113501  Estou certo de que meu superior ficará menos do que satisfeito com sua recusa.
-113502  Acredito que saiba o que meu CEO pensará sobre isso.
-113503  A Cassian esperava mais... confiabilidade.
-109709  Meu superior acredita que o assunto foi discutido exaustivamente. Por favor, avance com isso.
-109710  A Cassian Industries gostaria que você priorizasse a conclusão desta tarefa.
-109711  A Cassian paga bem e, em troca, espera que os projetos sejam priorizados.
-109712  Meu superior gostaria de ver o assunto resolvido rapidamente.
-109713  Você recebeu todas as informações pertinentes. Por favor, conclua sua tarefa com sucesso.
-109714  Meu CEO está acostumado a resultados mais rápidos. Por favor, agilize o assunto.
-109715  A Cassian Industries acredita na conclusão dentro do orçamento e no prazo. Pelo menos você está dentro do orçamento. Até agora.
-109716  Por favor, conclua sua tarefa antes que meu superior perca a paciência.
-109717  Permita-me ressaltar a importância disso.
-109718  Acredito que você encontrará isso útil.
-109719  Você encontrará isso importante para o progresso futuro.
-109720  Isso é fundamental para o seu empreendimento atual.
-109721  Fui informado para te dizer que você precisará disso.
-109722  Encontrar isso era imperativo.
-109724  Por favor, permita-me reiterar - isso é importante.
-109725  Exatamente. Aqui é onde você é esperado.
-109726  Excelente, você identificou sua localização desejada.
-109727  Excelente, você identificou a localização correta.
-109728  Esplêndido, essa é a localização especificada.
-109729  Exatamente. Por favor, siga para lá o mais rápido possível.
-109730  A Cassian Industries está satisfeita em ver que suas habilidades de navegação estão acima do esperado.
-109731  Sim, exatamente. Agora, por favor, siga para lá com toda a pressa...
-109732  Essa é a localização que meu superior indicou, certo.
-109733  Esplêndido. No entanto, receio que suas obrigações contratuais também incluam essa tarefa.
-109734  A Cassian Industries gostaria de te oferecer uma atribuição de acompanhamento.
-109735  Com base em seu desempenho até agora, meu CEO gostaria de te oferecer outra atribuição.
-109736  A Cassian gostaria que você eliminasse esse problema. Permanentemente.
-109737  Temos uma atribuição que gostaríamos que você concluísse para nós. Com extrema seriedade.
-109738  Meu CEO tem uma atribuição para você. Desagradável como possa ser, envolve violência.
-109739  Uma situação que requer uma solução enérgica surgiu. A diretoria pensou em você.
-109740  A Cassian Industries tem uma situação adequada para suas habilidades. O uso da força é necessário.
-109741  Uma vitória esplêndida. Meu superior envia seus cumprimentos.
-109742  Claramente, sua reputação é merecida. A Cassian está grata.
-109743  A Cassian Industries te parabeniza por uma solução eficiente para o problema.
-109744  Lamentável. Espero que os danos materiais estejam dentro de limites razoáveis.
-109745  Nossas condolências. Uma perda como essa pode afetar profundamente seu capital.
-109746  A Cassian Industries esperava por uma conclusão mais... satisfatória.
-109747  A Cassian é um antro de cobras. Isso é tudo que posso dizer. Você é o único em quem posso confiar com esse assunto delicado.
-109748  A Cassian Industries requer que essa atribuição seja tratada com o máximo de discrição.
-109749  Meu superior tem uma atribuição para você. Eu assegurei a ela que você é extremamente discreto.
-109750  Você foi a pessoa certa para confiar. E agora, vamos esquecer que isso aconteceu.
-109751  Sua discrição é exemplar. A Cassian está grata.
-109752  Uma atribuição concluída tão discretamente quanto se poderia desejar. Meu superior está impressionado.
-109753  Que catástrofe! Apaguei toda nossa correspondência sobre esse assunto. E você deveria fazer o mesmo.
-109754  Felizmente, tenho uma contingência. Que decepção.
-109755  Parece que foi auspicioso eu destruir todas as evidências de qualquer conexão entre nós.
-109756  Nossa única preocupação é a estabilidade do mercado global. E é muito mais estável com esses produtos em nosso poder!
-109757  Você deve entender que a Cassian Industries não pode deixar o mercado sujeito ao acaso.
-109758  Por favor, não interprete mal essa medida. É simplesmente oferta e demanda, nada mais.
-109759  Todos sabemos que essas coisas são comuns em uma economia de mercado livre.
-109760  Por favor, tenha certeza de que ninguém está recebendo esses produtos por um preço mais baixo do que você.
-109761  A diretoria está bem ciente de que, às vezes, é preciso ser mais do que generoso para alcançar um objetivo maior a longo prazo.
-109762  A Cassian Industries está apenas respondendo à necessidade de limitar a inflação.
-109763  Meu superior está firmemente comprometido em fornecer produtos ao público a um preço justo para todos.
-109764  O mundo tornou a Cassian Industries a número um, e estamos simplesmente mostrando nossa gratidão.
-109765  O preço estava sendo mantido artificialmente alto, o que é condenável.
-
+109466	Por favor, não leve isso para o lado pessoal, mas é um não.
+109467	No momento certo! Gostaria de participar de um dos nossos empreendimentos?
+109468	Oi! Olha, houve esse desenvolvimento e poderíamos usar sua ajuda. Interessado?
+109469	Ei! Gostaria de me ajudar a implementar isso?
+109470	Ei! Você poderia me ajudar... hum, Ibarra-Fox Com com este projeto?
+109471	Engraçado, eu estava pensando em você. Eu poderia usar um pouco de ajuda aqui, sabe?
+109472	Fico feliz que você esteja livre! Veja, precisamos disso.
+109473	Estou em uma viagem de pesquisa para a empresa. Temos este novo e incrível projeto em andamento, você está interessado?
+109474	Oh, ei, que bom te ver! Estive fazendo algumas pesquisas no local para um projeto. Pode ser exatamente a sua praia.
+109475	O que você está fazendo por aqui? Ótimo te ver! Interessado em um pequeno projeto?
+109476	Eu só preciso sair do laboratório de vez em quando. Já que você está aqui, quer me ajudar com algo?
+109477	Uau, estou muito feliz por ter te encontrado. Tenho um projeto que acho que é totalmente do seu interesse.
+109478	Que coincidência nos encontrarmos aqui! Diga, você estaria interessado em assumir um projeto?
+109479	Os resultados finais estão aqui. E você foi... uau!
+109480	Parabéns! Sua solução estava perto do ótimo!
+109481	Uau! Você fez um trabalho incrível.
+109482	Você foi ótimo. A análise está fora dos gráficos!
+109483	Você pensa de forma inovadora! Eu gosto disso!
+109484	Foi fascinante ver isso! Muito obrigado!
+109485	Você descobriu! Ótimo!
+109486	Você foi incrível! Obrigado!
+109488	Parâmetros desfavoráveis. Você deu o seu melhor.
+109489	Todo mundo tem seus altos e baixos.
+109490	Ganha-se alguns, perde-se outros. Isso é ciência.
+113477	Hein? Meu projeto não é interessante o suficiente?
+113478	Por que você está se afastando? Eu perdi alguma coisa?
+113479	Entendo. Às vezes, uma nova abordagem de pesquisa é simplesmente irresistível!
+109492	Já voltou? Há algo errado com o nosso empreendimento?
+109493	Como está indo a tarefa?
+109494	Ainda dentro do cronograma com tudo?
+109495	Qual é o status atual?
+109496	É ótimo tê-lo no projeto. Quão avançado está?
+109497	Então? Como está indo? O projeto, quero dizer!
+109498	Você poderia me dar um relatório de status do projeto?
+109500	Quão avançado você está no projeto?
+109501	Parece que você encontrou!
+109502	Pelo que posso ver daqui, é isso.
+109503	É isso mesmo.
+109504	Ótimo, você encontrou.
+109505	Escaneando... Sim, é isso.
+109506	Essa nova telemetria é incrível! Sim, é isso.
+109507	Você trabalha com muita precisão. Gosto disso. É aquele ali, aliás.
+109508	Certo, é aquele ali!
+109509	Local confirmado. Inicie a transição.
+109510	Destino confirmado. Boa viagem.
+109511	Sim, é o local. Por favor, dirija-se para lá agora.
+109512	Você encontrou o local certo, então tudo que precisa fazer é ir até lá.
+109513	É o lugar. Se puder ir até lá agora...
+109514	É ali. Por favor, insira no seu GPS e vá até lá.
+109515	É isso. Por favor, vá para aquele local o mais rápido possível.
+109516	Deixe-me verificar a imagem de satélite... sim, é o lugar.
+109517	Trabalho incrível! Mas ainda temos mais uma fase para cobrir...
+109518	Ótimo, uma fase concluída. Está pronto para a próxima?
+109519	Bom trabalho. Com base nesses resultados, gostaria de oferecer a você um projeto de acompanhamento.
+109520	Olha, eu sei que vai ser perigoso... mas você poderia?
+109521	Ok, de acordo com os dados, isso vai ficar bem feio. Ainda vai fazer?
+109522	Os sensores indicam muitos inimigos. Eles provavelmente vão atirar em você. Ainda está dentro?
+109523	Eu odeio pedir para você entrar numa zona de combate, mas não tenho realmente outra escolha.
+109525	Tenho que ser honesto, vai ser bem perigoso. Ainda vai fazer?
+109526	Foi uma aplicação impressionante de tecnologia militar!
+109528	As análises pós-combate são muito impressionantes.
+109529	Uau. Isso foi quase eficiência ótima.
+109530	Você está bem?
+109531	É incrível que você tenha conseguido sobreviver a isso.
+109532	Uau. Você sobreviveu a isso? Você deve ser realmente resistente.
+109533	Escuta, estou envolvido em algo grande. Tecnologia revolucionária e tudo mais. Você quer me ajudar no teste?
+109534	Estou tão animado! Essa tecnologia pode ser um verdadeiro divisor de águas! Você quer me ajudar no teste de campo?
+109535	Uau, essa nova tecnologia é incrível! Você quer me ajudar no teste de campo?
+109538	Obrigado! Os resultados parecem muito promissores.
+109539	Obrigado, isso impulsionou minha pesquisa anos-luz adiante!
+109540	Sabe, você realmente compreende rapidamente as novas tecnologias!
+109541	Vamos fazer isso funcionar mais cedo ou mais tarde...
+109542	Bem, de volta à prancheta, suponho.
+109543	Apenas um contratempo! Nada mais.
+109544	O programa TechTomorrow da Ibarra-FoxCom continua! Fornecedores, nos vendam sua tecnologia!
+109545	Estamos à beira de uma descoberta e não podemos permitir uma escassez de materiais!
+109546	É oferta e demanda, e nossa demanda está bem alta no momento.
+109547	Precisamos de um estoque de materiais para levar nossa nova tecnologia ao mercado.
+109548	Queríamos que as coisas fossem mais baratas também!
+109549	Grande oferta, tudo o que você precisa, mundialmente! A preços acessíveis! Deem seus créditos à Ibarra-FoxCom!
+109550	Foi bem caro demais.
+109551	Nossa nova tecnologia reduziu drasticamente os custos de produção.
+109552	Agora que a produção se estabilizou, podemos vender nosso excedente.
+109553	Ops! Talvez devêssemos ter vendido isso mais devagar.
+109554	Se você votasse na Ibarra-FoxCom, isso ajudaria a financiar meus estudos!
+109555	As pessoas se comunicam. A distância torna isso mais difícil. A Ibarra-FoxCom facilita.
+109556	A Ibarra-FoxCom está levando as comunicações para as estrelas.
+109557	Na Ibarra-FoxCom, as comunicações estão ganhando uma dimensão totalmente nova.
+109558	A comunicação é um dos nossos instintos mais básicos e nossa maior ferramenta. A Ibarra-FoxCom possibilita isso.
+109559	Você não se importa muito com o progresso científico, não é?
+109560	Bem, é sua escolha, suponho.
+109561	Tenho certeza de que você está fazendo o que acha melhor, mas verá.
+109562	Você é muito inteligente para ignorar os fatos desse jeito.
+109563	Talvez eu não tenha explicado as coisas claramente.
+109564	Agradecemos seu apoio.
+109565	Seu apoio significa muito.
+109566	Com você acreditando em nós, poderemos dar o próximo passo.
+109567	A Ibarra-FoxCom valoriza muito o seu apoio.
+109568	Obrigado por manter a fé. Eu realmente aprecio.
+109569	Não conseguiu decidir da última vez, huh? Sem problema, você ainda pode fazer a diferença nos apoiando.
+109570	Acho que o seu calendário estava como o meu. Caos total! Mas ainda não é tarde demais para nos emprestar seu apoio!
+109571	Ibarra-FoxCom. Somos líderes de mercado em robótica, comunicações, computação... Tenho certeza de que você está usando mais de um dos nossos produtos nas suas instalações.
+109572	A Ibarra-FoxCom é tudo sobre tecnologia. Comunicações, robótica, computação... estamos construindo o futuro hoje.
+109573	Na Ibarra-FoxCom, desenvolvemos tecnologias projetadas para ajudar a humanidade a realizar seus sonhos.
+109574	Robótica, comunicações, computação... Na Ibarra-FoxCom, o futuro começa hoje.
+109575	Estamos aqui para facilitar a vida por meio da tecnologia. Todos os dias.
+109576	Ibarra-FoxCom. Sempre com uma ótima ideia quando você precisa.
+109577	Somos pioneiros quando se trata de tecnologia! Acho que você é inteligente o suficiente para ver isso!
+109578	É difícil superar a tecnologia de ponta, eu sei.
+115426	Analisei seu desempenho. Não é ruim, mas nada supera a inovação!
+109579	Desempenho decente. Mas estamos apenas aquecendo os motores. Logo você estará comendo poeira!
+109580	Bom crescimento! Mas você tem a tecnologia para sustentá-lo?
+109581	Bom trabalho, mas você cantará uma música diferente quando nossa nova tecnologia chegar ao mercado!
+109582	Não fique muito animado. Estamos passando por uma reestruturação no momento.
+109583	Nos ultrapassar é uma coisa, mas se manter na frente é outra.
+109586	Continue tentando. Um dia você chegará lá!
+109587	O que posso dizer? Eu sei que nossa vantagem em tecnologia é difícil de superar.
+109588	Acho que é provavelmente porque nosso P&D continua produzindo uma ótima ideia após outra.
+109590	Nossa expertise em comunicações nos dá uma vantagem tão grande, eu sei.
+109591	Não fique para baixo. Nosso domínio em comunicações, computação e robótica não te deixa muitas opções...
+109592	Todos começamos pequenos. Claro, alguns de nós não permaneceram assim...
+109593	Você tem que dar às pessoas o que elas querem. E o que elas querem são nossos produtos.
+109595	Claro. Siga essa tendência totalmente irracional enquanto durar.
+109596	Mantenha aquele lugar quente para nós até terminarmos a reestruturação, tá?
+115427	O palco é seu. Mas assim que nossa pesquisa estiver pronta, seremos nós que estaremos no centro das atenções!
+109597	Sabe, inteligência artificial é minha praia. Mas às vezes isso te dá calafrios. Lembra do incidente em que essa IA começou a lançar bombas nucleares há cem anos? Poderíamos fazer muito melhor agora, se as coisas não fossem tão restritas.
+109598	Acredita nisso? Ouvi colegas dizendo que eu desperdicei dinheiro e recursos. Ainda bem que eles não são os responsáveis. Ou aqueles que protegem bem seus telefones.
+109599	Por que tenho que justificar meu orçamento o tempo todo? Por que meus chefes não conseguem ver que minha pesquisa garantirá a riqueza deles daqui a vinte anos?
+109600	Aquele cara, Volodin, ele parece... estranho para você de alguma forma? Começamos a falar sobre robótica e IA e ele ficou completamente obcecado. Não tem outra maneira de dizer. Depois ele saiu às pressas, acho que ficou envergonhado.
+109601	Para ser honesto, a Ibarra-FoxCom é como um parque de diversões gigante para mim. Posso experimentar todas as minhas ideias em condições ideais.
+109602	Espera aí, eu reguei as plantas esta semana? Comecei a programar um sistema de rega automática, mas aí minha mãe ficou chateada. Algo sobre as plantas precisarem de amor e os robôs serem autômatos sem alma e blá blá.
+109603	O mundo precisa de mais robôs. Grandes, pequenos, microscópicos - a lista de aplicações potenciais é interminável.
+109604	Às vezes, tenho muita inveja do passado. Claro, um monte de coisas ruins aconteceram, mas eles tinham IAs! Legais! Agora, graças a esse acidente estranho, estamos de volta à Idade da Pedra.
+109605	Já deu uma olhada na tecnologia da Lunar Excavation Corp.? Quero dizer, aquilo é antigo! Não sei como eles conseguem fazer qualquer coisa funcionar lá em cima... Bem, se um dia chegarmos à Lua também, faremos uma oferta a eles.
+109608	Quando penso em todas as grandes tecnologias com as quais pude brincar, meio que me sinto como uma criança numa loja de brinquedos. Hm, não. Provavelmente é ainda melhor que isso.
+113480	Ok. Hmmm. Você provavelmente foi detectado por radar de superfície ou vigilância orbital.
+113481	Você deveria conversar com alguns de nossos técnicos sobre camuflagem.
+113482	Cientificamente falando, evitar a detecção geralmente significa permanecer invisível.
+113483	Tudo bem, você está na área-alvo. Que tipo de escaneis você tem?
+113484	Ótimo. Dê uma olhada ao redor. Sua interface vai te informar quando encontrar o certo.
+113485	Dê uma olhada. Você terá que confiar em escaneis ópticos para este.
+113486	É esse. Nada supera uma boa tecnologia!
+113487	Você encontrou! Com nossa tecnologia e suas habilidades, foi fichinha.
+113488	Ei, nossos escaneis ajudaram! Mesmo que você tenha usado o Bom e Velho Olho Humano Mark One para encontrar isso...
+115341	Atualização de status! Podemos continuar!
+115342	Ei! Você poderia dedicar um tempinho ao nosso projeto?
+115343	Há novas descobertas! Vamos continuar com nosso projeto.
+115344	Ei, hm... Você talvez tenha um tempinho para ouvir minha proposta?
+115345	Descobri algo extremamente interessante neste setor. Dá uma olhada!
+115346	Não fique chateado, tá? Só queria oferecer uma parceria a você.
+114634	Ei, por favor, não me expulse... Só estou perseguindo um projeto pessoal meu. Me dê um minuto e você verá como minha pesquisa vale a pena, ok?
+114635	Ok, aqui está a versão resumida... Estou pesquisando configurações antigas de IA. Você deve ter ouvido falar do incidente do FATHER em 2070. IA complexa fica louca, começa a lançar bombas nucleares.
+114636	De qualquer forma, depois disso, todos os AIs tiveram bloqueadores de identidade instalados. É por isso que as versões de hoje são tão estáveis e previsíveis. Sim, chato, eu sei...
+114637	Mas agora encontrei uma estrutura submersa que parece funcionar com algoritmos de IA antigos. Meu interesse é puramente científico, então se você me ajudar a recuperá-la, pode ficar com quaisquer materiais utilizáveis que encontrar.
+114643	Sorte nossa! Parece que a Arca ainda tem reservas de energia. Deixe-me ver se são suficientes para um reinício do sistema...
+114644	Bem-vindo à sua Arca. Meu nome é...
+114645	Bom, parece que temos que retirar a Arca completamente de seu túmulo aquático. Vou voltar para você.
+114646	Estou tentando convencer meus superiores a formar uma equipe de recuperação. Fique ligado.
+114696	Se tivermos sorte, a elevação vai reiniciar os sistemas da Arca e tirar alguns volts de sua bateria... Ok, os ganchos estão presos, inicie a elevação!
+114697	De volta. Mas você percebeu o que encontramos aqui? É uma unidade EVE! Eu... Vou ter que tirar um tempo para dar uma olhada mais de perto.
+114700	Vai levar algum tempo para analisar a condição da Arca. Vou te chamar.
+114698	Está funcionando! Levante-se e brilhe, bela peça de tecnologia antiga! Deixe-me ligar você!
+114699	Isso é tão legal! Software EVE funcionando! Isso poderia anunciar uma nova era de inteligência artificial! Muito obrigado!
+114695	Não posso falar. Totalmente imerso no código de personalidade da EVE. Você pode resgatar o resto da Arca.
+115072	Oh, oi. Prazer em conhecê-lo. Dra. Eleanor Hofwegen, doutora em filosofia. Trabalho em P&D na Ibarra-FoxCom. Então, se os jornais falam sobre tecnologia legal, nunca antes vista... provavelmente fui eu quem desenvolveu.
+115884	Uau, sua tecnologia transmissora de energia é incrível. Quem me dera ter pensado nisso. De qualquer forma, parabéns.
+109613	Que esplêndido.
+109614	Muito excelente.
+109615	Muito satisfatório.
+109616	Terminou bem.
+109617	Tenho certeza de que isso será aprovado.
+109618	Isso será bem recebido.
+109619	Esplêndido.
+109620	Tudo está bem quando termina bem.
+109621	Isso deixará algumas pessoas importantes felizes.
+109622	Muito esplêndido.
+109623	Meu superior está satisfeito com esse desenvolvimento.
+109624	A matriz ficará satisfeita ao ver isso resolvido.
+109625	Isso será bem visto na matriz.
+109626	Você acabou de subir em nossa estima.
+109627	Você acabou de causar uma ótima impressão com a diretoria.
+109628	Nosso CEO comentou favoravelmente sobre seu desempenho.
+109629	Seu trabalho impressionou meu superior.
+109630	Você impressionou meu CEO. Você deveria se orgulhar.
+109631	Bem feito. Parece que você sabe o que a diretoria gosta.
+109632	Meu CEO admira sua compreensão das prioridades.
+109633	Meu superior está satisfeito com sua conduta.
+109634	Você fez um trabalho admirável.
+109635	Esplêndido, você se saiu bem.
+109636	Que lamentável.
+109637	Que insatisfatório.
+109638	Tsk, tsk. Muito lamentável.
+109639	Uma situação muito lamentável.
+109640	Uma virada de eventos angustiante.
+109641	Deplorável, realmente.
+109642	Receio que meu CEO não ficará satisfeito.
+109643	Uma solução insatisfatória.
+109644	Isso não estava de acordo com nossas projeções.
+109645	Uma virada muito lamentável.
+109646	Seu fracasso não ficará sem consequências.
+109647	Receio que sua performance foi bastante insatisfatória.
+109648	Meu CEO esperava mais de você, assim como eu.
+109649	Deplorável. Você deve fazer melhor.
+109650	A diretoria não ficará satisfeita com sua performance.
+109651	Você percebe que haverá repercussões.
+109652	Sua performance não se conformou com nossas diretrizes.
+109653	Você deve perceber que isso foi inaceitável.
+109654	Você desagradou meu superior.
+109656	Bem-vindo à Cassian Industries. Posso te oferecer algo?
+109657	Cassian Industries te dá as boas-vindas.
+109658	Bem-vindo ao lar da Cassian Industries.
+109659	Cassian Industries, líder mundial em indústria pesada. Bem-vindo.
+109660	É esplêndido te ver. O que te traz à Cassian hoje?
+109662	Um prazer te ver.
+109664	A Cassian tem o prazer de te receber.
+109666	Meu CEO disse sim.
+109667	A diretoria deu sua aprovação.
+109668	O pedido foi aprovado.
+109669	Cassian Industries concorda.
+109670	Meu superior aprovou o pedido.
+109671	Você recebeu sinal verde.
+109672	Nosso CEO deu luz verde ao seu pedido.
+109673	Seu pedido foi aprovado.
+109674	Cassian avaliou e aprovou seu pedido.
+109675	Seu pedido foi aprovado no mais alto nível.
+109676	Pedimos desculpas, mas devemos recusar.
+109677	Não podemos concordar com este pedido.
+109678	A diretoria disse não.
+109679	Fui informado que devemos recusar.
+109680	Meu superior decidiu que a resposta é não.
+109681	Você deve entender que nossas prioridades estão em outro lugar.
+109682	Infelizmente, a Cassian Industries precisa negar seu pedido.
+109683	Meu CEO decidiu que seu pedido não está no interesse da Cassian.
+109684	Lamentavelmente, simplesmente não podemos conceder seu pedido.
+109685	Meu superior me instruiu a dizer que a resposta é não.
+109686	Agradecemos sua presença. Por favor, considere esta proposta para uma cooperação futura.
+109687	Cassian Industries gostaria de oferecer a você uma atribuição.
+109688	Meu CEO gostaria de fazer uma proposta que seja benéfica para ambos.
+109689	Em nome da Cassian, peço que considere a seguinte proposta.
+109690	Meu superior deseja oferecer a você uma atribuição.
+109691	Se você estiver interessado, meu superior tem uma atribuição que pode ser do seu agrado.
+109692	Meu superior me enviou aqui para entrar em contato com você. A Cassian Industries deseja chamá-lo para discutir este assunto.
+109693	Estou feliz por ter te alcançado. Meu CEO gostaria de oferecer a você uma atribuição.
+109694	É um prazer te ver aqui. Talvez você esteja interessado em uma atribuição que temos.
+109695	Ah, aqui está você. Meu superior pediu para entrar em contato com você sobre uma atribuição.
+109696	Que esplêndido te ver. Você estaria interessado em uma atribuição para a Cassian Industries?
+109697	Fui enviado para entrar em contato com você. Meu superior deseja oferecer a você uma atribuição.
+109698	Meu superior está impressionado com o que você alcançou.
+109699	O resultado certamente impressionou meu CEO, devo dizer.
+109700	Sua performance foi exatamente o que a Cassian esperava.
+109702	Seu trabalho recebeu reconhecimento favorável no mais alto nível.
+109703	A diretoria ficou muito impressionada.
+109704	Sua conclusão da tarefa foi exemplar.
+109705	A Cassian Industries valoriza sua profissionalismo.
+109706	Receio que meu superior terá pouca compreensão para tal... descuido.
+109707	Meu CEO ficou muito decepcionado com sua performance.
+109708	A Cassian Industries não tem um longo histórico de tolerar incompetência.
+113501	Estou certo de que meu superior ficará menos do que satisfeito com sua recusa.
+113502	Acredito que saiba o que meu CEO pensará sobre isso.
+113503	A Cassian esperava mais... confiabilidade.
+109709	Meu superior acredita que o assunto foi discutido exaustivamente. Por favor, avance com isso.
+109710	A Cassian Industries gostaria que você priorizasse a conclusão desta tarefa.
+109711	A Cassian paga bem e, em troca, espera que os projetos sejam priorizados.
+109712	Meu superior gostaria de ver o assunto resolvido rapidamente.
+109713	Você recebeu todas as informações pertinentes. Por favor, conclua sua tarefa com sucesso.
+109714	Meu CEO está acostumado a resultados mais rápidos. Por favor, agilize o assunto.
+109715	A Cassian Industries acredita na conclusão dentro do orçamento e no prazo. Pelo menos você está dentro do orçamento. Até agora.
+109716	Por favor, conclua sua tarefa antes que meu superior perca a paciência.
+109717	Permita-me ressaltar a importância disso.
+109718	Acredito que você encontrará isso útil.
+109719	Você encontrará isso importante para o progresso futuro.
+109720	Isso é fundamental para o seu empreendimento atual.
+109721	Fui informado para te dizer que você precisará disso.
+109722	Encontrar isso era imperativo.
+109724	Por favor, permita-me reiterar - isso é importante.
+109725	Exatamente. Aqui é onde você é esperado.
+109726	Excelente, você identificou sua localização desejada.
+109727	Excelente, você identificou a localização correta.
+109728	Esplêndido, essa é a localização especificada.
+109729	Exatamente. Por favor, siga para lá o mais rápido possível.
+109730	A Cassian Industries está satisfeita em ver que suas habilidades de navegação estão acima do esperado.
+109731	Sim, exatamente. Agora, por favor, siga para lá com toda a pressa...
+109732	Essa é a localização que meu superior indicou, certo.
+109733	Esplêndido. No entanto, receio que suas obrigações contratuais também incluam essa tarefa.
+109734	A Cassian Industries gostaria de te oferecer uma atribuição de acompanhamento.
+109735	Com base em seu desempenho até agora, meu CEO gostaria de te oferecer outra atribuição.
+109736	A Cassian gostaria que você eliminasse esse problema. Permanentemente.
+109737	Temos uma atribuição que gostaríamos que você concluísse para nós. Com extrema seriedade.
+109738	Meu CEO tem uma atribuição para você. Desagradável como possa ser, envolve violência.
+109739	Uma situação que requer uma solução enérgica surgiu. A diretoria pensou em você.
+109740	A Cassian Industries tem uma situação adequada para suas habilidades. O uso da força é necessário.
+109741	Uma vitória esplêndida. Meu superior envia seus cumprimentos.
+109742	Claramente, sua reputação é merecida. A Cassian está grata.
+109743	A Cassian Industries te parabeniza por uma solução eficiente para o problema.
+109744	Lamentável. Espero que os danos materiais estejam dentro de limites razoáveis.
+109745	Nossas condolências. Uma perda como essa pode afetar profundamente seu capital.
+109746	A Cassian Industries esperava por uma conclusão mais... satisfatória.
+109747	A Cassian é um antro de cobras. Isso é tudo que posso dizer. Você é o único em quem posso confiar com esse assunto delicado.
+109748	A Cassian Industries requer que essa atribuição seja tratada com o máximo de discrição.
+109749	Meu superior tem uma atribuição para você. Eu assegurei a ela que você é extremamente discreto.
+109750	Você foi a pessoa certa para confiar. E agora, vamos esquecer que isso aconteceu.
+109751	Sua discrição é exemplar. A Cassian está grata.
+109752	Uma atribuição concluída tão discretamente quanto se poderia desejar. Meu superior está impressionado.
+109753	Que catástrofe! Apaguei toda nossa correspondência sobre esse assunto. E você deveria fazer o mesmo.
+109754	Felizmente, tenho uma contingência. Que decepção.
+109755	Parece que foi auspicioso eu destruir todas as evidências de qualquer conexão entre nós.
+109756	Nossa única preocupação é a estabilidade do mercado global. E é muito mais estável com esses produtos em nosso poder!
+109757	Você deve entender que a Cassian Industries não pode deixar o mercado sujeito ao acaso.
+109758	Por favor, não interprete mal essa medida. É simplesmente oferta e demanda, nada mais.
+109759	Todos sabemos que essas coisas são comuns em uma economia de mercado livre.
+109760	Por favor, tenha certeza de que ninguém está recebendo esses produtos por um preço mais baixo do que você.
+109761	A diretoria está bem ciente de que, às vezes, é preciso ser mais do que generoso para alcançar um objetivo maior a longo prazo.
+109762	A Cassian Industries está apenas respondendo à necessidade de limitar a inflação.
+109763	Meu superior está firmemente comprometido em fornecer produtos ao público a um preço justo para todos.
+109764	O mundo tornou a Cassian Industries a número um, e estamos simplesmente mostrando nossa gratidão.
+109765	O preço estava sendo mantido artificialmente alto, o que é condenável.
