@@ -11,3 +11,4 @@ Glossário
 |  Akia Floes |  Akia Icebergs | ??? |
 |  Greentide |  Mare Verde | ??? |
 |  trading posts |  Postos comerciais | ??? |
+|  Assigments |  Clientes | ??? |

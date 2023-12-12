@@ -8,7 +8,7 @@
 110908	Sabe, eu tenho que dizer não.
 110909	Desculpe, não posso ajudar aí.
 110910	De jeito nenhum, nem mesmo para você.
-110911	Whoa, sabe, isso meio que vem num momento inconveniente!
+110911	Ufa, sabe, isso meio que vem num momento inconveniente!
 110912	Um... acho que não sou a pessoa certa para perguntar. Desculpe!
 110914	Ei. Você poderia me dar uma mão?
 110915	Não gosto de pedir, mas estou numa enrascada, sabe?
@@ -142,8 +142,9 @@
 115685	Ei, você já decidiu sobre fazer negócios comigo?
 115686	Não sei se te falei, mas tenho esse armazém aqui. Podemos fazer alguns negócios.
 115687	Alguma chance de você e eu fazermos algumas negociações? Por favor?
-115688	Ei! As coisas estão agitadas desde que você apareceu. Tenho um monte de Assigments pagos chegando para você.
-115689	Ei! Uma empresa nunca deve ficar sem Assigments. Eu poderia te ajudar a conseguir alguns.
+115688	Estaria interessado em trabalhar para os meus outros clientes? Eles estão esperando...
+115689	Ei! As coisas estão agitadas desde que você apareceu. Tem um monte de Clientes pagantes vindo até você.
+115690	Ei! Uma empresa nunca deve ficar sem clientes. Eu poderia te ajudar a conseguir alguns.
 115880	Ei, ouvi a notícia! Isso é tão legal! E eu trabalhei com você!
 115857	Alô. Você me lê? Por favor, responda.
 115856	Eu sou Zandra Haynes, Desculpe invadir seu território, mas pelo que vejo, temos o mesmo inimigo. Falo pela Corporação de Escavação Lunar. Se você ainda reconhece.
