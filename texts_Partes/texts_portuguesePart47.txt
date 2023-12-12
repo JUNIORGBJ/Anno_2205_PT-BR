@@ -1,316 +1,316 @@
-10000042	Você já pode me agradecer por eu deixado para você o fruto de várias vidas de trabalho. Portanto, o local não está documentado. Não queremos que os fofoqueiros descubram.
-10000043	Você sabe onde procurar, certo? Disseram que os armazéns subaquáticos durariam para sempre! Ou talvez todos vocês estejam debaixo d'água?
-10000044	Como o futuro aparenta? Ainda lutando contra tsunamis e marés? Não espero resposta, mas deixo um velho filosofar um pouco. É melhor você construir algo que dure.
-10000045	As ondas gigantes só pioraram. Tive que abandonar meus próprios tesouros. Eles disseram que não era seguro! Bem, pelo menos agora você está lá para cuidar deles.
-10000046	... essa coisa está gravando? Uau! Você voltou! Você achou que eu só tinha um? Não quando há cidades inteiras lá! Você tem algo brilhante e eu quero que minha Senhora esteja segura.
-10000047	Você está ouvindo este registro, o que significa... Não estou mais lá para cuidar do meu barco. Você não verá o segundo esconderijo até que eu tenha certeza de que ela está bem! O incentivo é a chave, entendeu?
-10000048	A água salgada pode ser fatal para um gerador nuclear e nunca foi muito estável. Mas ela está bem, certo? Alguns anos não vão doer!
-10000049	O que quer que você tenha feito, você apenas entrou em curto-circuito. Que capacidade de clarividência. É piada. Bem, eu não duvido, a localização... é... você entendeu?...
-10000050	... Bem, eu não duvido, a localização é um lugar ao sul daqui. O tem? Meu barco foi feito para suportar, então, seja o que for que você preparou, você não vai afundá-lo. Voce ja esta ai
-10000051	O mar está agitado de novo, mas eles dizem para não se preocupar. Aposto que isso está sendo causado por eles! Estar no fundo da vala de Ebashi como sardinhas enlatadas está os incomodando!
-10000052	É isso, esse é o meu tesouro! Já não me adianta muito... Não chego lá, as escotilhas cederam. Mais cedo ou mais tarde, isso também acontecerá com os geeks da tecnologia.
-10000054	Aposto que você pensou que não me veria de novo! Ok, eu tenho mais um. Eu não queria desistir desse, mas em troca você tem que me fazer mais um favor.
-10000055	Este é complicado, então ouça bem. Hoje as pessoas não têm capacidade de retenção. Estamos no ano de 2085 e ainda estamos presos na Terra! Se eu fosse... Bem, para onde iria? Oh sim, o armazém.
-10000056	As fechaduras são as primeiras a enferrujar, por isso, para o caso, existe um sistema de reforço. Foi uma boa ideia registrar, hein? Está dividido em três partes para que não inunde tudo por acidente.
-10000057	O computador diz que você tem os módulos. Não sei como funciona a fonte de alimentação hoje em dia, mas aqueles técnicos me disseram que duraria um século sem problemas. Embora eu não confie em um fio de cabelo...
-10000058	Você vê? Tudo em ordem. Existem também alguns sistemas de defesa excelentes. Certifique-se de que os módulos estão na ordem correta! Tive que me abaixar para me proteger várias vezes...
-10000059	E aqueles submarinos de defesa queimaram o casco em mais de uma ocasião. Mas sempre consigo zerar no último minuto. Como seria irônico se minha própria segurança afundasse meu navio!
-10000060	As portas ainda estão fechadas? Bem, me escute bem. Um dia a Senhora ficará sem combustível. É tudo que eu quero para mantê-la até a porra do fim do mundo. Então você reabastece... e eu lhe darei a chave.
-10000061	Aqui, meu saque é seu. Eu não preciso dele onde quer que eu vá... ou onde estou agora, eu acho. Mas minha senhora continuará a existir muito depois do meu desaparecimento.
-10000142	Fase 1 do projeto concluído
-10000143	Recuperado o primeiro armazém Trenchcoat
-10000144	Primeiro gerador de irídio ativado
-10000145	Fase 2 do projeto concluída
-10000146	Recuperado o segundo armazém Trenchcoat
-10000147	Segundo gerador de irídio ativado
-10000148	Fase 3 do projeto concluída
-10000149	Recuperado o terceiro armazém Trenchcoat
-10000150	Terceiro gerador de irídio ativado
-10000262	O registro está muito danificado e descreve o esconderijo secreto de [NOTIFICATION_CHARACTER_NAME].
-10000263	[NOTIFICATION_CHARACTER_NAME] quer que você cumpra seu último desejo.
-10000122	"[GUIDNAME 10000151]"
-10000123	Alcance o nível Corporativo 10 para decodificar o próximo registro.
-10000124	Alcance o nível Corporativo 20 para decodificar o próximo registro.
-10000125	"[GUIDNAME 10000198]"
-10000126	Satisfaça o último desejo de um velho amigo e recupere seus tesouros perdidos.
-10000081	Rodeando uma cordilheira acidentada, este vale fértil se abre para uma faixa costeira rasa. Seus penhascos e bancos de areia traiçoeiros há muito são o principal cais de uma frota de barcos enferrujados que guardam segredos do passado.
-10000291	Em torno de uma imponente cordilheira, este vale fértil se abre para uma ampla área costeira.
-10000219	Cargueiro desaparecido sem deixar vestígios
-10000220	Um acidente na fábrica reduz a produção
-10000221	Não atende às metas de produção
-10000222	A escassez de energia reduz a produção
-10000223	Uma queda de energia interrompe a produção
-10000224	Compra em massa
-10000225	Parada nas principais instalações para atrasar os envios até terça-feira
-10000226	Infeliz acidente de transporte, vários trabalhadores feridos
-10000227	Drones trabalhando fora de serviço por razões ainda desconhecidas
-10000228	Alguns drones funcionam mal e estão violentos
-10000229	Um vírus de computador reduz a produção
-10000230	Hackers interrompem a produção enquanto os sistemas são reinicializados
-10000231	Aumento do horário de trabalho leva à greve
-10000232	Políticas de trabalho polêmicas reduzem a eficiência
-10000233	Resgate financeiro
-10000234	Aproveitando o aumento da demanda por mercadorias
-10000235	Incidente crítico: o software militar de drones em funcionamento exige o desligamento das instalações, nenhuma vítima relatada
-10000236	A violação dos regulamentos de saúde e segurança provoca o desligamento das instalações
-10000237	Um cargueiro há muito perdido chegou e a tripulação diz que não era "nada fora do comum"
-10000238	A atualização do software aumenta a eficiência da produção
-10000239	Excesso de produção inesperada
-10000240	Os avanços tecnológicos criam raízes
-10000241	Um avanço científico gera um aumento na produção
-10000242	Um atualização do drone aumenta a produção
-10000243	Super-estocagem estratégica
-10000244	A revisão das políticas de trabalho satisfaz os trabalhadores, o que provoca aumento da produção
-10000245	Um investimento de longo prazo compensa
-10000246	Um investidor anônimo fez um pequeno investimento que teve um grande impacto
-10000247	Depois de inundar os mercados, os cinco grandes concorrentes ameaçam com sanções
-10000248	Módulos de energia altamente esperados diminuem imensamente o custo de produção
-10000249	Os avanços modernos em sistemas automatizados reduzem a jornada de trabalho para 30 horas por semana
-10000250	Técnicas experimentais de engenharia social reduzem o estresse e aumentam a produtividade
-10000251	Ciclos de produção mais rápidos são esperados após a abertura da instalação
-10000252	Armazéns danificados estão desesperados para vender suas mercadorias
-10000253	Repreensão estranha de uma divisão desconfiada
-10000254	A nova aquisição é mais frutífera do que o esperado
-10000255	Preços dispararam
-10000256	Aumento de preço
-10000257	Aumento de preço antecipado
-10000258	Preços atingiram novas baixas
-10000259	Preços caindo
-10000260	Quedas de preços
-10000261	Queda de preços iminente
-10000218	ÚLTIMAS NOTÍCIAS:
-10000283	Lançada a atualização da Baía Wildwater
-10000284	Expanda para a Baía Wildwater
-10000285	Reúna-se com um velho amigo
-10000286	Dê uma cara nova às suas cidades
-10000287	Você possui um atualização gratuita
-10000288	Construa uma metrópole continental
-10000289	Superar com sucesso um novo projeto no setor
-10000290	e mais...
-10000151	Olá! Meu nome é Trenchcoat. Eu tenho um plano... Pode não ser perfeito, mas vale a pena tentar. você quer participar?
-10000152	Me lembro de você. Você pegou um monte de coisas legais. Posso inserir novamente suas coordenadas na minha rota.
-10000153	Olha só isso... Eu não ia deixar essa oportunidade passar por você, mais cedo ou mais tarde todos teremos que morder a poeira, não acham?
-10000154	Você pode ser confiável. Bom. À frente! Dá uma olhada.
-10000155	Cumpri minha parte no trato, mas não grite dos telhados!
-10000156	Nunca fico muito tempo no mesmo lugar. O oceano é minha casa e o mar meu amante... A verdade é que parece absurdo dizer isso em voz alta. Obrigado. Você foi muito útil.
-10000198	O show acabou! Sayonara!
-10000199	Uma coisa de cada vez.
-10000200	Este não é o momento certo. Sinto muito.
-10000160	Preciso de uma ajudinha. Então mexa sua bunda!
-10000161	Cuide disso - mas não fale por aí...
-10000162	Tenho um pequeno trabalho para você! Pago um bom dinheiro.
-10000163	Espero que não se importe de sujar as mãos...
-10000165	Nada mal. No entanto, ainda há um pequeno problema.
-10000166	Excelente. Vamos ver como você se sai no próximo trabalho.
-10000167	Você fez um ótimo trabalho, Mas infelizmente isso não é tudo...
-10000168	Perfeito. Exceto pelo fato de que agora as coisas mudaram.
-10000169	Brilhante! Então você pode cuidar disso também.
-10000170	Se surgir alguma coisa, você sabe onde me encontrar...
-10000171	Se você não se apressar um pouco, não há acordo.
-10000172	Você fez tudo isso?
-10000210	[NOTIFICATION_CHARACTER_NAME] tem absoluta confiança em seus planos para o setor.
-10000213	Vozes do passado
-10000212	Conclua o Projeto do Setor na Baía Wildwater.
-10000201	Árvore
-10000138	Escadas rolantes
-10000140	Cerca de publicidade
-10000127	Transportador de Trenchcoat
-10000129	Estrutura submersa
-10000130	Armazém submerso
-10000141	[GUIDNAME 10000127]
-10000029	Velho cofre de Trenchcoat
-10000030	Drone de rastreio
-10000031	Peças de destroços espalhados
-10000032	Barco dos Engenheiros
-10000033	[GUIDNAME 10000030]
-10000034	[GUIDNAME 10000031]
-10000035	[GUIDNAME 10000032]
-10000036	[GUIDNAME 10000032]
-10000131	[GUIDNAME 10000030]
-10000037	Controlador de bloqueio
-10000132	Drone de combate
-10000038	Submarino de segurança
-10000039	Módulo chave do armazém
-10000070	Barco de Comando
-10000013	Trenchcoat
-10000002	Setor Temperado
-10000003	Bahía de Wildwater
-10000086	NO LOCA SSQ E2 CameraSequenceTrigger
-10000087	Continue com as comissões Trenchcoat relacionadas a estruturas submersas.
-10000088	Projeto: Pegue uma pá
-10000089	Projeto: Coordenadas preparadas
-10000090	Projeto: Mercadorias solicitadas
-10000091	Projeto: Humanos Aquáticos
-10000092	Projeto: Previsões
-10000093	Projeto: 20.000 ligas
-10000096	Projeto: Meu reino para meu barco
-10000097	Projeto: Suborno do Túmulo
-10000098	Projeto: Enferrujado
-10000099	Projeto: Você vem de novo?
-10000100	Projeto: Em algum lugar por aqui
-10000101	Projeto: Bem preparado
-10000102	Projeto: Maré alta
-10000105	Projeto: Surpresa
-10000106	Projeto: Brilhante!
-10000107	Projeto: Abre-te Sésamo
-10000108	Projeto: Nada é Eterno
-10000109	Projeto: Eco do Passado
-10000110	Projeto: Ironia
-10000111	Projeto: Ainda não concluído
-10000112	Projeto: A gorda resiste
-7000246	Módulo de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001469]</font>
-7000247	Módulo de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001875]</font>
-7000248	Módulo de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001872]</font>
-7000249	Módulo de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001468]</font> Módulo de & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001876]</font>
-7000336	Recuperação da Eden Initiative
-7000386	[NOTIFICATION_CHARACTER_NAME] inicia os preparativos para reativar a câmara de sementes.
-7000387	[NOTIFICATION_CHARACTER_NAME] ele está muito feliz que os sistemas de aquecimento estejam funcionando.
-7000388	[NOTIFICATION_CHARACTER_NAME] seja grato por estar fornecendo energia para a câmera.
-7001348	[NOTIFICATION_CHARACTER_NAME] obrigado por ajudar a erradicar o vírus.
-7000389	Projeto ativado
-7000390	Tundra resolvida
-7000391	Foi desbloqueado: [GUIDNAME 7001469]
-7000392	Fase 1 do projeto concluída
-7000393	Controle de temperatura reparado
-7000394	Foi desbloqueado: [INLINE_ICON 7001875] [GUIDNAME 7001875]
-7000395	Fase 2 do projeto concluída
-7000396	Gerador de câmera reparado
-7000397	Foi desbloqueado: [INLINE_ICON 7001872] [GUIDNAME 7001872]
-7001381	Fase 3 do projeto concluída
-7001382	Virus controlado
-7001383	Foi desbloqueado: [INLINE_ICON 7001468] [GUIDNAME 7001468] & [INLINE_ICON 7001876] [GUIDNAME 7001876]
-7001484	Estrutura danificada
-7001781	[NOTIFICATION_CHARACTER_NAME] convida você para o setor tundra.
-7001782	[NOTIFICATION_CHARACTER_NAME] agora está em posição de continuar com a câmara de sementes.
-7001783	[NOTIFICATION_CHARACTER_NAME] deseja estabelecer um departamento de pesquisa.
-7001784	[NOTIFICATION_CHARACTER_NAME] revela o verdadeiro desafio: o surto de um vírus.
-7001785	[NOTIFICATION_CHARACTER_NAME] aconselha você a drenar o pântano.
-7001786	[NOTIFICATION_CHARACTER_NAME] enfatiza a importância dos especialistas.
-7001787	[NOTIFICATION_CHARACTER_NAME] pede para você expandir a equipe.
-7001788	[NOTIFICATION_CHARACTER_NAME] relata o sucesso de um novo módulo.
-7001791	[NOTIFICATION_CHARACTER_NAME] prioriza a fixação do controle de temperatura.
-7001792	[NOTIFICATION_CHARACTER_NAME] explica como reparar os controles.
-7001793	[NOTIFICATION_CHARACTER_NAME] o instrui a desobstruir os poços de ventilação.
-7001794	[NOTIFICATION_CHARACTER_NAME] tem más notícias: novos módulos de temperatura são necessários.
-7001795	[NOTIFICATION_CHARACTER_NAME] avisa sobre a necessidade de energia para esta missão.
-7001796	[NOTIFICATION_CHARACTER_NAME] está ansioso para iniciar a estrutura.
-7001797	[NOTIFICATION_CHARACTER_NAME] está horrorizada com o quanto há para limpar.
-7001798	[NOTIFICATION_CHARACTER_NAME] instrui você a construir um novo sistema de refrigeração.
-7001799	[NOTIFICATION_CHARACTER_NAME] afirma que os destroços ainda precisam ser transportados.
-7001800	[NOTIFICATION_CHARACTER_NAME] destaca que você também precisará de uma equipe operacional.
-7001801	[NOTIFICATION_CHARACTER_NAME] dá a você autorização para fornecer energia.
-7001802	[NOTIFICATION_CHARACTER_NAME] exorta você a inicializar o gerador.
-7001803	[NOTIFICATION_CHARACTER_NAME] precisa de você para encontrar animais infectados.
-7001804	Os medos de [NOTIFICATION_CHARACTER_NAME] tornaram-se realidade: pessoas contraíram o vírus.
-7001805	[NOTIFICATION_CHARACTER_NAME] precisa de você para estabilizar os pacientes.
-7001806	[NOTIFICATION_CHARACTER_NAME] instrui você a transportar o patógeno.
-7001807	[NOTIFICATION_CHARACTER_NAME] quer apoiar os laboratórios.
-7001808	[NOTIFICATION_CHARACTER_NAME] reconstrói os eventos e pede para selar os vazamentos da câmara.
-7001809	[NOTIFICATION_CHARACTER_NAME] quer reduzir novas infecções drenando os pântanos.
-7001810	[NOTIFICATION_CHARACTER_NAME] desenvolveu uma vacina e está pronta para distribuição.
-7001811	[NOTIFICATION_CHARACTER_NAME] indica quais conteúdos da câmera precisam ser identificados.
-7001812	[NOTIFICATION_CHARACTER_NAME] sabe como remover vestígios de vírus da câmera.
-7001816	[NOTIFICATION_CHARACTER_NAME] obrigado em nome dos Guardiões do Ártico.
-7000399	Alcance o nível corporativo 1 para continuar com os reparos da câmara de sementes.
-7000400	Alcance o nível corporativo 12 para continuar com os reparos da câmara de sementes.
-7000407	Alcance o nível corporativo 24 para continuar com os reparos da câmara de sementes.
-7000401	"[GUIDNAME 7001318]"
-7000402	Elimine do setor o vírus que afetou as sementes perdidas armazenadas na câmara da Eden Initiative.
-7001750	[NOTIFICATION_CHARACTER_NAME] dá as boas-vindas ao seu setor.
-7001751	[NOTIFICATION_CHARACTER_NAME] explica a câmara de sementes para você.
-7001752	[NOTIFICATION_CHARACTER_NAME] ele se afasta dando um aviso.
-7001753	[NOTIFICATION_CHARACTER_NAME] está muito impressionada com o seu sucesso e os tesouros da câmera.
-7001789	[NOTIFICATION_CHARACTER_NAME] descreve o próximo obstáculo.
-7001790	[NOTIFICATION_CHARACTER_NAME] ainda está ocupado com os preparativos.
-7001813	[NOTIFICATION_CHARACTER_NAME] compartilha uma descoberta fascinante com você.
-7001814	[NOTIFICATION_CHARACTER_NAME] recomenda que você experimente o novo módulo.
-7001815	[NOTIFICATION_CHARACTER_NAME] é profundamente grato por sua parceria.
-7001817	[NOTIFICATION_CHARACTER_NAME] relata um avanço científico para você.
-7001818	[NOTIFICATION_CHARACTER_NAME] está preocupada com a mutação do vírus e entrará em contato com você em breve.
-7001819	[NOTIFICATION_CHARACTER_NAME] aconselha você a instalar o módulo mais recente.
-7000332	"Mas criar um departamento de pesquisa é a principal prioridade. Temos que estar prontos para tudo."
-7000331	"Aqui está o problema: um vírus saiu da câmara. Se quisermos ter uma equipe de pesquisa à altura da tarefa, dependemos de sua rede de suprimentos, seu espaçoporto."
-7000334	"Embora os pântanos sejam o habitat de maior biodiversidade por aqui, não temos escolha a não ser drená-los. Não podemos trabalhar com o pouco espaço que temos."
-7000333	"Não vale qualquer pessoa. O departamento de pesquisa precisa de especialistas para combater o vírus."
-7001456	"A equipe recolheu as primeiras amostras, mas não encontramos vestígios do vírus. Quero fazer mais testes, mas não temos pessoal suficiente."
-7000335	"A amostra de musgo é livre de vírus e surpreendentemente versátil. Projetei um módulo de agricultura com ela; vá em frente e veja por si mesmo como nosso trabalho é importante."
-7000218	"Não podemos fazer nada com as sementes congeladas, mas não é tão fácil derretê-las. Um controle de temperatura fixa pode fazer isso sem o risco de um surto viral."
-7000219	"Pense no que estamos construindo como um estabilizador climático. Tenho os planos do artigo para referência e agora precisamos da equipe para torná-lo realidade."
-7000220	"Para que o controle de temperatura funcione, precisamos limpar as aberturas. A Eden Initiative nunca imaginou que o vulcão acabaria por engoli-los."
-7000221	"Ok, então, os módulos de temperatura antigos estão fora de questão. É hora de trocá-los."
-7000222	"E agora vem o trabalho pesado sobre os ombros da natureza. Essa estrutura precisa de muito combustível para funcionar."
-7000223	"Tudo em ordem. Estou esperando você ativar a alavanca."
-7000224	"Como se o fechamento do setor fizesse desaparecer o reator destruído. Agora, somos nós que temos que retirar os restos radioativos."
-7000225	"Era impossível que o reator pudesse suportar o vulcão. Para torná-lo mais seguro, teremos que começar com um novo sistema de resfriamento."
-7000226	"Ok, já temos todas as partes principais dos destroços e identificamos o resto. Agora é só uma questão de enviá-los."
-7000227	"Agora que isso não é mais um problema, nossa equipe pode começar a trabalhar no reator. Mas eles precisam chegar lá."
-7000228	"Não se preocupe, estamos apenas usando o gerador para entrar na câmara. E para isso, ele precisa de muita energia para ligar."
-7000229	"Quanto mais cedo terminarmos o gerador, mais rápido poderemos voltar ao vírus. Ligue-o agora."
-7000232	"Tenho notícias e não são boas: a febre alastrando voltou. Você poderia me dar amostras vivas? Eles viram bois almiscarados infectados na orla do vale."
-7000230	"O pior acabou de acontecer. Os pesquisadores estão começando a ter sintomas depois de coletar amostras nos lagos. Nossa prioridade é recuperá-los."
-7000231	"A vacina ainda não está pronta e as constantes do paciente estão diminuindo. Rápido, dê a eles algo para fortalecer o sistema imunológico."
-7000233	"Nossos pacientes estão estáveis ​​e Howard propôs conduzir uma investigação conjunta. Os laboratórios dos curadores poderão nos ajudar assim que receberem as amostras de sementes."
-7000234	"Não sei o que os virologistas dos Keepers estão fazendo, mas é muito lento. Temos que ajudá-los a partir daqui."
-7000235	"O vulcão entrou em erupção, danificou o reator, o reator danificou a câmara e a câmara liberou sementes infectadas. E agora estamos aqui e precisamos selar os vazamentos."
-7000236	"Mas continuamos com o problema dos mosquitos, os principais propagadores da doença. Se os pântanos do vale forem drenados, eles serão reduzidos consideravelmente."
-7000237	"Enfim, tenho uma vacina pronta. Vou providenciar para que seja distribuída para a equipe, mas os animais silvestres precisam de um tratamento individualizado."
-7000238	"Agora que nossos pacientes foram tratados e os vetores de doenças estão controlados, ainda temos todos aqueles recipientes de sementes que precisam ser verificados. Você poderia enviar uma equipe de delegados?"
-7000239	"A equipe identificou as sementes infectadas. As diretrizes dos curadores exigem que limpemos a câmara completamente e eu tenho o antídoto perfeito."
-7000522	Expanda seu território
-7001722	Abrigue pesquisadores de campo suficientes para desenvolver o módulo biocatalisador.
-7001853	Conecte [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] em seu(a) [COMMANDO_VEHICLE] no porto
-7001854	Carregue [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
-7001855	Encontre [CONDITION_SOURCE_OBJECT_ASSET] no Vale
-7001856	Conecte [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] em seu(a) [COMMANDO_VEHICLE] na câmara de sementes
-7001857	Use o drone para selar os vazamentos
-7001858	Drene os pântanos [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-7001859	Ative <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font> no topo da estrutura
-7001871	Dirige [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
-7001956	Construa uma bomba de drenagem e drene o pântano
-7001967	Expanda uma Instalação de Agricultura com um Módulo de Biocatalisador
-7001997	Construa: [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] e conecte-o a [GUIDNAME 1000157]
-7001727	"Finalmente tem gente morando aqui! Quero transportar um carregamento até eles, mas... Quem colocou o posto de coleta tão longe da costa?"
-7001728	"Eu sou um bom amigo dos Keepers, não posso acreditar que aquela mulher me expulsou! Preciso pegar o equipamento de pesquisa de volta."
-7001729	"Mesmo que o Ártico seja um deserto árido, vejo potencial aqui! E agora, vou oferecer a vocês uma oferta para uma cultura local de musgo..."
-7001730	"Embora o cenário seja impressionante, temos poucas aeronaves para coletar nosso equipamento de campo!"
-7001731	"Quando decidi fazer pesquisa de campo, não esperava carregar amostras desse tamanho."
-7001964	"Adicione módulos Tundra às fábricas para abastecê-las com biocatalisadores e dobrar sua produção."
-7001965	Selecione qualquer fábrica agrícola. Conecte e forneça uma chaminé de biocatalisador.
-7000354	Guardiões do Ártico
-7001085	Aqui vamos nós!
-7001086	Certo, posso trabalhar com isso.
-7001087	Legal.
-7001088	É disso que estou falando!
-7001089	Sim!
-7001095	Parece que isso vai realmente funcionar!
-7001096	Menos uma preocupação.
-7001097	Certo, isso não vai nos incomodar mais.
-7001098	Fiquei impressionado.
-7001099	Os guardiões podem aprender uma ou duas coisas com você.
-7001100	Devo admitir que você conhece bem o seu ofício.
-7001108	Eu não vou consertar isso.
-7001109	Que bagunça.
-7001110	Não, não é bom o suficiente.
-7001111	Você não pode ter tudo.
-7001112	Oh, vamos lá!
-7001117	Diga-me que isso ainda não acabou.
-7001118	Coloque um pouco mais de firmeza na próxima vez!
-7001119	Acho que nem todos podem ser perfeitos.
-7001126	Então, quais são as novidades?
-7001127	Não se preocupe com essa bagunça, é um caos organizado.
-7001128	Estamos com falta de pessoal, então você é sempre bem bem-vindo.
-7001129	Você não vai ficar aí sem fazer nada, vai?
-7001130	Boas notícias, más notícias... Eu me preparei para tudo.
-7001136	Eu entendi!
-7001137	Sim, tudo bem.
-7001138	Eu cuido disso.
-7001146	Sem chance!
-7001147	Absolutamente não.
-7001148	Não, não é uma opção agora.
-7001162	Este trabalho não é bom para você, não é?
-7001163	Você é um dos poucos em quem posso confiar para fazer este trabalho.
-7001164	Estou sobrecarregado de trabalho. Você pode aceitar esta tarefa?
-7001168	Que bom que você levou a sério.
-7001169	Perfeito, agora posso assumir daqui.
-7001170	Bom trabalho! Não sei por que Howard tem problemas com você.
-7001171	Certo, isso é o que chamo de trabalho bem feito.
+10000042  Você já pode me agradecer por eu deixado para você o fruto de várias vidas de trabalho. Portanto, o local não está documentado. Não queremos que os fofoqueiros descubram.
+10000043  Você sabe onde procurar, certo? Disseram que os armazéns subaquáticos durariam para sempre! Ou talvez todos vocês estejam debaixo d'água?
+10000044  Como o futuro aparenta? Ainda lutando contra tsunamis e marés? Não espero resposta, mas deixo um velho filosofar um pouco. É melhor você construir algo que dure.
+10000045  As ondas gigantes só pioraram. Tive que abandonar meus próprios tesouros. Eles disseram que não era seguro! Bem, pelo menos agora você está lá para cuidar deles.
+10000046  ... essa coisa está gravando? Uau! Você voltou! Você achou que eu só tinha um? Não quando há cidades inteiras lá! Você tem algo brilhante e eu quero que minha Senhora esteja segura.
+10000047  Você está ouvindo este registro, o que significa... Não estou mais lá para cuidar do meu barco. Você não verá o segundo esconderijo até que eu tenha certeza de que ela está bem! O incentivo é a chave, entendeu?
+10000048  A água salgada pode ser fatal para um gerador nuclear e nunca foi muito estável. Mas ela está bem, certo? Alguns anos não vão doer!
+10000049  O que quer que você tenha feito, você apenas entrou em curto-circuito. Que capacidade de clarividência. É piada. Bem, eu não duvido, a localização... é... você entendeu?...
+10000050  ... Bem, eu não duvido, a localização é um lugar ao sul daqui. O tem? Meu barco foi feito para suportar, então, seja o que for que você preparou, você não vai afundá-lo. Voce ja esta ai
+10000051  O mar está agitado de novo, mas eles dizem para não se preocupar. Aposto que isso está sendo causado por eles! Estar no fundo da vala de Ebashi como sardinhas enlatadas está os incomodando!
+10000052  É isso, esse é o meu tesouro! Já não me adianta muito... Não chego lá, as escotilhas cederam. Mais cedo ou mais tarde, isso também acontecerá com os geeks da tecnologia.
+10000054  Aposto que você pensou que não me veria de novo! Ok, eu tenho mais um. Eu não queria desistir desse, mas em troca você tem que me fazer mais um favor.
+10000055  Este é complicado, então ouça bem. Hoje as pessoas não têm capacidade de retenção. Estamos no ano de 2085 e ainda estamos presos na Terra! Se eu fosse... Bem, para onde iria? Oh sim, o armazém.
+10000056  As fechaduras são as primeiras a enferrujar, por isso, para o caso, existe um sistema de reforço. Foi uma boa ideia registrar, hein? Está dividido em três partes para que não inunde tudo por acidente.
+10000057  O computador diz que você tem os módulos. Não sei como funciona a fonte de alimentação hoje em dia, mas aqueles técnicos me disseram que duraria um século sem problemas. Embora eu não confie em um fio de cabelo...
+10000058  Você vê? Tudo em ordem. Existem também alguns sistemas de defesa excelentes. Certifique-se de que os módulos estão na ordem correta! Tive que me abaixar para me proteger várias vezes...
+10000059  E aqueles submarinos de defesa queimaram o casco em mais de uma ocasião. Mas sempre consigo zerar no último minuto. Como seria irônico se minha própria segurança afundasse meu navio!
+10000060  As portas ainda estão fechadas? Bem, me escute bem. Um dia a Senhora ficará sem combustível. É tudo que eu quero para mantê-la até a porra do fim do mundo. Então você reabastece... e eu lhe darei a chave.
+10000061  Aqui, meu saque é seu. Eu não preciso dele onde quer que eu vá... ou onde estou agora, eu acho. Mas minha senhora continuará a existir muito depois do meu desaparecimento.
+10000142  Fase 1 do projeto concluído
+10000143  Recuperado o primeiro armazém Trenchcoat
+10000144  Primeiro gerador de irídio ativado
+10000145  Fase 2 do projeto concluída
+10000146  Recuperado o segundo armazém Trenchcoat
+10000147  Segundo gerador de irídio ativado
+10000148  Fase 3 do projeto concluída
+10000149  Recuperado o terceiro armazém Trenchcoat
+10000150  Terceiro gerador de irídio ativado
+10000262  O registro está muito danificado e descreve o esconderijo secreto de [NOTIFICATION_CHARACTER_NAME].
+10000263  [NOTIFICATION_CHARACTER_NAME] quer que você cumpra seu último desejo.
+10000122  [GUIDNAME 10000151]
+10000123  Alcance o nível Corporativo 10 para decodificar o próximo registro.
+10000124  Alcance o nível Corporativo 20 para decodificar o próximo registro.
+10000125  [GUIDNAME 10000198]
+10000126  Satisfaça o último desejo de um velho amigo e recupere seus tesouros perdidos.
+10000081  Rodeando uma cordilheira acidentada, este vale fértil se abre para uma faixa costeira rasa. Seus penhascos e bancos de areia traiçoeiros há muito são o principal cais de uma frota de barcos enferrujados que guardam segredos do passado.
+10000291  Em torno de uma imponente cordilheira, este vale fértil se abre para uma ampla área costeira.
+10000219  Cargueiro desaparecido sem deixar vestígios
+10000220  Um acidente na fábrica reduz a produção
+10000221  Não atende às metas de produção
+10000222  A escassez de energia reduz a produção
+10000223  Uma queda de energia interrompe a produção
+10000224  Compra em massa
+10000225  Parada nas principais instalações para atrasar os envios até terça-feira
+10000226  Infeliz acidente de transporte, vários trabalhadores feridos
+10000227  Drones trabalhando fora de serviço por razões ainda desconhecidas
+10000228  Alguns drones funcionam mal e estão violentos
+10000229  Um vírus de computador reduz a produção
+10000230  Hackers interrompem a produção enquanto os sistemas são reinicializados
+10000231  Aumento do horário de trabalho leva à greve
+10000232  Políticas de trabalho polêmicas reduzem a eficiência
+10000233  Resgate financeiro
+10000234  Aproveitando o aumento da demanda por mercadorias
+10000235  Incidente crítico: o software militar de drones em funcionamento exige o desligamento das instalações, nenhuma vítima relatada
+10000236  A violação dos regulamentos de saúde e segurança provoca o desligamento das instalações
+10000237  Um cargueiro há muito perdido chegou e a tripulação diz que não era nada fora do comum
+10000238  A atualização do software aumenta a eficiência da produção
+10000239  Excesso de produção inesperada
+10000240  Os avanços tecnológicos criam raízes
+10000241  Um avanço científico gera um aumento na produção
+10000242  Um atualização do drone aumenta a produção
+10000243  Super-estocagem estratégica
+10000244  A revisão das políticas de trabalho satisfaz os trabalhadores, o que provoca aumento da produção
+10000245  Um investimento de longo prazo compensa
+10000246  Um investidor anônimo fez um pequeno investimento que teve um grande impacto
+10000247  Depois de inundar os mercados, os cinco grandes concorrentes ameaçam com sanções
+10000248  Módulos de energia altamente esperados diminuem imensamente o custo de produção
+10000249  Os avanços modernos em sistemas automatizados reduzem a jornada de trabalho para 30 horas por semana
+10000250  Técnicas experimentais de engenharia social reduzem o estresse e aumentam a produtividade
+10000251  Ciclos de produção mais rápidos são esperados após a abertura da instalação
+10000252  Armazéns danificados estão desesperados para vender suas mercadorias
+10000253  Repreensão estranha de uma divisão desconfiada
+10000254  A nova aquisição é mais frutífera do que o esperado
+10000255  Preços dispararam
+10000256  Aumento de preço
+10000257  Aumento de preço antecipado
+10000258  Preços atingiram novas baixas
+10000259  Preços caindo
+10000260  Quedas de preços
+10000261  Queda de preços iminente
+10000218  ÚLTIMAS NOTÍCIAS:
+10000283  Lançada a atualização da Baía Wildwater
+10000284  Expanda para a Baía Wildwater
+10000285  Reúna-se com um velho amigo
+10000286  Dê uma cara nova às suas cidades
+10000287  Você possui um atualização gratuita
+10000288  Construa uma metrópole continental
+10000289  Superar com sucesso um novo projeto no setor
+10000290  e mais...
+10000151  Olá! Meu nome é Trenchcoat. Eu tenho um plano... Pode não ser perfeito, mas vale a pena tentar. você quer participar?
+10000152  Me lembro de você. Você pegou um monte de coisas legais. Posso inserir novamente suas coordenadas na minha rota.
+10000153  Olha só isso... Eu não ia deixar essa oportunidade passar por você, mais cedo ou mais tarde todos teremos que morder a poeira, não acham?
+10000154  Você pode ser confiável. Bom. À frente! Dá uma olhada.
+10000155  Cumpri minha parte no trato, mas não grite dos telhados!
+10000156  Nunca fico muito tempo no mesmo lugar. O oceano é minha casa e o mar meu amante... A verdade é que parece absurdo dizer isso em voz alta. Obrigado. Você foi muito útil.
+10000198  O show acabou! Sayonara!
+10000199  Uma coisa de cada vez.
+10000200  Este não é o momento certo. Sinto muito.
+10000160  Preciso de uma ajudinha. Então mexa sua bunda!
+10000161  Cuide disso - mas não fale por aí...
+10000162  Tenho um pequeno trabalho para você! Pago um bom dinheiro.
+10000163  Espero que não se importe de sujar as mãos...
+10000165  Nada mal. No entanto, ainda há um pequeno problema.
+10000166  Excelente. Vamos ver como você se sai no próximo trabalho.
+10000167  Você fez um ótimo trabalho, Mas infelizmente isso não é tudo...
+10000168  Perfeito. Exceto pelo fato de que agora as coisas mudaram.
+10000169  Brilhante! Então você pode cuidar disso também.
+10000170  Se surgir alguma coisa, você sabe onde me encontrar...
+10000171  Se você não se apressar um pouco, não há acordo.
+10000172  Você fez tudo isso?
+10000210  [NOTIFICATION_CHARACTER_NAME] tem absoluta confiança em seus planos para o setor.
+10000213  Vozes do passado
+10000212  Conclua o Projeto do Setor na Baía Wildwater.
+10000201  Árvore
+10000138  Escadas rolantes
+10000140  Cerca de publicidade
+10000127  Transportador de Trenchcoat
+10000129  Estrutura submersa
+10000130  Armazém submerso
+10000141  [GUIDNAME 10000127]
+10000029  Velho cofre de Trenchcoat
+10000030  Drone de rastreio
+10000031  Peças de destroços espalhados
+10000032  Barco dos Engenheiros
+10000033  [GUIDNAME 10000030]
+10000034  [GUIDNAME 10000031]
+10000035  [GUIDNAME 10000032]
+10000036  [GUIDNAME 10000032]
+10000131  [GUIDNAME 10000030]
+10000037  Controlador de bloqueio
+10000132  Drone de combate
+10000038  Submarino de segurança
+10000039  Módulo chave do armazém
+10000070  Barco de Comando
+10000013  Trenchcoat
+10000002  Setor Temperado
+10000003  Bahía de Wildwater
+10000086  NO LOCA SSQ E2 CameraSequenceTrigger
+10000087  Continue com as comissões Trenchcoat relacionadas a estruturas submersas.
+10000088  Projeto: Pegue uma pá
+10000089  Projeto: Coordenadas preparadas
+10000090  Projeto: Mercadorias solicitadas
+10000091  Projeto: Humanos Aquáticos
+10000092  Projeto: Previsões
+10000093  Projeto: 20.000 ligas
+10000096  Projeto: Meu reino para meu barco
+10000097  Projeto: Suborno do Túmulo
+10000098  Projeto: Enferrujado
+10000099  Projeto: Você vem de novo?
+10000100  Projeto: Em algum lugar por aqui
+10000101  Projeto: Bem preparado
+10000102  Projeto: Maré alta
+10000105  Projeto: Surpresa
+10000106  Projeto: Brilhante!
+10000107  Projeto: Abre-te Sésamo
+10000108  Projeto: Nada é Eterno
+10000109  Projeto: Eco do Passado
+10000110  Projeto: Ironia
+10000111  Projeto: Ainda não concluído
+10000112  Projeto: A gorda resiste
+7000246  Módulo de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001469]</font>
+7000247  Módulo de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001875]</font>
+7000248  Módulo de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001872]</font>
+7000249  Módulo de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001468]</font> Módulo de & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001876]</font>
+7000336  Recuperação da Eden Initiative
+7000386  [NOTIFICATION_CHARACTER_NAME] inicia os preparativos para reativar a câmara de sementes.
+7000387  [NOTIFICATION_CHARACTER_NAME] ele está muito feliz que os sistemas de aquecimento estejam funcionando.
+7000388  [NOTIFICATION_CHARACTER_NAME] seja grato por estar fornecendo energia para a câmera.
+7001348  [NOTIFICATION_CHARACTER_NAME] obrigado por ajudar a erradicar o vírus.
+7000389  Projeto ativado
+7000390  Tundra resolvida
+7000391  Foi desbloqueado: [GUIDNAME 7001469]
+7000392  Fase 1 do projeto concluída
+7000393  Controle de temperatura reparado
+7000394  Foi desbloqueado: [INLINE_ICON 7001875] [GUIDNAME 7001875]
+7000395  Fase 2 do projeto concluída
+7000396  Gerador de câmera reparado
+7000397  Foi desbloqueado: [INLINE_ICON 7001872] [GUIDNAME 7001872]
+7001381  Fase 3 do projeto concluída
+7001382  Virus controlado
+7001383  Foi desbloqueado: [INLINE_ICON 7001468] [GUIDNAME 7001468] & [INLINE_ICON 7001876] [GUIDNAME 7001876]
+7001484  Estrutura danificada
+7001781  [NOTIFICATION_CHARACTER_NAME] convida você para o setor tundra.
+7001782  [NOTIFICATION_CHARACTER_NAME] agora está em posição de continuar com a câmara de sementes.
+7001783  [NOTIFICATION_CHARACTER_NAME] deseja estabelecer um departamento de pesquisa.
+7001784  [NOTIFICATION_CHARACTER_NAME] revela o verdadeiro desafio: o surto de um vírus.
+7001785  [NOTIFICATION_CHARACTER_NAME] aconselha você a drenar o pântano.
+7001786  [NOTIFICATION_CHARACTER_NAME] enfatiza a importância dos especialistas.
+7001787  [NOTIFICATION_CHARACTER_NAME] pede para você expandir a equipe.
+7001788  [NOTIFICATION_CHARACTER_NAME] relata o sucesso de um novo módulo.
+7001791  [NOTIFICATION_CHARACTER_NAME] prioriza a fixação do controle de temperatura.
+7001792  [NOTIFICATION_CHARACTER_NAME] explica como reparar os controles.
+7001793  [NOTIFICATION_CHARACTER_NAME] o instrui a desobstruir os poços de ventilação.
+7001794  [NOTIFICATION_CHARACTER_NAME] tem más notícias: novos módulos de temperatura são necessários.
+7001795  [NOTIFICATION_CHARACTER_NAME] avisa sobre a necessidade de energia para esta missão.
+7001796  [NOTIFICATION_CHARACTER_NAME] está ansioso para iniciar a estrutura.
+7001797  [NOTIFICATION_CHARACTER_NAME] está horrorizada com o quanto há para limpar.
+7001798  [NOTIFICATION_CHARACTER_NAME] instrui você a construir um novo sistema de refrigeração.
+7001799  [NOTIFICATION_CHARACTER_NAME] afirma que os destroços ainda precisam ser transportados.
+7001800  [NOTIFICATION_CHARACTER_NAME] destaca que você também precisará de uma equipe operacional.
+7001801  [NOTIFICATION_CHARACTER_NAME] dá a você autorização para fornecer energia.
+7001802  [NOTIFICATION_CHARACTER_NAME] exorta você a inicializar o gerador.
+7001803  [NOTIFICATION_CHARACTER_NAME] precisa de você para encontrar animais infectados.
+7001804  Os medos de [NOTIFICATION_CHARACTER_NAME] tornaram-se realidade: pessoas contraíram o vírus.
+7001805  [NOTIFICATION_CHARACTER_NAME] precisa de você para estabilizar os pacientes.
+7001806  [NOTIFICATION_CHARACTER_NAME] instrui você a transportar o patógeno.
+7001807  [NOTIFICATION_CHARACTER_NAME] quer apoiar os laboratórios.
+7001808  [NOTIFICATION_CHARACTER_NAME] reconstrói os eventos e pede para selar os vazamentos da câmara.
+7001809  [NOTIFICATION_CHARACTER_NAME] quer reduzir novas infecções drenando os pântanos.
+7001810  [NOTIFICATION_CHARACTER_NAME] desenvolveu uma vacina e está pronta para distribuição.
+7001811  [NOTIFICATION_CHARACTER_NAME] indica quais conteúdos da câmera precisam ser identificados.
+7001812  [NOTIFICATION_CHARACTER_NAME] sabe como remover vestígios de vírus da câmera.
+7001816  [NOTIFICATION_CHARACTER_NAME] obrigado em nome dos Guardiões do Ártico.
+7000399  Alcance o nível corporativo 1 para continuar com os reparos da câmara de sementes.
+7000400  Alcance o nível corporativo 12 para continuar com os reparos da câmara de sementes.
+7000407  Alcance o nível corporativo 24 para continuar com os reparos da câmara de sementes.
+7000401  [GUIDNAME 7001318]
+7000402  Elimine do setor o vírus que afetou as sementes perdidas armazenadas na câmara da Eden Initiative.
+7001750  [NOTIFICATION_CHARACTER_NAME] dá as boas-vindas ao seu setor.
+7001751  [NOTIFICATION_CHARACTER_NAME] explica a câmara de sementes para você.
+7001752  [NOTIFICATION_CHARACTER_NAME] ele se afasta dando um aviso.
+7001753  [NOTIFICATION_CHARACTER_NAME] está muito impressionada com o seu sucesso e os tesouros da câmera.
+7001789  [NOTIFICATION_CHARACTER_NAME] descreve o próximo obstáculo.
+7001790  [NOTIFICATION_CHARACTER_NAME] ainda está ocupado com os preparativos.
+7001813  [NOTIFICATION_CHARACTER_NAME] compartilha uma descoberta fascinante com você.
+7001814  [NOTIFICATION_CHARACTER_NAME] recomenda que você experimente o novo módulo.
+7001815  [NOTIFICATION_CHARACTER_NAME] é profundamente grato por sua parceria.
+7001817  [NOTIFICATION_CHARACTER_NAME] relata um avanço científico para você.
+7001818  [NOTIFICATION_CHARACTER_NAME] está preocupada com a mutação do vírus e entrará em contato com você em breve.
+7001819  [NOTIFICATION_CHARACTER_NAME] aconselha você a instalar o módulo mais recente.
+7000332  Mas criar um departamento de pesquisa é a principal prioridade. Temos que estar prontos para tudo.
+7000331  Aqui está o problema: um vírus saiu da câmara. Se quisermos ter uma equipe de pesquisa à altura da tarefa, dependemos de sua rede de suprimentos, seu espaçoporto.
+7000334  Embora os pântanos sejam o habitat de maior biodiversidade por aqui, não temos escolha a não ser drená-los. Não podemos trabalhar com o pouco espaço que temos.
+7000333  Não vale qualquer pessoa. O departamento de pesquisa precisa de especialistas para combater o vírus.
+7001456  A equipe recolheu as primeiras amostras, mas não encontramos vestígios do vírus. Quero fazer mais testes, mas não temos pessoal suficiente.
+7000335  A amostra de musgo é livre de vírus e surpreendentemente versátil. Projetei um módulo de agricultura com ela; vá em frente e veja por si mesmo como nosso trabalho é importante.
+7000218  Não podemos fazer nada com as sementes congeladas, mas não é tão fácil derretê-las. Um controle de temperatura fixa pode fazer isso sem o risco de um surto viral.
+7000219  Pense no que estamos construindo como um estabilizador climático. Tenho os planos do artigo para referência e agora precisamos da equipe para torná-lo realidade.
+7000220  Para que o controle de temperatura funcione, precisamos limpar as aberturas. A Eden Initiative nunca imaginou que o vulcão acabaria por engoli-los.
+7000221  Ok, então, os módulos de temperatura antigos estão fora de questão. É hora de trocá-los.
+7000222  E agora vem o trabalho pesado sobre os ombros da natureza. Essa estrutura precisa de muito combustível para funcionar.
+7000223  Tudo em ordem. Estou esperando você ativar a alavanca.
+7000224  Como se o fechamento do setor fizesse desaparecer o reator destruído. Agora, somos nós que temos que retirar os restos radioativos.
+7000225  Era impossível que o reator pudesse suportar o vulcão. Para torná-lo mais seguro, teremos que começar com um novo sistema de resfriamento.
+7000226  Ok, já temos todas as partes principais dos destroços e identificamos o resto. Agora é só uma questão de enviá-los.
+7000227  Agora que isso não é mais um problema, nossa equipe pode começar a trabalhar no reator. Mas eles precisam chegar lá.
+7000228  Não se preocupe, estamos apenas usando o gerador para entrar na câmara. E para isso, ele precisa de muita energia para ligar.
+7000229  Quanto mais cedo terminarmos o gerador, mais rápido poderemos voltar ao vírus. Ligue-o agora.
+7000232  Tenho notícias e não são boas: a febre alastrando voltou. Você poderia me dar amostras vivas? Eles viram bois almiscarados infectados na orla do vale.
+7000230  O pior acabou de acontecer. Os pesquisadores estão começando a ter sintomas depois de coletar amostras nos lagos. Nossa prioridade é recuperá-los.
+7000231  A vacina ainda não está pronta e as constantes do paciente estão diminuindo. Rápido, dê a eles algo para fortalecer o sistema imunológico.
+7000233  Nossos pacientes estão estáveis ​​e Howard propôs conduzir uma investigação conjunta. Os laboratórios dos curadores poderão nos ajudar assim que receberem as amostras de sementes.
+7000234  Não sei o que os virologistas dos Keepers estão fazendo, mas é muito lento. Temos que ajudá-los a partir daqui.
+7000235  O vulcão entrou em erupção, danificou o reator, o reator danificou a câmara e a câmara liberou sementes infectadas. E agora estamos aqui e precisamos selar os vazamentos.
+7000236  Mas continuamos com o problema dos mosquitos, os principais propagadores da doença. Se os pântanos do vale forem drenados, eles serão reduzidos consideravelmente.
+7000237  Enfim, tenho uma vacina pronta. Vou providenciar para que seja distribuída para a equipe, mas os animais silvestres precisam de um tratamento individualizado.
+7000238  Agora que nossos pacientes foram tratados e os vetores de doenças estão controlados, ainda temos todos aqueles recipientes de sementes que precisam ser verificados. Você poderia enviar uma equipe de delegados?
+7000239  A equipe identificou as sementes infectadas. As diretrizes dos curadores exigem que limpemos a câmara completamente e eu tenho o antídoto perfeito.
+7000522  Expanda seu território
+7001722  Abrigue pesquisadores de campo suficientes para desenvolver o módulo biocatalisador.
+7001853  Conecte [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] em seu(a) [COMMANDO_VEHICLE] no porto
+7001854  Carregue [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+7001855  Encontre [CONDITION_SOURCE_OBJECT_ASSET] no Vale
+7001856  Conecte [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] em seu(a) [COMMANDO_VEHICLE] na câmara de sementes
+7001857  Use o drone para selar os vazamentos
+7001858  Drene os pântanos [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+7001859  Ative <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font> no topo da estrutura
+7001871  Dirige [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] para [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
+7001956  Construa uma bomba de drenagem e drene o pântano
+7001967  Expanda uma Instalação de Agricultura com um Módulo de Biocatalisador
+7001997  Construa: [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] e conecte-o a [GUIDNAME 1000157]
+7001727  Finalmente tem gente morando aqui! Quero transportar um carregamento até eles, mas... Quem colocou o posto de coleta tão longe da costa?
+7001728  Eu sou um bom amigo dos Keepers, não posso acreditar que aquela mulher me expulsou! Preciso pegar o equipamento de pesquisa de volta.
+7001729  Mesmo que o Ártico seja um deserto árido, vejo potencial aqui! E agora, vou oferecer a vocês uma oferta para uma cultura local de musgo...
+7001730  Embora o cenário seja impressionante, temos poucas aeronaves para coletar nosso equipamento de campo!
+7001731  Quando decidi fazer pesquisa de campo, não esperava carregar amostras desse tamanho.
+7001964  Adicione módulos Tundra às fábricas para abastecê-las com biocatalisadores e dobrar sua produção.
+7001965  Selecione qualquer fábrica agrícola. Conecte e forneça uma chaminé de biocatalisador.
+7000354  Guardiões do Ártico
+7001085  Aqui vamos nós!
+7001086  Certo, posso trabalhar com isso.
+7001087  Legal.
+7001088  É disso que estou falando!
+7001089  Sim!
+7001095  Parece que isso vai realmente funcionar!
+7001096  Menos uma preocupação.
+7001097  Certo, isso não vai nos incomodar mais.
+7001098  Fiquei impressionado.
+7001099  Os guardiões podem aprender uma ou duas coisas com você.
+7001100  Devo admitir que você conhece bem o seu ofício.
+7001108  Eu não vou consertar isso.
+7001109  Que bagunça.
+7001110  Não, não é bom o suficiente.
+7001111  Você não pode ter tudo.
+7001112  Oh, vamos lá!
+7001117  Diga-me que isso ainda não acabou.
+7001118  Coloque um pouco mais de firmeza na próxima vez!
+7001119  Acho que nem todos podem ser perfeitos.
+7001126  Então, quais são as novidades?
+7001127  Não se preocupe com essa bagunça, é um caos organizado.
+7001128  Estamos com falta de pessoal, então você é sempre bem bem-vindo.
+7001129  Você não vai ficar aí sem fazer nada, vai?
+7001130  Boas notícias, más notícias... Eu me preparei para tudo.
+7001136  Eu entendi!
+7001137  Sim, tudo bem.
+7001138  Eu cuido disso.
+7001146  Sem chance!
+7001147  Absolutamente não.
+7001148  Não, não é uma opção agora.
+7001162  Este trabalho não é bom para você, não é?
+7001163  Você é um dos poucos em quem posso confiar para fazer este trabalho.
+7001164  Estou sobrecarregado de trabalho. Você pode aceitar esta tarefa?
+7001168  Que bom que você levou a sério.
+7001169  Perfeito, agora posso assumir daqui.
+7001170  Bom trabalho! Não sei por que Howard tem problemas com você.
+7001171  Certo, isso é o que chamo de trabalho bem feito.

@@ -139,21 +139,21 @@
 14001410	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121428]
 14001411	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121429]
 14001412	[GUIDNAME 121399]: [GUIDNAME 121421] [GUIDNAME 121430]
-14001775	"Se você decidir trepar, não há muito que eu possa fazer."
-14001778	"Uau, é assim que você decide responder à nossa oferta generosa?"
-14001796	"Já estou com o novo andaime pronto e estocando sua equipe, para que as novas obras possam começar."
-14001797	"Ótimo. E agora, para honrar nossa parte do acordo, estendemos nossa proteção magnética às suas rotas de transferência."
-14001284	"Ei, Usoyev é muito antiquado para usar esse nível de engenhosidade, mas é definitivamente deles. Acho que sua melhor aposta seria subornar Volodin com seu precioso produto bruto."
-14001285	"Você encontrou os mais novos transmissores da Ibarra-FoxCom! Traga-me o resto e eu posso reprogramá-los para expulsar os intrusos. E além disso, recebo tecnologia de ponta! Nós dois vencemos."
-14001286	"As Indústrias Cassian têm sido muito agressivas ultimamente, deve ser por causa dos preparativos para a fusão. Não acho que eles irão embora facilmente. Sugiro aplicar olho por olho, ou algo semelhante."
-14001287	"Desculpe, Lei Sheng é profissional nisso. Além do gosto de Tian, ​​você não tem chance de impedir isso, muito menos levá-lo ao tribunal."
-14001288	"Você não está pensando seriamente que Saayman ocupa uma posição de liderança por ser bem comportado? Talvez se você puder assustá-los direito, eles aprenderão a não ficar no seu caminho."
-14001260	"Esta não é uma chuva regulada, esta é a Guarda Orbital controlando nosso estabilizador de clima! Você tem que agir antes que as coisas piorem."
-14001261	"Você está tentando afogar seus cidadãos? Não posso fazer negócios assim! Dou um conselho grátis: uma metrópole precisa de espaços verdes para respirar."
-14001262	"Parece uma violação de dados bastante sofisticada, será muito mais fácil encontrar o culpado primeiro. Se você derrubar os sistemas de interferência, posso dizer quem é o culpado."
-14001264	"Desculpe, as leis de segurança dos Keepers não permitem que você construa assim durante a noite polar. Você terá que reforçar seu equipamento contra o frio extremo."
-14001265	"Mas apenas atualizar suas máquinas não é suficiente. Não ver o sol por tanto tempo me deixa de mau humor! Além disso, seus empregados precisam de nutrientes extras."
-14001266	"A eletricidade é o nosso negócio e as explosões solares são um perigo para o qual Lei Sheng está muito preparado. Mostre seu apoio e eu cuidarei para que o uso de nosso campo magnético artificial seja compartilhado."
+14001775	Se você decidir trepar, não há muito que eu possa fazer.
+14001778	Uau, é assim que você decide responder à nossa oferta generosa?
+14001796	Já estou com o novo andaime pronto e estocando sua equipe, para que as novas obras possam começar.
+14001797	Ótimo. E agora, para honrar nossa parte do acordo, estendemos nossa proteção magnética às suas rotas de transferência.
+14001284	Ei, Usoyev é muito antiquado para usar esse nível de engenhosidade, mas é definitivamente deles. Acho que sua melhor aposta seria subornar Volodin com seu precioso produto bruto.
+14001285	Você encontrou os mais novos transmissores da Ibarra-FoxCom! Traga-me o resto e eu posso reprogramá-los para expulsar os intrusos. E além disso, recebo tecnologia de ponta! Nós dois vencemos.
+14001286	As Indústrias Cassian têm sido muito agressivas ultimamente, deve ser por causa dos preparativos para a fusão. Não acho que eles irão embora facilmente. Sugiro aplicar olho por olho, ou algo semelhante.
+14001287	Desculpe, Lei Sheng é profissional nisso. Além do gosto de Tian, ​​você não tem chance de impedir isso, muito menos levá-lo ao tribunal.
+14001288	Você não está pensando seriamente que Saayman ocupa uma posição de liderança por ser bem comportado? Talvez se você puder assustá-los direito, eles aprenderão a não ficar no seu caminho.
+14001260	Esta não é uma chuva regulada, esta é a Guarda Orbital controlando nosso estabilizador de clima! Você tem que agir antes que as coisas piorem.
+14001261	Você está tentando afogar seus cidadãos? Não posso fazer negócios assim! Dou um conselho grátis: uma metrópole precisa de espaços verdes para respirar.
+14001262	Parece uma violação de dados bastante sofisticada, será muito mais fácil encontrar o culpado primeiro. Se você derrubar os sistemas de interferência, posso dizer quem é o culpado.
+14001264	Desculpe, as leis de segurança dos Keepers não permitem que você construa assim durante a noite polar. Você terá que reforçar seu equipamento contra o frio extremo.
+14001265	Mas apenas atualizar suas máquinas não é suficiente. Não ver o sol por tanto tempo me deixa de mau humor! Além disso, seus empregados precisam de nutrientes extras.
+14001266	A eletricidade é o nosso negócio e as explosões solares são um perigo para o qual Lei Sheng está muito preparado. Mostre seu apoio e eu cuidarei para que o uso de nosso campo magnético artificial seja compartilhado.
 14001613	[GUIDNAME 109065] [GUIDNAME 14001555]
 14001614	[GUIDNAME 109065] [GUIDNAME 14001565]
 14001615	[GUIDNAME 109065] [GUIDNAME 14001566]

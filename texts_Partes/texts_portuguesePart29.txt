@@ -1,316 +1,315 @@
-109766	Coal. Steel. Stone. The fundaments of a better tomorrow! Support us, and your future will rest on solid ground!
-109767	Cassian Industries. Building a solid base today from which we can soar into the future - together.
-109768	Cassian Industries is building on the past to provide a better future, and you can be part of it!
-109769	The traditions of our past hold the key to a shining future. Join us in celebrating both as we take the world into tomorrow.
-109770	The bigger the dream, the more solid its base must be. Cassian Industries - building today for a bright tomorrow.
-109771	You should reconsider your sympathies. Or you might find that you have one day... overreached yourself.
-109772	The future is what we make of it. Cassian Industries is the future. Join us! It is not too late!
-109773	The time has never been better to join the wave of tomorrow. We are that wave.
-109774	My superior once again invites you to join us in a future bright with promise!
-109775	Sad as it is, every race can have but one winner. It is not too late for you to lend us your support.
-109776	My superior wishes you to know that she is grateful for your support.
-109777	Cassian Industries would like to thank you for your generous help and support.
-109778	Cooperation is the key to success, and we at Cassian appreciate your efforts.
-109779	My CEO has asked me to express her appreciation of your support.
-109781	My superior presumed that you were not interested in corporate politics. Prove her wrong and give us your support.
-109782	My abject apologies for forgetting to remind you to vote earlier. However, there is still time…
-109783	Cassian Industries. Strong. Reliable. Solid. Just like the natural resources we mine and process all around the world.
-109784	Cassian Industries builds the foundations of mankind's dreams.
-109785	At Cassian Industries, we value the Earth's plenteous bounty and strive to use it for the good of all mankind.
-109786	Cassian Industries' mission is refining nature's own building blocks to better serve mankind.
-109787	Cassian Industries refines ore to build dreams.
-109788	Cassian Industries provides mankind a solid footing from which to embrace the future.
-109789	Millions of customers cannot lie! Cassian Industries is now at the forefront of international business!
-109790	Cassian Industries is the world's business leader!
-109791	Do not worry, mid-size businesses are just as important as the market leaders. Or are they?
-109792	Cassian Industries did not advance to where they are today through short-term, high-visibility escapades.
-109793	One must be careful not to exhaust oneself with sprinting if one wishes to win the race.
-109794	Improvement is to be striven for and admired - but not overrated.
-109795	Growth is a fine thing, if it can be sustained. If.
-109796	Cassian Industries also started small, although that was many years ago.
-109797	In the world of business there is no way around Cassian Industries. Especially not for you.
-109798	Never cease trying. Cassian Industries will always be there to inspire you.
-109799	It is in our nature to strive for dominion. Cassian Industries simply happens to be better at it.
-109800	Never despair. We all learned to walk before we could run. Some faster, some… well…
-109801	Commendable of you to try to emulate Cassian Industries' success. Audacious, but commendable.
-109802	It is the nature of the beast. Small dogs learn from big dogs.
-109803	Everyone starts small. Some thrive and grow while some… need a little longer.
-109804	Someday you, too, may manage to join The Big Five. Someday.
-109805	Pursuing your dream is never easy. It was for us but, then again, we are Cassian Industries.
-109806	You do know that trying to emulate Cassian Industries is shooting for the stars.
-109807	You should keep a close eye on the market analyses! They will soon show you on your way back to where you belong!
-109808	You might want to take time to consolidate. You would not be the first to overstretch in haste.
-109809	Be assured I would appreciate an offer to work for you, but I would have to decline it. You see, at Cassian Industries we are all one big family. And I have a very strict mother, so to say.
-109810	Cassian Industries has given me the chance to hone and develop my skills in a challenging environment.
-109811	If you ask me, Buhari is rather a smug bastard. He landed his job by sucking up to the boss and now he sneers at - pardon me. Please forget I said anything. I certainly didn't mean to.
-109812	My superior is a very demanding employer. Yet I find the challenge… invigorating.
-109813	Cassian Industries has become my home and my family.
-109814	Cassian Industries strives to be the best. The higher one climbs within the company, the more one must strive.
-109815	I've developed an interest in snowshoeing. Of course, there aren't many places to do so and I can barely find the time for it, but it's always worth it. The peace and quiet, the endless white, spending quality time... Oh sorry, I was lost in thought,
-109816	My superior just came back from signing a deal to ensure our newly upgraded machines are running at full power. May Tian proved to be a tough negotiator, I didn't expect my superior to settle for a compromise! Not a word to her, of course.
-109817	The Arctic Custodians clutch to metal deposits like an polar bear cub to a melting floe. This eco-despotism makes them blind to see how urgently we... that is humanity... needs access to these unclaimed treasures.
-109818	I've been meaning to submit my vacation schedule all week... But I'm unsure as to whether I shouldn't rather wait and sync it with my superior's. Then again, I can't stall any longer. What to do?
-109819	I was most surprised when Volodin approached us about collaborating. Not that it wasn't on my superior's mind. I can't put my finger on it, but something about him unsettles me... Excuse me, I should not be speaking of my colleagues in this manner.
-109820	Corporate life is so stimulating. The thrill of the hunt for new ventures, tracking, tracing and planning before moving in for the kill. Incomparable!
-109821	I once thought this would be but another stepping stone on my journey. How naive of me…
-109822	Why can't people see that we don't take resources away from the Earth, we simply reshape them? There's no harm in that.
-109823	It's saddening the way some babble on about a lack of natural resources and then want to lock those we do have away.
-109824	To be perfectly honest, I consider anyone who lives in modern housing while complaining about our activities a hypocrite.
-113504	Hmmm, sometimes a low profile is of more use, don't you think?
-113505	Don't worry. I'll try to sugarcoat your being detected to the board… somehow.
-113506	Cassian expects the utmost discretion from its partners!
-113507	Our information points to that being the right area. Please begin your search.
-113508	According to our sources, the object should be somewhere in your vicinity.
-113509	My superior wishes you to begin your search in that area.
-113510	That is the right one. I am certain my superior will be pleased with your performance in this mission.
-113511	Cassian congratulates you on your success in finding the object in question.
-113512	My CEO is impressed by the skill you showed in finding the object.
-115073	My superior sends her regards. If you wish to contact the board of Cassian Industries or have any querstions about our heavy industry projects, please contact me. My name is Aidan Bhargava.
-115365	May I ask you to return to the site of our joint venture.
-115366	I'm here to inform you that our project needs your attention.
-115367	There are new developments in regards to our shared project.
-115368	Cassian Industries is very eager to found a joint venture with you here.
-115369	If you consider a joint venture in this sector, I will be your contact person.
-115370	My superior awaits your decision. Will you join us in a joint project?
-115538	A pleasure to see you. I have a proposal for you from Cassian Industries: How do you feel about making use of the stuff stars are made of?
-115539	The Moon is riddled with meteor craters. Of course it's a nightmare for the people living there, but why not make the best of it for us?
-115540	The minerals we can extract may just prove to be the next essential resource, not to mention the scientific discoveries, of which even Ibarra-Foxcom is certain to be jealous.
-115541	Cassian Industries wants to offer you this unique opportunity for collaboration. We'll be the first to discover that which humanity will long for in the ages to come.
-115542	This mine truly turned out to be as glorious as the famous diamond mines of Golkonda. My CEO requests my presence immediately, I'll be in touch.
-115543	The project is certainly proving worthwhile, is it not? But I'm afraid I'm rather preoccupied at the moment. I'll contact you at my earliest convenience.
-115544	I appreciate your cooperation. However, the project has been deemed too risky and will be terminated. Yet perhaps... I do believe there is a way. I'll report back to you.
-115545	My superior has yet to reply to my inquiries. Please do be patient.
-115546	Splendid! This is the greatest deposit yet! My superior has personally resurrected the project. I confess, I didn't think it possible. You have my gratitude.
-115547	For a time, I feared my superior was correct in considering the project utopian. Instead, I have now been given more tasks of a similar nature.
-115885	My superior sends her congratulations on your acquisitions.
-110031	Yes, impressive. Very much so.
-110032	Excellent, simply excellent.
-110033	That's much better.
-110034	A relief.
-110035	Good to see.
-110036	A definite improvement.
-110037	So that's that, then.
-110038	Done, and well done.
-110039	That turned out well.
-110040	All's well that ends well.
-115359	All of the hindrances are out of the way. Shall we proceed?
-115360	The time has come. We should begin our next moves.
-115361	There are new opportunities awaiting us. Shall we?
-115362	Why don't we get together and talk? I have something for you.
-115363	I don't want anyone else for my next project. So if you have time...
-115364	Please, come to me. I have an offer to make.
-114917	You see, the Arctic is the only place on Earth where fossil fuels can still be found. Many corporations have tried to mercilessly exploit this source of wealth in the past... and failed.
-114926	The Arctic Custodians are quick to show any companies the door if they raise even the slightest suspicion of polluting the environment.
-114927	Yet, these rusty carcasses remained here, many of them shedding black blood from old wounds. But we at Usoyev Incorporated have offered to render them harmless for the Arctic Custodians. With your support, I hope.
-115257	The Oil Barrels? Well, there is a lot of residue when you dismantle an oil rig. Keep them for now. I might even have more for you to... dispose of. But that has to remain between us. We should not meet for a while.
-115258	Keep a low profile until the furore about the transporter incident has died down. I'll contact you.
-115259	I knew you could do it! Of course, we were still forced to recover the oil from this rig for safety's sake. Please, keep those barrels under tight wraps. We should part ways for now.
-115260	Just be patient. We will persist with our project. Opportunity will present itself.
-115261	And they say environmentalism isn't a paying proposition. Don't forget to come and get your share of the... hazardous goods to dispose of every now and then. You've shown you're worth it.
-116320	I had hoped to meet you here. I know you are unlike other CEOs. You don't shy away from uncomfortable decisions where our environment is concerned. That's why I want to offer you this opportunity.
-116322	To freely quote a long-dead fellow countryman: You need oil. There is oil. It's that easy.
-110041	Finally, we can have peace of mind.
-110042	It's a relief to have that out of the way.
-110043	I think we're all happier now that that's been taken care of.
-110044	You are very talented leader. I knew that right away.
-110045	You did an excellent job on that.
-110046	You certainly did well, I have to tell you.
-110047	That's much better. You did well!
-110048	You have a talent for coming up with innovative solutions.
-110049	A very impressive job you did there.
-110050	You see? I told you that you were more than capable.
-110051	You have the potential to go far, my friend.
-110052	You know, I think you will go far.
-110053	Excellent job, my friend.
-110054	What could we have done.
-110055	Ah, well. That could have gone better.
-110056	Strange. Everything seemed to be going well, and then…
-110057	When all is said and done, that was disappointing.
-110058	That could have turned out better, I think.
-110059	If we learn from it, then it wasn't a total loss.
-110060	Some things work, some don't. Review, learn and move on.
-110061	Things will go better next time.
-110062	Never give up. There is always tomorrow.
-110063	My friend, you know the saying if life gives us lemons we make lemonade.
-110064	We both know you can do better than that.
-110066	We all make mistakes, my friend. As long as we learn from them…
-110067	Don't give up. We both know you can do better than that.
-110065	You win some, you lose some.
-110068	You didn't come even close to your potential this time.
-110069	My friend, we all make mistakes. The only shame lies in making the same one twice.
-110070	You could have done much better. Still, there's always next time.
-110071	You have to improve your game if you want to succeed.
-110072	I watched you, you know. You usually do better than that.
-110073	You can do better, you must do better and you will do better, my friend.
-110074	Well, well, what a surprise.
-110075	So very good to see you again.
-110076	It's good to see you!
-110077	So, you didn't forget your old friend after all!
-110078	It's nice of you to drop by.
-110079	Ah, it's good to see a friendly face. Come on in.
-110080	Good to see you again, my friend.
-110081	Come in, Come in.
-110082	Come on in, the door is open.
-110083	Hello, my friend. It's always good to see you.
-110084	A reasonable request. So, yes.
-110085	I think that can be arranged.
-110086	Certainly, why not?
-110087	Yes, yes, no problem.
-110088	Sure, I can do that.
-110089	Don't worry, you have my support.
-110090	When you put that way, then yes, of course.
-110091	You only had to ask, my friend.
-110092	Happy to be able to help you with this.
-110093	Always happy to help you, my friend.
-110094	Sorry, I can't help you.
-110095	I'm afraid the answer is no.
-110096	Some things I cannot do.
-110097	I'm sorry, but the answer is no.
-110098	No. I'm sorry, but no.
-110099	I can't help you.
-110100	I'm afraid I can't help you.
-110101	I'm sorry, but I have to tell you no.
-110102	I'm going to have to say no to you this time, my friend.
-110103	I hate to tell you this, but I have to say no.
-110104	Ah, yes. I was just thinking about who could I ask to help me with this task.
-110105	Ah, Excellent timing, my friend.
-110106	You always know just when to come by! This job is right up your alley.
-110107	Come in, come in. It's good to see you again. Interested in doing a job for me?
-110108	Ah, perfect timing. My friend, I have a job and I need someone I can trust.
-110109	Welcome! How have you been? Look, my friend, I have a job and could use your help.
-110110	I didn't think I would have to travel so far, but I wanted to offer you this opportunity.
-110111	I like to get out of the office when I can. It's good to see you. Interested in a little job?
-110112	Ah, there you are! You move around a lot, don't you? No matter. I have a job for you, my friend.
-110113	There is no such thing as coincidence. My friend, I have a job I could use your help with.
-110114	What brings you out here? This is too good to be true. My friend, I have a job which you might like.
-110115	Ha! Fortune smiles upon me again! Just the person I wanted to see. I have a little job, you see…
-110116	Follow that course and you have a bright future ahead of you.
-110117	You have done very well indeed, my friend.
-110118	An excellent job, my friend. I am proud of you.
-110119	If you keep this up, you will one day go far.
-110120	Well, you can add that one to your list of jobs well done.
-110121	Well done! You are doing even better than I had hoped!
-110122	Your decisions are good and your performance is even better. Well done.
-110123	Good job, my friend.
-110124	I am sure you will learn from your mistakes.
-110125	We all make mistakes. If we learn from them, they are even valuable.
-110126	I won't lie to you. That could have, should have gone better. But it happens to all of us sometimes.
-110127	Please, feel at home. But I'm sure you have more pressing matters to attend to right now.
-110128	Good to see you again! And how is your task progressing? Well, I hope.
-110129	My friend, the key to success is finishing one task before moving on to the next. How far along are you?
-110130	You know you are always welcome here, but that task is relatively urgent.
-110131	If I'm not imposing, my friend, I would like you to finish that job as soon as possible.
-110132	I know you have much on your mind, so please don't get me wrong when I remind you about that task I gave you.
-110133	That task must be finished, my friend. Delaying it won't make it go away.
-110134	My friend, every task we take is an opportunity to hone our skills. So, are you done yet?
-110135	Nothing escapes your glance.
-110136	Exactly. Well spotted.
-110137	You found that quickly, my friend.
-110138	Ah ha! You found it!
-110139	That is the one we need, yes.
-110140	Good, you found it. You know what to do next, my friend.
-110141	Yes, that's the one, alright.
-110142	Excellent job! You found it.
-110143	Circumstances will eventually take you to this spot.
-110144	Exactly. That is the spot I was talking about.
-110145	You see? I told you that you would find it!
-110146	You follow directions well, my friend.
-110147	You found the right spot very quickly! Very good.
-110148	Yes, that is your destination, my friend.
-110149	That is where you need to go, yes.
-110150	Now you know where you need to go.
-110151	I knew our collaboration would be fruitful, so I already prepared another assignment for you.
-110152	That was excellent, my friend. Are you ready to take the next step?
-110153	You did so well on that task, my friend, I would like you to take on the next one, too.
-110154	It is a risk, certainly. But who could handle such dangers, if not you?
-110155	My friend, it will be dangerous. But I know you are up to this task!
-110156	I don't like to ask, my friend. But you are the only one I know who could do it and live.
-110157	We both know it will be dangerous, but you are one of the few warriors left, my friend.
-110158	I know you can brave the dangers out there, otherwise I would never have asked you.
-110159	Often a strong hand is required to wring order from chaos. Yours was certainly strong enough.
-110160	I still wish I hadn't had to ask you, my friend, but you did even better than I dared hope.
-110161	I knew you were a warrior, my friend, but that was exceptional.
-110162	Highly regrettable. We would have intervened, but... no use.
-110163	My friend, I am so sorry! If I had known the enemy's strength, I wouldn't have sent you in!
-110164	It's good to see you made it out alive. That which doesn't kill us, makes us stronger!
-110165	This request might be a little... unorthodox, perhaps. But I trust you.
-110166	No need to be modest. You have rendered me... us a great service.
-110167	I would have expected more enthusiasm, considering the trust I put in you.
-110168	From time to time these things are necessary.
-110169	Production has slowed. If we do not increase the price, there will soon be none left on the market!
-110170	It is the nature of business. When you take a loss, you must take a profit to compensate,
-110171	Not every deal pans out. Sometimes you must recoup your losses – or starve.
-110172	The law of supply and demand, my friend. It is merciless.
-110173	When the price of something is too inflated, it can threaten the entire market.
-110174	What can I say? We bought too much and need to cut our losses.
-110175	My friend, you've got to know when to hold them, and know when to fold them.
-110176	We both know how tight money is these days. In this case, cutting our loss is almost a public service.
-110177	This will cause competitors to become incautious and overextend themselves, my friend.
-110178	The magic of weightlessness promises to redefine chemistry, and Usoyev will be there!
-110179	Usoyev Inc. is going to take chemistry to the stars.
-110180	No one is better suited to perform the chemical analyses and production space travel requires.
-110181	Usoyev Inc. lives and breathes for chemistry. A sacred trust we will uphold until the stars themselves grow cold.
-110182	At Usoyev, we strive to make chemistry cleaner, more efficient and more versatile – every day.
-110183	Don't forget, friends look out for one another.
-110184	Was it something I said?
-110185	Your support would mean a great deal, my friend.
-110186	You could do much worse than to support us.
-110187	Remember, Usoyev never forgets a friend.
-110188	Thank you, my friend. I knew I could rely on you.
-110189	Usoyev values your support – almost as much as I do.
-110190	Your support means more than you think. Many look up to you, and will follow your lead.
-110191	I will not forget this, my friend. Know that I will always have your back.
-110192	It does my heart good to see that you value friendship as much as I do.
-110193	My friend, when an intelligent person forgets to vote, the idiots get to decide.
-110194	You must have been very busy, if you forgot to vote.
-110195	Chemistry. Foundation of all things material. Of all things human. Usoyev Inc. has a long tradition of working with the very building blocks of existence... For the good of all.
-110196	Usoyev Inc. is chemistry, and chemistry is Usoyev.
-110197	Usoyev is the world leader in chemistry and chemical products. A responsibility we take seriously.
-110198	Every day, Usoyev takes modern chemistry to new, dizzying heights, opening new doors for mankind.
-110199	Chemistry is a vast field, not without danger. Only a firm like Usoyev has the experience needed to minimize those dangers.
-110200	Usoyev Inc. is the world leader in chemistry because we work safer, cleaner and smarter.
-110201	Don't be glum, my friend. Usoyev has been in business much longer than you.
-110202	My friend, when someone passes you, watch them and learn – and then use what you have learned.
-110203	I think perhaps Usoyev has spent too much time and energy supporting you.
-110204	I'm afraid the time has come where I must spend more time on company business.
-110205	Do not misuse the help you have been given.
-110206	Usoyev is based on solid, long-term growth. Chemistry is a business where you evaluate risks carefully.
-110207	Slowly, my friend, slowly. A tall, thin sapling may break when it grows too fast.
-110208	You are doing well, but you should take time to consolidate your growth, like we do.
-110209	You are doing very well indeed. One day you may even turn the Big Five into the Big Six!
-110210	Don't despair. You are actually doing extremely well for one so new to business!
-110211	Relax, my friend. Usoyev has been in business a long time. Trying to catch us is... ambitious.
-110212	You know, I really enjoy helping you. You remind me of myself when I was younger.
-110213	Never stop trying. You may never be another Usoyev, but you can still be a success.
-110214	Work, learn and grow. I will always be here to advise you.
-110215	I know it is frustrating, but you can't expect to compete with Usoyev so soon.
-110216	One day you too will reach these heights. Don't be afraid to ask if you need advice.
-110217	Usoyev was also small once. Of course, that was long, long ago.
-110218	Ambition you have. Now, if you just have the stamina, one day you too will climb to the top.
-110219	Congratulations. Now, if you will excuse me, it's time I got back to my own business.
-110220	Well done. Now consolidate, before the surge you rode subsides.
-110221	Everybody has their own opinion about the uses and dangers of modern chemistry – but everyone buys our products.
-110222	In the beginning, there was chemistry.
-110223	Usoyev products are used to make medicine, sterilize food containers, make household items and so much more.
-110224	Chemistry is my lifeblood. Not literally, of course. But I don't know what my life would be without it.
-110225	You know, my friend, for all our advances, I believe we are but at the beginning of what chemistry has to offer.
-110226	There is a theory that life on Earth arose from chemical components contained in meteoric ice. Fascinating!
-110227	Dr. Hofwegen is quite the energetic young woman. A tad too energetic maybe. It's disconcerting.
-110228	When I visited Dr. Young, I was also introduced to his dog. Is it customary to treat a dog like a fellow person? It seems strange to me, but Dr. Young treats him with great love and care, I can tell.
-110229	The Moon colonies have been around a while, but with the Second Wave I've become very interested on life on the Moon. Being confined to a shelter or a suit, always checking your oxygen supply... it all seems so restrictive, don't you think?
-110230	Buhari keeps warning about overfertilization and aggressive chemicals in our food supply. But I don't fault him, it's natural to be suspicious. In truth, none of his crops would grow without our help.
-110231	From the primordial ooze to champagne, rocket fuel and life itself – it is all chemistry.
-110232	My first chemistry teacher showed us the cola and peppermint trick – and I was hooked. I love chemistry!
-110233	I believe we would be better off if everyone at least knew what chemistry is. Sadly, for most – it's just a word.
-110234	Name me two things you use every day that aren't chemicals or chemical products. Go ahead. Try!
-110235	I hope that I will one day find someone whose passion for chemistry equals my own. Then I will be free to retire.
-110236	Adoro escalar. Ou pelo menos adorei... Os meus colegas estão muito preocupados com a minha saúde. Agora, estou tentando esportes mais seguros para ficar em forma. Não quero parar de testar os limites do meu corpo.
-115075	A pleasure to meet you. Luca Volodin, consultant at Usoyev Incorporated. I already heard about you. The new fish in the pond with the five big sharks. If you ever need someone to talk to, feel free to ask this old swimmer.
-115886	I expected nothing less of you. Enjoy your success. People should do that.
-109825	Acceptable.
-109826	Adequate.
-109827	Noted.
-109828	File closed.
-109829	Satisfactory.
-109830	That's that settled.
-109831	So the situation has been resolved.
+109766  Carvão. Aço. Pedra. Os fundamentos de um futuro melhor! Apoie-nos e seu futuro repousará em bases sólidas!
+109767  Cassian Industries. Construindo uma base sólida hoje da qual podemos decolar para o futuro - juntos.
+109768  Cassian Industries está construindo sobre o passado para proporcionar um futuro melhor, e você pode fazer parte disso!
+109769  As tradições do nosso passado detêm a chave para um futuro brilhante. Junte-se a nós para celebrar ambos enquanto levamos o mundo para o amanhã.
+109770  Quanto maior o sonho, mais sólida deve ser sua base. Cassian Industries - construindo hoje para um amanhã brilhante.
+109771  Você deveria reconsiderar suas simpatias. Ou pode ser que um dia... tenha ultrapassado seus limites.
+109772  O futuro é o que fazemos dele. Cassian Industries é o futuro. Junte-se a nós! Ainda não é tarde demais!
+109773  Nunca houve momento melhor para se juntar à onda do amanhã. Nós somos essa onda.
+109774  Mais uma vez, meu superior o convida a se juntar a nós em um futuro repleto de promessas!
+109775  Triste como é, toda corrida pode ter apenas um vencedor. Ainda não é tarde para você nos apoiar.
+109776  Meu superior deseja que saiba que ela é grata pelo seu apoio.
+109777  A Cassian Industries gostaria de agradecer pelo seu generoso apoio e ajuda.
+109778  A cooperação é a chave para o sucesso, e nós da Cassian apreciamos seus esforços.
+109779  Meu CEO me pediu para expressar seu apreço pelo seu apoio.
+109781  Meu superior presumiu que você não estava interessado em política corporativa. Prove que ela está errada e nos apoie.
+109782  Minhas sinceras desculpas por esquecer de lembrá-lo de votar mais cedo. No entanto, ainda há tempo...
+109783  Cassian Industries. Forte. Confiável. Sólida. Assim como os recursos naturais que mineramos e processamos ao redor do mundo.
+109784  Cassian Industries constrói os alicerces dos sonhos da humanidade.
+109785  Na Cassian Industries, valorizamos a abundante riqueza da Terra e nos esforçamos para usá-la para o bem de toda a humanidade.
+109786  A missão da Cassian Industries é refinar os próprios blocos de construção da natureza para servir melhor à humanidade.
+109787  A Cassian Industries refina minério para construir sonhos.
+109788  A Cassian Industries oferece à humanidade uma base sólida para abraçar o futuro.
+109789  Milhões de clientes não podem estar errados! Cassian Industries está agora na vanguarda dos negócios internacionais!
+109790  Cassian Industries é líder mundial nos negócios!
+109791  Não se preocupe, as empresas de médio porte são tão importantes quanto as líderes de mercado. Ou será que são?
+109792  A Cassian Industries não chegou onde está hoje por meio de aventuras de curto prazo e alta visibilidade.
+109793  Deve-se ter cuidado para não se esgotar com a corrida se deseja vencer.
+109794  O aprimoramento deve ser buscado e admirado, mas não supervalorizado.
+109795  O crescimento é uma coisa boa, se puder ser sustentado. Se.
+109796  A Cassian Industries também começou pequena, embora isso tenha sido muitos anos atrás.
+109797  No mundo dos negócios, não há como evitar a Cassian Industries. Especialmente não para você.
+109798  Nunca pare de tentar. A Cassian Industries estará sempre lá para te inspirar.
+109799  Está em nossa natureza buscar a dominação. A Cassian Industries simplesmente é melhor nisso.
+109800  Nunca desanime. Todos aprendemos a andar antes de correr. Alguns mais rapidamente, outros... bem...
+109801  Louvável de sua parte tentar emular o sucesso da Cassian Industries. Audacioso, mas louvável.
+109802  É da natureza da besta. Cachorros pequenos aprendem com os grandes.
+109803  Todos começam pequenos. Alguns prosperam e crescem, enquanto outros... precisam de um pouco mais de tempo.
+109804  Um dia, você também pode conseguir se juntar aos Cinco Grandes. Um dia.
+109805  Seguir seu sonho nunca é fácil. Foi para nós, mas, então de novo, nós somos a Cassian Industries.
+109806  Você sabe que tentar emular a Cassian Industries é mirar nas estrelas.
+109807  Você deve ficar de olho nas análises de mercado! Em breve elas mostrarão o caminho de volta para onde você pertence!
+109808  Talvez você queira tirar um tempo para se consolidar. Você não seria o primeiro a se esticar demais com pressa.
+109809  Tenha certeza de que apreciaria uma oferta para trabalhar para você, mas teria que declinar. Veja bem, na Cassian Industries somos todos uma grande família. E tenho uma mãe muito exigente, por assim dizer.
+109810  A Cassian Industries me deu a chance de aprimorar e desenvolver minhas habilidades em um ambiente desafiador.
+109811  Se me perguntar, Buhari é bastante convencido. Ele conseguiu o emprego bajulando o chefe e agora zomba - perdão. Por favor, esqueça o que eu disse. Certamente não era minha intenção.
+109812  Meu superior é um empregador muito exigente. No entanto, eu acho o desafio... revigorante.
+109813  A Cassian Industries se tornou meu lar e minha família.
+109814  A Cassian Industries se esforça para ser a melhor. Quanto mais alguém avança na empresa, mais deve se esforçar.
+109815  Desenvolvi um interesse por caminhadas com raquetes de neve. Claro, não há muitos lugares para fazer isso e mal consigo encontrar tempo, mas sempre vale a pena. A paz e tranquilidade, o branco infinito, passar um tempo de qualidade... Oh, desculpe, eu estava viajando.
+109816  Meu superior acabou de voltar de assinar um acordo para garantir que nossas máquinas recém-atualizadas estejam funcionando a pleno vapor. May Tian provou ser uma negociadora dura, não esperava que minha superiora se contentasse com um compromisso! Não diga uma palavra a ela, é claro.
+109817  Os Custódios do Ártico se apegam aos depósitos de metal como um filhote de urso polar a uma banquisa derretida. Esse eco-despotismo os impede de enxergar o quão urgentemente nós... ou seja, a humanidade... precisamos ter acesso a esses tesouros inexplorados.
+109818  Estive querendo enviar minha programação de férias durante toda a semana... Mas estou em dúvida se não deveria esperar para sincronizá-la com a da minha superiora. Por outro lado, não posso mais adiar. O que fazer?
+109819  Fiquei surpreso quando Volodin nos procurou para colaborar. Não que não estivesse na mente da minha superiora. Não sei explicar, mas algo nele me deixa desconfortável... Desculpe-me, não deveria falar assim dos meus colegas.
+109820  A vida corporativa é tão estimulante. A emoção da caçada por novos empreendimentos, rastreando e planejando antes de agir. Incomparável!
+109821  Uma vez pensei que isso seria apenas mais uma etapa em minha jornada. Que ingênuo de minha parte...
+109822  Por que as pessoas não conseguem ver que não tiramos recursos da Terra, apenas os remodelamos? Não há mal nisso.
+109823  É triste ver alguns falarem sobre a falta de recursos naturais e, ao mesmo tempo, quererem guardar os que temos.
+109824  Para ser perfeitamente honesto, considero hipócrita quem vive em habitações modernas enquanto reclama de nossas atividades.
+113504  Hmm, às vezes, um perfil baixo é mais útil, não acha?
+113505  Não se preocupe. Vou tentar amenizar sua detecção perante o conselho... de alguma forma.
+113506  A Cassian espera máxima discrição de seus parceiros!
+113507  Nossas informações indicam que aquela é a área certa. Por favor, comece sua busca.
+113508  De acordo com nossas fontes, o objeto deve estar em algum lugar próximo a você.
+113509  Meu superior deseja que você comece sua busca naquela área.
+113510  Este é o correto. Tenho certeza de que minha superiora ficará satisfeita com seu desempenho nesta missão.
+113511  A Cassian parabeniza você por seu sucesso em encontrar o objeto em questão.
+113512  Meu CEO está impressionado com a habilidade que você mostrou ao encontrar o objeto.
+115073  Minha superiora envia seus cumprimentos. Se você deseja entrar em contato com o conselho da Cassian Industries ou tiver alguma pergunta sobre nossos projetos na indústria pesada, entre em contato comigo. Meu nome é Aidan Bhargava.
+115365  Posso pedir para você retornar ao local do nosso empreendimento conjunto.
+115366  Estou aqui para informar que nosso projeto precisa da sua atenção.
+115367  Há novos desenvolvimentos relacionados ao nosso projeto compartilhado.
+115368  A Cassian Industries está muito ansiosa para fundar um empreendimento conjunto com você aqui.
+115369  Se você considerar um empreendimento conjunto neste setor, serei seu contato.
+115370  Minha superiora aguarda sua decisão. Você se juntará a nós em um projeto conjunto?
+115538  Um prazer vê-lo. Tenho uma proposta para você da Cassian Industries: O que acha de fazer uso daquilo de que as estrelas são feitas?
+115539  A Lua está cheia de crateras de meteoros. Claro, é um pesadelo para as pessoas que vivem lá, mas por que não tirar proveito disso para nós?
+115540  Os minerais que podemos extrair podem se tornar o próximo recurso essencial, sem mencionar as descobertas científicas, das quais até a Ibarra-Foxcom certamente terá ciúmes.
+115541  A Cassian Industries quer oferecer a você essa oportunidade única de colaboração. Seremos os primeiros a descobrir aquilo que a humanidade ansiará nas eras futuras.
+115542  Esta mina realmente se revelou tão gloriosa quanto as famosas minas de diamantes de Golkonda. Meu CEO solicitou minha presença imediata, entrarei em contato.
+115543  O projeto está certamente valendo a pena, não é mesmo? Mas estou ocupado no momento. Entrarei em contato o mais breve possível.
+115544  Agradeço sua cooperação. No entanto, o projeto foi considerado muito arriscado e será encerrado. Mas talvez... acredito que haja um caminho. Eu vou relatar a você.
+115545  Minha superiora ainda não respondeu às minhas perguntas. Por favor, tenha paciência.
+115546  Esplêndido! Este é o maior depósito até agora! Minha superiora ressuscitou pessoalmente o projeto. Confesso que não achei possível. Você tem minha gratidão.
+115547  Por um tempo, temi que minha superiora estivesse certa ao considerar o projeto utópico. Em vez disso, agora tenho mais tarefas de natureza semelhante.
+115885  Minha superiora envia seus parabéns por suas aquisições.
+110031  Sim, impressionante. Muito mesmo.
+110032  Excelente, simplesmente excelente.
+110033  Isso é muito melhor.
+110034  Um alívio.
+110035  Bom ver.
+110036  Uma melhoria definitiva.
+110037  Então é isso.
+110038  Feito, e bem feito.
+110039  Isso acabou bem.
+110040  Tudo está bem quando termina bem.
+115359  Todos os obstáculos foram removidos. Devemos prosseguir?
+115360  Chegou a hora. Devemos começar nossos próximos movimentos.
+115361  Há novas oportunidades nos esperando. Vamos?
+115362  Por que não nos encontramos para conversar? Tenho algo para você.
+115363  Não quero mais ninguém para o meu próximo projeto. Então, se tiver tempo...
+115364  Por favor, venha até mim. Tenho uma oferta para fazer.
+114917  Veja, o Ártico é o único lugar na Terra onde ainda se encontram combustíveis fósseis. Muitas corporações tentaram explorar impiedosamente essa fonte de riqueza no passado... e falharam.
+114926  Os Custódios do Ártico são rápidos em mandar embora qualquer empresa que levante mesmo a mais leve suspeita de poluição ao meio ambiente.
+114927  No entanto, essas carcaças enferrujadas permaneceram aqui, muitas delas derramando sangue negro de velhas feridas. Mas na Usoyev Incorporated oferecemos torná-las inofensivas para os Custódios do Ártico. Com seu apoio, espero.
+115257  Os Barris de Petróleo? Bem, há muitos resíduos quando se desmonta uma plataforma de petróleo. Mantenha-os por enquanto. Eu até posso ter mais para você... se livrar. Mas isso tem que ficar entre nós. Não devemos nos encontrar por um tempo.
+115258  Mantenha um perfil baixo até o frenesi sobre o incidente com o transportador passar. Vou entrar em contato com você.
+115259  Sabia que você poderia fazer isso! Claro, ainda fomos forçados a recuperar o óleo dessa plataforma por questões de segurança. Por favor, mantenha esses barris bem escondidos. Devemos nos separar por enquanto.
+115260  Apenas seja paciente. Persistiremos com nosso projeto. A oportunidade se apresentará.
+115261  E dizem que o ambientalismo não é um empreendimento lucrativo. Não se esqueça de vir buscar sua parte dos... produtos perigosos para se livrar de tempos em tempos. Você mostrou que vale a pena.
+116320  Eu tinha esperança de encontrá-lo aqui. Sei que você é diferente de outros CEOs. Você não foge de decisões desconfortáveis quando se trata do nosso meio ambiente. Por isso, quero oferecer esta oportunidade a você.
+116322  Para citar livremente um conterrâneo falecido há muito: Você precisa de petróleo. Há petróleo. É simples assim.
+110041  Finalmente, podemos ter paz de espírito.
+110042  É um alívio ter resolvido isso.
+110043  Acho que todos estamos mais felizes agora que isso foi resolvido.
+110044  Você é um líder muito talentoso. Eu sabia disso desde o começo.
+110045  Você fez um excelente trabalho nisso.
+110046  Você se saiu muito bem, tenho que dizer.
+110047  Isso é muito melhor. Você se saiu bem!
+110048  Você tem um talento para encontrar soluções inovadoras.
+110049  Um trabalho muito impressionante que você fez aí.
+110050  Viu só? Eu te disse que você era mais que capaz.
+110051  Você tem potencial para ir longe, meu amigo.
+110052  Você sabe, acho que você vai longe.
+110053  Excelente trabalho, meu amigo.
+110054  O que poderíamos ter feito.
+110055  Ah, bem. Isso poderia ter sido melhor.
+110056  Estranho. Tudo parecia estar indo bem e então...
+110057  Quando tudo é dito e feito, foi decepcionante.
+110058  Isso poderia ter terminado melhor, acho.
+110059  Se aprendermos com isso, então não foi uma perda total.
+110060  Algumas coisas funcionam, outras não. Analise, aprenda e siga em frente.
+110061  As coisas vão melhorar na próxima vez.
+110062  Nunca desista. Sempre há amanhã.
+110063  Meu amigo, você sabe o ditado: se a vida nos dá limões, fazemos limonada.
+110064  Nós dois sabemos que você pode fazer melhor do que isso.
+110066  Todos cometemos erros, meu amigo. Contanto que aprendamos com eles...
+110067  Não desista. Nós dois sabemos que você pode fazer melhor do que isso.
+110065  Ganha-se umas, perde-se outras.
+110068  Você nem chegou perto do seu potencial desta vez.
+110069  Meu amigo, todos cometemos erros. A vergonha está apenas em cometer o mesmo duas vezes.
+110070  Você poderia ter se saído muito melhor. Ainda assim, sempre há próxima vez.
+110071  Você precisa melhorar seu jogo se quiser ter sucesso.
+110072  Eu te observei, sabe. Você costuma se sair melhor do que isso.
+110073  Você pode fazer melhor, deve fazer melhor e vai fazer melhor, meu amigo.
+110074  Bem, bem, que surpresa.
+110075  Muito bom te ver novamente.
+110076  É bom te ver!
+110077  Então, afinal não esqueceu seu velho amigo!
+110078  É legal você ter passado por aqui.
+110079  Ah, é bom ver um rosto amigável. Entre.
+110080  Bom te ver novamente, meu amigo.
+110081  Entre, entre.
+110082  Pode entrar, a porta está aberta.
+110083  Olá, meu amigo. É sempre bom te ver.
+110084  Um pedido razoável. Então, sim.
+110085  Acho que isso pode ser arranjado.
+110086  Claro, por que não?
+110087  Sim, sim, sem problema.
+110088  Claro, posso fazer isso.
+110089  Não se preocupe, tem meu apoio.
+110090  Quando você coloca dessa forma, então sim, claro.
+110091  Só precisava pedir, meu amigo.
+110092  Feliz em poder te ajudar com isso.
+110093  Sempre feliz em te ajudar, meu amigo.
+110094  Desculpe, não posso ajudar.
+110095  Receio que a resposta seja não.
+110096  Algumas coisas não consigo fazer.
+110097  Desculpe, mas a resposta é não.
+110098  Não. Desculpe, mas não.
+110099  Não posso te ajudar.
+110100  Receio que não posso te ajudar.
+110101  Sinto muito, mas preciso dizer não.
+110102  Desta vez, vou ter que dizer não, meu amigo.
+110103  Odeio te dizer isso, mas preciso dizer não.
+110104  Ah, sim. Estava pensando em quem poderia pedir ajuda com essa tarefa.
+110105  Ah, timing perfeito, meu amigo.
+110106  Você sempre sabe quando aparecer! Essa tarefa é perfeita para você.
+110107  Entre, entre. É bom te ver novamente. Interessado em fazer um trabalho para mim?
+110108  Ah, timing perfeito. Meu amigo, tenho um trabalho e preciso de alguém em quem confiar.
+110109  Bem-vindo! Como tem estado? Olha, meu amigo, tenho um trabalho e preciso da sua ajuda.
+110110  Não achei que teria que viajar tão longe, mas queria te oferecer esta oportunidade.
+110111  Gosto de sair do escritório quando posso. É bom te ver. Interessado em um pequeno trabalho?
+110112  Ah, aqui está você! Você se movimenta bastante, não é? Não importa. Tenho um trabalho para você, meu amigo.
+110113  Não existe coincidência. Meu amigo, tenho um trabalho que gostaria da sua ajuda.
+110114  O que te traz aqui? Isso é bom demais para ser verdade. Meu amigo, tenho um trabalho que talvez goste.
+110115  Ha! A sorte sorri para mim novamente! Exatamente a pessoa que queria ver. Tenho um pequeno trabalho para você...
+110116  Siga esse caminho e terá um futuro brilhante pela frente.
+110117  Você se saiu muito bem, meu amigo.
+110118  Um trabalho excelente, meu amigo. Estou orgulhoso de você.
+110119  Se continuar assim, um dia irá muito longe.
+110120  Bem feito! Você está se saindo ainda melhor do que eu esperava!
+110121  Bom trabalho! Suas decisões são boas e seu desempenho é ainda melhor. Parabéns.
+110122  Bom trabalho, meu amigo.
+110123  Tenho certeza de que aprenderá com seus erros.
+110124  Todos nós cometemos erros. Se aprendermos com eles, são valiosos.
+110125  Não vou mentir para você. Isso poderia, deveria ter sido melhor. Mas às vezes acontece com todos nós.
+110126  Fique à vontade. Mas tenho certeza de que você tem assuntos mais urgentes para resolver agora.
+110127  Bom te ver novamente! E como está progredindo sua tarefa? Bem, espero.
+110128  Bom te ver novamente! E como está progredindo sua tarefa? Bem, espero.
+110129  Meu amigo, a chave para o sucesso é terminar uma tarefa antes de passar para a próxima. O quanto avançou?
+110130  Você sabe que é sempre bem-vindo aqui, mas essa tarefa é relativamente urgente.
+110131  Se não estou sendo inconveniente, meu amigo, gostaria que terminasse esse trabalho o mais rápido possível.
+110132  Sei que tem muito na sua mente, então por favor não me interprete mal quando lembro sobre essa tarefa que te dei.
+110133  Essa tarefa precisa ser concluída, meu amigo. Adiá-la não vai fazê-la desaparecer.
+110134  Meu amigo, cada tarefa que assumimos é uma oportunidade para aprimorar nossas habilidades. Então, já terminou?
+110135  Nada escapa ao seu olhar.
+110136  Exatamente. Muito bem observado.
+110137  Você encontrou isso rapidamente, meu amigo.
+110138  Ah ha! Você encontrou!
+110139  É isso que precisamos, sim.
+110140  Bom, você encontrou. Sabe o que fazer em seguida, meu amigo.
+110141  Sim, é esse mesmo.
+110142  Excelente trabalho! Você encontrou.
+110143  As circunstâncias eventualmente o levarão a esse local.
+110144  Exatamente. É o local do qual eu estava falando.
+110145  Viu? Eu te disse que encontraria!
+110146  Você segue as direções muito bem, meu amigo.
+110147  Você encontrou o local certo muito rapidamente! Muito bom.
+110148  Sim, esse é o seu destino, meu amigo.
+110149  É onde você precisa ir, sim.
+110150  Agora você sabe para onde precisa ir.
+110151  Sabia que nossa colaboração seria frutífera, então já preparei outra tarefa para você.
+110152  Isso foi excelente, meu amigo. Está pronto para dar o próximo passo?
+110153  Você se saiu tão bem naquela tarefa, meu amigo, que gostaria que assumisse a próxima também.
+110154  É um risco, certamente. Mas quem poderia lidar com esses perigos, se não você?
+110155  Meu amigo, será perigoso. Mas sei que está preparado para essa tarefa!
+110156  Não gosto de pedir, meu amigo. Mas você é o único que sei que poderia fazê-lo e sair vivo.
+110157  Ambos sabemos que será perigoso, mas você é um dos poucos guerreiros restantes, meu amigo.
+110158  Sei que pode enfrentar os perigos lá fora, caso contrário nunca teria pedido a você.
+110159  Às vezes, é necessário ter uma mão forte para impor ordem ao caos. A sua foi certamente forte o suficiente.
+110160  Ainda desejo não ter precisado te pedir isso, meu amigo, mas você se saiu ainda melhor do que eu esperava.
+110161  Sabia que você era um guerreiro, meu amigo, mas isso foi excepcional.
+110162  Altamente lamentável. Teríamos intervindo, mas... sem uso.
+110163  Meu amigo, sinto muito! Se soubesse da força do inimigo, não teria te enviado!
+110164  É bom ver que você saiu vivo. O que não nos mata nos torna mais fortes!
+110165  Este pedido pode ser um pouco... incomum, talvez. Mas confio em você.
+110166  Não precisa ser modesto. Você nos prestou um grande serviço.
+110167  Esperava mais entusiasmo, considerando a confiança que depositei em você.
+110168  De vez em quando, essas coisas são necessárias.
+110169  A produção diminuiu. Se não aumentarmos o preço, logo não haverá mais no mercado!
+110170  É a natureza dos negócios. Quando tem uma perda, é preciso ter um lucro para compensar.
+110171  Nem todo acordo dá certo. Às vezes, é preciso recuperar as perdas – ou passar fome.
+110172  A lei da oferta e da procura, meu amigo. Ela é implacável.
+110173  Quando o preço de algo está muito inflado, pode ameaçar todo o mercado.
+110174  O que posso dizer? Compramos demais e precisamos cortar nossas perdas.
+110175  Meu amigo, você tem que saber quando segurar e quando largar.
+110176  Ambos sabemos o quanto o dinheiro está apertado nos dias de hoje. Neste caso, cortar nossa perda é quase um serviço público.
+110177  Isso fará com que os concorrentes se tornem descuidados e se estendam demais, meu amigo.
+110178  A magia da ausência de peso promete redefinir a química, e a Usoyev estará lá!
+110179  A Usoyev Inc. vai levar a química para as estrelas.
+110180  Ninguém é mais adequado para realizar as análises químicas e a produção necessária para viagens espaciais.
+110181  A Usoyev Inc. vive e respira química. É uma responsabilidade sagrada que manteremos até as estrelas se apagarem.
+110182  Na Usoyev, buscamos tornar a química mais limpa, eficiente e versátil - todos os dias.
+110183  Não esqueça, os amigos cuidam uns dos outros.
+110184  Foi algo que eu disse?
+110185  Seu apoio significaria muito, meu amigo.
+110186  Você poderia fazer muito pior do que nos apoiar.
+110187  Lembre-se, a Usoyev nunca esquece um amigo.
+110188  Obrigado, meu amigo. Eu sabia que podia contar com você.
+110189  A Usoyev valoriza seu apoio - quase tanto quanto eu.
+110190  Seu apoio significa mais do que você pensa. Muitos olham para você e seguirão seu exemplo.
+110191  Eu não esquecerei disso, meu amigo. Saiba que sempre estarei ao seu lado.
+110192  Faz bem ao meu coração ver que você valoriza a amizade tanto quanto eu.
+110193  Meu amigo, quando uma pessoa inteligente esquece de votar, os idiotas acabam decidindo.
+110194  Você deve ter estado muito ocupado se esqueceu de votar.
+110195  Química. A base de todas as coisas materiais. De todas as coisas humanas. A Usoyev Inc. tem uma longa tradição de trabalhar com os próprios blocos de construção da existência... Para o bem de todos.
+110196  A Usoyev Inc. é química, e química é Usoyev.
+110197  A Usoyev é líder mundial em química e produtos químicos. Uma responsabilidade que levamos a sério.
+110198  Todos os dias, a Usoyev leva a química moderna a novas alturas vertiginosas, abrindo novas portas para a humanidade.
+110199  A química é um campo vasto, não isento de perigos. Apenas uma empresa como a Usoyev possui a experiência necessária para minimizar esses perigos.
+110200  A Usoyev Inc. é líder mundial em química porque trabalhamos de forma mais segura, mais limpa e mais inteligente.
+110201  Não fique desanimado, meu amigo. A Usoyev está no mercado há muito mais tempo do que você.
+110202  Meu amigo, quando alguém o ultrapassar, observe e aprenda - e então use o que aprendeu.
+110203  Acho que talvez a Usoyev tenha gastado tempo e energia demais te apoiando.
+110204  Receio que chegou a hora em que devo dedicar mais tempo aos negócios da empresa.
+110205  Não faça mau uso da ajuda que recebeu.
+110206  A Usoyev é baseada em crescimento sólido e de longo prazo. A química é um negócio onde se avalia os riscos cuidadosamente.
+110207  Devagar, meu amigo, devagar. Uma árvore alta e fina pode quebrar quando cresce rápido demais.
+110208  Você está se saindo bem, mas deve tomar tempo para consolidar seu crescimento, assim como fazemos.
+110209  Você está se saindo muito bem mesmo. Um dia, até mesmo pode transformar os Cinco Grandes em Seis Grandes!
+110210  Não desanime. Você está indo extremamente bem para alguém tão novo no negócio!
+110211  Relaxa, meu amigo. A Usoyev está no mercado há muito tempo. Tentar nos alcançar é... ambicioso.
+110212  Sabe, eu realmente gosto de te ajudar. Você me lembra de mim mesmo quando era mais jovem.
+110213  Nunca pare de tentar. Você pode nunca ser outra Usoyev, mas ainda pode ser um sucesso.
+110214  Trabalhe, aprenda e cresça. Estarei sempre aqui para te aconselhar.
+110215  Sei que é frustrante, mas não pode esperar competir com a Usoyev tão cedo.
+110216  Um dia, você também alcançará essas alturas. Não tenha medo de pedir conselhos, se precisar.
+110217  A Usoyev também foi pequena uma vez. Claro, isso foi há muito, muito tempo atrás.
+110218  Ambição você tem. Agora, se tiver a resistência, um dia você também chegará ao topo.
+110219  Parabéns. Agora, consolide, antes que o impulso que você pegou diminua.
+110220  Todo mundo tem sua própria opinião sobre os usos e perigos da química moderna - mas todo mundo compra nossos produtos.
+110221  No começo, havia a química.
+110222  Os produtos da Usoyev são usados para produzir remédios, esterilizar recipientes de comida, fabricar itens domésticos e muito mais.
+110223  A química é meu sangue vital. Não literalmente, é claro. Mas não sei como seria minha vida sem ela.
+110224  Você sabe, meu amigo, apesar de todos os avanços, acredito que estamos apenas no começo do que a química tem a oferecer.
+110225  Há uma teoria de que a vida na Terra surgiu a partir de componentes químicos contidos no gelo meteorítico. Fascinante!
+110226  O Dr. Hofwegen é bastante enérgico. Talvez um pouco demais. É desconcertante.
+110227  Quando visitei o Dr. Young, também fui apresentado ao cachorro dele. É costume tratar um cachorro como uma pessoa? Parece estranho para mim, mas o Dr. Young o trata com muito amor e cuidado, posso dizer.
+110228  As colônias da Lua existem há um tempo, mas com a Segunda Onda, fiquei muito interessado na vida na Lua. Estar confinado a um abrigo ou traje, sempre verificando seu suprimento de oxigênio... tudo parece tão restritivo, não acha?
+110229  Buhari continua alertando sobre a superfertilização e produtos químicos agressivos em nossa cadeia alimentar. Mas não o culpo, é natural desconfiar. Na verdade, nenhuma de suas culturas cresceria sem nossa ajuda.
+110230  Desde o lodo primordial até o champanhe, o combustível de foguetes e a própria vida - tudo é química.
+110231  Meu primeiro professor de química nos mostrou o truque do refrigerante e hortelã - e eu fiquei viciado. Eu amo química!
+110232  Acredito que estaríamos melhores se todos ao menos soubessem o que é química. Infelizmente, para a maioria, é apenas uma palavra.
+110233  Me diga duas coisas que você usa todos os dias que não sejam produtos químicos ou produtos químicos. Vai em frente. Tente!
+110234  Espero que um dia encontre alguém cuja paixão pela química seja igual à minha. Então poderei me aposentar.
+110236  Adoro escalar. Ou pelo menos costumava... Meus colegas estão muito preocupados com a minha saúde. Agora, estou tentando esportes mais seguros para ficar em forma. Não quero parar de testar os limites do meu corpo.
+115075  Um prazer conhecê-lo. Luca Volodin, consultor da Usoyev Incorporated. Já ouvi falar de você. O novo peixe no lago com os cinco grandes tubarões. Se precisar de alguém para conversar, fique à vontade para pedir a este velho nadador.
+115886  Não esperava menos de você. Aproveite seu sucesso. As pessoas devem fazer isso.
+109825  Aceitável.
+109826  Adequado.
+109827  Anotado.
+109828  Caso encerrado.
+109829  Satisfatório.
+109830  É isso que está resolvido.
+109831	Então, a situação foi resolvida.
