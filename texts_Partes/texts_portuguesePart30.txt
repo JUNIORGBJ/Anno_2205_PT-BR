@@ -1,316 +1,316 @@
-109832  Hora de fechar aquele arquivo, então.
-109833  Satisfatório.
-109834  Aceitável.
-109835  Então, posso considerar o problema resolvido. Bom.
-109836  Aquela foi uma variável imprevisível. Estou feliz que tenha ido embora.
-109837  Uma coisa a menos para lidar.
-109838  Esperávamos isso de você.
-109839  Você se saiu bem.
-109840  Você trabalha rápido e eficientemente. Bom.
-109841  Parece que você é um solucionador de problemas.
-109842  Sabíamos que você cuidaria disso.
-109843  Você fez um excelente trabalho.
-109844  Suas habilidades são admiráveis.
-109845  Você lidou bem com aquela situação.
-109846  Você fez o que se propôs a fazer. Louvável.
-109847  Aquilo terminou bem, não acha?
-109848  Aquilo estava esperando para acontecer.
-109849  Nenhuma surpresa.
-109850  Estou desapontado.
-109851  Uma situação insatisfatória.
-109852  Um fracasso.
-109853  Não era o que queríamos.
-109854  Aquilo não deveria ter acontecido.
-109855  Desnecessário.
-109856  Não deveria ter acontecido.
-109857  Um resultado indesejável.
-109858  Você me vê aplaudindo?
-109859  Você não conseguiu resolver a situação.
-109860  Você nunca terá sucesso se não se concentrar na tarefa em mãos.
-109861  Você deveria ter solucionado o problema.
-109862  Você poderia ter feito muito melhor.
-109863  Espero que isso não seja indicativo de sua habilidade.
-109864  Eu pareço feliz para você?
-109865  Você não atendeu às minhas expectativas.
-109866  Eu esperava mais de você.
-109867  Sua performance não me impressionou.
-109868  Seja breve. Nossos rivais nunca descansam.
-109869  Sim? O que foi?
-109870  Seja rápido. Sou uma pessoa ocupada.
-109871  Sobre o que você queria falar comigo?
-109872  Posso te dar três minutos.
-109873  O que está em sua mente?
-109874  A versão resumida, por favor.
-109875  Muito bem. Você tem cinco minutos.
-109876  Meu tempo é valioso. O que é?
-109877  Bem? Diga logo.
-109878  Não há outra opção.
-109879  Afirmativo.
-109880  Confirmado.
-109881  Pedido aprovado.
-109882  Muito bem.
-109883  Posso dar sinal verde para isso.
-109884  Seu pedido foi aprovado.
-109885  Concordamos com o seu pedido.
-109886  Você tem nossa aprovação.
-109887  Considere seu pedido aprovado.
-109888  Não.
-109889  Impossível.
-109890  Esqueça.
-109891  Fora de questão.
-109892  Inaceitável. Não.
-109893  Você acha que isso nos diz respeito?
-109894  O que você acha que isso tem a ver conosco?
-109895  Você sabia que a resposta seria não.
-109896  Você está desperdiçando meu tempo e o seu. Não.
-109897  Você conhece minha resposta. Não.
-109898  Sim, sim, olá e tal. Agora me diga, você aceitará essa tarefa?
-109899  Bem-vindo. Tenho uma tarefa para você, se estiver interessado.
-109900  Ótimo, você está aqui. Tenho um trabalho para você.
-109901  Sim, esta é minha casa. Não importa. Isso é sobre trabalho.
-109902  Home office hoje. Tenho um trabalho para você.
-109903  Entre. Então, interessado em uma tarefa?
-109904  Não vou demorar. Só preciso da sua decisão sobre um possível projeto conjunto.
-109905  Então é aqui que você está. Interessado em uma tarefa?
-109906  Fico feliz por ter te encontrado. Tenho um projeto para você.
-109907  Bom, te encontrei. Escute, tenho uma tarefa para você.
-109908  Fico feliz por te encontrar. Interessado em um novo projeto?
-109909  Estou só de passagem, mas queria oferecer a você um projeto.
-109910  Entendi. O tipo orientado para resultados.
-109911  Você faz um bom trabalho.
-109912  Vejo que você percebe que tempo é dinheiro.
-109913  Você não perde tempo. Gosto disso.
-109914  Parece que você valoriza a eficiência. Eu também.
-109915  Você fez um trabalho muito capaz.
-109916  Seu projeto foi um sucesso. Excelente.
-109917  Vejo que você tem tão pouca paciência com tolos quanto eu.
-109918  O fracasso não estava no nosso contrato.
-109919  Se eu quisesse que você falhasse, teria dito.
-109920  Isso não era o que você foi contratado para fazer.
-109921  Eu sei, sou agradável de se olhar. Mas cumprir compromissos é igualmente atraente.
-109922  A atenção é lisonjeira, mas eu preferiria um relatório de status.
-109923  Por que você está aqui? Como está indo o seu projeto?
-109924  Bom. Eu ia te ligar para um relatório de status.
-109925  Você terminou sua tarefa?
-109926  Como está indo aquele projeto? Quase pronto?
-109927  Então, seu projeto já está pronto?
-109928  Então, você terminou aquele projeto?
-109929  É isso.
-109930  Sim, é esse.
-109931  Pelo que vejo, é isso.
-109932  Então você encontrou.
-109933  Bom, você conseguiu localizá-lo.
-109934  Exatamente. É esse.
-109935  Esse é o especificado, sim.
-109936  De acordo com minhas informações, isso deve ser isso.
-109937  Sim, ali.
-109938  Esse é o local correto.
-109939  Esse é o seu destino.
-109940  Sim, é o lugar que eu queria dizer.
-109941  Esse é o local alvo, sim.
-109942  É para lá que você precisa ir.
-109943  Agora que você encontrou, vá em frente.
-109944  Sim, é o local indicado.
-109945  Boa execução. Espero que você leve a próxima operação tão a sério quanto.
-109946  Bem feito. Agora, para o próximo passo.
-109947  Essa é a primeira parte feita. Hora de dar seguimento.
-109948  Uma questão de segurança. Sua colaboração seria apreciada.
-109949  Temos um incidente de segurança que requer sua atenção, se estiver disposto.
-109950  Temos um problema que requer intervenção armada. Interessado?
-109951  Esse projeto é perigoso. Pode ser necessária o uso da força.
-109952  Esse trabalho é perigoso. Entre armado e preparado.
-109953  Uma solução rápida, implacável e final. Exatamente o que pedimos.
-109954  Esse problema não voltará a surgir. Bem feito.
-109955  Brutalmente eficiente. Perfeito.
-109956  Se essa é sua ideia da arte da guerra, prefiro ficar com a original.
-109957  Isso foi um desperdício de recursos.
-109958  Isso não era para o que te contratei.
-109959  Por que não combinar recursos? Informações como essa seriam benéficas para ambos.
-109960  Mantenha-se sempre um passo à frente da concorrência. Parece que concordamos com isso.
-109961  Achei que deixei claro que essa missão é toda sobre inteligência? Em ambos os sentidos da palavra.
-109962  Não precisamos explicar nossas ações para ninguém.
-109963  Foi necessário.
-109964  Não poderíamos permitir que um de nossos concorrentes nos prejudicasse.
-109965  O rumor diz que um de nossos concorrentes quer nos prejudicar em alguns bens vitais.
-109966  Apenas comprando para acomodar as necessidades projetadas.
-109967  Não queremos que ninguém pense que estamos estocando.
-109968  Esses bens agora são excedentes.
-109969  Não precisamos mais deles e estão ocupando espaço de armazenamento.
-109970  Precisamos de mais capacidade de armazenamento.
-109971  Outros bens agora têm uma prioridade maior.
-109972  Lei Sheng Electricity é a líder global em energia. A energia solar é um dos nossos pilares, o sol nunca se põe no espaço.
-109973  Lei Sheng está pronta para ingressar no espaço.
-109974  O espaço apresenta seus próprios problemas de energia, e quem está mais apto para dominá-los do que Lei Sheng?
-109975  Lei Sheng Electricity é dedicada a oferecer soluções energéticas integradas à humanidade onde quer que ela vá.
-109976  Lei Sheng Electricity vai energizar as estrelas.
-109977  Estou desapontado com sua falta de discernimento.
-109978  Acho sua falta de fé… perturbadora.
-109979  Eu não entendo você. Você parece inteligente o suficiente…
-109980  Obviamente você não compreende a visão da Lei Sheng.
-109981  Eu não sei por que você não apoia a Lei Sheng, mas logo descobrirei.
-109982  Com o seu apoio, a Lei Sheng fornecerá energia para a viagem da humanidade às estrelas.
-109983  Você deveria saber que aprecio o que você faz por nós.
-109984  A Lei Sheng valoriza muito parceiros confiáveis como você.
-109985  A Lei Sheng aprecia muito o seu apoio.
-109986  Seu apoio significa muito para a Lei Sheng Electricity.
-109988  Estou certo de que você simplesmente esqueceu de votar. Ainda há tempo para escolher sabiamente.
-109989  A Lei Sheng Electricity é a líder mundial na produção de energia.
-109990  Na Lei Sheng, colhemos uma ampla variedade de fontes de energia para garantir que a humanidade tenha a energia de que precisa.
-109991  Estamos passando por algumas reestruturações, o que levou alguns a pensar que estamos perdendo terreno. Bobagem.
-109992  A Lei Sheng Electricity se tornou líder mundial sabendo o que nossos clientes querem.
-109993  Saber o que os clientes querem é a chave para o sucesso. Tudo se resume à informação.
-109994  A Lei Sheng Electricity conhece o mercado de energia melhor do que qualquer um. É por isso que somos líderes mundiais.
-109995  Tentar acompanhar-nos é fútil. A Lei Sheng Electricity se move na velocidade da luz.
-109996  A Lei Sheng Electricity está novamente em ascensão.
-109997  Parabéns pelo seu sucesso. Que um dia você seja tão poderoso quanto a Lei Sheng.
-109998  Você seria melhor orientado a construir sua empresa a partir de uma base sólida, em vez de flutuar por aí.
-109999  Parece que sua empresa está indo bem. Aproveite enquanto dura.
-110000  Você realmente acredita que trabalhar como prestador de serviços oferecerá a segurança de longo prazo que uma grande empresa precisa?
-110001  Saboreie o sucesso enquanto durar.
-110002  O sucesso não é satisfatório? Nós, da Lei Sheng, já o desfrutamos muitas vezes.
-110003  Na Lei Sheng Electricity, tudo se resume ao foco. Você poderia aprender com isso.
-110004  Não há necessidade de se envergonhar. Afinal, a Lei Sheng é líder de mercado.
-110005  Trabalhe duro, preste atenção aos seus clientes e um dia você desfrutará do sucesso que a Lei Sheng desfruta.
-110006  Tentar competir com uma empresa como a Lei Sheng é quase impossível, eu sei.
-110007  A diferença entre vencedores e perdedores é que os vencedores nunca param de tentar.
-110008  Sua empresa me lembra a Lei Sheng Electricity no início.
-110009  Ninguém conhece seus clientes como a Lei Sheng Electricity. Outro motivo pelo qual somos tão bem-sucedidos.
-110010  Se você deseja ter o mesmo sucesso que a Lei Sheng, então você deve trabalhar, trabalhar, trabalhar.
-110011  Não se preocupe. O caminho para o topo é um caminho de muitos passos dados um de cada vez.
-110012  A Lei Sheng também não foi construída em um dia.
-110013  Quando a Lei Sheng terminar a reestruturação, tudo voltará à ordem natural.
-110014  Parabéns pelo seu primeiro gostinho de sucesso.
-110015  As pessoas sempre pensam que sou um peixe frio. Aparentemente, é assim que tratam aqueles que separam suas vidas profissionais e pessoais.
-110016  Nosso sistema atual é eficiente. Os Cinco Grandes fornecem os serviços principais enquanto as empresas menores preenchem as lacunas.
-110017  A energia é um elemento-chave da nossa sociedade, mas sempre se presume que ela estará disponível. Isso pode ser útil. Eu me pergunto se eles continuariam nos batendo se soubessem o quanto depende de nossa empresa e de seu trabalho. Não podemos, em hipótese alguma, atrasar nosso programa lunar.
-110018  Aprecio pessoas que vão direto ao ponto, e rápido. Negócios não são sobre rodeios, não importa o quanto Bharghava goste do som de sua própria voz.
-110019  Não pense que não vejo os abutres rondando minha empresa. O resto dos Cinco Grandes realmente acredita que estamos apenas mantendo as aparências. Os tempos estão difíceis, mas essa maré seca não durará para sempre e pretendo acabar com isso.
-110020  Nossos clientes ficariam surpresos com o quanto podemos saber através da conta de energia deles. Precisamos nos manter informados sobre exatamente quais máquinas estão sobrecarregando nossa rede, afinal. Para calcular nossa entrada, é claro.
-110021  Se isso continuar, terei que cancelar meus ingressos para a estreia, e não vou deixar isso acontecer.
-110022  Aprendemos apenas a correr aqui na Terra e agora tropeçamos no espaço.
-110023  Me intriga que ninguém pareça perceber que dominar um mercado de nicho é tão vital e desafiador quanto ser um jogador global.
-110024  Sempre fico surpreso com quantas empresas acreditam que podem chegar ao topo sem a inteligência adequada.
-110025  Nosso mundo está cheio de peixes pequenos que todos acreditam ser tubarões. Triste, mas engraçado.
-110026  Eu amo meu trabalho. Reunir inteligência e organizá-la, arranjá-la, tem uma beleza geométrica maravilhosa, como lattices de cristal de pura informação.
-110027  As pessoas frequentemente me comparam ao capitão daqueles filmes de ficção científica antigos. Meu trabalho tem menos alienígenas e mais cálculos, no entanto.
-110028  Equilíbrio adequado entre trabalho e vida é uma frase tão batida, ninguém mais a leva a sério. Mas se eu levasse todo esse estresse comigo quando fosse para casa... não, obrigado.
-110029  O capitalismo é competição. Alianças são formadas para a caça, mas, no final, todos querem a maior parte da presa.
-110030  A maioria das pessoas tende a agir sem pensar o suficiente. Nunca entenderei isso.
-115347  Sua presença é necessária em nosso local de projeto.
-115348  Agora, devemos continuar?
-115349  Relatório sobre o projeto. Há muito para você fazer.
-115350  Apenas um minuto. Tenho algo para propor a você.
-115351  Não deixe meu jeito reservado desencorajar você. Eu realmente desejo cooperar.
-115352  Fui informado de que você está atualmente neste setor. Por favor, encontre-se comigo.
-114547  Sim, tecnicamente isso é uma intrusão não anunciada em seu território. Mas antes de me denunciar, ouça minha oferta.
-114548  Há pouco tempo, este era apenas ruínas, mas isso é água passada. Água que fornece energia.
-114549  Uma vez, a Lei Sheng buscava a construção de uma usina hidrelétrica aqui.
-114550  As usinas eram baseadas em projetos assumidos da corporação falida Global Trust. Mas o projeto foi abortado, depois que as barragens... se tornaram inoperantes.
-114551  Mas se você se unir à Lei Sheng, poderíamos reconstruir as barragens. E metade da energia produzida seria sua. Tenho a sua atenção?
-114552  Ótimo. A primeira barragem está totalmente funcional. Mas não ficaremos satisfeitos com uma, estou correto? Entrarei em contato assim que tudo estiver pronto.
-114553  Impressionante! Apenas uma barragem restante. Deixe-me cuidar da papelada necessária. Você ouvirá falar de mim assim que pudermos continuar.
-114554  Tudo está correndo bem. Não sou facilmente impressionado, mas certamente devo ficar de olho em você!
-114531  Sabe, antes de você ser designado para a Costa de Fairwater, a Lei Sheng buscava um projeto de construção de usinas hidrelétricas aqui.
-114532  As usinas eram baseadas em projetos que a Lei Sheng assumiu de seu rival falido, a Global Trust. Mas o projeto foi descartado depois que... incidentes tornaram as barragens inoperantes.
-114533  Se nos uníssemos, poderíamos concluir a construção das barragens. E metade da energia produzida seria destinada à sua corporação. Tenho a sua atenção agora?
-114534  Lá está. Nossa primeira barragem, de pé e operando perfeitamente. Mas não nos contentaremos com uma, certo?
-114544  A segunda barragem está concluída. Devo dizer que você está impulsionando nosso projeto.
-114535  Olhe para esta instalação! Não sou conhecido por elogiar pessoas. Mas uma coisa que aprendi durante nosso projeto compartilhado: tenho que ficar de olho em você!
-114530  Água represada é uma fonte de energia.
-115074  May Tian. Chefe de Inteligência da Lei Sheng. Apenas não me venha com esse absurdo de "Lei Sheng é uma empresa de energia moribunda" e nos daremos muito bem.
-115887  Não sou bom nisso. Olha, estou impressionado. Isso é suficiente?
-110237  Notável.
-110238  Uma solução satisfatória.
-110239  Bom o bastante, suponho.
-110240  Isso vai servir bem.
-110241  Bom o suficiente para mim.
-110242  Funciona, e isso é tudo que importa.
-110243  Então, a situação foi resolvida. Bom.
-110244  Isso está feito, então. Então, para o próximo item da agenda.
-110245  Uma distração a menos. Bom.
-110246  Um problema a menos. Adorável.
-110247  Isso só pode ser benéfico para nós.
-110248  Então, isso não nos causará mais problemas.
-110249  Bom. Agora não precisarei mais perder tempo com isso.
-110250  Você não nos desapontou.
-110251  Trabalho muito eficiente que você fez lá.
-110252  Você cuidou disso rapidamente. Gosto disso.
-110253  Foi rápido. Finalmente, alguém que entende que tempo é dinheiro.
-110254  Trabalho excelente. Parece que você sabe como são os negócios.
-110255  Você fez bem. Problemas são simplesmente um desperdício de dinheiro e recursos.
-110256  É assim que se faz negócios. Bem feito.
-110257  Você trabalha com eficiência admirável.
-110258  Veja o problema, resolva o problema. Você é um bom parceiro de negócios.
-110259  Você encontrou uma solução com um investimento mínimo de tempo. Bem feito.
-110260  Infeliz. Mas também inevitável.
-110261  Essas coisas acontecem. Infelizmente.
-110262  Isso não saiu como queríamos.
-110263  Acho que todos nós queríamos um resultado melhor, mas nem sempre conseguimos o que queremos.
-110264  Isso terá um impacto negativo no mercado.
-110265  É o que é.
-110266  Não é o pior cenário, mas não é bom.
-110267  Acho que todos sabemos que isso poderia ter sido muito melhor.
-110268  Uma exibição muito fraca.
-110269  O que posso dizer? Isso foi ruim.
-110270  Você me vê irritado.
-110271  Não estou achando graça.
-110272  Você está tentando deliberadamente desestabilizar o mercado?
-110273  Suas ações estão afetando o mercado. Sugiro que você faça melhor da próxima vez.
-110274  Suas ações não fazem o menor sentido financeiro.
-110275  Talvez você queira repensar o seu modus operandi.
-110276  Ou você não entende nada de negócios, ou tem algo que precisa resolver.
-110277  Isso não beneficiou ninguém. Por que desperdiçou seu tempo?
-110278  Não há lucro no que você fez.
-110279  O que você fez foi um total desperdício.
-110280  Saudações. Por favor, fale o que está em sua mente.
-110281  Bem-vindo. Eu suponho que temos negócios para discutir?
-110282  Olá. Você desejava falar comigo?
-110283  Bom vê-lo. Então, o que está em sua mente?
-110284  Muito bom da sua parte aparecer. No que posso ajudar?
-110285  Bem-vindo. Sobre o que você queria discutir?
-110286  Por favor, entre. Então, sobre o que você queria falar comigo?
-110287  Saudações. Então, você queria falar comigo. Por favor, vá em frente.
-110288  Olá. Entendi que você queria falar comigo. Fique à vontade.
-110289  Bom você aparecer no escritório. No que posso ajudar?
-110290  Faremos nossa parte.
-110291  Muito bem. Conte conosco.
-110292  As projeções parecem boas. É um acordo.
-110293  Tudo bem, considere-nos a bordo.
-110294  Estamos dentro.
-110295  Concordado. Espero que você retribua o favor, em algum momento.
-110296  Tudo bem, posso aprovar seu pedido. Uma mão lava a outra.
-110297  Muito bem. Tenho certeza de que isso será mutuamente benéfico.
-110298  Consegui aprovar seu pedido.
-110299  Certamente. Seu pedido é um bom negócio.
-110300  Terei que recusar, obrigado.
-110301  Receio que tenha que recusar. Sinto muito.
-110302  Não, esse é um pedido que não posso conceder.
-110303  É infeliz, eu sei, mas a resposta é não.
-110304  Por favor, entenda, mas receio que tenha que dizer não.
-110305  Espero que não espere uma resposta positiva.
-110306  Receio que eu deva recusar seu pedido.
-110307  Infelizmente, não posso conceder seu pedido neste momento.
-110308  Se você quisesse uma resposta positiva, teria se preparado melhor.
-110309  Tenho certeza de que você sabia que eu não seria capaz de conceder seu pedido.
-110310  Por favor, sente-se. Temos que discutir sua possível participação neste empreendimento.
-110311  Obrigado por aparecer. Tenho uma proposta de negócio para você.
-110312  Bom vê-lo. Tenho uma tarefa que acho que pode te interessar.
-110313  Olá. Por favor, sente-se. Tenho uma tarefa que acho que você gostaria.
-110314  Olha, vou direto ao ponto. Tenho um projeto que acho que você seria perfeito.
-110315  Que bom que você está aqui. Eu poderia usar alguém competente para uma tarefa que tenho.
-110316  Eu esperava te encontrar aqui. E agora espero que concorde em participar de um pequeno projeto.
-110317  O fato de eu ter saído do escritório deve indicar o quão importante é essa tarefa.
-110318  Me disseram que eu te encontraria aqui. Tenho uma tarefa que gostaria que você considerasse.
-110319  Bom, você está aqui. Então a viagem valeu a pena. Interessado em um pequeno projeto?
-110320  Que coincidência. Preciso de alguém confiável para uma tarefa, e aqui está você.
-110321  A pessoa que eu esperava encontrar. Tenho um projeto que promete ser mutuamente recompensador.
-110322  Todas as obrigações foram cumpridas, ao que parece.
-110323  Excelente, você cumpriu a missão.
-110324  Você completou essa tarefa de maneira exemplar.
-110325  Rápido e eficiente. Assim se faz negócios.
-110326  Gosto do jeito que você faz negócios.
-110327  Uma solução rápida e eficiente. Vou te chamar de novo quando precisar de alguém confiável.
-110328  Você fez bem. Acho que devemos considerar um status de parceiro preferencial para você.
-110329  Trabalho excelente. Com certeza vou te recomendar.
-110330  Terei que reconsiderar os termos da nossa parceria.
-110331  Eu não contrato pessoas para entregarem esse tipo de resultado.
+109832	Hora de fechar aquele arquivo, então.
+109833	Satisfatório.
+109834	Aceitável.
+109835	Então, posso considerar o problema resolvido. Bom.
+109836	Aquela foi uma variável imprevisível. Estou feliz que tenha ido embora.
+109837	Uma coisa a menos para lidar.
+109838	Esperávamos isso de você.
+109839	Você se saiu bem.
+109840	Você trabalha rápido e eficientemente. Bom.
+109841	Parece que você é um solucionador de problemas.
+109842	Sabíamos que você cuidaria disso.
+109843	Você fez um excelente trabalho.
+109844	Suas habilidades são admiráveis.
+109845	Você lidou bem com aquela situação.
+109846	Você fez o que se propôs a fazer. Louvável.
+109847	Aquilo terminou bem, não acha?
+109848	Aquilo estava esperando para acontecer.
+109849	Nenhuma surpresa.
+109850	Estou desapontado.
+109851	Uma situação insatisfatória.
+109852	Um fracasso.
+109853	Não era o que queríamos.
+109854	Aquilo não deveria ter acontecido.
+109855	Desnecessário.
+109856	Não deveria ter acontecido.
+109857	Um resultado indesejável.
+109858	Você me vê aplaudindo?
+109859	Você não conseguiu resolver a situação.
+109860	Você nunca terá sucesso se não se concentrar na tarefa em mãos.
+109861	Você deveria ter solucionado o problema.
+109862	Você poderia ter feito muito melhor.
+109863	Espero que isso não seja indicativo de sua habilidade.
+109864	Eu pareço feliz para você?
+109865	Você não atendeu às minhas expectativas.
+109866	Eu esperava mais de você.
+109867	Sua performance não me impressionou.
+109868	Seja breve. Nossos rivais nunca descansam.
+109869	Sim? O que foi?
+109870	Seja rápido. Sou uma pessoa ocupada.
+109871	Sobre o que você queria falar comigo?
+109872	Posso te dar três minutos.
+109873	O que está em sua mente?
+109874	A versão resumida, por favor.
+109875	Muito bem. Você tem cinco minutos.
+109876	Meu tempo é valioso. O que é?
+109877	Bem? Diga logo.
+109878	Não há outra opção.
+109879	Afirmativo.
+109880	Confirmado.
+109881	Pedido aprovado.
+109882	Muito bem.
+109883	Posso dar sinal verde para isso.
+109884	Seu pedido foi aprovado.
+109885	Concordamos com o seu pedido.
+109886	Você tem nossa aprovação.
+109887	Considere seu pedido aprovado.
+109888	Não.
+109889	Impossível.
+109890	Esqueça.
+109891	Fora de questão.
+109892	Inaceitável. Não.
+109893	Você acha que isso nos diz respeito?
+109894	O que você acha que isso tem a ver conosco?
+109895	Você sabia que a resposta seria não.
+109896	Você está desperdiçando meu tempo e o seu. Não.
+109897	Você conhece minha resposta. Não.
+109898	Sim, sim, olá e tal. Agora me diga, você aceitará essa tarefa?
+109899	Bem-vindo. Tenho uma tarefa para você, se estiver interessado.
+109900	Ótimo, você está aqui. Tenho um trabalho para você.
+109901	Sim, esta é minha casa. Não importa. Isso é sobre trabalho.
+109902	Home office hoje. Tenho um trabalho para você.
+109903	Entre. Então, interessado em uma tarefa?
+109904	Não vou demorar. Só preciso da sua decisão sobre um possível projeto conjunto.
+109905	Então é aqui que você está. Interessado em uma tarefa?
+109906	Fico feliz por ter te encontrado. Tenho um projeto para você.
+109907	Bom, te encontrei. Escute, tenho uma tarefa para você.
+109908	Fico feliz por te encontrar. Interessado em um novo projeto?
+109909	Estou só de passagem, mas queria oferecer a você um projeto.
+109910	Entendi. O tipo orientado para resultados.
+109911	Você faz um bom trabalho.
+109912	Vejo que você percebe que tempo é dinheiro.
+109913	Você não perde tempo. Gosto disso.
+109914	Parece que você valoriza a eficiência. Eu também.
+109915	Você fez um trabalho muito capaz.
+109916	Seu projeto foi um sucesso. Excelente.
+109917	Vejo que você tem tão pouca paciência com tolos quanto eu.
+109918	O fracasso não estava no nosso contrato.
+109919	Se eu quisesse que você falhasse, teria dito.
+109920	Isso não era o que você foi contratado para fazer.
+109921	Eu sei, sou agradável de se olhar. Mas cumprir compromissos é igualmente atraente.
+109922	A atenção é lisonjeira, mas eu preferiria um relatório de status.
+109923	Por que você está aqui? Como está indo o seu projeto?
+109924	Bom. Eu ia te ligar para um relatório de status.
+109925	Você terminou sua tarefa?
+109926	Como está indo aquele projeto? Quase pronto?
+109927	Então, seu projeto já está pronto?
+109928	Então, você terminou aquele projeto?
+109929	É isso.
+109930	Sim, é esse.
+109931	Pelo que vejo, é isso.
+109932	Então você encontrou.
+109933	Bom, você conseguiu localizá-lo.
+109934	Exatamente. É esse.
+109935	Esse é o especificado, sim.
+109936	De acordo com minhas informações, isso deve ser isso.
+109937	Sim, ali.
+109938	Esse é o local correto.
+109939	Esse é o seu destino.
+109940	Sim, é o lugar que eu queria dizer.
+109941	Esse é o local alvo, sim.
+109942	É para lá que você precisa ir.
+109943	Agora que você encontrou, vá em frente.
+109944	Sim, é o local indicado.
+109945	Boa execução. Espero que você leve a próxima operação tão a sério quanto.
+109946	Bem feito. Agora, para o próximo passo.
+109947	Essa é a primeira parte feita. Hora de dar seguimento.
+109948	Uma questão de segurança. Sua colaboração seria apreciada.
+109949	Temos um incidente de segurança que requer sua atenção, se estiver disposto.
+109950	Temos um problema que requer intervenção armada. Interessado?
+109951	Esse projeto é perigoso. Pode ser necessária o uso da força.
+109952	Esse trabalho é perigoso. Entre armado e preparado.
+109953	Uma solução rápida, implacável e final. Exatamente o que pedimos.
+109954	Esse problema não voltará a surgir. Bem feito.
+109955	Brutalmente eficiente. Perfeito.
+109956	Se essa é sua ideia da arte da guerra, prefiro ficar com a original.
+109957	Isso foi um desperdício de recursos.
+109958	Isso não era para o que te contratei.
+109959	Por que não combinar recursos? Informações como essa seriam benéficas para ambos.
+109960	Mantenha-se sempre um passo à frente da concorrência. Parece que concordamos com isso.
+109961	Achei que deixei claro que essa missão é toda sobre inteligência? Em ambos os sentidos da palavra.
+109962	Não precisamos explicar nossas ações para ninguém.
+109963	Foi necessário.
+109964	Não poderíamos permitir que um de nossos concorrentes nos prejudicasse.
+109965	O rumor diz que um de nossos concorrentes quer nos prejudicar em alguns bens vitais.
+109966	Apenas comprando para acomodar as necessidades projetadas.
+109967	Não queremos que ninguém pense que estamos estocando.
+109968	Esses bens agora são excedentes.
+109969	Não precisamos mais deles e estão ocupando espaço de armazenamento.
+109970	Precisamos de mais capacidade de armazenamento.
+109971	Outros bens agora têm uma prioridade maior.
+109972	Lei Sheng Electricity é a líder global em energia. A energia solar é um dos nossos pilares, o sol nunca se põe no espaço.
+109973	Lei Sheng está pronta para ingressar no espaço.
+109974	O espaço apresenta seus próprios problemas de energia, e quem está mais apto para dominá-los do que Lei Sheng?
+109975	Lei Sheng Electricity é dedicada a oferecer soluções energéticas integradas à humanidade onde quer que ela vá.
+109976	Lei Sheng Electricity vai energizar as estrelas.
+109977	Estou desapontado com sua falta de discernimento.
+109978	Acho sua falta de fé… perturbadora.
+109979	Eu não entendo você. Você parece inteligente o suficiente…
+109980	Obviamente você não compreende a visão da Lei Sheng.
+109981	Eu não sei por que você não apoia a Lei Sheng, mas logo descobrirei.
+109982	Com o seu apoio, a Lei Sheng fornecerá energia para a viagem da humanidade às estrelas.
+109983	Você deveria saber que aprecio o que você faz por nós.
+109984	A Lei Sheng valoriza muito parceiros confiáveis como você.
+109985	A Lei Sheng aprecia muito o seu apoio.
+109986	Seu apoio significa muito para a Lei Sheng Electricity.
+109988	Estou certo de que você simplesmente esqueceu de votar. Ainda há tempo para escolher sabiamente.
+109989	A Lei Sheng Electricity é a líder mundial na produção de energia.
+109990	Na Lei Sheng, colhemos uma ampla variedade de fontes de energia para garantir que a humanidade tenha a energia de que precisa.
+109991	Estamos passando por algumas reestruturações, o que levou alguns a pensar que estamos perdendo terreno. Bobagem.
+109992	A Lei Sheng Electricity se tornou líder mundial sabendo o que nossos clientes querem.
+109993	Saber o que os clientes querem é a chave para o sucesso. Tudo se resume à informação.
+109994	A Lei Sheng Electricity conhece o mercado de energia melhor do que qualquer um. É por isso que somos líderes mundiais.
+109995	Tentar acompanhar-nos é fútil. A Lei Sheng Electricity se move na velocidade da luz.
+109996	A Lei Sheng Electricity está novamente em ascensão.
+109997	Parabéns pelo seu sucesso. Que um dia você seja tão poderoso quanto a Lei Sheng.
+109998	Você seria melhor orientado a construir sua empresa a partir de uma base sólida, em vez de flutuar por aí.
+109999	Parece que sua empresa está indo bem. Aproveite enquanto dura.
+110000	Você realmente acredita que trabalhar como prestador de serviços oferecerá a segurança de longo prazo que uma grande empresa precisa?
+110001	Saboreie o sucesso enquanto durar.
+110002	O sucesso não é satisfatório? Nós, da Lei Sheng, já o desfrutamos muitas vezes.
+110003	Na Lei Sheng Electricity, tudo se resume ao foco. Você poderia aprender com isso.
+110004	Não há necessidade de se envergonhar. Afinal, a Lei Sheng é líder de mercado.
+110005	Trabalhe duro, preste atenção aos seus clientes e um dia você desfrutará do sucesso que a Lei Sheng desfruta.
+110006	Tentar competir com uma empresa como a Lei Sheng é quase impossível, eu sei.
+110007	A diferença entre vencedores e perdedores é que os vencedores nunca param de tentar.
+110008	Sua empresa me lembra a Lei Sheng Electricity no início.
+110009	Ninguém conhece seus clientes como a Lei Sheng Electricity. Outro motivo pelo qual somos tão bem-sucedidos.
+110010	Se você deseja ter o mesmo sucesso que a Lei Sheng, então você deve trabalhar, trabalhar, trabalhar.
+110011	Não se preocupe. O caminho para o topo é um caminho de muitos passos dados um de cada vez.
+110012	A Lei Sheng também não foi construída em um dia.
+110013	Quando a Lei Sheng terminar a reestruturação, tudo voltará à ordem natural.
+110014	Parabéns pelo seu primeiro gostinho de sucesso.
+110015	As pessoas sempre pensam que sou um peixe frio. Aparentemente, é assim que tratam aqueles que separam suas vidas profissionais e pessoais.
+110016	Nosso sistema atual é eficiente. Os Cinco Grandes fornecem os serviços principais enquanto as empresas menores preenchem as lacunas.
+110017	A energia é um elemento-chave da nossa sociedade, mas sempre se presume que ela estará disponível. Isso pode ser útil. Eu me pergunto se eles continuariam nos batendo se soubessem o quanto depende de nossa empresa e de seu trabalho. Não podemos, em hipótese alguma, atrasar nosso programa lunar.
+110018	Aprecio pessoas que vão direto ao ponto, e rápido. Negócios não são sobre rodeios, não importa o quanto Bharghava goste do som de sua própria voz.
+110019	Não pense que não vejo os abutres rondando minha empresa. O resto dos Cinco Grandes realmente acredita que estamos apenas mantendo as aparências. Os tempos estão difíceis, mas essa maré seca não durará para sempre e pretendo acabar com isso.
+110020	Nossos clientes ficariam surpresos com o quanto podemos saber através da conta de energia deles. Precisamos nos manter informados sobre exatamente quais máquinas estão sobrecarregando nossa rede, afinal. Para calcular nossa entrada, é claro.
+110021	Se isso continuar, terei que cancelar meus ingressos para a estreia, e não vou deixar isso acontecer.
+110022	Aprendemos apenas a correr aqui na Terra e agora tropeçamos no espaço.
+110023	Me intriga que ninguém pareça perceber que dominar um mercado de nicho é tão vital e desafiador quanto ser um jogador global.
+110024	Sempre fico surpreso com quantas empresas acreditam que podem chegar ao topo sem a inteligência adequada.
+110025	Nosso mundo está cheio de peixes pequenos que todos acreditam ser tubarões. Triste, mas engraçado.
+110026	Eu amo meu trabalho. Reunir inteligência e organizá-la, arranjá-la, tem uma beleza geométrica maravilhosa, como uma rede de cristal de pura informação.
+110027	As pessoas frequentemente me comparam ao capitão daqueles filmes de ficção científica antigos. Meu trabalho tem menos alienígenas e mais cálculos, no entanto.
+110028	Equilíbrio adequado entre trabalho e vida é uma frase tão batida, ninguém mais a leva a sério. Mas se eu levasse todo esse estresse comigo quando fosse para casa... não, obrigado.
+110029	O capitalismo é competição. Alianças são formadas para a caça, mas, no final, todos querem a maior parte da presa.
+110030	A maioria das pessoas tende a agir sem pensar o suficiente. Nunca entenderei isso.
+115347	Sua presença é necessária em nosso local de projeto.
+115348	Agora, devemos continuar?
+115349	Relatório sobre o projeto. Há muito para você fazer.
+115350	Apenas um minuto. Tenho algo para propor a você.
+115351	Não deixe meu jeito reservado desencorajar você. Eu realmente desejo cooperar.
+115352	Fui informado de que você está atualmente neste setor. Por favor, encontre-se comigo.
+114547	Sim, tecnicamente isso é uma intrusão não anunciada em seu território. Mas antes de me denunciar, ouça minha oferta.
+114548	Há pouco tempo, este era apenas ruínas, mas isso é água passada. Água que fornece energia.
+114549	Uma vez, a Lei Sheng buscava a construção de uma usina hidrelétrica aqui.
+114550	As usinas eram baseadas em projetos assumidos da corporação falida Global Trust. Mas o projeto foi abortado, depois que as barragens... se tornaram inoperantes.
+114551	Mas se você se unir à Lei Sheng, poderíamos reconstruir as barragens. E metade da energia produzida seria sua. Tenho a sua atenção?
+114552	Ótimo. A primeira barragem está totalmente funcional. Mas não ficaremos satisfeitos com uma, estou correto? Entrarei em contato assim que tudo estiver pronto.
+114553	Impressionante! Apenas uma barragem restante. Deixe-me cuidar da papelada necessária. Você ouvirá falar de mim assim que pudermos continuar.
+114554	Tudo está correndo bem. Não sou facilmente impressionado, mas certamente devo ficar de olho em você!
+114531	Sabe, antes de você ser designado para a Costa de Fairwater, a Lei Sheng buscava um projeto de construção de usinas hidrelétricas aqui.
+114532	As usinas eram baseadas em projetos que a Lei Sheng assumiu de seu rival falido, a Global Trust. Mas o projeto foi descartado depois que... incidentes tornaram as barragens inoperantes.
+114533	Se nos uníssemos, poderíamos concluir a construção das barragens. E metade da energia produzida seria destinada à sua corporação. Tenho a sua atenção agora?
+114534	Lá está. Nossa primeira barragem, de pé e operando perfeitamente. Mas não nos contentaremos com uma, certo?
+114544	A segunda barragem está concluída. Devo dizer que você está impulsionando nosso projeto.
+114535	Olhe para esta instalação! Não sou conhecido por elogiar pessoas. Mas uma coisa que aprendi durante nosso projeto compartilhado: tenho que ficar de olho em você!
+114530	Água represada é uma fonte de energia.
+115074	May Tian. Chefe de Inteligência da Lei Sheng. Apenas não me venha com esse absurdo de "Lei Sheng é uma empresa de energia moribunda" e nos daremos muito bem.
+115887	Não sou bom nisso. Olha, estou impressionado. Isso é suficiente?
+110237	Notável.
+110238	Uma solução satisfatória.
+110239	Bom o bastante, suponho.
+110240	Isso vai servir bem.
+110241	Bom o suficiente para mim.
+110242	Funciona, e isso é tudo que importa.
+110243	Então, a situação foi resolvida. Bom.
+110244	Isso está feito, então. Então, para o próximo item da agenda.
+110245	Uma distração a menos. Bom.
+110246	Um problema a menos. Adorável.
+110247	Isso só pode ser benéfico para nós.
+110248	Então, isso não nos causará mais problemas.
+110249	Bom. Agora não precisarei mais perder tempo com isso.
+110250	Você não nos desapontou.
+110251	Trabalho muito eficiente que você fez lá.
+110252	Você cuidou disso rapidamente. Gosto disso.
+110253	Foi rápido. Finalmente, alguém que entende que tempo é dinheiro.
+110254	Trabalho excelente. Parece que você sabe como são os negócios.
+110255	Você fez bem. Problemas são simplesmente um desperdício de dinheiro e recursos.
+110256	É assim que se faz negócios. Bem feito.
+110257	Você trabalha com eficiência admirável.
+110258	Veja o problema, resolva o problema. Você é um bom parceiro de negócios.
+110259	Você encontrou uma solução com um investimento mínimo de tempo. Bem feito.
+110260	Infeliz. Mas também inevitável.
+110261	Essas coisas acontecem. Infelizmente.
+110262	Isso não saiu como queríamos.
+110263	Acho que todos nós queríamos um resultado melhor, mas nem sempre conseguimos o que queremos.
+110264	Isso terá um impacto negativo no mercado.
+110265	É o que é.
+110266	Não é o pior cenário, mas não é bom.
+110267	Acho que todos sabemos que isso poderia ter sido muito melhor.
+110268	Uma exibição muito fraca.
+110269	O que posso dizer? Isso foi ruim.
+110270	Você me vê irritado.
+110271	Não estou achando graça.
+110272	Você está tentando deliberadamente desestabilizar o mercado?
+110273	Suas ações estão afetando o mercado. Sugiro que você faça melhor da próxima vez.
+110274	Suas ações não fazem o menor sentido financeiro.
+110275	Talvez você queira repensar o seu modus operandi.
+110276	Ou você não entende nada de negócios, ou tem algo que precisa resolver.
+110277	Isso não beneficiou ninguém. Por que desperdiçou seu tempo?
+110278	Não há lucro no que você fez.
+110279	O que você fez foi um total desperdício.
+110280	Saudações. Por favor, fale o que está em sua mente.
+110281	Bem-vindo. Eu suponho que temos negócios para discutir?
+110282	Olá. Você desejava falar comigo?
+110283	Bom vê-lo. Então, o que está em sua mente?
+110284	Muito bom da sua parte aparecer. No que posso ajudar?
+110285	Bem-vindo. Sobre o que você queria discutir?
+110286	Por favor, entre. Então, sobre o que você queria falar comigo?
+110287	Saudações. Então, você queria falar comigo. Por favor, vá em frente.
+110288	Olá. Entendi que você queria falar comigo. Fique à vontade.
+110289	Bom você aparecer no escritório. No que posso ajudar?
+110290	Faremos nossa parte.
+110291	Muito bem. Conte conosco.
+110292	As projeções parecem boas. É um acordo.
+110293	Tudo bem, considere-nos a bordo.
+110294	Estamos dentro.
+110295	Concordado. Espero que você retribua o favor, em algum momento.
+110296	Tudo bem, posso aprovar seu pedido. Uma mão lava a outra.
+110297	Muito bem. Tenho certeza de que isso será mutuamente benéfico.
+110298	Consegui aprovar seu pedido.
+110299	Certamente. Seu pedido é um bom negócio.
+110300	Terei que recusar, obrigado.
+110301	Receio que tenha que recusar. Sinto muito.
+110302	Não, esse é um pedido que não posso conceder.
+110303	É infeliz, eu sei, mas a resposta é não.
+110304	Por favor, entenda, mas receio que tenha que dizer não.
+110305	Espero que não espere uma resposta positiva.
+110306	Receio que eu deva recusar seu pedido.
+110307	Infelizmente, não posso conceder seu pedido neste momento.
+110308	Se você quisesse uma resposta positiva, teria se preparado melhor.
+110309	Tenho certeza de que você sabia que eu não seria capaz de conceder seu pedido.
+110310	Por favor, sente-se. Temos que discutir sua possível participação neste empreendimento.
+110311	Obrigado por aparecer. Tenho uma proposta de negócio para você.
+110312	Bom vê-lo. Tenho uma tarefa que acho que pode te interessar.
+110313	Olá. Por favor, sente-se. Tenho uma tarefa que acho que você gostaria.
+110314	Olha, vou direto ao ponto. Tenho um projeto que acho que você seria perfeito.
+110315	Que bom que você está aqui. Eu poderia usar alguém competente para uma tarefa que tenho.
+110316	Eu esperava te encontrar aqui. E agora espero que concorde em participar de um pequeno projeto.
+110317	O fato de eu ter saído do escritório deve indicar o quão importante é essa tarefa.
+110318	Me disseram que eu te encontraria aqui. Tenho uma tarefa que gostaria que você considerasse.
+110319	Bom, você está aqui. Então a viagem valeu a pena. Interessado em um pequeno projeto?
+110320	Que coincidência. Preciso de alguém confiável para uma tarefa, e aqui está você.
+110321	A pessoa que eu esperava encontrar. Tenho um projeto que promete ser mutuamente recompensador.
+110322	Todas as obrigações foram cumpridas, ao que parece.
+110323	Excelente, você cumpriu a missão.
+110324	Você completou essa tarefa de maneira exemplar.
+110325	Rápido e eficiente. Assim se faz negócios.
+110326	Gosto do jeito que você faz negócios.
+110327	Uma solução rápida e eficiente. Vou te chamar de novo quando precisar de alguém confiável.
+110328	Você fez bem. Acho que devemos considerar um status de parceiro preferencial para você.
+110329	Trabalho excelente. Com certeza vou te recomendar.
+110330	Terei que reconsiderar os termos da nossa parceria.
+110331	Eu não contrato pessoas para entregarem esse tipo de resultado.
