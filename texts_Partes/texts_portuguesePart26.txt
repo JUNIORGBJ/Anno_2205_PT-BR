@@ -224,14 +224,15 @@
 109192	Então você não está cego, afinal.
 109193	Sim, é esse.
 109194	Boa. É isso.
-109195	Exatamente.
-109196	Por aqui.
-109197	Agora vá para lá.
-109198	Está ali. Não vê?
-109199	Sim, ali. Agora, rápido.
-109200	Pare de perder tempo e vá.
-109201	De fato, está aqui.
-109202	Por favor, vá até lá imediatamente.
+109195	Progrediu mais do que eu esperava.
+109196	Exatamente.
+109197	Por aqui.
+109198	Agora vá para lá.
+109199	Está ali. Não vê?
+109200	Sim, ali. Agora, rápido.
+109201	Pare de perder tempo e vá.
+109202	De fato, está aqui.
+109203	Por favor, vá até lá imediatamente.
 113539	Não demore muito.
 109204	O problema está se revelando mais complicado do que eu antecipei.
 109205	Então, você completou as preliminares. Agora, avance para os próximos passos.
