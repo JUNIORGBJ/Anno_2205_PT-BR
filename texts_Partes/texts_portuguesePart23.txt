@@ -82,7 +82,7 @@
 115673	O quê? Não quer dar algo para sua equipe do cais fazer?
 115674	Barulhento, gorduroso, é assim que são os cais. Sem motivo para não passar por aqui.
 115675	Eu fico sentado sem fazer nada o dia todo. Me dê algumas tarefas para o cais.
-115676	Um estaleiro tão bom, apenas juntando poeira. 'Tis a shame...
+115676	Um estaleiro tão bom, apenas juntando poeira. É uma pena...
 115792	Estou velho demais para aventuras assim. Vou passar na próxima vez, então é melhor ter certeza de que você tem uma frota de batalha decente. Passe pelo estaleiro se quiser que eu construa ou renove algum navio e tal.
 115793	Nos achou, né? É daqui que saem todos os navios pequenos. Também é onde são reparados ou melhorados. É só dar a ordem.
 115794	Só para avisar, vou estabelecer um estaleiro em cada setor em que você tem uma filial. O daqui já está operacional.
@@ -180,7 +180,7 @@
 111576	Isso é muito ruim.
 111577	Que chato!
 111578	Ok, poderia ter sido melhor.
-111579	Aquilo foi o que eu chamaria de subótimo.
+111579	Aquilo foi o que eu chamaria de sub-ótimo.
 111580	Bom, aquilo bagunçou algumas variáveis de maneira bem ruim.
 111581	Você não conseguiu fazer, né?
 111582	Você errou.
