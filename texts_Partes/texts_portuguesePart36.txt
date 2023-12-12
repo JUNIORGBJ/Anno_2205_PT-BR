@@ -40,7 +40,8 @@
 115744	A energia solar é realmente valiosa.
 115749	Tivemos sorte que o casco hermético não foi violado.
 115751	Eu deveria reabastecer nossos suplementos vitamínicos.
-115753	Vamos precisar de mais ônibus espaciais em breve!
+115753	Vamos, só uma carta...
+115755	Vamos precisar de mais ônibus espaciais em breve!
 115757	Não se preocupe com pequenos impactos.
 115761	Alguém se voluntaria para sair?
 115762	Boa aparência!
@@ -313,4 +314,3 @@
 116140	Roger!
 116141	Coordenadas confirmadas!
 116142	Estamos a caminho!
-
