@@ -15,19 +15,19 @@
 113959	Pronto para escavar.
 113960	Um pequeno passo para mim... você sabe o resto.
 113961	Hora de levantar um pouco de poeira!
-113962	Os Big Five devem estar se lamentando por você ter pisado na Lua antes deles.
+113962	As cinco gigantes corporações devem estar se lamentando por você ter pisado na Lua antes deles.
 113963	Tenho certeza de que somos mais eficientes que o pessoal da LEC. Quer dizer, você já viu as minas deles... eu não gostaria de trabalhar lá.
 113964	Aqui é como o velho oeste. Além das pessoas atirando umas nas outras e tudo mais.
 113965	Estou ficando cansado de todos os clichês da lua, sabe? Se você não morou aqui, nunca entenderá o que nos move.
 113966	Essa coisa da Vigília Orbital... Eu não entendo qual é o ponto. Não há espaço suficiente aqui para todos viverem juntos? Se eles não gostam de nós, podem ficar com o lado escuro só para eles.
-115253	Ah, obrigado. Os homens do Drake, eles... me bateram, cospiram em mim, me insultaram e todas as outras coisas que você faz com traidores.
+115253	Ah, obrigado. Os homens do Drake, eles... me bateram, cuspiram em mim, me insultaram e todas as outras coisas que você faz com traidores.
 115254	Obrigado por nos receber no seu acampamento de refugiados! Tenho certeza de que já está apertado o suficiente...
 115255	Obrigado... obrigado.
 115714	E eu nem posso ter um bicho de estimação aqui!
 115718	As horas extras estão acabando com meu tempo em família!
 115719	Não acredito nesses bastardos da Vigília Orbital...
 115720	A paisagem fica bem chata depois de um tempo.
-115721	Nada como uma festa no deck das estrelas!
+115721	Não há nada como uma festa no convés!
 115722	Não vejo a hora de ver os rostos deles novamente!
 115723	Oh cara, recebi uma carta de casa!
 115724	Uma família na Terra e uma família na lua. Perfeito.
@@ -48,7 +48,7 @@
 105744	Nível de segurança Código Beta! Drones de vigilância para as posições! Se eles quiserem sabotar nossos reatores de fusão, terão que passar por eles primeiro.
 105745	Más notícias! Nossos sistemas estão mostrando movimentações inimigas ao longo das fronteiras!
 115860	Rápido, ative os escudos de energia!
-115876	A princípio, pensamos que era outro meteorito. E agora que demos uma olhada mais de perto, estamos ainda mais confusos. O satélite não pertence à LEC, à Vigília Orbital ou a nenhum dos Big Five. Eu nunca vi esse logo antes.
+115876	A princípio, pensamos que era outro meteorito. E agora que demos uma olhada mais de perto, estamos ainda mais confusos. O satélite não pertence à LEC, à Vigília Orbital ou a nenhum das cinco gigantes corporações. Eu nunca vi esse logo antes.
 113980	Isso deu certo.
 113981	Dou nota A 1 para isso.
 113982	Isso é um sucesso de primeira categoria.
@@ -311,6 +311,6 @@
 116137	Toda velocidade à frente!
 116138	Afirmativo!
 116139	Em andamento!
-116140	Roger!
+116140	Recebido!
 116141	Coordenadas confirmadas!
 116142	Estamos a caminho!
