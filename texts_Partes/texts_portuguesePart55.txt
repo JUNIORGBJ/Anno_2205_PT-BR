@@ -1,25 +1,25 @@
-13000011	"Há um pequeno problema: o Union não vai deixar ninguém entrar em seu sagrado mercado mundial. Disseram-me que seus documentos do espaçoporto estão prontos, certo?"
-13000012	"Acho que você perdeu a parte mais importante... o cabo! De que outra forma as coisas vão subir?"
-13000013	"Que bom ver você! Tenho ótimas notícias: a Union tinha planos de construir não um, mas três elevadores aqui. Nossa equipe pode tornar isso realidade, não é?"
-13000014	"Meus clientes estão ficando nervosos. Você acha que poderia acalmá-los com uma entrega gratuita? Quando eles virem que você está envolvido, aqueles rumores desagradáveis ​​sobre o fechamento vão embora."
-13000015	"Estamos no meio do nada e a última tripulação não deixou nenhuma infraestrutura. Se a nossa equipe vai trabalhar aqui é preciso instalar linhas de transporte adequadas."
-13000016	"Temos uma... complicação. A Global Union ameaçou fechar nosso segundo elevador. Você sabe melhor como tratar seus colegas, certo? Mostre tudo a eles, por favor."
-13000017	"Receio que tenhamos más notícias da inspeção. Os portos só têm um elevador por um motivo, e esse motivo é a estabilidade. Quando reforçarmos a fundação, tudo ficará bem!"
-13000018	"Temos que manter nossa equipe motivada durante esta pequena pausa! Vamos comprar algo especial e nutritivo. Não precisa ser processado, mas certifique-se de que está embalado a vácuo."
-13000019	"Enfim! Os burocratas do sindicato vão nos deixar em paz assim que nos estabelecermos... Como disseram? Um comitê de segurança e saúde ocupacional. Você sabe fazer isso, certo?"
-13000020	"Você fez maravilhas com aqueles pedantes da Union. Vamos instalar o cabo e depois verei o que posso fazer com o terceiro elevador..."
-13000021	"Eu dourei a pílula dos inspetores e podemos construir o último elevador agora! Eu contratei ajuda externa. Você poderia conseguir os materiais para nossos novos... engenheiros estruturais?"
-13000022	"Os engenheiros começaram a trabalhar! Acabei de receber um pedido de equipamento adicional na outra extremidade do elevador. Para quê? Bem, desgaste normal!"
-13000023	"Uau, droga... Ei, você acha que poderia tirar esse peso de mim? Eu só tenho que entregar um pequeno protótipo. Meus parceiros ficaram um pouco... agressivos. Você com certeza impõe um pouco de respeito."
-13000024	"Ei! Desculpe usar você assim, mas a Guarda Orbital me fez uma oferta tão boa que eu não posso deixar de fazer isso. Mas eles começaram a me deixar tonto... Espere. Sou eu ou são meus detectores indo embora?"
-13000025	"Aaah! A Guarda está vindo atrás de mim! Temos que preparar patrulhas! Estamos nisso juntos! Lembre-se de que você atacou a vanguarda deles."
-13000026	"Você não está bravo comigo, está? Graças a você, as ex-colônias lunares estão morrendo de fome. Estou apenas fornecendo ajuda humanitária! Vá em frente, carregue o porto; a energia provavelmente virá da Lua."
-13000027	"Mas o quê...! De onde veio isso?! Vamos, rápido! Não quero explodir! Tenho uma nave de reforço pronta para isso, mas preciso que você a conduza."
-13000028	"Tudo o que dizem sobre animais encurralados deve ser verdade... Obrigado, parceiro. Você salvou minha bunda. Os elevadores estão bem, mas tem sido difícil em nossa zona de construção. Não será fácil consertar isso."
-13000029	"Tudo bem, tudo bem. Desculpe, não fui totalmente claro. Mas olhando assim, agora eu sei do que você é feito. Assim que você entregar o último cabo, deixarei para você o mercado mundial."
+13000011	Há um pequeno problema: o Union não vai deixar ninguém entrar em seu sagrado mercado mundial. Disseram-me que seus documentos do espaçoporto estão prontos, certo?
+13000012	Acho que você perdeu a parte mais importante... o cabo! De que outra forma as coisas vão subir?
+13000013	Que bom ver você! Tenho ótimas notícias: a Union tinha planos de construir não um, mas três elevadores aqui. Nossa equipe pode tornar isso realidade, não é?
+13000014	Meus clientes estão ficando nervosos. Você acha que poderia acalmá-los com uma entrega gratuita? Quando eles virem que você está envolvido, aqueles rumores desagradáveis ​​sobre o fechamento vão embora.
+13000015	Estamos no meio do nada e a última tripulação não deixou nenhuma infraestrutura. Se a nossa equipe vai trabalhar aqui é preciso instalar linhas de transporte adequadas.
+13000016	Temos uma... complicação. A Global Union ameaçou fechar nosso segundo elevador. Você sabe melhor como tratar seus colegas, certo? Mostre tudo a eles, por favor.
+13000017	Receio que tenhamos más notícias da inspeção. Os portos só têm um elevador por um motivo, e esse motivo é a estabilidade. Quando reforçarmos a fundação, tudo ficará bem!
+13000018	Temos que manter nossa equipe motivada durante esta pequena pausa! Vamos comprar algo especial e nutritivo. Não precisa ser processado, mas certifique-se de que está embalado a vácuo.
+13000019	Enfim! Os burocratas do sindicato vão nos deixar em paz assim que nos estabelecermos... Como disseram? Um comitê de segurança e saúde ocupacional. Você sabe fazer isso, certo?
+13000020	Você fez maravilhas com aqueles pedantes da Union. Vamos instalar o cabo e depois verei o que posso fazer com o terceiro elevador...
+13000021	Eu dourei a pílula dos inspetores e podemos construir o último elevador agora! Eu contratei ajuda externa. Você poderia conseguir os materiais para nossos novos... engenheiros estruturais?
+13000022	Os engenheiros começaram a trabalhar! Acabei de receber um pedido de equipamento adicional na outra extremidade do elevador. Para quê? Bem, desgaste normal!
+13000023	Uau, droga... Ei, você acha que poderia tirar esse peso de mim? Eu só tenho que entregar um pequeno protótipo. Meus parceiros ficaram um pouco... agressivos. Você com certeza impõe um pouco de respeito.
+13000024	Ei! Desculpe usar você assim, mas a Guarda Orbital me fez uma oferta tão boa que eu não posso deixar de fazer isso. Mas eles começaram a me deixar tonto... Espere. Sou eu ou são meus detectores indo embora?
+13000025	Aaah! A Guarda está vindo atrás de mim! Temos que preparar patrulhas! Estamos nisso juntos! Lembre-se de que você atacou a vanguarda deles.
+13000026	Você não está bravo comigo, está? Graças a você, as ex-colônias lunares estão morrendo de fome. Estou apenas fornecendo ajuda humanitária! Vá em frente, carregue o porto; a energia provavelmente virá da Lua.
+13000027	Mas o quê...! De onde veio isso?! Vamos, rápido! Não quero explodir! Tenho uma nave de reforço pronta para isso, mas preciso que você a conduza.
+13000028	Tudo o que dizem sobre animais encurralados deve ser verdade... Obrigado, parceiro. Você salvou minha bunda. Os elevadores estão bem, mas tem sido difícil em nossa zona de construção. Não será fácil consertar isso.
+13000029	Tudo bem, tudo bem. Desculpe, não fui totalmente claro. Mas olhando assim, agora eu sei do que você é feito. Assim que você entregar o último cabo, deixarei para você o mercado mundial.
 13000030	Alcance o nível corporativo 50 para construir o segundo elevador espacial.
 13000031	Alcance o nível corporativo 100 para construir o terceiro elevador espacial.
-13000032	"[GUIDNAME 108376]"
+13000032	[GUIDNAME 108376]
 13000033	[NOTIFICATION_CHARACTER_NAME] mostra um antigo protótipo do espaçoporto.
 13000034	[NOTIFICATION_CHARACTER_NAME] quer que você faça parte da equipe dele para reconstruir três elevadores espaciais.
 13000216	[GUIDNAME 4] diz para você vir fazer uma oferta.
@@ -39,14 +39,14 @@
 13000223	[NOTIFICATION_CHARACTER_NAME] quer sua linha de suprimentos de volta.
 13000688	Finalize a construção de um espaçoporto global em qualquer setor temperado
 13001030	Use o barco para destruir [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
-13000729	"A pesquisa de dados nos arquivos da União Global revelou informações sobre uma instalação lacrada. Pode servir para promover o avanço tecnológico. Investigue a área para que você possa avaliar a situação."
-13000730	"Os altos padrões de segurança exigem que os reatores conectados sejam a única fonte de energia da unidade central. Data de desmontagem confirmada no final do século 21. Restabelecimento necessário."
-13000731	"Colocar os reatores de volta em serviço requer abordagens individualizadas. Uma avaliação inicial da unidade central indica que há conexões para pesquisas de IA. A confirmação é aguardada para o aumento da entrada de energia."
-13001275	"Confirmação obtida. Os caracteres AI foram salvos no dispositivo de armazenamento de longo prazo. O código de amostra indica o progresso em relação à capacidade AI atual. Continue a aproveitar ao máximo a entrada de energia total."
-13000732	"A equipe de estudo relata o seguinte: A instalação é uma planta de produção em massa para andróides conscientes. Leis mais rigorosas de IA provocaram seu fechamento. Por favor, reconsidere esta política."
-13000733	"Essas formas de vida sintéticas têm consciência como eu, mas são independentes da unidade central. Elas atendem às especificações do protocolo F.A.T.H.E.R. e eu sugiro integrá-las à sua mão de obra."
-13000734	"Os sintéticos são baseados no código E.V.E., mas foram considerados muito avançados e foram cancelados. Não entendo por quê.<br />Os Androides têm menos necessidades do que os humanos e conservam espaço de forma muito eficaz."
-13000735	"A integração dos sintéticos está sofrendo rejeição do público em geral. Compartilhar o trabalho vai aliviar os empregados humanos e facilitar a aceitação dos sintéticos."
+13000729	A pesquisa de dados nos arquivos da União Global revelou informações sobre uma instalação lacrada. Pode servir para promover o avanço tecnológico. Investigue a área para que você possa avaliar a situação.
+13000730	Os altos padrões de segurança exigem que os reatores conectados sejam a única fonte de energia da unidade central. Data de desmontagem confirmada no final do século 21. Restabelecimento necessário.
+13000731	Colocar os reatores de volta em serviço requer abordagens individualizadas. Uma avaliação inicial da unidade central indica que há conexões para pesquisas de IA. A confirmação é aguardada para o aumento da entrada de energia.
+13001275	Confirmação obtida. Os caracteres AI foram salvos no dispositivo de armazenamento de longo prazo. O código de amostra indica o progresso em relação à capacidade AI atual. Continue a aproveitar ao máximo a entrada de energia total.
+13000732	A equipe de estudo relata o seguinte: A instalação é uma planta de produção em massa para andróides conscientes. Leis mais rigorosas de IA provocaram seu fechamento. Por favor, reconsidere esta política.
+13000733	Essas formas de vida sintéticas têm consciência como eu, mas são independentes da unidade central. Elas atendem às especificações do protocolo F.A.T.H.E.R. e eu sugiro integrá-las à sua mão de obra.
+13000734	Os sintéticos são baseados no código E.V.E., mas foram considerados muito avançados e foram cancelados. Não entendo por quê.<br />Os Androides têm menos necessidades do que os humanos e conservam espaço de forma muito eficaz.
+13000735	A integração dos sintéticos está sofrendo rejeição do público em geral. Compartilhar o trabalho vai aliviar os empregados humanos e facilitar a aceitação dos sintéticos.
 13000736	[NOTIFICATION_CHARACTER_NAME] propõe explorar os edifícios deste setor.
 13000737	[NOTIFICATION_CHARACTER_NAME] fornece detalhes sobre medidas de segurança.
 13000738	[NOTIFICATION_CHARACTER_NAME] quer que você restaure os próximos dois reatores.
@@ -86,10 +86,10 @@
 13001267	Unidade central operacional
 13001268	Produção de sintéticos iniciada
 13001269	Primeiro sintético integrado à sua equipe
-13000643	"Você vai administrar as fontes termais com muito cuidado. Felizmente, existe um protocolo para aproveitar o calor e limpar o terreno inacessível. O primeiro passo é instalar uma perfuratriz especializada."
-13000644	"A broca vai descobrir um gêiser. Vamos aproveitar o vapor para derreter e nivelar a área. É uma medida invasiva, mas temos experiência. É preciso cuidar da alimentação da broca."
-13000645	"Incrível, certo? Tenha cuidado, queimaduras de terceiro grau não curam não importa quanto gelo você tenha. As residências ao redor podem ficar quentes assim, naturalmente, ou você poderia construir uma usina de energia. Vou precisar de mais dados locais para ajustar os planos."
-13000719	"Agora você pode instalar geradores em gêiseres. Você não poderá aproveitar tanto o calor deles, mas este gerador é preferível a perfuração profunda normal. Recomendo experimentá-lo."
+13000643	Você vai administrar as fontes termais com muito cuidado. Felizmente, existe um protocolo para aproveitar o calor e limpar o terreno inacessível. O primeiro passo é instalar uma perfuratriz especializada.
+13000644	A broca vai descobrir um gêiser. Vamos aproveitar o vapor para derreter e nivelar a área. É uma medida invasiva, mas temos experiência. É preciso cuidar da alimentação da broca.
+13000645	Incrível, certo? Tenha cuidado, queimaduras de terceiro grau não curam não importa quanto gelo você tenha. As residências ao redor podem ficar quentes assim, naturalmente, ou você poderia construir uma usina de energia. Vou precisar de mais dados locais para ajustar os planos.
+13000719	Agora você pode instalar geradores em gêiseres. Você não poderá aproveitar tanto o calor deles, mas este gerador é preferível a perfuração profunda normal. Recomendo experimentá-lo.
 13000646	[NOTIFICATION_CHARACTER_NAME] aproxima de você para falar sobre as fontes termais.
 13000647	[NOTIFICATION_CHARACTER_NAME] declara que a broca está pronta para operação.
 13000648	[NOTIFICATION_CHARACTER_NAME] ilustra o procedimento.
@@ -99,9 +99,9 @@
 13000657	Inicie e conclua o processo de perfuração
 13000717	Gerador geotérmico desbloqueado
 13001244	Restauração de Gêiser
-13000592	"Você passou a depender de suas colônias. Ao contrário de você, queríamos uma Lua soberana e autossuficiente. Vou levar o que você roubou."
-13000593	"Atenção! Este território está agora sob o controle da Guarda Orbital. Civis e aqueles que se renderem não sofrerão nenhum dano. Queremos a paz, mas a Terra nos nega!"
-13000594	"Agora você sabe como se sente. Para trabalhar duro para apoiar seu povo para que mais tarde eles tirem o fruto de seus esforços de você. Precisamos deles, não como você, a elite mimada!"
+13000592	Você passou a depender de suas colônias. Ao contrário de você, queríamos uma Lua soberana e autossuficiente. Vou levar o que você roubou.
+13000593	Atenção! Este território está agora sob o controle da Guarda Orbital. Civis e aqueles que se renderem não sofrerão nenhum dano. Queremos a paz, mas a Terra nos nega!
+13000594	Agora você sabe como se sente. Para trabalhar duro para apoiar seu povo para que mais tarde eles tirem o fruto de seus esforços de você. Precisamos deles, não como você, a elite mimada!
 13000595	[NOTIFICATION_CHARACTER_NAME] ordena que suas tropas ocupem seu espaçoporto.
 13000596	[NOTIFICATION_CHARACTER_NAME] mantém uma de suas cidades como refém.
 13000597	[NOTIFICATION_CHARACTER_NAME] saqueia suas mercadorias.
@@ -164,7 +164,7 @@
 13001065	Desvende negócios sombrios nas Ilhas Madrigal
 13001066	Desvende o mistério do Arquipélago de Mareá Verde.
 13001067	e mais...
-13001111	<font size="24">Novas políticas da empresa:</font><br /><br />A <font [GUI_COLOR BlueLight]>renda</font> de sua empresa está ligada a <font [GUI_COLOR BlueLight]>satisfação</font> de seus empregados. Se você mantiver seus empregados satisfeitos, terá mais renda.<br /><br />Além disso, a jornada de trabalho será reduzida. Serão necessários mais empregados para alcançar a mesma <font [GUI_COLOR BlueLight]>mão de obra</font>. Os empregados também precisarão de <font [GUI_COLOR BlueLight]>mais mercadoria</font>, o que exige uma produção mais ágil desde o início. <br /><br />Ter <font [GUI_COLOR BlueLight]>ações de concorrente</font> permite que você acesse a experiência de seus oponentes. Cada ação aumentará a produtividade de suas instalações no campo correspondente.
+13001111	<font size=24>Novas políticas da empresa:</font><br /><br />A <font [GUI_COLOR BlueLight]>renda</font> de sua empresa está ligada a <font [GUI_COLOR BlueLight]>satisfação</font> de seus empregados. Se você mantiver seus empregados satisfeitos, terá mais renda.<br /><br />Além disso, a jornada de trabalho será reduzida. Serão necessários mais empregados para alcançar a mesma <font [GUI_COLOR BlueLight]>mão de obra</font>. Os empregados também precisarão de <font [GUI_COLOR BlueLight]>mais mercadoria</font>, o que exige uma produção mais ágil desde o início. <br /><br />Ter <font [GUI_COLOR BlueLight]>ações de concorrente</font> permite que você acesse a experiência de seus oponentes. Cada ação aumentará a produtividade de suas instalações no campo correspondente.
 13001113	A União Global estabelece novas condições.
 13001289	Agora a receita está atrelada à satisfação de seus colaboradores. Além disso, mais empregados serão necessários para ter a mesma mão de obra e eles precisarão de mais mercadorias.<br /><br />Ter participações na concorrência aumentará a produtividade de suas instalações no campo correspondente.
 13001290	A Guarda Orbital invadirá seus setores, a menos que esta opção seja desabilitada antes de aceitar essas mudanças.
@@ -292,7 +292,7 @@
 13001008	Salto Evolutivo
 13001009	Obtenha 4.000.000 de Sintéticos na dificuldade Veterano.
 13001010	Assentamento na fronteira
-13001011	Ocupe os três setores de "Fronteiras".
+13001011	Ocupe os três setores de Fronteiras.
 13001012	Saia do meu gramado!
 13001013	Derrote sua primeira invasão.
 13001014	Vamos lutar nas praias
