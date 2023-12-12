@@ -1,316 +1,315 @@
-112158	You know life is good when you can be certain that people will smile back at you on the street.
-112159	At first, my wife was skeptical, but when I showed her this city... her jaw literally dropped.
-112160	And we owe it all to you! Thanks a lot!
-112161	I don't have a lot of free time. And every day still feels like a holiday, here.
-112162	We'll be the company that conquers the whole solar system! I know we will!
-112163	It's not like working for a company. It's like helping a friend.
-112166	My colleagues and I were just talking this morning about how we could use one of those nearby.
-112167	Yeah, good to have one in the neighborhood!
-112168	Thanks! I'll pay it a visit right away.
-112169	Got work to do? We're on it!
-112170	Nice apartments! Makes me look forward to quitting time.
-112171	Someone called for some workers?
-112172	I always dreamed about going to space when I was a kid. And now I'm working to make it come true, for all humanity!
-112173	Manual labor's tough enough. But I don't wanna think about what those poor folks on the Moon have to go through.
-112174	Got me some private projects at home, for relaxing. I'm building some furniture... and... redoing the roof... and... finishing the attic. You know, relaxing stuff.
-112175	You tried that Ibarra-FoxCom Build-a-Bot kit? Impossible. I just don't have the patience for puzzles.
-112176	Spaceports... those're big projects. I hear there's lots of work gangs that never see each other, just because they work in different areas of the construction site. Amazin'.
-115548	I can't believe they'd treat us like this!
-115549	Sorry, gotta dash, I can't lose this job now.
-115550	Maybe I should rake in my overtime benefits.
-115551	Oh damn, where'd I put my keys?
-115552	Time to reward myself with some takeout!
-115553	Living on the Moon? Sounds pretty awesome!
-115554	You bought meat? That's gonna be delicious!
-115555	All these public holidays are pretty great.
-115581	This was a big chunk, well done!
-115582	Ouch, my thumb!
-115583	That's a good one, we can use it.
-115585	Oh, you'll get used to the smell.
-115587	What do the results say?
-115589	Let's get these crates moved!
-115591	Don't spill those!
-115602	Is all the paperwork filled out?
-115603	Can I get a pair of hands over here?
-115604	Did you see that? We should come more often!
-115611	I'm so glad we still got tickets.
-105397	Impressive progress! Now that the geeks are here, we can all start compartmentalizing and forming our little cliques!
-112368	Wow!
-112369	Perfect!
-112370	A top notch performance!
-112371	Incredible!
-112372	That's sensational, really!
-112373	There's no way anyone could have done better!
-112374	Ten out of ten!
-112375	Words fail me.
-112376	How super!
-112377	People will tell this story forever!
-112379	Wow you solved it.
-112380	Everyone is glad this is done with.
-112381	The news spread like wildfire. It's over at last!
-112382	You're definitely the leader type!
-112383	I thought that was impossible. And then you did it.
-112384	I don't know how you manage to do this!
-112385	You'd better get ready for a lot of thank yous!
-112386	Everything in the green, thanks to you!
-112387	Sorry, but I just have to hug you!
-112388	You are absolutely incredible!
-112389	With you at the helm, how could anything go wrong!
-112390	No doubt about it, you certainly know what you're doing!
-112391	You hit it outta the park!
-112392	Oh, please, no.
-112393	Oh no. Not quite optimum. Not even close, to be honest.
-112394	Oh snap!
-112395	Oh, great.
-112396	Wasn't meant to be.
-112397	Next time.
-112398	Seriously?
-112399	Ouch!
-112400	Don't think it could get any more out of control.
-112401	[Sigh] I just want to go home.
-112402	And I was so certain you would solve this.
-112403	You're my employer, so I'd better not speak my mind about this.
-112404	It's the thought that counts, you know.
-112405	I know, I know, you do what you can.
-112406	Well, at least you tried, I guess.
-112407	Excuse me, where do I go to lodge a complaint?
-112408	Pretty so-so, don't you think?
-112409	Looks like you pushed the wrong buttons, huh?
-112410	If you can't do it, I wonder who can.
-112411	You failed. We've all been there.
-112412	You, here, I'm sorry, I'm just a little nervous.
-112413	Can I get you something? Tea, coffee? Or can I do something for you?
-112414	You should have let me know. I don't have anything in the fridge.
-112415	You, here? And I haven't even cleaned up.
-112416	Yes, is there something you want?
-112417	So, how may I be of service?
-112418	Well... This is a nice surprise. What... What can I do for you?
-112419	You came to see me? I didn't expect that, to be honest.
-112420	Is there something the matter at work?
-112421	Oh, welcome.
-112422	Right away.
-112423	Anytime.
-112424	Query confirmed.
-112425	Understood.
-112426	Okay. All systems go!
-112427	You'll be happy.
-112428	Your wish is my command. Within reason.
-112429	As you like.
-112430	Why certainly.
-112431	I'll inform you when it's done.
-112433	Operation not feasible, sorry
-112434	Couldn't find a replacement, sorry.
-112435	Sorry, no.
-112436	I can't. Have to monitor the systems.
-112437	Other priorities, sorry.
-112438	Sorry to tell you, but that's impossible right now.
-112439	Sorry, I have to put your request on hold.
-112440	Normally, I wouldn't refuse you... but... work, you see?
-112441	Please, don't be cross with me.
-112442	You see, I'm pretty overworked as it is.
-112443	I've had this on the radar for a while. Could you take care of it?
-112444	I know, it hasn't gone through the official channels. But it is important.
-112445	The required channels proved ineffective. That's why I approached you directly.
-112446	Excuse me? Excuse me. I wanted to pass along this request, if you don't mind.
-112447	This just came in. Looks pretty urgent.
-112448	Please don't consider me cheeky. I just thought I'd better ask you in person.
-112449	Process concluded! Thank you very much!
-112450	Everything back in working order! Thank you!
-112451	Whew, that was a five star performance!
-112452	Whoa, your thank you's are piling up!
-112453	Thank you. You really pulled out all the stops!
-112454	The emergency indicator is dropping again! You did it!
-112455	Wow. Thank you!
-112456	Operations are running smoothly again. You certainly saw to that!
-112457	[Sigh] Suboptimal.
-112458	Disappointed? No, no! Well... yeah.
-112459	They're already gossiping pretty viciously around here.
-112460	Oh... I see... too bad...
-112461	Of course. I'm sure you have more important things to do...
-112462	No input. No output.
-112463	Any progress? Shall I update the database?
-112464	You have all the required information?
-112465	The status indicator reads "In progress". You're on it, then?
-112466	Can I set it to "done", or do you still need time?
-112467	Oh, it's you. Is there any news regarding the assignment?
-112468	It's in the pipeline? Well, if you say so...
-112469	I know you're a busy person. But I hope you find the time for this soon.
-112470	I hope you're not stuck or something.
-112471	Confirmed. This is it.
-112472	According to the database, you found the right one.
-112473	Data collation shows a match.
-112474	It looks like the one specified, at least.
-112475	Checked it. It's the right one.
-112476	We have that one in the assignment survey.
-112477	The tracking number's correct. That should be it.
-112478	Oh, yes, I think that's it.
-112479	Localização confirmada.
-112480	Heads-up memo is out. They're expecting you.
-112481	Coordinates transmitted.
-112482	Confirmation received. This is the target location.
-112483	Seems you don't need any further directions.
-112484	All is prepared for your arrival, it seems.
-112485	Let's go!
-112486	Yes, get there, please.
-112487	They've detected us.
-112488	They have us on their radars.
-112489	Mission cancelled. They know our position.
-112490	Almost there, according to the data.
-112491	It's close by here, I'm sure.
-112492	It's here, somewhere within our radius.
-112493	Object detected.
-112494	Confirmed. You found it.
-112495	Located.
-112496	Thank you. Unfortunately, the data indicates that the problem has not been solved completely.
-112497	Thank you! How about taking on another task, now all processes are up and running?
-112498	Incredible! You don't mind me bothering you again, do you?
-112499	The marine radio messages coming in say it's a real battlefield out there. Are you willing to help?
-112500	The hazard display for oversea travel is in the red. Shouldn't someone do something?
-112501	The data indicates a critical increase of military incidents. Not good.
-112502	It's a lot to ask of you, but we don't feel particularly safe anymore.
-112503	When will someone put an end to all this pointless fighting?
-112504	Whew, let's hope we have seen our share of violence for a while.
-112505	Just came in. Congratulations for your victory.
-112506	Reports are in. You were victorious straight across the board.
-112507	The damage reports are disastrous. And the casualties... I'll keep quiet about that.
-112508	So much for the futility of war...
-112509	Thanks for putting your head on the block for us. I'm glad you still have it.
-112510	We're surrounded by cutting edge technology. But on a human level... this feels like the middle ages.
-112512	People quit and I get stuck with all the work. If it at least paid off.
-112513	My life is like the vending machine in our break room: Push buttons all day and for what? Nothing.
-112514	Oh yeah, a spaceport on the doorstep. Ever tried to actually reach for the stars here?
-112515	It's not just me! My whole department is fed up!
-112516	Cheap housing, challenging duties, yeah! Sounds nice on paper, but in reality.
-112517	I lost count of how many complaints I've filed.
-112519	I hope you came to hand me my pink slip. I want out of here!
-112511	[Sigh] All the promises that were made...
-112518	I asked around. Other firms provide much better working conditions.
-112520	It's not all sunshine and roses here. But I get along.
-112525	I make a living. What else can I expect?
-112528	We could make this an even better place to be. But with all the work.
-112521	Get up, go to work, go home. The usual.
-112522	Not bad here, for the most part.
-112523	Things are fine here but there's something... can't quite put my finger on it.
-112524	I think we all get along with one another pretty well here.
-112526	Sometimes I feel like there's something missing.
-112527	Happiness? That's a big word.
-112529	On the whole, it's a decent workplace.
-112530	I have no reason to complain!
-112531	I like my job, I like my home. Those are pretty nice feelings to have.
-112532	Oh, I don't mind having visitors. People around here are all so nice.
-112533	I have the feeling our needs are taken seriously here.
-112534	Just keep smiling. It's not all that hard here.
-112535	Yes, I've had a pretty good day so far. No wonder.
-112536	I'm in a really good mood.
-112537	I think we have a bright future ahead of us.
-112538	Everything is in apple-pie order. Thanks to you.
-112539	Nothing to report. We are all doing pretty fine.
-112540	The wages, the climate at work, talk about a plum job!
-112541	How couldn't I want to work for you!
-112542	Thank you for making all this possible!
-112543	And I came to live here! Lucky me!
-112544	I have a few days off, but I can't wait to go back to work. I love it!
-112545	Motivation is at an all-time high!
-112546	Your space colonies will be a hit, judging from how incredible it is down here.
-112547	I love taking walks through our city, just to take in its beauty.
-112548	You rock! You totally rock!
-112549	Honestly, could it even get any better?
-112711	Thanks. We really missed having something like this.
-112712	Wow. I must say I'll sleep much better tonight.
-112713	You keep the streets safe. Thank you!
-112714	Operators at your service!
-112715	All systems online! Can't wait to get started.
-112716	Okay, let's set things in motion!
-112717	Lately, we've shifted from touchpad to voice command systems. Makes the job easier, unless you're hoarse.
-112718	After a day staring at monitors, nothing beats reading a book, you know. They're one of those weird, costly historical hobbies.
-112719	Running a space program involves millions of technical processes all having to unfold in perfect synchronicity. Good thing you have us.
-112720	To the Moon? No thanks. I'm a down-to-earth person, myself.
-115556	They're talking about redundancies.
-115557	I can't do my job like this!
-115558	And pile after pile after pile of paper...
-115559	Why do my plants keep dying?
-115560	Let's apply for some vacation time!
-115561	We should definitely get a second coffee machine.
-115562	New appartment: check!
-115563	I could get used to going out for dinner.
-115584	Hey, keep that helmet on!
-115586	We've got a couple hundred orders to go.
-115588	Stay away from those batteries!
-115590	Good, contamination's at a minimum.
-115593	I need a new container for this.
-115594	Careful with the dust.
-115596	Yeah, that's a lot of water.
-115597	Alright, the flow is stable.
-115598	Sending off in 3... 2... 1...
-115599	Vacuum these, thanks.
-115600	Stop stacking crates there, there's more space over here.
-115601	It's a tight schedule, but we'll make it.
-115605	C'mon, let's skip the ads.
-115607	Okay, where did you last see him?
-115610	Of course, more delays.
-115791	Leave the bureaucracy to us. You should use your leadership skills to get those colony shuttles into space.
-112732	An excellent solution.
-112733	Excellent.
-112734	It worked.
-112735	Very efficient.
-112736	Good.
-112737	That will definitely yield something.
-112738	So far, so good.
-112739	Well done.
-112740	A definite win!
-112741	Perfect.
-112742	Then we can shelve this, finally.
-112743	If that isn't good news.
-112744	Fewer restrictions. Excellent.
-112745	You are heading for success!
-112746	Without you, that wouldn't have gone so smoothly.
-112747	Our shares are rising!
-112748	And again, our corporation makes the headlines!
-112749	You always know what to do. I am impressed.
-112750	There is no problem you can't solve, am I right?
-112751	That only shows your talent as a leader.
-112752	You have accomplished so much for the company. Thank you.
-112753	You do things right!
-112754	You made this enterprise a success!
-112755	And it all started so promisingly.
-112756	What a setback.
-112757	Pointless and profitless.
-112758	Oh, for crying out loud!
-112759	An economic catastrophe!
-112760	A huge outlay with no return.
-112761	I can see the red ink right in front of me!
-112762	How could it come to this?
-112763	Terrible.
-112764	Well, I hope things will get better.
-112766	And there goes your careful plan.
-112767	You should have delegated that.
-112768	I hope we can somehow compensate for this.
-112769	This will affect our market value...
-112770	Not your personal best, if I may say so.
-112771	I don't question your decisions... But what was the point?
-112772	You know what that means for the company?
-112773	Your approach was unrealistic, to begin with.
-112774	You'd better have planned for this outcome, as well.
-112775	I'm sure you had the best intentions.
-112776	Ah, good day. What can I do for you?
-112777	Ah, welcome. Is there something to discuss?
-112778	My pleasure. Please, take a chair.
-112779	A meeting, here in my home? Well, why not!
-112780	Won't you come inside?
-112781	Something official? Or are you just dropping by?
-112782	Do we have an appointment? Oh, never mind... come in!
-112783	I can always make time for you!
-112784	Yes, please?
-112785	So, how is business?
-112786	Say no more.
-112787	I will take care of it immediately.
-112788	Of course.
-112789	I have assigned it a high priority.
-112790	I put someone on the matter.
-112791	As you wish.
-112792	I will have someone see to it for you.
-112793	Yes. I will keep you briefed.
-112794	If you want to delegate that to me, sure.
-112795	You can trust me on this.
-112796	That would cause some problems with my schedule.
-112797	Not now. Please make an appointment!
+112158  Você sabe que a vida é boa quando pode ter certeza de que as pessoas vão sorrir de volta para você na rua.
+112159  No começo, minha esposa estava cética, mas quando eu mostrei a ela esta cidade... ela ficou boquiaberta literalmente.
+112160  E devemos tudo a você! Muito obrigado!
+112161  Não tenho muito tempo livre. E todo dia ainda parece um feriado, aqui.
+112162  Seremos a empresa que conquistará o sistema solar inteiro! Eu sei que seremos!
+112163  Não é como trabalhar para uma empresa. É como ajudar um amigo.
+112166  Meus colegas e eu estávamos falando hoje de manhã sobre como poderíamos usar um desses por perto.
+112167  Sim, é bom ter um no bairro!
+112168  Obrigado! Vou dar uma olhada imediatamente.
+112169  Tem trabalho a fazer? Estamos nessa!
+112170  Belos apartamentos! Me fazem esperar ansioso pela hora de sair do trabalho.
+112171  Alguém chamou por trabalhadores?
+112172  Sempre sonhei em ir para o espaço quando era criança. E agora estou trabalhando para tornar isso realidade, para toda a humanidade!
+112173  Trabalho manual já é difícil o suficiente. Mas não quero pensar no que essas pobres pessoas na Lua têm que passar.
+112174  Tenho alguns projetos privados em casa, para relaxar. Estou construindo alguns móveis... e... reformando o telhado... e... terminando o sótão. Coisas relaxantes, sabe.
+112175  Você tentou aquele kit Construa-um-Bot da Ibarra-FoxCom? Impossível. Eu simplesmente não tenho paciência para quebra-cabeças.
+112176  Portos espaciais... são grandes projetos. Ouvi dizer que há muitas equipes de trabalho que nunca se veem, só porque trabalham em áreas diferentes do canteiro de obras. Incrível.
+115548  Não consigo acreditar que nos tratariam assim!
+115549  Desculpe, tenho que correr, não posso perder este emprego agora.
+115550  Talvez eu devesse receber minhas horas extras.
+115551  Ah droga, onde eu coloquei as chaves?
+115552  Hora de me recompensar com um delivery!
+115553  Morar na Lua? Parece bem incrível!
+115554  Você comprou carne? Isso vai ser delicioso!
+115555  Todos esses feriados são bem legais.
+115581  Isso foi um grande pedaço, bem feito!
+115582  Ai, meu polegar!
+115583  Esse é bom, a gente pode usar.
+115585  Ah, você vai se acostumar com o cheiro.
+115587  O que dizem os resultados?
+115589  Vamos mover essas caixas!
+115591  Não derrube aquelas!
+115602  Todo o papelada está preenchida?
+115603  Posso conseguir uma mãozinha aqui?
+115604  Viu isso? Devíamos vir mais vezes!
+115611  Estou tão feliz que ainda temos ingressos.
+105397  Progresso impressionante! Agora que os geeks estão aqui, podemos começar a nos dividir em grupos e formar nossas panelinhas!
+112368  Uau!
+112369  Perfeito!
+112370  Uma performance de primeira!
+112371  Incrível!
+112372  Sensacional, realmente!
+112373  Não tem como alguém ter feito melhor!
+112374  Dez de dez!
+112375  As palavras me faltam.
+112376  Que incrível!
+112377  As pessoas contarão essa história para sempre!
+112379  Uau, você resolveu isso.
+112380  Todo mundo está feliz que acabou.
+112381  A notícia se espalhou como fogo. Acabou, finalmente!
+112382  Você é definitivamente do tipo líder!
+112383  Eu achei que isso fosse impossível. E então você fez.
+112384  Não sei como você consegue fazer isso!
+112385  É melhor se preparar para muitos agradecimentos!
+112386  Tudo no verde, graças a você!
+112387  Desculpe, mas eu simplesmente preciso te abraçar!
+112388  Você é absolutamente incrível!
+112389  Com você no comando, como poderia algo dar errado!
+112390  Sem dúvidas, você realmente sabe o que está fazendo!
+112391  Você fez um home run!
+112392  Ah, por favor, não.
+112393  Ah não. Não nem perto do ótimo. Para ser honesto, nem perto.
+112394  Ah, droga!
+112395  Ah, ótimo.
+112396  Não era pra ser.
+112397  Da próxima vez.
+112398  Sério?
+112399  Ai!
+112400  Não acho que poderia ficar mais fora de controle.
+112401  [Suspiro] Eu só quero ir para casa.
+112402  E eu estava tão certo de que você resolveria isso.
+112403  Você é meu empregador, então é melhor eu não falar o que penso sobre isso.
+112404  É a intenção que conta, sabe.
+112405  Eu sei, eu sei, você faz o que pode.
+112406  Bem, pelo menos você tentou, eu acho.
+112407  Com licença, onde eu vou para fazer uma reclamação?
+112408  Mais ou menos, não acha?
+112409  Parece que você apertou os botões errados, né?
+112410  Se você não pode fazer isso, fico pensando quem pode.
+112411  Você falhou. Todos já estivemos lá.
+112412  Você, aqui, desculpe, estou um pouco nervoso.
+112413  Posso te oferecer algo? Chá, café? Ou posso fazer algo por você?
+112414  Você deveria ter me avisado. Não tenho nada na geladeira.
+112415  Você, aqui? E eu nem limpei.
+112416  Sim, tem algo que você quer?
+112417  Então, como posso ser útil?
+112418  Bem... Isso é uma surpresa agradável. O que... O que posso fazer por você?
+112419  Você veio me ver? Não esperava isso, pra ser honesto.
+112420  Tem algo errado no trabalho?
+112421  Ah, bem-vindo.
+112422  Imediatamente.
+112423  A qualquer momento.
+112424  Consulta confirmada.
+112425  Entendido.
+112426  Ok. Todos os sistemas funcionando!
+112427  Você ficará feliz.
+112428  Seu desejo é uma ordem. Dentro do razoável.
+112429  Como você desejar.
+112430  Claro.
+112431  Vou te informar quando estiver feito.
+112433  Operação não viável, desculpe.
+112434  Não consegui encontrar um substituto, desculpe.
+112435  Desculpe, não.
+112436  Não posso. Tenho que monitorar os sistemas.
+112437  Outras prioridades, desculpe.
+112438  Desculpe dizer isso, mas é impossível agora.
+112439  Desculpe, tenho que colocar seu pedido em espera.
+112440  Normalmente, não recusaria você... mas... trabalho, sabe?
+112441  Por favor, não fique chateado comigo.
+112442  Veja, estou bem sobrecarregado.
+112443  Tenho observado isso há um tempo. Você poderia cuidar disso?
+112444  Eu sei que não passou pelos canais oficiais. Mas é importante.
+112445  Os canais necessários se mostraram ineficazes. Por isso me aproximei diretamente de você.
+112446  Com licença? Com licença. Eu queria passar esse pedido, se não se importa.
+112447  Isso acabou de chegar. Parece bem urgente.
+112448  Por favor, não me considere atrevido. Eu pensei que seria melhor perguntar pessoalmente.
+112449  Processo concluído! Muito obrigado!
+112450  Tudo de volta ao normal! Obrigado!
+112451  Ufa, isso foi um desempenho cinco estrelas!
+112452  Uau, seus agradecimentos estão se acumulando!
+112453  Obrigado. Você realmente deu o seu melhor!
+112454  O indicador de emergência está caindo de novo! Você conseguiu!
+112455  Uau. Obrigado!
+112456  As operações estão funcionando bem novamente. Você certamente cuidou disso!
+112457  [Suspiro] Subótimo.
+112458  Desapontado? Não, não! Bem... sim.
+112459  Eles já estão fofocando bastante por aqui.
+112460  Ah... entendi... que pena...
+112461  Claro. Tenho certeza de que você tem coisas mais importantes para fazer...
+112462  Sem entrada. Sem saída.
+112463  Algum progresso? Devo atualizar o banco de dados?
+112464  Você tem todas as informações necessárias?
+112465  O indicador de status diz "Em andamento". Você está lidando com isso, então?
+112466  Posso marcar como "feito", ou você ainda precisa de mais tempo?
+112467  Ah, é você. Tem alguma novidade sobre a tarefa?
+112468  Está no caminho? Bem, se você diz...
+112469  Sei que você é uma pessoa ocupada. Mas espero que encontre tempo para isso em breve.
+112470  Espero que você não esteja preso ou algo assim.
+112471  Confirmado. É isso.
+112472  De acordo com o banco de dados, você encontrou o correto.
+112473  A coleta de dados mostra uma correspondência.
+112474  Parece ser o especificado, pelo menos.
+112475  Verificado. É o correto.
+112476  Temos esse na pesquisa da tarefa.
+112477  O número de rastreamento está correto. Deve ser isso.
+112478  Ah, sim, acho que é isso.
+112479  Localização confirmada.
+112480  Memorando de alerta foi enviado. Eles estão esperando por você.
+112481  Coordenadas transmitidas.
+112482  Confirmação recebida. Este é o local alvo.
+112483  Parece que você não precisa de mais orientações.
+112484  Tudo está preparado para sua chegada, parece.
+112485  Vamos lá!
+112486  Sim, chegue lá, por favor.
+112487  Eles nos detectaram.
+112488  Eles nos têm nos seus radares.
+112489  Missão cancelada. Eles sabem nossa posição.
+112490  Quase lá, de acordo com os dados.
+112491  Está perto daqui, tenho certeza.
+112492  Está aqui, em algum lugar dentro do nosso raio.
+112493  Objeto detectado.
+112494  Confirmado. Você encontrou.
+112495  Localizado.
+112496  Obrigado. Infelizmente, os dados indicam que o problema não foi completamente resolvido.
+112497  Obrigado! Que tal assumir outra tarefa, agora que todos os processos estão funcionando?
+112498  Incrível! Você se importa se eu te incomodar novamente?
+112499  As mensagens de rádio marítimo dizem que é uma verdadeira zona de guerra lá fora. Você está disposto a ajudar?
+112500  O indicador de risco para viagens ultramarinas está no vermelho. Alguém não deveria fazer algo?
+112501  Os dados indicam um aumento crítico de incidentes militares. Não é bom.
+112502  É pedir muito de você, mas não nos sentimos particularmente seguros mais.
+112503  Quando alguém vai acabar com toda essa luta sem sentido?
+112504  Ufa, vamos torcer para termos visto nossa parte de violência por um tempo.
+112505  Acabou de chegar. Parabéns pela sua vitória.
+112506  Relatórios estão aqui. Você venceu em todos os aspectos.
+112507  Os relatórios de danos são desastrosos. E as baixas... vou ficar quieto sobre isso.
+112508  Então para a futilidade da guerra...
+112509  Obrigado por colocar sua cabeça a prêmio por nós. Estou feliz que você ainda a tenha.
+112510  Estamos cercados por tecnologia de ponta. Mas em um nível humano... isso parece a Idade Média.
+112512  As pessoas saem e eu fico com todo o trabalho. Se ao menos valesse a pena.
+112513  Minha vida é como a máquina de venda automática na nossa sala de descanso: apertar botões o dia todo e para quê? Nada.
+112514  Ah sim, um porto espacial na porta. Já tentou realmente alcançar as estrelas aqui?
+112515  Não sou só eu! Meu departamento inteiro está cansado!
+112516  Moradia barata, tarefas desafiadoras, sim! Parece bom no papel, mas na realidade.
+112517  Perdi a conta de quantas reclamações fiz.
+112519  Espero que tenha vindo me entregar minha carta de demissão. Eu quero sair daqui!
+112511  [Suspiro] Todas as promessas que foram feitas...
+112518  Perguntei por aí. Outras empresas oferecem condições de trabalho muito melhores.
+112520  Nem tudo são flores aqui. Mas eu me viro.
+112525  Eu ganho a vida. O que mais posso esperar?
+112528  Podíamos fazer deste um lugar ainda melhor para estar. Mas com tanto trabalho.
+112521  Levantar, ir trabalhar, ir para casa. O usual.
+112522  Não é ruim aqui, na maior parte.
+112523  As coisas estão bem aqui, mas há algo... não consigo entender direito.
+112524  Acho que todos nos damos bem uns com os outros aqui.
+112526  Às vezes sinto que está faltando algo.
+112527  Felicidade? Essa é uma palavra grande.
+112529  No geral, é um local de trabalho decente.
+112530  Não tenho motivo para reclamar!
+112531  Gosto do meu trabalho, gosto da minha casa. São sentimentos bem agradáveis de se ter.
+112532  Ah, não me importo de receber visitas. As pessoas aqui são muito legais.
+112533	Sinto que nossas necessidades são levadas a sério aqui.
+112534	Continue sorrindo. Não é tão difícil aqui.
+112535	Sim, meu dia tem sido bem bom até agora. Não é de se admirar.
+112536	Estou de muito bom humor.
+112537	Acho que temos um futuro brilhante pela frente.
+112538	Tudo está em perfeita ordem. Graças a você.
+112539	Nada a relatar. Todos estamos muito bem.
+112540	Os salários, o clima no trabalho, falo sério, um emprego dos sonhos!
+112541	Como eu não poderia querer trabalhar para você!
+112542	Obrigado por tornar tudo isso possível!
+112543	E eu vim morar aqui! Sorte a minha!
+112544	Tenho alguns dias de folga, mas mal posso esperar para voltar ao trabalho. Adoro!
+112545	A motivação está no auge!
+112546	Suas colônias espaciais serão um sucesso, julgando pelo quão incrível é aqui embaixo.
+112547	Adoro passear pela nossa cidade, só para apreciar sua beleza.
+112548	Você é demais! Totalmente demais!
+112549	Sinceramente, poderia ser ainda melhor?
+112711	Obrigado. Sentimos muito a falta de algo assim.
+112712	Uau. Tenho que dizer que vou dormir muito melhor esta noite.
+112713	Você mantém as ruas seguras. Obrigado!
+112714	Operadores à sua disposição!
+112715	Todos os sistemas online! Mal posso esperar para começar.
+112716	Ok, vamos colocar as coisas em movimento!
+112717	Últimamente, mudamos de sistemas de touchpad para comandos de voz. Facilita o trabalho, a menos que você esteja rouco.
+112718	Depois de passar o dia olhando para monitores, nada supera ler um livro, sabe. É um daqueles hobbies históricos estranhos e caros.
+112719	Administrar um programa espacial envolve milhões de processos técnicos, todos tendo que se desdobrar em perfeita sincronia. Ainda bem que você tem a gente.
+112720	Para a Lua? Não, obrigado. Eu sou mais pé no chão, mesmo.
+115556	Eles estão falando sobre demissões.
+115557	Não consigo fazer meu trabalho assim!
+115558	E pilha após pilha após pilha de papel...
+115559	Por que minhas plantas continuam morrendo?
+115560	Vamos solicitar um tempo de férias!
+115561	Definitivamente devemos ter uma segunda máquina de café.
+115562	Novo apartamento: confirmado!
+115563	Eu poderia me acostumar a sair para jantar.
+115584	Ei, mantenha o capacete!
+115586	Temos algumas centenas de pedidos para fazer.
+115588	Fique longe dessas baterias!
+115590	Boa, a contaminação está mínima.
+115593	Preciso de um novo recipiente para isso.
+115594	Cuidado com a poeira.
+115596	Sim, isso é muita água.
+115597	Tudo bem, o fluxo está estável.
+115598	Enviando em 3... 2... 1...
+115599	Aspire isso, obrigado.
+115600	Pare de empilhar caixas aí, há mais espaço aqui.
+115601	É uma agenda apertada, mas vamos conseguir.
+115605	Vamos lá, pulemos os anúncios.
+115607	Ok, onde foi que você o viu pela última vez?
+115610	Claro, mais atrasos.
+115791	Deixe a burocracia conosco. Você deveria usar suas habilidades de liderança para colocar essas naves coloniais no espaço.
+112732	Uma solução excelente.
+112733	Excelente.
+112734	Funcionou.
+112735	Muito eficiente.
+112736	Bom.
+112737	Isso definitivamente trará algo.
+112738	Até agora, tudo bem.
+112739	Bem feito.
+112740	Uma vitória definitiva!
+112741	Perfeito.
+112742	Então podemos arquivar isso, finalmente.
+112743	Se isso não é uma boa notícia.
+112744	Menos restrições. Excelente.
+112745	Você está indo rumo ao sucesso!
+112746	Sem você, isso não teria corrido tão bem.
+112747	Nossas ações estão subindo!
+112748	E novamente, nossa corporação está nas manchetes!
+112749	Você sempre sabe o que fazer. Estou impressionado.
+112750	Não há problema que você não possa resolver, estou certo?
+112751	Isso só mostra seu talento como líder.
+112752	Você conquistou tanto para a empresa. Obrigado.
+112753	Você faz as coisas do jeito certo!
+112754	Você tornou essa empresa um sucesso!
+112755	E tudo começou tão promissoramente.
+112756	Que contratempo.
+112757	Desnecessário e sem lucro.
+112758	Ah, pelo amor de Deus!
+112759	Uma catástrofe econômica!
+112760	Um grande investimento sem retorno.
+112761	Eu vejo o prejuízo bem na minha frente!
+112762	Como isso pôde acontecer?
+112763	Terível.
+112764	Bem, espero que as coisas melhorem.
+112766	E lá se foi seu plano cuidadoso.
+112767	Você deveria ter delegado isso.
+112768	Espero que possamos de alguma forma compensar isso.
+112769	Isto afetará nosso valor de mercado...
+112770	Não foi o seu melhor, se posso dizer.
+112771	Não questiono suas decisões... Mas qual era o objetivo?
+112772	Você sabe o que isso significa para a empresa?
+112773	Sua abordagem era irrealista desde o início.
+112774	Você deveria ter planejado esse resultado também.
+112775	Tenho certeza de que suas intenções eram boas.
+112776	Ah, bom dia. No que posso ajudar?
+112777	Ah, bem-vindo. Há algo para discutir?
+112778	Meu prazer. Por favor, sente-se.
+112779	Uma reunião, aqui na minha casa? Bem, por que não!
+112780	Você não vai entrar?
+112781	Algo oficial? Ou você só está passando?
+112782	Nós temos um compromisso? Ah, não importa... entre!
+112783	Eu sempre tenho tempo para você!
+112784	Sim, por favor?
+112785	Entendi.
+112786	Vou cuidar disso imediatamente.
+112787	Claro.
+112788	Eu dei alta prioridade a isso.
+112789	Designei alguém para resolver o assunto.
+112790	Como desejar.
+112791	Encarreguei alguém disso para você.
+112792	Sim. Eu vou mantê-lo informado.
+112793	Se você quiser delegar isso para mim, claro.
+112794	Você pode confiar em mim nisso.
+112795	Isso causaria alguns problemas na minha agenda.
+112796	Agora não. Por favor, marque um horário!
