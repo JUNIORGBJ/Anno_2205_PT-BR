@@ -221,7 +221,7 @@
 116330	Tempestade passou. Obrigado... agora podemos voltar aos negócios.
 105604	Ei, não dê ouvidos a ele. Cara, não temos nada para combater esses ataques.
 115789	Ufa... boa coisa se foi! Recuperamos os Estabilizadores principais. A Vigilância Orbital ainda controla uma grande parte dos menores, mas estamos seguros por enquanto.
-116323	Whoa, legal! Acho que vamos ver mais comércio passando por aqui em breve! Aliás, os Custódios me pediram para fornecer a você a tecnologia de construção que você precisa para o seu porto espacial.
+116323	Que bom! Acho que vamos ver mais comércio passando por aqui em breve! Aliás, os Custódios me pediram para fornecer a você a tecnologia de construção que você precisa para o seu porto espacial.
 116324	Cara, estou tão feliz que você veio aqui! Olha todo esse tráfego! Os negócios nunca foram tão bons! Deixe-me retribuir! Vou entregar a maquinaria de construção para os seus cais quebradores de gelo! É por minha conta!
 116325	Ok, sobre as coisas para seus cais quebradores de gelo... Todas as tempestades na área estão tornando impossível para meus cargueiros passarem. Desculpe!
 116326	Boas notícias! Os Custódios Árticos me encomendaram para conseguir a você o material tecnológico que você precisa para seus cais quebradores de gelo. Já está a caminho!
