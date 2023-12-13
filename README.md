@@ -1,5 +1,3 @@
-[![Discord](https://img.shields.io/discord/805968042738712608?color=blueviolet&label=Discord&style=for-the-badge)](https://discord.gg/5ByWTzFFcj)
-
 <h1 align="center"><figure>
   <img src="Anno_2205.PNG">
 </figure></h1>
