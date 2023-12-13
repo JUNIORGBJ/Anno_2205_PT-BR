@@ -1,3 +1,4 @@
+> Status do Projeto: ✅ (Tradução 100% em Revisão) 
 <h1 align="center"><figure>
   <img src="Anno_2205.PNG">
 </figure></h1>
