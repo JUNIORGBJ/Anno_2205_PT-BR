@@ -1,316 +1,316 @@
-114301  Não podemos permitir que a Vigilância Orbital continue assim.
-114302  Fui solicitado para recrutar alguém familiarizado com operações militares.
-114303  Esses terroristas representam uma ameaça para o mundo livre. Você deve agir.
-114304  Uma operação confidencial. Esperamos que tenha impacto na Vigilância Orbital.
-114305  Gosto da sua política sem compromissos.
-114306  A área está muito mais segura agora, e é exatamente o que era esperado.
-114307  Bem feito! Suas ações no conflito tiveram um grande impacto.
-114308  Você deveria ter pensado em uma estratégia melhor.
-114309  A repercussão política sozinha...
-114310  Bem, teremos que tentar recuperar essas perdas de alguma forma.
-114311  Tempo é dinheiro. Em que posso te ajudar?
-114312  Os mercados mundiais nunca dormem.
-114313  Tudo converge aqui. Aproveite as oportunidades conforme surgem.
-114314  As mercadorias entram, as mercadorias saem. Posicione-se.
-114315  Bem-vindo ao centro do comércio global.
-114316  Avise-me do que você precisa e eu verei o que os mercados têm a oferecer.
-114317  Mantenha sempre um olho nas tendências atuais do mercado.
-114318  Bem-vindo. Diga o seu negócio.
-114319  A rota está registrada.
-114320  Aprovado. A rota está oficialmente aberta.
-114321  Vamos esperar que esta rota seja lucrativa para você.
-114322  Boa jogada. Suas mercadorias são necessárias lá fora.
-114323  Suas mercadorias encontrarão compradores nos mercados mundiais.
-114324  As mercadorias estão sendo enviadas!
-114325  Uma rota promissora que você tem aí.
-114326  Compre barato e venda caro. Essa é a fórmula.
-114327  As mercadorias estão a caminho!
-114328  Seus envios devem chegar a tempo.
-114329  Espero que você coloque essas mercadorias para um bom uso.
-114330  Seu pedido foi concedido. As mercadorias estão sendo enviadas para você.
-114331  Eu examinei a rota. As entregas chegarão em breve.
-114332  As mercadorias foram lançadas. Manteremos você informado sobre o ETA delas.
-114333  Certo. Essas mercadorias devem chegar em breve.
-114334  A entrega será acelerada.
-114335  Feito. Essa rota é história.
-114336  Ótimo. Vou excluir a rota do registro.
-114337  Certamente. A otimização da rede é um processo contínuo.
-114338  Ou é lucrativo ou precisa ser excluído.
-114339  Isso vai liberar um pouco de capacidade.
-114340  Essa licença comercial está prestes a expirar.
-114341  Não se esqueça, essa licença expira em breve.
-114342  Esta rota era temporária. Você terá que renová-la ou cancelá-la.
-114343  Nossos acordos comerciais estão prestes a expirar em breve.
-114344  A licença para esta rota está quase expirando. Você quer estender ou não?
-114345  Esta rota em breve será história. O que você quer fazer a respeito?
-114346  Então, você teve tempo para avaliar esta rota. E agora?
-114347  Apenas um lembrete de que a licença para esta rota expira em breve.
-114348  É isso. Devo renovar o contrato?
-114350  Você leu os relatórios. Quer renovar a licença?
-114351  Hora de renovar a licença ou cancelar a rota. Sua decisão.
-114352  Hora da decisão. Renovar a licença ou cancelá-la?
-114356  Você deveria aproveitar o momento, se precisar!
-114357  Compre barato e venda caro, essa é a regra. O preço está bom.
-114358  Se você tem os créditos, este é o momento de comprar.
-114359  Os preços caíram. Este é um bom momento para comprar, se você estiver interessado.
-114360  Você pode considerar comprar em breve, se tiver os créditos.
-114361  Agora é a hora! Você deveria vender, se puder.
-114362  Os preços estão em alta. Agora é a hora de vender.
-114363  Se você vender seus excedentes agora, pode obter um bom lucro.
-114364  Hora de vender, se estiver interessado. O preço não ficará muito melhor que isso.
-114365  Acho que você deveria vender seu estoque excedente. A hora é agora!
-114366  É um mercado volátil agora. Dê uma olhada!
-114367  Há muita flutuação no mercado no momento. Há dinheiro a ser ganho se você for cuidadoso.
-114368  Há tanto acontecendo no mercado agora. Oportunidades e riscos...
-114369  Você poderia ganhar dinheiro real negociando neste mercado volátil, mas teria que ser cuidadoso.
-114370  Este é o tipo de mercado que dá cabelos brancos aos traders. Mantenha os olhos abertos.
-114371  Sabe, se eu fosse você, eu exploraria o potencial de economia massiva dentro da sua empresa. Sabemos que é importante minimizar as despesas de compra por meio da consolidação... você está mesmo ouvindo?
-114372  Sam Beaumont? Ah, lembro quando ela era apenas uma representante menor. Trabalhou comigo naquela época. Mas vamos ser honestos: ela é melhor com pessoas do que com números.
-114373  Corrupção? Olha, nos dias de hoje tudo se trata de comércio. E os Cinco Grandes são grandes jogadores nos mercados mundiais. Não podemos evitar ter um ou dois acordos especiais com eles.
-114374  Se o Programa de Licença Lunar continuar avançando nesse ritmo, logo terão que me dar um novo título de trabalho. Secretário do Comércio Pan-Orbital. Eu gosto desse som.
-114375  A Vigilância Orbital é o grande desafio político da década. E temo que não os superaremos facilmente.
-114963  Saudações, Anthony Goodwin. Secretário de Comércio Pan-Terrestre. Se você tiver alguma solicitação relacionada aos Mercados Mundiais, venha até mim.
-115890  Beaumont agiu certo em apostar em você. Sua cooperação tem sido mais do que satisfatória.
-115613  Aí está onde os covardes atacaram a gente. Ainda circulando nossos navios de carga como um enxame de moscas negras!
-115615  E vejo que trouxeram reforços. Temos que ter cuidado. Já os vi antes, não têm escrúpulos nenhum.
-115631  Avance além do bloqueio deles e liberte nossos navios. Eu estou com você!
-115632  Agora, toda velocidade à frente!
-115633  Recebendo o impacto, né? Não se preocupe, meus drones vão consertar isso.
-116006  Os drones de reparo estão operando a todo vapor! Deve controlar os danos!```
-115634  Não fique acima de recuperar os destroços de seus inimigos. Há coisas raras para serem encontradas entre as cargas perdidas.
-115635  Veja, onde quer que você vá, sempre tem pessoas incomodando você com seus problemas. Mas... claro, devemos ajudá-los, eu acho.
-115636  Parece que não somos os únicos tendo problemas com a Vigilância Orbital! E se um inimigo comum não é motivo para ajudá-los...
-115637  Células de energia com potência máxima! Você deveria experimentar as armas especiais que equipei em sua frota.
-115638  Agora escute. Apenas atirar não é tudo. Você pode equipar sua frota com uma grande variedade de armas especiais. Pode salvar sua pele.
-115639  Então, salvamos a carga, mas não posso dizer o mesmo daquele setor. Não será fácil expulsar permanentemente esses terroristas. Vai se tornar uma praga por aqui.
-115640  Ou você quer ficar e dar uma lição no resto deles também?
-115641  Veja. Esses piratas miseráveis atacam qualquer navio de transporte de material que passa por lá.
-115642  Mande-os para o fundo do mar antes que façam o mesmo com nosso carregamento de material. Estou com você!
-115643  Droga! Tenho que recuar por enquanto. Talvez consigamos a próxima entrega por aqui de alguma forma.
-115644  Tudo bem, salvamos o cabo. Não posso dizer o mesmo daquele setor. Eles continuarão atacando navios de carga. E na próxima vez, você estará sozinho.
-115736  Bom. Nenhum Vigilante Orbital voa mais circulando aquele. Mas não é o único navio que precisa de ajuda.
-115528  Eles nos atacaram do nada! Afundaram todos os meus navios e assumiram a carga. Agora estão bloqueando todo o setor. Nenhum transporte vai passar mais.
-105518  Bah, não é típico! Agora que há problemas, a União aparece! Você pode ficar feliz que os navios de bloqueio me irritam ainda mais...
-105519  Alguns navios de guerra ágeis dariam conta dessas clippers toscas! Poderia construir alguns se tivesse uma oficina decente.
-105731  Ah, bom. Isso me permitirá montar um pequeno estaleiro, de qualquer maneira. Mas não espere milagres de mim!
-105732  Eu mesmo não tenho mais do que algumas toneladas de material. Tenho que ver até onde isso nos leva!
-105520  Bem, isso será suficiente para um navio! Enquanto estiver nisso, ficarei feliz em adicionar algumas armas à sua nave de comando. Acho que você vai precisar delas em breve.
-105536  Tudo bem com a Sra. Beaumont correndo por aí como se tudo estivesse no cronômetro. Mas sem alguma tecnologia de construção especializada, não vai acontecer muita coisa.
-115504  Sim, Rafferty aqui! Escoltando o HTV Horizon, transportando o seu cabo. A posição é 50.0, 8.26. Estamos nos aproximando do seu setor, over.
-115505  Sim, Rafferty aqui! A Sra. Beaumont me designou para garantir a segurança do transporte. Nos aproximando do seu setor, over.
-120060  Sim, Rafferty aqui! A Sra. Beaumont me designou para garantir a segurança do transporte. Nos aproximando do seu setor, over.
-116004  Meu nome é John Rafferty. A Sra. Beaumont me designou para garantir a segurança do transporte. Os navios devem estar chegando aqui a qualquer minuto.
-115518  O que diabos...
-115537  Código vermelho! Estamos sob ataque! Código vermelho!
-120061  O quê... Código vermelho! Estamos sendo atacados!
-115520  Todos para os canhões! Virar o navio!
-115521  Não deixem eles nos cercarem! Atravessem, atravessem...
-115522  Droga... A carga... Protejam o navio!
-115523  Todos, recuem! Recuem, entendeu!
-115524  Vigilância Orbital! Melhor ficarem de olho em mim, deveriam! Vou recuperar o que é nosso, você vai ver!
-115526  Nos atacaram do nada! Um bando de covardes afundou todos os meus navios e sequestraram o transporte. Tive um susto, eu mesmo!
-116005  Tudo bem, estamos nos aproximando do setor, over.
-115531  Se você quer recuperar o que é seu, vai precisar de alguns navios de guerra decentes para lidar com os deles.
-115536  Enviei as coordenadas para onde nos atacaram. Se você quiser iniciar uma briga pelo que é seu, vou cobrir suas costas.
-115564  Há um velho estaleiro neste setor. Ainda tem alguns navios de guerra inacabados no dique seco que posso arrumar. Apenas traga-me os materiais.
-115592  Isso será o suficiente. Vamos construir uma frota que vai chutar a bunda deles de volta para a órbita, certo.
-115608  A frota está pronta para partir. A Vigilância Orbital melhor ficar de olho em nós, com certeza!
-115646  Certo. O cabo do elevador está firme. O carro está consertado. Iniciando o teste em três, dois, um...
-116019  Certo. O cabo do elevador está firme. O carro está consertado. Iniciando o teste!
-116068  Bah, poderia ter te dito. Sem alguma tecnologia de construção especializada, não vai acontecer muita coisa.```
-116073  De onde você tirou isso? Um pouco ultrapassado, não acha? Mas desde que faça o trabalho.
-116314  Sim, é disso que estou falando! Diques quebradores, aqui vamos nós!
-115845  E não esqueça! Vamos precisar de aço de alta resistência ao calor para as plataformas de lançamento. O material que temos aqui não vai servir.
-105619  Ah, então você voltou! E quanto ao aço que pedi? Espero que não esteja tudo armazenado a frio nos seus armazéns árticos!
-105620  Sim, é isso! As entregas de metal estão chegando em boa quantidade agora!
-105622  Esperançosamente, todo mundo sabe fazer o trabalho deles. Lançadores, ônibus coloniais, propulsores... Ainda há muito trabalho a ser feito!
-105623  Ok! Isso é tudo da nossa parte! Agora só falta batizar a rampa de lançamento!
-115846  Ah, vejo que você conseguiu o aço que venho pedindo. Com trabalhadores suficientes, eu poderia construir essa rampa de lançamento num piscar de olhos!
-115847  Oh meu Deus! Olha eles, voando para o desconhecido... o quê? Não, não é nada disso... Deve ter entrado fumaça nos meus olhos.
-116319  Desculpe, a entrega vai atrasar. Se acontecer. Tempestades repentinas estão surgindo por todo o Oceano Ártico. Nunca vi nada igual antes.
-116321  De jeito nenhum vou mandar meus navios numa tempestade dessas! Desculpe, mas a entrega está suspensa.
-115873  Então, terminou lá em cima, né? Mas se quiser que eu construa um daqueles transmissores também, você tem que trazer os blocos básicos. Tem que ser exatamente igual ao que está lá em cima, certo?
-115874  Lá vamos nós! Vamos ver se essa tecnologia de transmissão de energia de fusão vale todo esse transtorno.
-116285  Ei, se mexa! Novo trabalho chegando!
-116286  Oi, chega de enrolação! Temos que continuar.
-116287  Estou só esperando por você.
-116288  Poderia usar uma mãozinha com isso!
-116289  Ah, como eu vou fazer esse tipo de coisa sozinho? Vem aqui me ajudar, vai?!
-116290  Ei! Tenho um pouco de trabalho aqui. Quer participar?
-116008  Bando de ratos, botando a mão nos nossos navios. Deem o troco neles!
-116009  Tirem nossos navios de lá, e inteiros!
-116010  Um arranhão, apenas um arranhão, e eu... eu... Só vá e pegue eles!
-116017  Outro navio a ir! Não deixem eles na mão!
-116018  Ótimo. Mas você ainda não libertou todos eles.
-116020  Ser refém humano não é divertido, sabe. Então continue e salve todos eles!
-111330  Trabalho sonoro!
-111331  Não é ruim.
-111332  Parece bem para mim.
-111333  Ótimo.
-111334  Poderia ser pior, né?
-111335  Isso é realmente algo.
-111336  Serve pra mim.
-111337  Justo.
-111338  Não poderia ter feito melhor eu mesmo.
-111339  Feito e acabado, isso.
-111340  Esperei muito tempo por alguém pra cuidar disso...
-111341  Bom. Estava prestes a consertar eu mesmo.
-111342  Ah, finalmente, alguém resolveu aquela bagunça!
-111343  Bom trabalho ali.
-111344  Você sabe o que é trabalho, sabe!
-111345  Realmente, tenho que te dar crédito! As coisas que você faz...
-111346  Você colocou isso nos trilhos!
-111347  Você conhece sua arte, com certeza.
-111348  Você sabe como é, né?!
-111349  Cuidou disso direitinho.
-111350  Tenho que dizer, você me surpreendeu, fez mesmo!
-111351  Você mantém a situação sob controle! Bom pra você!
-111352  Vai com tudo nisso, né? Obrigado.
-111353  Isso foi bem desajeitado, não foi?
-111354  Ruim o suficiente.
-111355  Brutal, isso.
-111356  Não muito melhor.
-111357  Sai daqui!
-111358  Não adianta.
-111359  Você acha que vai dar certo, e então...
-111360  Bah!
-111361  Estragou, isso.
-111362  Droga, isso significa trabalho...
-111363  E você achou que isso ia funcionar, achou?
-111364  Você estragou isso, estragou!
-111365  Tá brincando? É só isso?
-111366  Se você não tem a menor ideia, deixa pra lá da próxima vez!
-111367  Poderia muito bem ter deixado pra lá.
-111368  Por que você não deixou isso pros profissionais?
-111369  Deveria ter me chamado.
-111370  O que você estava pensando?
-111371  Tentando provar algo ou o quê? Isso ficou ótimo...
-111372  E agora? Tem mais alguma grande ideia?
-111373  Tem alguma coisa que você quer que eu faça?
-111374  Hmm?
-111375  Boa tarde. Precisa construir algo?
-111376  Quem está me incomodando?
-111377  Tudo bem, no que posso te ajudar?
-111378  Tanto por trabalhar em paz e sossego...
-111379  Ha, onde você estava se escondendo? Descansando de novo?
-111380  Me deixa em paz! Não consegue ve... ah, é você!
-111381  O que é isso? Fala mais alto, é uma oficina aqui.
-111382  Como você está?
-111383  É pra isso que estou aqui, né?
-111384  Então vamos começar!
-111385  Entendi. Não deve demorar muito!
-111386  Alguém tem que fazer isso.
-111387  Não é como se eu tivesse algo mais para fazer...
-111389  Tudo bem. Mas não fique me aporrinhando!
-111390  Sinceramente, o que seria de você sem mim?
-111391  Você é quem manda!
-111392  Certo. Vou arrumar algo pra você!
-111393  Você veio pro cara certo!
-111394  Hmm, não...
-111395  Sem chance!
-111396  Eu não tenho as ferramentas pra isso!
-111397  E deixar tudo o que estou fazendo? Não vai acontecer!
-111398  Depois... Não, nunca.
-111399  Está me sacaneando?
-111400  Como se você não pudesse fazer isso sozinho.
-111401  Você sabe, tenho outras coisas para fazer.
-111402  Você não tem mais ninguém para cuidar disso?
-111403  Você realmente achou que eu faria isso?
-111404  Eu faria sozinho, mas aí mais nada seria feito por aqui!
-111405  Não posso ficar cuidando disso também.```
-111406  Esses idiotas não fazem ideia do que estão fazendo! Preferia que um profissional cuidasse disso.
-111407  Não pense que isso é meu trabalho, talvez você queira tentar.
-111408  Isso já está aqui há um tempo.
-111409  Quer fazer algo pra variar?
-111410  É assim que as coisas são!
-111411  E eu pensando que era tudo à toa...
-111412  Continue com o bom trabalho!
-111413  Parece que pelo menos alguém sabe fazer seu trabalho...
-111414  Parece que posso deixar isso com você daqui pra frente...
-111415  Fiquei surpreso! Bom trabalho.
-111416  Trabalho árduo dá resultado!
-111417  Sim, isso é algo com que podemos trabalhar!
-111418  Parece que alguém faz seu trabalho direito...
-111419  Bagunça, isso...
-111420  E você se pergunta por que estou irritado...
-111421  Vamos lá, você não vai me dizer que não consegue fazer isso, vai?
-111422  Deveria ter feito eu mesmo...
-111423  O quê? Você quer um abraço ou algo assim?
-111424  Aqui para um café, né? Acho que temos coisas melhores para fazer...
-111425  Estou contando com você, sabe?
-111426  Continue, você vai se sair bem!
-111427  O trabalho está indo bem?
-111428  Vai levar um tempo...
-111429  Não tem jeito, tem que ser feito.
-111430  Sim, vá embora! Continue!
-111431  O trabalho nunca acaba, né?
-111432  Então, qual é o lance?
-111433  Ah, você já encontrou!
-111434  Hmm...
-111435  Exatamente o que precisamos.
-111436  Ficou de olhos abertos, né?
-111437  Ah, aí está.
-111438  Parece que é isso mesmo.
-111439  Certo, o que mais poderia ser?
-111440  Olha o que temos aqui.
-111441  Exatamente.
-111442  Não deixe esses caras esperando...
-111443  Sim, estávamos certos sobre a localização.
-111444  Continue então!
-111445  Por que você ainda não partiu?
-111446  No que está esperando?
-111447  Aí está.
-111448  Bem ali na esquina, né?
-111449  Vai em frente!
-111450  Sim, está aí.
-111451  Bah, deixar o trabalho pela metade.
-111452  Não gosta de se sujar afinal, né?
-111453  Não é o trabalho que mata, mas a preocupação.
-111454  Bom trabalho. E o próximo projeto já está esperando!
-111455  Eu sei! Você acha que finalmente terminou... e então aparece algo...
-111456  Você pode fazer isso ao mesmo tempo? Então vai ficar fora do caminho...
-111457  Ah, droga, eles nos pegaram.
-111458  Sorrateiros, né? Certo...
-111459  Seus sistemas de detecção funcionam bem, com certeza.
-111460  Não se demore agora. Você está quase lá.
-111461  Vai em frente! Estamos perto.
-111462  Hmmm, sim, traga mais perto.
-111463  Ah, aí está!
-111464  Parece que toda a busca acabou afinal.
-111465  Não ficou escondido por muito tempo, né?
-111466  Vamos ver como meus navios se saem no campo...
-111467  Não me diga que está recuando...
-111468  Você pode lidar com riscos assim, né?
-111469  Prepare nossos sistemas de armas. Esses caras estão querendo briga!
-111470  Dirigindo por aí, atirando nas pessoas. Temos que mostrar alguma resistência.
-111471  Hah, você realmente os deu uma surra!
-111472  Nós formamos um bom time. Meu equipamento e sua estratégia!
-111473  Bem feito!
-116011  Hah, você mostrou a eles. Sabia que tinha isso em você.
-116012  Um monte de navios. No fundo do mar. Nenhum deles nosso. Chamo isso de final feliz.
-116013  Chegando e salvando o dia! Nossas tripulações vão te agradecer por isso!
-111474  Ah, aqueles idiotas foram e arruinaram todo o meu trabalho árduo!
-111475  Da próxima vez eles vão levar uma surra de verdade!
-111476  Ótima estratégia aí, Lord Nelson...
-116014  Coitados... ainda temos que resolver esses malditos terroristas.
-116015  O quê? Quer deixar nossos navios nas garras gananciosas desses extremistas?
-116016  Pensei que poderíamos salvá-los. Uma pena, isso.
-111477  Por que a retirada repentina?
-111478  Bah, ainda poderíamos ter vencido.
-111479  Todo mundo fora daqui então!
-111480  Todos os navios. Recuem.```
-111481  Menos perigosa à distância, né?
-111482  Trabalho de qualidade, você verá.
-111484  Acabou de ser lançado! Vai lá, dê uma olhada!
-111485  Tudo pronto para sua viagem inaugural!
-111486  Já pensou em um nome pra ela?
-111487  Ela vai levar suas coisas daqui para lá, não se preocupe.
-111488  Vai tornar os mares um pouco mais seguros.
-111489  Ronrona como um gatinho! Luta como um tigre!
-111490  Seus inimigos melhor tomarem cuidado com essa.
-111491  Ela não é só uma beleza esguia e perigosa?
-111492  Ela vai dar uma boa luta, pode apostar.
-111493  É uma máquina pequena e fina!
-111494  Isso vai dar um gás nos seus projetos de construção.
-111495  Boa escolha. O jeito mais rápido de construir essas coisas, é isso.
-111496  Claro. Você não consegue realmente construir isso sem um.
+114301	Não podemos permitir que a Vigilância Orbital continue assim.
+114302	Fui solicitado para recrutar alguém familiarizado com operações militares.
+114303	Esses terroristas representam uma ameaça para o mundo livre. Você deve agir.
+114304	Uma operação confidencial. Esperamos que tenha impacto na Vigilância Orbital.
+114305	Gosto da sua política sem compromissos.
+114306	A área está muito mais segura agora, e é exatamente o que era esperado.
+114307	Bem feito! Suas ações no conflito tiveram um grande impacto.
+114308	Você deveria ter pensado em uma estratégia melhor.
+114309	A repercussão política sozinha...
+114310	Bem, teremos que tentar recuperar essas perdas de alguma forma.
+114311	Tempo é dinheiro. Em que posso te ajudar?
+114312	Os mercados mundiais nunca dormem.
+114313	Tudo converge aqui. Aproveite as oportunidades conforme surgem.
+114314	As mercadorias entram, as mercadorias saem. Posicione-se.
+114315	Bem-vindo ao centro do comércio global.
+114316	Avise-me do que você precisa e eu verei o que os mercados têm a oferecer.
+114317	Mantenha sempre um olho nas tendências atuais do mercado.
+114318	Bem-vindo. Diga o seu negócio.
+114319	A rota está registrada.
+114320	Aprovado. A rota está oficialmente aberta.
+114321	Vamos esperar que esta rota seja lucrativa para você.
+114322	Boa jogada. Suas mercadorias são necessárias lá fora.
+114323	Suas mercadorias encontrarão compradores nos mercados mundiais.
+114324	As mercadorias estão sendo enviadas!
+114325	Uma rota promissora que você tem aí.
+114326	Compre barato e venda caro. Essa é a fórmula.
+114327	As mercadorias estão a caminho!
+114328	Seus envios devem chegar a tempo.
+114329	Espero que você coloque essas mercadorias para um bom uso.
+114330	Seu pedido foi concedido. As mercadorias estão sendo enviadas para você.
+114331	Eu examinei a rota. As entregas chegarão em breve.
+114332	As mercadorias foram lançadas. Manteremos você informado sobre o ETA delas.
+114333	Certo. Essas mercadorias devem chegar em breve.
+114334	A entrega será acelerada.
+114335	Feito. Essa rota é história.
+114336	Ótimo. Vou excluir a rota do registro.
+114337	Certamente. A otimização da rede é um processo contínuo.
+114338	Ou é lucrativo ou precisa ser excluído.
+114339	Isso vai liberar um pouco de capacidade.
+114340	Essa licença comercial está prestes a expirar.
+114341	Não se esqueça, essa licença expira em breve.
+114342	Esta rota era temporária. Você terá que renová-la ou cancelá-la.
+114343	Nossos acordos comerciais estão prestes a expirar em breve.
+114344	A licença para esta rota está quase expirando. Você quer estender ou não?
+114345	Esta rota em breve será história. O que você quer fazer a respeito?
+114346	Então, você teve tempo para avaliar esta rota. E agora?
+114347	Apenas um lembrete de que a licença para esta rota expira em breve.
+114348	É isso. Devo renovar o contrato?
+114350	Você leu os relatórios. Quer renovar a licença?
+114351	Hora de renovar a licença ou cancelar a rota. Sua decisão.
+114352	Hora da decisão. Renovar a licença ou cancelá-la?
+114356	Você deveria aproveitar o momento, se precisar!
+114357	Compre barato e venda caro, essa é a regra. O preço está bom.
+114358	Se você tem os créditos, este é o momento de comprar.
+114359	Os preços caíram. Este é um bom momento para comprar, se você estiver interessado.
+114360	Você pode considerar comprar em breve, se tiver os créditos.
+114361	Agora é a hora! Você deveria vender, se puder.
+114362	Os preços estão em alta. Agora é a hora de vender.
+114363	Se você vender seus excedentes agora, pode obter um bom lucro.
+114364	Hora de vender, se estiver interessado. O preço não ficará muito melhor que isso.
+114365	Acho que você deveria vender seu estoque excedente. A hora é agora!
+114366	É um mercado volátil agora. Dê uma olhada!
+114367	Há muita flutuação no mercado no momento. Há dinheiro a ser ganho se você for cuidadoso.
+114368	Há tanto acontecendo no mercado agora. Oportunidades e riscos...
+114369	Você poderia ganhar dinheiro real negociando neste mercado volátil, mas teria que ser cuidadoso.
+114370	Este é o tipo de mercado que dá cabelos brancos aos traders. Mantenha os olhos abertos.
+114371	Sabe, se eu fosse você, eu exploraria o potencial de economia massiva dentro da sua empresa. Sabemos que é importante minimizar as despesas de compra por meio da consolidação... você está mesmo ouvindo?
+114372	Sam Beaumont? Ah, lembro quando ela era apenas uma representante menor. Trabalhou comigo naquela época. Mas vamos ser honestos: ela é melhor com pessoas do que com números.
+114373	Corrupção? Olha, nos dias de hoje tudo se trata de comércio. E os Cinco Grandes são grandes jogadores nos mercados mundiais. Não podemos evitar ter um ou dois acordos especiais com eles.
+114374	Se o Programa de Licença Lunar continuar avançando nesse ritmo, logo terão que me dar um novo título de trabalho. Secretário do Comércio Pan-Orbital. Eu gosto desse som.
+114375	A Vigilância Orbital é o grande desafio político da década. E temo que não os superaremos facilmente.
+114963	Saudações, Anthony Goodwin. Secretário de Comércio Pan-Terrestre. Se você tiver alguma solicitação relacionada aos Mercados Mundiais, venha até mim.
+115890	Beaumont agiu certo em apostar em você. Sua cooperação tem sido mais do que satisfatória.
+115613	Aí está onde os covardes atacaram a gente. Ainda circulando nossos navios de carga como um enxame de moscas negras!
+115615	E vejo que trouxeram reforços. Temos que ter cuidado. Já os vi antes, não têm escrúpulos nenhum.
+115631	Avance além do bloqueio deles e liberte nossos navios. Eu estou com você!
+115632	Agora, toda velocidade à frente!
+115633	Recebendo o impacto, né? Não se preocupe, meus drones vão consertar isso.
+116006	Os drones de reparo estão operando a todo vapor! Deve controlar os danos!```
+115634	Não fique acima de recuperar os destroços de seus inimigos. Há coisas raras para serem encontradas entre as cargas perdidas.
+115635	Veja, onde quer que você vá, sempre tem pessoas incomodando você com seus problemas. Mas... claro, devemos ajudá-los, eu acho.
+115636	Parece que não somos os únicos tendo problemas com a Vigilância Orbital! E se um inimigo comum não é motivo para ajudá-los...
+115637	Células de energia com potência máxima! Você deveria experimentar as armas especiais que equipei em sua frota.
+115638	Agora escute. Apenas atirar não é tudo. Você pode equipar sua frota com uma grande variedade de armas especiais. Pode salvar sua pele.
+115639	Então, salvamos a carga, mas não posso dizer o mesmo daquele setor. Não será fácil expulsar permanentemente esses terroristas. Vai se tornar uma praga por aqui.
+115640	Ou você quer ficar e dar uma lição no resto deles também?
+115641	Veja. Esses piratas miseráveis atacam qualquer navio de transporte de material que passa por lá.
+115642	Mande-os para o fundo do mar antes que façam o mesmo com nosso carregamento de material. Estou com você!
+115643	Droga! Tenho que recuar por enquanto. Talvez consigamos a próxima entrega por aqui de alguma forma.
+115644	Tudo bem, salvamos o cabo. Não posso dizer o mesmo daquele setor. Eles continuarão atacando navios de carga. E na próxima vez, você estará sozinho.
+115736	Bom. Nenhum Vigilante Orbital voa mais circulando aquele. Mas não é o único navio que precisa de ajuda.
+115528	Eles nos atacaram do nada! Afundaram todos os meus navios e assumiram a carga. Agora estão bloqueando todo o setor. Nenhum transporte vai passar mais.
+105518	Bah, não é típico! Agora que há problemas, a União aparece! Você pode ficar feliz que os navios de bloqueio me irritam ainda mais...
+105519	Alguns navios de guerra ágeis dariam conta dessas clippers toscas! Poderia construir alguns se tivesse uma oficina decente.
+105731	Ah, bom. Isso me permitirá montar um pequeno estaleiro, de qualquer maneira. Mas não espere milagres de mim!
+105732	Eu mesmo não tenho mais do que algumas toneladas de material. Tenho que ver até onde isso nos leva!
+105520	Bem, isso será suficiente para um navio! Enquanto estiver nisso, ficarei feliz em adicionar algumas armas à sua nave de comando. Acho que você vai precisar delas em breve.
+105536	Tudo bem com a Sra. Beaumont correndo por aí como se tudo estivesse no cronômetro. Mas sem alguma tecnologia de construção especializada, não vai acontecer muita coisa.
+115504	Sim, Rafferty aqui! Escoltando o HTV Horizon, transportando o seu cabo. A posição é 50.0, 8.26. Estamos nos aproximando do seu setor, over.
+115505	Sim, Rafferty aqui! A Sra. Beaumont me designou para garantir a segurança do transporte. Nos aproximando do seu setor, over.
+120060	Sim, Rafferty aqui! A Sra. Beaumont me designou para garantir a segurança do transporte. Nos aproximando do seu setor, over.
+116004	Meu nome é John Rafferty. A Sra. Beaumont me designou para garantir a segurança do transporte. Os navios devem estar chegando aqui a qualquer minuto.
+115518	O que diabos...
+115537	Código vermelho! Estamos sob ataque! Código vermelho!
+120061	O quê... Código vermelho! Estamos sendo atacados!
+115520	Todos para os canhões! Virar o navio!
+115521	Não deixem eles nos cercarem! Atravessem, atravessem...
+115522	Droga... A carga... Protejam o navio!
+115523	Todos, recuem! Recuem, entendeu!
+115524	Vigilância Orbital! Melhor ficarem de olho em mim, deveriam! Vou recuperar o que é nosso, você vai ver!
+115526	Nos atacaram do nada! Um bando de covardes afundou todos os meus navios e sequestraram o transporte. Tive um susto, eu mesmo!
+116005	Tudo bem, estamos nos aproximando do setor, over.
+115531	Se você quer recuperar o que é seu, vai precisar de alguns navios de guerra decentes para lidar com os deles.
+115536	Enviei as coordenadas para onde nos atacaram. Se você quiser iniciar uma briga pelo que é seu, vou cobrir suas costas.
+115564	Há um velho estaleiro neste setor. Ainda tem alguns navios de guerra inacabados no dique seco que posso arrumar. Apenas traga-me os materiais.
+115592	Isso será o suficiente. Vamos construir uma frota que vai chutar a bunda deles de volta para a órbita, certo.
+115608	A frota está pronta para partir. A Vigilância Orbital melhor ficar de olho em nós, com certeza!
+115646	Certo. O cabo do elevador está firme. O carro está consertado. Iniciando o teste em três, dois, um...
+116019	Certo. O cabo do elevador está firme. O carro está consertado. Iniciando o teste!
+116068	Bah, poderia ter te dito. Sem alguma tecnologia de construção especializada, não vai acontecer muita coisa.```
+116073	De onde você tirou isso? Um pouco ultrapassado, não acha? Mas desde que faça o trabalho.
+116314	Sim, é disso que estou falando! Diques quebradores, aqui vamos nós!
+115845	E não esqueça! Vamos precisar de aço de alta resistência ao calor para as plataformas de lançamento. O material que temos aqui não vai servir.
+105619	Ah, então você voltou! E quanto ao aço que pedi? Espero que não esteja tudo armazenado a frio nos seus armazéns árticos!
+105620	Sim, é isso! As entregas de metal estão chegando em boa quantidade agora!
+105622	Esperançosamente, todo mundo sabe fazer o trabalho deles. Lançadores, ônibus coloniais, propulsores... Ainda há muito trabalho a ser feito!
+105623	Ok! Isso é tudo da nossa parte! Agora só falta batizar a rampa de lançamento!
+115846	Ah, vejo que você conseguiu o aço que venho pedindo. Com trabalhadores suficientes, eu poderia construir essa rampa de lançamento num piscar de olhos!
+115847	Oh meu Deus! Olha eles, voando para o desconhecido... o quê? Não, não é nada disso... Deve ter entrado fumaça nos meus olhos.
+116319	Desculpe, a entrega vai atrasar. Se acontecer. Tempestades repentinas estão surgindo por todo o Oceano Ártico. Nunca vi nada igual antes.
+116321	De jeito nenhum vou mandar meus navios numa tempestade dessas! Desculpe, mas a entrega está suspensa.
+115873	Então, terminou lá em cima, né? Mas se quiser que eu construa um daqueles transmissores também, você tem que trazer os blocos básicos. Tem que ser exatamente igual ao que está lá em cima, certo?
+115874	Lá vamos nós! Vamos ver se essa tecnologia de transmissão de energia de fusão vale todo esse transtorno.
+116285	Ei, se mexa! Novo trabalho chegando!
+116286	Oi, chega de enrolação! Temos que continuar.
+116287	Estou só esperando por você.
+116288	Poderia usar uma mãozinha com isso!
+116289	Ah, como eu vou fazer esse tipo de coisa sozinho? Vem aqui me ajudar, vai?!
+116290	Ei! Tenho um pouco de trabalho aqui. Quer participar?
+116008	Bando de ratos, botando a mão nos nossos navios. Deem o troco neles!
+116009	Tirem nossos navios de lá, e inteiros!
+116010	Um arranhão, apenas um arranhão, e eu... eu... Só vá e pegue eles!
+116017	Outro navio a ir! Não deixem eles na mão!
+116018	Ótimo. Mas você ainda não libertou todos eles.
+116020	Ser refém humano não é divertido, sabe. Então continue e salve todos eles!
+111330	Trabalho sonoro!
+111331	Não é ruim.
+111332	Parece bem para mim.
+111333	Ótimo.
+111334	Poderia ser pior, né?
+111335	Isso é realmente algo.
+111336	Serve pra mim.
+111337	Justo.
+111338	Não poderia ter feito melhor eu mesmo.
+111339	Feito e acabado, isso.
+111340	Esperei muito tempo por alguém pra cuidar disso...
+111341	Bom. Estava prestes a consertar eu mesmo.
+111342	Ah, finalmente, alguém resolveu aquela bagunça!
+111343	Bom trabalho ali.
+111344	Você sabe o que é trabalho, sabe!
+111345	Realmente, tenho que te dar crédito! As coisas que você faz...
+111346	Você colocou isso nos trilhos!
+111347	Você conhece sua arte, com certeza.
+111348	Você sabe como é, né?!
+111349	Cuidou disso direitinho.
+111350	Tenho que dizer, você me surpreendeu, fez mesmo!
+111351	Você mantém a situação sob controle! Bom pra você!
+111352	Vai com tudo nisso, né? Obrigado.
+111353	Isso foi bem desajeitado, não foi?
+111354	Ruim o suficiente.
+111355	Brutal, isso.
+111356	Não muito melhor.
+111357	Sai daqui!
+111358	Não adianta.
+111359	Você acha que vai dar certo, e então...
+111360	Bah!
+111361	Estragou, isso.
+111362	Droga, isso significa trabalho...
+111363	E você achou que isso ia funcionar, achou?
+111364	Você estragou isso, estragou!
+111365	Tá brincando? É só isso?
+111366	Se você não tem a menor ideia, deixa pra lá da próxima vez!
+111367	Poderia muito bem ter deixado pra lá.
+111368	Por que você não deixou isso pros profissionais?
+111369	Deveria ter me chamado.
+111370	O que você estava pensando?
+111371	Tentando provar algo ou o quê? Isso ficou ótimo...
+111372	E agora? Tem mais alguma grande ideia?
+111373	Tem alguma coisa que você quer que eu faça?
+111374	Hmm?
+111375	Boa tarde. Precisa construir algo?
+111376	Quem está me incomodando?
+111377	Tudo bem, no que posso te ajudar?
+111378	Tanto por trabalhar em paz e sossego...
+111379	Ha, onde você estava se escondendo? Descansando de novo?
+111380	Me deixa em paz! Não consegue ve... ah, é você!
+111381	O que é isso? Fala mais alto, é uma oficina aqui.
+111382	Como você está?
+111383	É pra isso que estou aqui, né?
+111384	Então vamos começar!
+111385	Entendi. Não deve demorar muito!
+111386	Alguém tem que fazer isso.
+111387	Não é como se eu tivesse algo mais para fazer...
+111389	Tudo bem. Mas não fique me aporrinhando!
+111390	Sinceramente, o que seria de você sem mim?
+111391	Você é quem manda!
+111392	Certo. Vou arrumar algo pra você!
+111393	Você veio pro cara certo!
+111394	Hmm, não...
+111395	Sem chance!
+111396	Eu não tenho as ferramentas pra isso!
+111397	E deixar tudo o que estou fazendo? Não vai acontecer!
+111398	Depois... Não, nunca.
+111399	Está me sacaneando?
+111400	Como se você não pudesse fazer isso sozinho.
+111401	Você sabe, tenho outras coisas para fazer.
+111402	Você não tem mais ninguém para cuidar disso?
+111403	Você realmente achou que eu faria isso?
+111404	Eu faria sozinho, mas aí mais nada seria feito por aqui!
+111405	Não posso ficar cuidando disso também.```
+111406	Esses idiotas não fazem ideia do que estão fazendo! Preferia que um profissional cuidasse disso.
+111407	Não pense que isso é meu trabalho, talvez você queira tentar.
+111408	Isso já está aqui há um tempo.
+111409	Quer fazer algo pra variar?
+111410	É assim que as coisas são!
+111411	E eu pensando que era tudo à toa...
+111412	Continue com o bom trabalho!
+111413	Parece que pelo menos alguém sabe fazer seu trabalho...
+111414	Parece que posso deixar isso com você daqui pra frente...
+111415	Fiquei surpreso! Bom trabalho.
+111416	Trabalho árduo dá resultado!
+111417	Sim, isso é algo com que podemos trabalhar!
+111418	Parece que alguém faz seu trabalho direito...
+111419	Bagunça, isso...
+111420	E você se pergunta por que estou irritado...
+111421	Vamos lá, você não vai me dizer que não consegue fazer isso, vai?
+111422	Deveria ter feito eu mesmo...
+111423	O quê? Você quer um abraço ou algo assim?
+111424	Aqui para um café, né? Acho que temos coisas melhores para fazer...
+111425	Estou contando com você, sabe?
+111426	Continue, você vai se sair bem!
+111427	O trabalho está indo bem?
+111428	Vai levar um tempo...
+111429	Não tem jeito, tem que ser feito.
+111430	Sim, vá embora! Continue!
+111431	O trabalho nunca acaba, né?
+111432	Então, qual é o lance?
+111433	Ah, você já encontrou!
+111434	Hmm...
+111435	Exatamente o que precisamos.
+111436	Ficou de olhos abertos, né?
+111437	Ah, aí está.
+111438	Parece que é isso mesmo.
+111439	Certo, o que mais poderia ser?
+111440	Olha o que temos aqui.
+111441	Exatamente.
+111442	Não deixe esses caras esperando...
+111443	Sim, estávamos certos sobre a localização.
+111444	Continue então!
+111445	Por que você ainda não partiu?
+111446	No que está esperando?
+111447	Aí está.
+111448	Bem ali na esquina, né?
+111449	Vai em frente!
+111450	Sim, está aí.
+111451	Bah, deixar o trabalho pela metade.
+111452	Não gosta de se sujar afinal, né?
+111453	Não é o trabalho que mata, mas a preocupação.
+111454	Bom trabalho. E o próximo projeto já está esperando!
+111455	Eu sei! Você acha que finalmente terminou... e então aparece algo...
+111456	Você pode fazer isso ao mesmo tempo? Então vai ficar fora do caminho...
+111457	Ah, droga, eles nos pegaram.
+111458	Sorrateiros, né? Certo...
+111459	Seus sistemas de detecção funcionam bem, com certeza.
+111460	Não se demore agora. Você está quase lá.
+111461	Vai em frente! Estamos perto.
+111462	Hmmm, sim, traga mais perto.
+111463	Ah, aí está!
+111464	Parece que toda a busca acabou afinal.
+111465	Não ficou escondido por muito tempo, né?
+111466	Vamos ver como meus navios se saem no campo...
+111467	Não me diga que está recuando...
+111468	Você pode lidar com riscos assim, né?
+111469	Prepare nossos sistemas de armas. Esses caras estão querendo briga!
+111470	Dirigindo por aí, atirando nas pessoas. Temos que mostrar alguma resistência.
+111471	Hah, você realmente os deu uma surra!
+111472	Nós formamos um bom time. Meu equipamento e sua estratégia!
+111473	Bem feito!
+116011	Hah, você mostrou a eles. Sabia que tinha isso em você.
+116012	Um monte de navios. No fundo do mar. Nenhum deles nosso. Chamo isso de final feliz.
+116013	Chegando e salvando o dia! Nossas tripulações vão te agradecer por isso!
+111474	Ah, aqueles idiotas foram e arruinaram todo o meu trabalho árduo!
+111475	Da próxima vez eles vão levar uma surra de verdade!
+111476	Ótima estratégia aí, Lord Nelson...
+116014	Coitados... ainda temos que resolver esses malditos terroristas.
+116015	O quê? Quer deixar nossos navios nas garras gananciosas desses extremistas?
+116016	Pensei que poderíamos salvá-los. Uma pena, isso.
+111477	Por que a retirada repentina?
+111478	Bah, ainda poderíamos ter vencido.
+111479	Todo mundo fora daqui então!
+111480	Todos os navios. Recuem.```
+111481	Menos perigosa à distância, né?
+111482	Trabalho de qualidade, você verá.
+111484	Acabou de ser lançado! Vai lá, dê uma olhada!
+111485	Tudo pronto para sua viagem inaugural!
+111486	Já pensou em um nome pra ela?
+111487	Ela vai levar suas coisas daqui para lá, não se preocupe.
+111488	Vai tornar os mares um pouco mais seguros.
+111489	Ronrona como um gatinho! Luta como um tigre!
+111490	Seus inimigos melhor tomarem cuidado com essa.
+111491	Ela não é só uma beleza esguia e perigosa?
+111492	Ela vai dar uma boa luta, pode apostar.
+111493	É uma máquina pequena e fina!
+111494	Isso vai dar um gás nos seus projetos de construção.
+111495	Boa escolha. O jeito mais rápido de construir essas coisas, é isso.
+111496	Claro. Você não consegue realmente construir isso sem um.
