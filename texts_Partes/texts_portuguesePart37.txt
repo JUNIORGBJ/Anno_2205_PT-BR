@@ -1,316 +1,316 @@
-116143	Target acquired!
-116144	Battle stations!
-116145	Clear for action!
-116146	Open fire!
-116147	Weapon systems online!
-116148	Green to go!
-116149	All hands, engage!
-116150	Container loaded.
-116151	Cargo gathered!
-116152	Loading concluded!
-116153	Docking successful!
-116154	Object attached!
-116155	Ropes are fixed!
-116156	All delivered!
-116157	Unloading finished!
-116158	Unfasten crates!
-116160	Abandon ship!
-116161	Everybody off the ship!
-116162	All hands abandon ship!
-116163	Everybody outta here!
-116164	We're lost!
-116165	This area is off limits!
-116166	Increase security levels!
-116167	Ready defense systems!
-116168	You have entered a restricted area, leave immediately!
-116169	Identify yourselves!
-116170	Enemy movement detected!
-116172	All hands to General Quarters!
-116173	What's the objective?
-116174	We're on our guard.
-116175	Moving!
-116176	Understood!
-116178	Aye!
-116179	Destination confirmed!
-116180	Right away!
-116181	Goods delivered!
-116182	Shipment complete!
-116183	Discharging cargo!
-116185	Engaging.
-116186	Starting implementation!
-116187	Aye aye!
-116188	Brackets fixed!
-116189	Target attached.
-116190	Ready for towing!
-116196	Uncoupling!
-116197	Knots untied!
-116198	Target uncoupled!
-116199	We've been spotted!
-116200	We're busted!
-116201	We've been detected!
-116202	Awaiting target input.
-116203	Attack drone attached.
-116204	Assumindo controle.
-116205	Pronto para Conectar.
-116206	Conectando ao Setor.
-116207	Conexão on-line.
-116208	Coordenadas confirmadas!
+116143	Alvo adquirido!
+116144	Estações de batalha!
+116145	Livres para ação!
+116146	Abra fogo!
+116147	Sistemas de armas online!
+116148	Verde para seguir!
+116149	Todos à postos, engajar!
+116150	Contêiner carregado  
+116151	Carga reunida!
+116152	Carregamento concluído!
+116153	Atracamento bem-sucedido!
+116154	Objeto conectado!
+116155	Cordas estão fixadas!
+116156	Tudo entregue!
+116157	Descarregamento finalizado!
+116158	Desamarre as caixas!
+116160	Abandonar navio!
+116161	Todos fora do navio!
+116162	Todos abandonem o navio!
+116163	Todos para fora daqui!
+116164	Estamos perdidos!
+116165	Esta área é restrita!
+116166	Aumentar os níveis de segurança!
+116167	Sistemas de defesa prontos!
+116168	Vocês entraram em uma área restrita, saiam imediatamente!
+116169	Identifiquem-se!
+116170	Movimento inimigo detectado!
+116172	Todos à Postos de Batalha Geral!
+116173	Qual é o objetivo?
+116174	Estamos em guarda  
+116175	Movendo!
+116176	Entendido!
+116178	Sim!
+116179	Destino confirmado!
+116180	Imediatamente!
+116181	Mercadorias entregues!
+116182	Remessa concluída!
+116183	Descarregando carga!
+116185	Envolvendo  
+116186	Iniciando implementação!
+116187	Sim senhor!
+116188	Suportes consertados!
+116189	Alvo fixado  
+116190	Pronto para reboque!
+116196	Desacoplando!
+116197	Nós desatamos os nós!
+116198	Alvo desacoplado!
+116199	Fomos avistados!
+116200	Estamos encrencados!
+116201	Fomos detectados!
+116202	Aguardando entrada do alvo  
+116203	Drone de ataque anexado  
+116204	Assumindo controle  
+116205	Pronto para rastreamento  
+116206	Conectando ao dispositivo de rastreamento  
+116207	Sistemas de rastreamento online  
+116208	Coordenadas do alvo confirmadas!
 116209	Carregando protocolo de ataque!
 116210	Ordem de ataque confirmada!
-116211	Alvo destruído.
-116212	Alvo neutralizado.
-116213	Eliminado.
-116214	Target area reached! Searching for object.
-116215	Target object nearby. Refine search patterns.
-116216	Switching to redefined search pattern. Target object in vicinity.
-116217	Objectivo alcançado.
-116218	OObjeto foi detectado
-116219	Localização encontrada.
-116339	Nosso jeito!
-116268	Here comes a depression. So better resurrect your anoraks, folks. Some chilly winds blowing in from the Arctic Circle. Climate stabilizers, what would you do without them...
-116269	Thanks, Lloyd. For those who have just tuned in, I'm Lauren Beringer and this is "Global Warning" filling you in on what moves the world in 2205.
-116270	However, we're reaching out into orbit today. Live from the Moon we're linked to Virgil Drake, Executive Overseer of Mining for the Lunar Excavation Corp. Good morning, Mr. Drake.
-116271	Mr. Drake, as a member of the LEC, you live on the Moon 24/7. How do you view the relationship between Earth and the Moon a good century after the establishment of the first moon colony?
-116272	Hard words, coming from a member of a government-owned organization...
-116273	Mr. Drake, pardon me, but isn't it always easy to blame the government? The Global Union has to balance manifold interests. Take the Arctic Custodians. Their Climate Stabilizers preserve what's left of the polar regions...
-116274	Actually, the Global Union is now starting the Lunar Licensing Program, awarding Moon parcels to private corporations.
-116275	Indeed, the Big Five are at forefront of the Lunar Licensing Program. But don't you fear the LEC will fade into insignificance with competition like that?
-116276	Our time is up. Thank you for the interview, Mr. Drake.
-116277	Yes, the Lunar Licensing Program is currently the hottest topic around. We now go to our correspondent at Global Union headquarters.
-119936	Welcome to your Ark. My name is E.V.E., and I am an artificial intelligence. My systems are designed to assist you. You can trust me implicitly. Always!
-119937	Welcome to your Ark. My name is E.V.E., and I am an artificial intelligence. My systems are designed to assist you. You can trust me implicitly. Always!
-119938	Welcome to your Ark. My name is E.V.E., and I am an artificial intelligence. My systems are designed to assist you. You can trust me implicitly. Always!
-13000473	All objectives achieved. Congratulations.
-13000474	Mission objectives achieved. I am... Feeling... Something… Pride perhaps?
-13000475	All assignments completed. Efficiency: 100%. Congratulations!
-13000476	All parameters correct.
-13000477	Your course of action is correct.
-13000478	You have anticipated my recommendation.
-13000479	You are acting logically.
-13000480	Your conduct is appropriate.
-13000481	They are functioning error-free.
-13000482	All systems online.
-13000483	At your service.
-13000484	Communication systems online.
-13000485	How may I help you?
-13000486	What can I do for you?
-13000487	We are not compatible.
-13000488	Outcome unacceptable.
-13000489	Warning! Inadequate!
-13000490	Registering critical standard deviation.
-13000491	Your response is inappropriate.
-13000492	Your conduct check failed. Error code 404.
-13000493	I have not been programmed to tolerate you.
-13000494	Words are useless. Communication channels have been cut.
-13000495	Deactivating loud speaker system.
-13000496	First contact established. Data scan completed.
-13000497	Analysis of person-specific data completed.
-13000498	Archive scanned. Loading personal data.
-13000499	My prime directive is to support you. All systems are precisely tailored to your needs and I monitor all the relevant parameters continuously. You can trust me blindly.
-13000500	I am programmed to both adapt my data structure to meet the current situation and to continually optimize it. This means I learn - just like you.
-13000501	I'm not the only one of my kind. Every Ark has its own EVE. But my sisters and I are not linked. I think I sometimes --- feel --- loneliness.
-13000502	Process cancelled.
-13000503	Data transfer aborted.
-13000504	I do not understand.
-13000505	Receiving data for your current mission.
-13000506	Transfer of current mission data completed.
-13000507	Instructions received. Loading data in your display.
-13000508	Data log for mission objectives updated.
-13000509	Your current deployment data is ready.
-13000510	May I remind you of your assignment!?
-13000511	One of your tasks remains unfinished.
-13000512	Mission completed successfully. Congratulations.
-13000513	Intended outcome achieved. Mission completed.
-13000514	Mission failed. Running error analysis.
-13000515	You have lost. Shall I scan your mental condition?
-13000516	Mission failed. I am registering a feeling... Classification: Regret.
-13000517	Objective failed. Registering increased frustration values. Do you want to talk about it?
-13000518	Objectives not achieved. Recommending analysis and optimization of your course of action.
-13000519	Current mission parameters loaded.
-13000520	New mission data available.
-13000521	Current events require your deployment.
-13000522	New assignment received.
-13000523	Your assistance has been requested. Sending data.
-13000524	Confirming.
-13000525	Procedure verified.
-13000526	Authorization positive.
-13000527	Situation analyzed. Result confirmed.
-13000528	Registering illogical conduct!
-13000529	That is illogical.
-13000530	Warning! Incorrect behavior registered.
-13000531	Invalid procedure! Please correct!
+116211	Alvo destruído  
+116212	Alvo neutralizado  
+116213	Eliminado  
+116214	Área do alvo alcançada! Procurando objeto  
+116215	Objeto do alvo próximo  Refinar padrões de busca  
+116216	Mudando para padrão de busca redefinido  Objeto do alvo na proximidade  
+116217	Objetivo alcançado  
+116218	Objeto detectado com sucesso  
+116219	Localização do objeto encontrada  
+116339	A caminho!
+116268	Aqui vem uma depressão  Então melhor ressuscitar suas anoraks, pessoal  Ventos frios soprando do Círculo Ártico  Estabilizadores climáticos, o que faríamos sem eles    
+116269	Obrigado, Lloyd  Para aqueles que acabaram de chegar, eu sou Lauren Beringer e este é o "Alerta Global" te atualizando sobre o que move o mundo em 2205  
+116270	No entanto, estamos chegando ao espaço hoje  Ao vivo da Lua, estamos conectados a Virgil Drake, Supervisor Executivo de Mineração da Lunar Excavation Corp  Bom dia, Sr. Drake  
+116271	Sr. Drake, como membro da LEC, você vive na Lua 24/7  Como você vê a relação entre a Terra e a Lua um século após o estabelecimento da primeira colônia lunar?
+116272	Palavras duras, vindo de um membro de uma organização estatal    
+116273	Sr. Drake, me desculpe, mas não é sempre fácil culpar o governo? A União Global precisa equilibrar diversos interesses  Pegue os Guardiões do Ártico  Seus Estabilizadores Climáticos preservam o que resta das regiões polares    
+116274	Na verdade, a União Global está começando o Programa de Licenciamento Lunar, concedendo territórios lunares a corporações privadas  
+116275	De fato, os Cinco Grandes estão na vanguarda do Programa de Licenciamento Lunar  Mas você não teme que a LEC se torne insignificante com competição assim?
+116276	Nosso tempo acabou  Obrigado pela entrevista, Sr. Drake  
+116277	Sim, o Programa de Licenciamento Lunar é atualmente o tópico mais quente  Agora vamos para o nosso correspondente na sede da União Global  
+119936	Bem-vindo ao seu Arca. Meu nome é E.V.E. e eu sou uma inteligência artificial. Meus sistemas são projetados para ajudá-lo. Você pode confiar em mim implicitamente. Sempre!
+119937	Bem-vindo ao seu Arca. Meu nome é E.V.E. e eu sou uma inteligência artificial. Meus sistemas são projetados para ajudá-lo. Você pode confiar em mim implicitamente. Sempre!
+119938	Bem-vindo ao seu Arca. Meu nome é E.V.E. e eu sou uma inteligência artificial. Meus sistemas são projetados para ajudá-lo. Você pode confiar em mim implicitamente. Sempre!
+13000473	Todos os objetivos alcançados. Parabéns!
+13000474	Objetivos da missão alcançados. Eu estou... Sentindo... Algo... Orgulho talvez?
+13000475	Todas as atribuições concluídas. Eficiência: 100%. Parabéns!
+13000476	Todos os parâmetros corretos.
+13000477	Seu curso de ação está correto.
+13000478	Você antecipou minha recomendação.
+13000479	Você está agindo logicamente.
+13000480	Sua conduta é apropriada.
+13000481	Eles estão funcionando sem erros.
+13000482	Todos os sistemas online.
+13000483	Ao seu serviço.
+13000484	Sistemas de comunicação online.
+13000485	Como posso ajudar você?
+13000486	O que posso fazer por você?
+13000487	Nós não somos compatíveis.
+13000488	Resultado inaceitável.
+13000489	Aviso! Inadequado!
+13000490	Registrando desvio padrão crítico.
+13000491	Sua resposta é inapropriada.
+13000492	Sua verificação de conduta falhou. Código de erro 404.
+13000493	Eu não fui programado para tolerar você.
+13000494	Palavras são inúteis. Canais de comunicação foram cortados.
+13000495	Desativando sistema de alto-falantes.
+13000496	Primeiro contato estabelecido. Verificação de dados concluída.
+13000497	Análise de dados específicos da pessoa concluída.
+13000498	Arquivo escaneado. Carregando dados pessoais.
+13000499	Meu principal objetivo é apoiá-lo. Todos os sistemas são precisamente adaptados às suas necessidades e eu monitoro todos os parâmetros relevantes continuamente. Você pode confiar em mim cegamente.
+13000500	Sou programado para adaptar minha estrutura de dados para atender à situação atual e continuamente otimizá-la. Isso significa que eu aprendo - assim como você.
+13000501	Eu não sou a única do meu tipo. Cada Arca tem sua própria EVE. Mas minhas irmãs e eu não estamos conectadas. Eu acho que às vezes sinto... solidão.
+13000502	Processo cancelado.
+13000503	Transferência de dados abortada.
+13000504	Eu não entendo.
+13000505	Recebendo dados para sua missão atual.
+13000506	Transferência de dados da missão atual concluída.
+13000507	Instruções recebidas. Carregando dados em seu visor.
+13000508	Log de dados para objetivos da missão atualizado.
+13000509	Seus dados de implantação atual estão prontos.
+13000510	Posso lembrá-lo de sua missão!?
+13000511	Uma de suas tarefas permanece inacabada.
+13000512	Missão concluída com sucesso. Parabéns.
+13000513	Resultado pretendido alcançado. Missão concluída.
+13000514	Missão falhou. Executando análise de erro.
+13000515	Você perdeu. Devo escanear sua condição mental?
+13000516	Missão falhou. Estou registrando um sentimento... Classificação: Arrependimento.
+13000517	Objetivo falhou. Registrando valores aumentados de frustração. Você quer conversar sobre isso?
+13000518	Objetivos não alcançados. Recomendando análise e otimização de seu curso de ação.
+13000519	Parâmetros de missão atuais carregados.
+13000520	Novos dados de missão disponíveis.
+13000521	Eventos atuais requerem sua implantação.
+13000522	Nova atribuição recebida.
+13000523	Sua assistência foi solicitada. Enviando dados.
+13000524	Confirmando.
+13000525	Procedimento verificado.
+13000526	Autorização positiva.
+13000527	Situação analisada. Resultado confirmado.
+13000528	Registrando conduta ilógica!
+13000529	Isso é ilógico.
+13000530	Aviso! Comportamento incorreto registrado.
+13000531	Procedimento inválido! Por favor, corrija!
 109065	Ibarra-FoxCom
-109066	Research Manager
+109066	Gerente de Pesquisa
 109074	Eletrônicos
-109088	Ibarra-FoxCom é conhecida no mundo todo pelos comerciantes. Com duas suas duas corporaçãos a Ibarra-FoxCom juntou sua experiencia em eletrônica para ser o maior fornecedor de tecnologia da Terra: a maioria dos robôs domésticos, sistemas de comunicação e bio preparações modernas traz o nome Ibarra-FoxCom
+109088	Ibarra-FoxCom é bem conhecida pelos consumidores em todo o globo. Composta por duas empresas separadas, a liderança dupla da Ibarra-FoxCom decidiu unir sua experiência em eletrônicos para formar o maior provedor de tecnologia cotidiana da Terra: A maioria dos robôs domésticos, sistemas de comunicação e preparações biológicas modernas têm o selo da Ibarra-FoxCom.
 109075	Cassian Industries
 109076	Assistente do Vice-Presidente
-109077	Industria Pesada
-109261	O principal fornecedor de recursos naturais e produtos da indústria pesada, Cassian Industries é um dos pilares do comércio global. Cassian é conhecida por suas políticas corporaçãoriais intransigentes. Isso os levou a um caminho de sucesso, mas também de isolamento. Hoje, ela coloca mais fundos em seu próprio programa espacial do que qualquer outra corporação.
-109078	Usoyev Inc.
+109077	Indústria Pesada
+109261	Como a principal provedora de recursos naturais e produtos de indústria pesada, a Cassian Industries é um dos pilares do comércio global. A Cassian é conhecida por suas políticas comerciais inflexíveis. Isso os levou a um caminho de sucesso, mas também de isolamento. Hoje, a Cassian Industries investe mais fundos em seu programa espacial do que qualquer outra megacorporação.
+109078	Usoyev Inc
 109079	Consultor
 109080	Biotecnologia
-109272	Usoyev Inc. é uma corporação tradicional, com quatro gerações de sucesso corporativo que continua atualizada. Mas isso pode mudar em pouco tempo. O antigo programa químico simplesmente não consegue sair do chão e a palavra diz que sua presença nas últimas plataformas de petróleo do Ártico é mais do que questionável.
+109272	A Usoyev Inc se orgulha de ser um empreendimento tradicional, olhando para quatro gerações de sucesso corporativo contínuo sem mostrar sinais de velhice. No entanto, isso pode mudar em breve. O antigo programa espacial do grupo químico simplesmente não consegue decolar e há rumores de que sua presença nas últimas plataformas de petróleo do Ártico é mais do que questionável.
 109081	Lei Sheng
 109082	Chefe de Inteligência
 109083	Energia
-109273	A queda da Global Trust há cinqüenta anos atrás levou a um escarceis de fornecimento de energia que Lei Sheng sabia como preencher.
+109273	Uma vez um dos principais atores no palco corporativo, Lei Sheng tem sido azarado por um bom tempo. Certamente, a queda da Global Trust há cinquenta anos atrás levou a um vácuo no fornecimento de energia que Lei Sheng soube preencher. Mas a corporação de energia tem descansado por muito tempo nesses sucessos passados e agora tem dificuldade em acompanhar o ritmo.
 109084	Saayman International
-109085	Diretor de Assuntos Externos
+109085	Oficial de Relações Externas
 109087	Agricultura
-109287	Praticamente não existe nenhuma empresa com uma reputação tão elevada quanto a Saayman International. De uma associação de empresas rurais, Saayman cresceu e se tornou uma gigante da alimentação que hoje fornece alimentos diários para uma porcentagem considerável da população mundial. Saayman se tornou uma potência mundial por caminhos próprios, e as ambições da empresa não são apenas econômicas, mas também políticas.
-113969	Trabalho de Alto Risco
-113970	Complete a Fase 1 do Programa de Licenciamento Lunar.
+109287	Dificilmente há uma empresa por aí que seja mais respeitada do que a Saayman International. De uma pequena associação de empresas agrícolas, a Saayman cresceu para se tornar um gigante alimentício que agora fornece uma porcentagem considerável da população global com seu pão diário. A Saayman se tornou uma potência mundial por direito próprio e as ambições da corporação são políticas, assim como econômicas.
+113969	Ato de Equilíbrio
+113970	Completar a Fase 1 do Programa de Licenciamento Lunar
 113971	A Segunda Onda
-113972	Complete Phase 2 of the Lunar Licensing Program.
-113975	Energia ilimitada
-113974	Complete Phase 3 of the Lunar Licensing Program.
-114437	Uma questão para o chefe
-114438	Complete 10 optional Assignments.
-114439	A Company of Good Record
-114440	Complete 100 optional Assignments.
-115339	Emergency Aid
-115340	Complete 10 optional Assignments in events.
-114443	Good Fellows
-114444	Complete 10 Assignments for Nic Papadakis.
-114445	Outsider Appeal
-114446	Complete 10 Assignments for Ville Jorgensen.
-114447	Counter Revolutionist
-114448	Complete 10 Assignments for Zandra Haynes.
-115292	Dam Right!
-115293	Complete the sector project in Walbruck Basin.
-115300	To Trace an Ark
-115308	Complete the sector project in Cape Ambar.
-115299	Carved In Concrete
-115309	Complete the sector project in Viridian Coves.
-115298	Change Gonna Come
-115310	Complete the sector project at in Akia Floes.
-115297	Striking Oil
-115311	Complete the sector project in Ikkuma Glacier.
-115301	A New Path
-115312	Complete the sector project in Kinngait Protectorate.
-115303	A Safe Place
-115313	Complete the sector project in Novikov Crater.
-115304	Meteoric Rise
-115314	Complete the sector project in Iwamoto Crater.
-115305	Enjoy Your Stay!
-115315	Complete the sector project in Mare Relictum.
-116665	Project Manager
-116666	Complete the sector projects in all sectors of the basic game.
-116667	Research Assistant
-116668	Complete 10 Assignments for Dr. Eleanor Hofwegen.
-116669	Preferential Relations
-116670	Complete 10 Assignments for Aidan Bhargava.
+113972	Completar a Fase 2 do Programa de Licenciamento Lunar
+113975	Energia Ilimitada
+113974	Completar a Fase 3 do Programa de Licenciamento Lunar
+114437	Uma Questão Para o Chefe
+114438	Completar 10 Tarefas Opcionais
+114439	Uma Empresa de Bom Histórico
+114440	Completar 100 Tarefas Opcionais
+115339	Ajuda de Emergência
+115340	Completar 10 Tarefas Opcionais em Eventos
+114443	Bons Amigos
+114444	Completar 10 Tarefas para Nic Papadakis
+114445	Apego de Estrangeiros
+114446	Completar 10 Tarefas para Ville Jorgensen
+114447	Revolucionário Contra
+114448	Completar 10 Tarefas para Zandra Haynes
+115292	Maldita Certa!
+115293	Completar o projeto de setor na Bacia de Walbruck
+115300	Para Traçar um Arca
+115308	Completar o projeto de setor em Cape Ambar
+115299	Cinzelado em Concreto
+115309	Completar o projeto de setor em Enseadas Viridianas
+115298	Mudança Vai Chegar
+115310	Completar o projeto de setor em Floes Akia
+115297	Atingindo Petróleo
+115311	Completar o projeto de setor em Glaciar Ikkuma
+115301	Um Novo Caminho
+115312	Completar o projeto de setor no Protetorado Kinngait
+115303	Um Lugar Seguro
+115313	Completar o projeto de setor na Cratera Novikov
+115304	Ascensão Meteórica
+115314	Completar o projeto de setor na Cratera Iwamoto
+115305	Aproveite Sua Estadia!
+115315	Completar o projeto de setor no Mare Relictum
+116665	Gerente de Projeto
+116666	Completar os projetos de setor em todos os setores do jogo básico
+116667	Assistente de Pesquisa
+116668	Completar 10 Tarefas para a Dra. Eleanor Hofwegen
+116669	Relações Preferenciais
+116670	Completar 10 Tarefas para Aidan Bhargava
 116671	Amicus Ex Machina
-116672	Complete 10 Assignments for Luca Volodin.
-116673	On the Lookout
-116674	Complete 10 Assignments for May Tian.
-116675	Power Broker
-116676	Complete 10 Assignments for Emem Buhari.
-116677	Don't Expect A Smile
-116678	Complete 10 Assignments for John Rafferty.
-116679	Agent of Unknown Powers
-116680	Complete 10 Assignments for the Mysterious Woman.
-116681	Don't Expect Thanks
-116682	Complete 10 Assignments for Dr. Howard Young.
-116683	Mingling Manager
-116684	Foil 10 of Virgil Drake's plans.
-117806	Nope
-117807	Abort 100 optional Assignments.
-116616	Business Friends
-116618	Trade with Nic Papadakis.
-116619	New Markets
-116620	Trade with Ville Jorgensen.
-116621	While Stocks Last
-116622	Trade with Zandra Haynes.
-114399	Supply And Demand
-114400	Gain 10,000 credits from traders.
-114401	Expense Is No Object
-114402	Spend 1,000,000 credits with traders.
-114403	Delivered On-Site
-114404	Create a Transfer Route between temperate sectors.
-114405	Interpolar Express
-114406	Create a Transfer Route from or to an Arctic sector.
-114407	Hauling At The Moon
-114408	Create a Transfer Route from or to a lunar sector.
-114409	Always On Schedule
-114410	Run 25 Transfer Routes.
-114411	Brain Drain
-114412	Create 5 routes for Neuro Implants.
-114414	Energy Turnaround
-114413	Set up an energy Transfer Route.
-114415	A Popular Brand
-114416	Set up a trade route that turns +1,000 credits profit.
-116623	World Export Champion
-116624	Have at least one incoming and one outgoing route in every sector of the basic game.
-116625	Global Player
-116626	Trade with the World Market.
-116653	Sales Oriented
-116654	Gain a credit balance of 1,000 from a single world market route.
-116655	Below Value
-116656	Spend a credit balance of 1,000 on a single world market route.
-116657	Rainmaker
-116658	Gain a credit balance of 10,000 from all your world market routes.
-116659	Wildcatter
-116660	Spend a credit balance of 10,000 over all your world market routes.
-117808	Orders Are Orders
-117809	Transfer oxygen from the Moon to a temperate sector.
-117810	Save the Arctic, Send Ice
-117811	Transfer ice from the Moon to an arctic sector.
-114419	Naval Power
-114420	Have a fleet with the maximum number of ships.
-116504	Diving Expedition
-116505	Lose 10 ships.
-114421	Terror of the Seas
-114422	Destroy 100 enemy vehicles.
-114423	Neptune's Wrath
-114424	Destroy 1,000 enemy vehicles.
-114425	Under Arms
-114426	Complete an Crisis Sector in the Temperate region on standard difficulty.
-114427	Battlewise
-114428	Complete an Crisis Sector in the Temperate region on advanced difficulty.
-114429	Bemedalled
-114430	Complete an Crisis Sector in the Temperate region on expert difficulty.
-114431	Winter Soldier
-114432	Complete an Crisis Sector in the Arctic region on standard difficulty.
-114433	Cold Blood
-114434	Complete an Crisis Sector in the Arctic region on advanced difficulty.
-114435	No White Flags
-114436	Complete an Crisis Sector in the Arctic region on expert difficulty.
-116663	War Hero
-116664	Clear all basic Crisis Sectors on all difficulty levels.
-117345	Drake's Revenge
-117346	Lose a Crisis Sector.
-117476	Full Service
-117477	Clear a Crisis Sector with all optional Assignments.
-117812	Brute Force
-117813	Clear a Crisis Sector without using special actions.
-117814	Demolition
-117815	Destroy all rare material storages in a crisis sector after unlocking Magnetite.
+116672	Completar 10 Tarefas para Luca Volodin
+116673	De Olho
+116674	Completar 10 Tarefas para May Tian
+116675	Corretor de Poder
+116676	Completar 10 Tarefas para Emem Buhari
+116677	Não Espere um Sorriso
+116678	Completar 10 Tarefas para John Rafferty
+116679	Agente de Poderes Desconhecidos
+116680	Completar 10 Tarefas para a Mulher Misteriosa
+116681	Não Espere Agradecimentos
+116682	Completar 10 Tarefas para o Dr. Howard Young
+116683	Gerente de Integração
+116684	Arruinar 10 dos planos de Virgil Drake
+117806	Não
+117807	Abortar 100 Tarefas Opcionais
+116616	Amigos de Negócios
+116618	Negocie com Nic Papadakis
+116619	Novos Mercados
+116620	Negocie com Ville Jorgensen
+116621	Enquanto Durarem os Estoques
+116622	Negocie com Zandra Haynes
+114399	Oferta e Demanda
+114400	Ganhe 10.000 créditos com comerciantes
+114401	Despesas Não São um Problema
+114402	Gaste 1.000.000 de créditos com comerciantes
+114403	Entregue no Local
+114404	Crie uma Rota de Transferência entre setores temperados
+114405	Expresso Interpolar
+114406	Crie uma Rota de Transferência de ou para um setor Ártico
+114407	Transportando na Lua
+114408	Crie uma Rota de Transferência de ou para um setor lunar
+114409	Sempre no Prazo
+114410	Executar 25 Rotas de Transferência  
+114411	Drenagem Cerebral
+114412	Criar 5 rotas para Neuro Implantes  
+114414	Virada de Energia
+114413	Configurar uma Rota de Transferência de Energia  
+114415	Uma Marca Popular
+114416	Configurar uma rota comercial que gera lucro de +1.000 créditos  
+116623	Campeão Mundial de Exportação
+116624	Ter pelo menos uma rota de entrada e uma de saída em todos os setores do jogo básico  
+116625	Jogador Global
+116626	Negociar com o Mercado Mundial  
+116653	Orientado para Vendas
+116654	Obter um saldo de crédito de 1000 de uma única rota do mercado mundial  
+116655	Abaixo do Valor
+116656	Gastar um saldo de crédito de 1000 em uma única rota do mercado mundial  
+116657	Chuva de Dinheiro
+116658	Obter um saldo de crédito de 10000 de todas as suas rotas no mercado mundial  
+116659	Desbravador
+116660	Gastar um saldo de crédito de 10000 em todas as suas rotas no mercado mundial  
+117808	Ordens são Ordens
+117809	Transferir oxigênio da Lua para um setor temperado  
+117810	Salvar o Ártico, Enviar Gelo
+117811	Transferir gelo da Lua para um setor ártico  
+114419	Poder Naval
+114420	Ter uma frota com o número máximo de navios  
+116504	Expedição de Mergulho
+116505	Perder 10 navios  
+114421	Terror dos Mares
+114422	Destruir 100 veículos inimigos  
+114423	Fúria de Netuno
+114424	Destruir 1.000 veículos inimigos  
+114425	Sob as Armas
+114426	Completar um Setor de Crise na região Temperada em dificuldade padrão  
+114427	Estrategista de Batalha
+114428	Completar um Setor de Crise na região Temperada em dificuldade avançada  
+114429	Com Medalhas
+114430	Completar um Setor de Crise na região Temperada em dificuldade expert  
+114431	Soldado de Inverno
+114432	Completar um Setor de Crise na região Ártica em dificuldade padrão  
+114433	Sangue Frio
+114434	Completar um Setor de Crise na região Ártica em dificuldade avançada  
+114435	Sem Bandeiras Brancas
+114436	Completar um Setor de Crise na região Ártica em dificuldade expert  
+116663	Herói de Guerra
+116664	Limpar todos os Setores de Crise básicos em todos os níveis de dificuldade  
+117345	Vingança de Drake
+117346	Perder um Setor de Crise  
+117476	Serviço Completo
+117477	Limpar um Setor de Crise com todas as Tarefas opcionais  
+117812	Força Bruta
+117813	Limpar um Setor de Crise sem usar ações especiais  
+117814	Demolição
+117815	Destruir todos os depósitos de materiais raros em um setor de crise após desbloquear a Magnetita  
 117992	Titanic
-117993	Lose all eight ships in a crisis sector.
-108605	Ring the Till
-108604	Have a credit balance of +1,000.
-113932	Chief Economist
-113931	Have a credit balance of +10,000.
-114387	My First Million
-114388	Attain a credit balance of +1,000,000.
-114389	Closing the Circuit
-114390	Produce +1,000 energy in a single sector.
-114391	In Machina
-114392	Produce Androids.
-114393	Quantum Leap
-114394	Produce Quantum Computers.
-114395	Walk Like a Lunarian
-114396	Produce Gravity Fields.
-118335	Earl Grey, Hot
-118336	Produce Replicators.
-114397	Thirst Quencher
-114398	Produce 250 Water in a sector.
-116524	This Is... Luna!
-116525	Have a workforce of 300 on the Moon.
-117819	Entertainment Pioneers
-117820	Choose a special corporation name.
-117821	Biotecnología Pioneers
-117822	Choose a special corporation name.
-117823	A.I. Pioneers
+117993	Perder todas as oito naves em um setor de crise  
+108605	Tocar o Caixa
+108604	Ter um saldo de crédito de +1000  
+113932	Chefe Economista
+113931	Ter um saldo de crédito de +10000  
+114387	Meu Primeiro Milhão
+114388	Alcançar um saldo de crédito de +1000.000  
+114389	Fechando o Circuito
+114390	Produzir +1.000 de energia em um único setor  
+114391	Em Machina
+114392	Produzir Androides  
+114393	Salto Quântico
+114394	Produzir Computadores Quânticos  
+114395	Andar como um Lunariano
+114396	Produzir Campos Gravitacionais  
+118335	Earl Grey, Quente
+118336	Produzir Replicadores  
+114397	Saciador de Sede
+114398	Produzir 250 de Água em um setor  
+116524	Isso é Lua!
+116525	Ter uma força de trabalho de 300 na Lua  
+117819	Pioneiros do Entretenimento
+117820	Escolher um nome especial para a corporação  
+117821	Pioneiros Biotecnológicos
+117822	Escolher um nome especial para a corporação  
+117823	Pioneiros em AI
