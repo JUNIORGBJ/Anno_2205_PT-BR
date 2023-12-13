@@ -76,241 +76,241 @@
 117589	Eu sabia que seria um projeto monumental. Mas ver milhares de pessoas em toda a órbita trabalhando com o mesmo objetivo... é simplesmente incrível.
 117590	O aprimoramento duplo é a última novidade na Terra. E fomenta muito a diversidade da humanidade. É fascinante ver como nosso conceito de beleza pode mudar em um segundo.
 117591	Um terno para qualquer ocasião. Modifique sua textura, espessura, cor, estilo... Este é o futuro, sem dúvida.
-117592	Meat? From real animals? Well, there will be people who view this as a luxury. But others will see it as overly decadent.
-117594	Oh yes, this will decongest the Aeromobile traffic a little. The skylanes are way too crowded as it is.
-117595	I see, you've won enough investors over to your cause. The funding of your new energy transmission project should be taken care of now.
-117597	You're making headway. That's good. The successful start of the transmitters will decide if the Lunar Licensing Program lives up to the hopes put in it.
-117599	She will call in a return for her services one day. But what matters is, you dealt Drake a heavy blow. He will recover from it, no doubt. But for now, we have the advantage. And we should use it!
-117600	The lack of reliable energy sources is Earth's greatest weakness. Especially in conflicted times like ours. But you hold the key for a peaceful future. The Lunar Licensing Program is about to be completed.
-117601	One last point remains on my project plan. And that is to thank you! For all you've done for humanity! You're the forerunner of a new era of prosperity!
-119697	Each one of Virgil Drake's schemes you stop brings us closer to a peaceful colonization of the Moon. Keep it up.
-119698	Just got the word! The Orbital Watch... they're taking concerted actions all over the globe. Attacking the Union's energy grid. But I activated an... old contact of mine. If anyone can find out what's really going on, it's her.
-117627	The Union has great plans! Your corporation will become the government-accredited provider of lunar resources. And as a sign of gratitude, you're given building permits for a corporate headquarter of your choice.
-117628	Your stocks are going through the roof! Every financier on Earth has to consider putting his money into your company. They would be shortsighted if they didn't.
-117629	A device reassembling material at will. Technology like this would not have been possible, if you hadn't provided us an infinite source of energy.
-117630	Human-like robots will raise the living standard on Earth considerably. And they can work in areas hostile to life. Outer space for example.
-117631	Incredible! These computers... we can't even estimate their full potential yet. But they will be indispensable for humanity's future projects.
-117632	This technology is small-scale now. But if you think it big... it could empower humanity to travel great distances through space.
-117633	A true architectural marvel! No longer can there be a doubt. The Big Five are history. Now, we have to speak of the Big Six!
-117634	But I've known long enough to say, that this isn't the end of the road for you. I'm sure you already have plans how to surpass yourself even more!
-117635	You always go the extra mile. That's why your competitors are so far behind you. And that's why we want you for our next project!
-117636	Great! You always seek to rise for new heights! And soon you will have the opportunity to travel to even higher spheres, so to speak!
-117637	Marvellous! I'd call it the 8th wonder of the world, but that would fall short.
-117638	You are the limit! When I first met you, I already knew you would go places. And indeed, you went to the Moon and back. In all sincerity: I feel honored having worked with you! And I'm looking forward for the things that are to come!
-117641	Drake! Whenever you think you have a moment to catch a breath, he creeps out of his lair. But I've had it with all the hide and seek. It's time to strike back.
-117642	Drake! If you think you have a moment to catch a breath... I got word he's sending his battleships all over the globe. They use devastating weapons, like we've never seen them.
-117643	It's way off the official procedures. But I activated an... old contact of mine. If anyone can find out where Drake hides, it's her.
-117644	It's way off the official procedures. But I activated an... old contact of mine. She knows where Drake is hiding. And she's willing to infiltrate his facilities, to find out what he's planning.
-117645	She will call in a return for her services one day. But what matters is, you've pulled Drake's claws. He will recover from it, no doubt. But for now, our people on Earth and on the Moon can have peace of mind.
-117646	And you don't have to worry about the Orbital Watch messing with your projects. I'm sure you've already planned how to crown your previous achievements.
-115978	We need your assistance! Privateers have hijacked our cargo ships in this sector! Please, don't hesitate.
-115979	The attackers came out of nowhere. We have to make sure that the crews of our ships remain safe! Secure this sector!
-115980	Transports have been hijacked in this sector. Rescuing them is your number one priority!
-115981	Extremists have brought this sector under their control! We will have to act carefully, if we want to take it back!
-115982	Don't let your guard down. Hostile ships patrol these waters. But it's critical we reclaim this sector.
-115983	These radicals are a menace to international peace. You are given permission to stop them by all means necessary.
-115987	You alleviated the situation. Thank you.
-115988	Well done! You found the appropriate response to this threat!
-115989	You prevented the situation from escalating further. Thank you.
-115993	You had to pull back. Anything else would have been unwise.
-115994	Your strategic withdrawl was the right decision. Nothing more we can do now.
-115995	Unfortunately, sometimes defense is better than offense.
-115996	Please, don't waste time! The people on those ships are depending on you!
-115997	That wasn't the last of the seized ships. Don't let the others down!
-115998	This one is free. But these extremists are threatening even more ships.
-115999	You have my support in what is to come.
-116000	We need to press onward.
-116001	Let's not wait too long. The situation demands your intervention.
-116229	We've detected valuable goods.
-116230	These will be of use to you.
-116234	Reel these in.
-116256	Don't hesitate!
-116257	Time to engage them.
-116258	There they are!
-116259	Only one course of action.
-116260	This is my advice.
-116261	I've transmitted information.
-111021	Great!
-111022	An unprecedented success.
-111023	A resounding success!
-111024	I'm sure that will prove popular.
-111025	Outstanding performance!
-111026	Good job!
-111027	A total success!
-111028	Groundbreaking!
-111029	I'm impressed!
-111030	There just aren't enough words.
-111031	I'm happy that's not a factor anymore.
-111032	Good. Nothing left to impede our progress now.
-111033	I'm pleased to see the end of this matter, once and for all.
-111034	You're an inspiration to us all!
-111037	Your dedication is unrivalled!
-111038	You surprise me, again and again.
-111039	That's why I brought you into the Program!
-111040	Many owe you a vote of thanks!
-111042	That will win you high praise. And rightly so.
-111043	We're honored by your dedication.
-111045	So this will continue to preoccupy us.
-111046	Well, things can only get better from here on in.
-111047	That's a setback.
-111049	Today's a black day.
-111050	There's nothing to sugarcoat.
-111052	Of all things...
-111053	[Sigh] That is bad news.
-111054	I never advised you to do that.
-111055	Please, don't tell me that was your idea.
-111057	That's something you can't simply explain away.
-111058	You really considered this necessary?
-111059	You know, this will become highly political.
-111060	Let's face the facts. You messed up.
-111062	Look at it this way, at least there'll be other projects.
-111063	Can I be honest? That wasn't your best decision.
-111064	Welcome to the central office.
-111065	Yes? Is there something you wanted to ask?
-111066	Come in and have a look at the current directives.
-111067	Of course I can spare some time.
-111068	Oh, hello. Is there something we need to discuss?
-111069	Welcome. Do you need some information?
-111070	Did you want to bring something to our attention?
-111072	Please direct your attention to this.
-111073	Always good to see you.
-111074	Thanks for conferring with me.
-111075	I'll get everything started.
-111076	I'll delegate that matter.
-111077	Certainly.
-111078	I'll push it through.
-111079	I'll make every effort.
-111080	You can count on me.
-111081	Let me take care of that for you.
-111082	I'm grateful for your trust.
-111083	You can consider it done.
-111084	I won't let you down.
-111086	I'm afraid my hands are tied.
-111087	That's above my paygrade.
-111088	I'm afraid I'm not allowed to.
-111089	Our directives forbid me to interfere in such matters.
-111090	Too many of our stakeholders are not fully convinced.
-111091	I cannot bend the rules for you in this case.
-111092	Sorry, you'll have to do without me this time.
-111093	I appreciate your trust, but you overestimate my influence.
-111094	I'm sorry, but I can't give you preference in such matters.
-111095	I was told not to support you in this.
-111096	We'd like to close the file on this matter.
-111097	I took the liberty of recommending you for this project.
-111098	We need your help.
-111099	We have a request. Nothing you can't do.
-111100	The Ministry voted on it. They didn't want anyone else to do the job!
-111101	We're seeking reliable partners. How about you?
-111102	An official request. Only if your time allows.
-111103	What do you think? Can we still fit this into your schedule?
-111104	Many thanks! That was a great help.
-111105	I can always count on you, that's for sure.
-111106	Without a hitch. You are exceptional!
-111107	This only proves once more why I selected you for the program!
-111108	My friends in the company are over the Moon!
-111109	As I thought. You know how to handle situations like that.
-111110	If only things went this efficiently in the Senate.
-111111	You deserve my heartfelt thanks!
-111112	The best-laid plans often go astray, so it's said.
-111113	We speak of "insurmountable difficulties" in a case like this.
-111114	I'm afraid a lot of confidence has been lost.
-111139	Many were relying on you.
-111140	I'm sure you have your reasons.
-111141	I understand. The time isn't right.
-111115	So, how much progress have you made?
-111116	Are we still on track?
-111117	I don't want to rush you, but...
-111119	Let me know when you're ready.
-111120	I'm sure everything is going according to plan, right?
-111121	The people in my company are on edge as it is.
-111122	Any new developments?
-111123	That is what was requested.
-111124	According to the order form, this is relevant for us.
-111125	You found it!
-111126	Yes, this is part of the assignment.
-111127	Everything is where you suspected it would be...
-111128	There it is.
-111129	You spotted it.
-111130	Well. You certainly had no difficulties finding that.
-111131	Yes, that's the location.
-111133	Yes, that's the location specified.
-111134	Exactly, this is where you have to go.
-111135	You're on the right track.
-111136	Don't wait too long to go there.
-111137	Are you ready to head over there?
-111138	Shouldn't take too long to reach this spot.
-111142	Great! But things have gotten a bit complicated...
-111143	That's phase 1 completed. Now on to phase 2.
-111144	Thanks! But I'm afraid that's not the end of it...
-111146	My superiors are impressed. They have an immediate follow-up assignment for you.
-111147	We have authorized you to take military action.
-111148	Global Union gave the green light. You have to intervene out there!
-111149	Let's hope for the best. But when dealing with the Orbital Watch we should prepare for the worst.
-111150	I'm afraid it's time for the ugly side of politics.
-111151	The Global Union demands you demonstrate a strong presence out there!
-111152	You did what had to be done. Thanks.
-111153	I'm glad you averted the worst.
-111154	That was very courageous of you.
-115984	All of the ships are safe. Thank you for your courageous intervention!
-115985	Thank you. The crews and cargo are back to safety.
-115986	Just in time! Who knows what they would have done with our ships!
-111155	So many lives...
-111156	I'm glad you're OK at least. That could have ended differently.
-111157	I think we have to boost our military budget even more.
-115990	Their control over the ships was too great. You did what you could.
-115991	A regrettable conclusion to a rescue mission. I wonder if we could've done more.
-115992	We have to face the facts. Those ships are lost.
-111231	Aidan would've been ousted long ago, if it weren't for your constant help.
-111232	Be careful of doing too much business with Cassian! Maybe the upcoming merger they're constantly talking of involves your corporation.
-111227	Have you ever spoken to this mysterious superior Aidan keeps mentioning? Acting through intermediaries seems to be Cassian's way of avoiding any liabilities.
-111228	I don't think Aidan has the power to make many decisions on his own. That might help you avoid any Cassian interference in your business.
-111229	Cassian Industries has big ambitions for the Moon. They could become your foremost rivals for the mining grounds there.
-111230	Cassian Industries is known for its ruthless business policies. Stay on your guard.
-111225	Cassian Industries is the world's foremost provider of mining and heavy industry services. Cooperation could be beneficial.
-111226	Cassian Industries is known for dismissing employees when they become difficult. I hope it's not the same with business partners.
-111223	Ibarra-FoxCom claims to be the technology experts. Yet they always turn to you in the end.
-111224	You're always at the front of the line for Hofwegen's tests. But as long as it gets you results...
-111219	I hope Dr. Hofwegen lives up to her title. Don't let her burn your assets for some daydreams.
-111220	Dr. Hofwegen certainly is enthusiastic about her field. Channel that enthusiasm to where it benefits your corporation most.
-111221	You'd better stay away from Hofwegen's unauthorized field studies. They could potentially hurt your reputation.
-111222	Smart move! You've benefited enormously from Ibarra-FoxCom's projects.
-111217	Dr. Hofwegen is a genius in applied robotics. Working with her won't hurt.
-111218	Ibarra-FoxCom... A big name in robotics and bio-computers. And now they know your corporation as well.
-111215	Rafferty is quite the do-it-yourself kind of guy. But he seems to trust you.
-111216	Rafferty occasionally has some strange ideas. But he also has you to make them reality.
-111211	And here I thought Rafferty mostly kept to himself. Thought wrong, obviously.
-111212	I can't help it, I like that old guy.
-111213	Another assignment from Rafferty? I'm sure the Union refused it before he came to you.
-111214	You've helped Rafferty a great deal recently. I hope he at least thanks you.
-111209	And he didn't even yell at you. He must be in a good mood.
-111210	Believe me, if Rafferty asks for something, he's in real trouble.
-111207	I'm curious. In all the time you worked together... Did you ever get her real name?
-111208	Whatever her agenda... I'm sure you helped her out.
-111203	That's quite a few commitments you made to her. Stay on your guard.
-111204	When she offers us an Assignment, I always have the feeling she's not telling the whole story.
-111205	I hope she hasn't learned too much about your company already.
-111206	It's not that I don't trust her. I just don't know what she's capable of.
-111201	I know, her offers are inviting. But you should be careful around her.
-111202	It's true, sometimes you have to turn to the fringes to get something done.
-111199	Seeing you defy the Orbital Watch so often... I truly believe the Moon will be safe one day.
-111200	Virgil Drake must be infuriated at all your accomplishments. I like that idea. I really do.
-111195	The Orbital Watch is a danger to global peace. I'm glad you're dealing with this problem.
-111196	Virgil Drake is a dangerous man. But you'll put him in his place.
-111197	Each time you stop one of Virgil Drake's schemes you bring us closer to a peaceful colonization of the Moon. Keep it up!
-111198	Keep it up! Let justice prevail!
-111193	I see. You've decided to go head-to-head with the Orbital Watch.
-111194	Very good! Show Virgil Drake he doesn't have free rein here.
-111183	After all your help you must have improved the lives of countless LEC survivors.
-111184	Be careful! Drake must be furious, after seeing how well you and Zandra have cooperated so far.
-111179	She's hunted and destitute, and yet she still manages to give something back for our help. One more reason to support her.
-111180	If your actions helped at least a few of the LEC survivors it was well worth it.
-111181	This woman is surrounded by enemies, but just keeps going. She'll be a valuable ally in the conflicts to come.
-111182	We shouldn't give up on the LEC just yet. Zandra and her survivors will have to rely on you for support.
-111177	I appreciate your decision. It's true, the fugitives must be helped.
-111178	Zandra Haynes is our best chance to stay ahead of the Orbital Watch. We should stay in touch.
-111175	I wonder, after all your deals with Jorgensen... Did his business even grow?
-111176	You have to hand it to Jorgensen... without him, the colonization of the Arctic would have been much more difficult.
-111171	Jorgensen's idea of regular transport routes between the temperate and polar regions... I think it's worth supporting.
-111172	I like Jorgensen. He's... well, he's easy to deal with.
-111173	Bringing trade and commerce to the polar region. Jorgensen will be dependent on your support in this endeavour.
-111174	Jorgensen sure isn't popular with his own people. I hope that doesn't reflect badly on us.
+117592	Carne? De animais reais? Bem, haverá pessoas que verão isso como um luxo Mas outros o considerarão excessivamente decadente
+117594	Ah sim, isso vai desafogar um pouco o tráfego de aeromóveis As rotas aéreas estão muito congestionadas como estão
+117595	Vejo que você conquistou investidores suficientes para a sua causa O financiamento do seu novo projeto de transmissão de energia deve estar resolvido agora
+117597	Você está progredindo Isso é bom O início bem-sucedido dos transmissores decidirá se o Programa de Licenciamento Lunar corresponde às esperanças nele depositadas
+117599	Um dia ela vai cobrar pelos serviços prestados Mas o que importa é que você deu um golpe pesado em Drake Ele vai se recuperar, sem dúvida Mas por enquanto, temos a vantagem E devemos usá-la!
+117600	A falta de fontes de energia confiáveis é a maior fraqueza da Terra Especialmente em tempos conflituosos como os nossos Mas você detém a chave para um futuro pacífico O Programa de Licenciamento Lunar está prestes a ser concluído
+117601	Um último ponto permanece no meu plano de projeto E é te agradecer! Por tudo o que você fez pela humanidade! Você é o precursor de uma nova era de prosperidade!
+119697	Cada um dos esquemas de Virgil Drake que você interrompe nos aproxima de uma colonização pacífica da Lua Continue assim 
+119698	Acabei de receber a notícia! A Guarda Orbital eles estão tomando ações coordenadas por todo o globo Atacando a grade de energia da União Mas eu ativei um contato antigo meu Se alguém puder descobrir o que realmente está acontecendo, é ela
+117627	A União tem grandes planos! Sua corporação se tornará a fornecedora de recursos lunares credenciada pelo governo E como sinal de gratidão, você recebe permissões de construção para a sede corporativa de sua escolha
+117628	Suas ações estão disparando! Todo financiador na Terra precisa considerar investir em sua empresa Seriam míopes se não o fizessem
+117629	Um dispositivo reorganizando materiais à vontade Tecnologia assim não teria sido possível se você não nos tivesse fornecido uma fonte infinita de energia
+117630	Robôs humanóides elevarão consideravelmente o padrão de vida na Terra E eles podem trabalhar em áreas hostis à vida Como no espaço exterior, por exemplo
+117631	Incrível! Esses computadores nem conseguimos estimar todo o seu potencial ainda Mas eles serão indispensáveis para os projetos futuros da humanidade
+117632	Esta tecnologia é de pequena escala agora Mas se você pensar grande ela poderia capacitar a humanidade a viajar grandes distâncias pelo espaço
+117633	Uma verdadeira maravilha arquitetônica! Não pode haver mais dúvidas Os Cinco Grandes são história Agora, precisamos falar dos Seis Grandes!
+117634	Mas eu já sei há muito tempo para dizer que este não é o fim da estrada para você Tenho certeza de que você já tem planos para se superar ainda mais!
+117635	Você sempre vai além É por isso que seus concorrentes estão tão atrás de você E é por isso que queremos você para o nosso próximo projeto!
+117636	Ótimo! Você sempre busca alcançar novas alturas! E logo terá a oportunidade de alcançar esferas ainda mais elevadas, por assim dizer!
+117637	Maravilhoso! Eu chamaria de o 8º wonder do mundo, mas isso seria pouco
+117638	Você é o limite! Quando te conheci pela primeira vez, eu já sabia que você iria longe E de fato, você foi até a Lua e voltou Com toda sinceridade: é uma honra ter trabalhado com você! E estou ansioso pelo que está por vir!
+117641	Drake! Sempre que você acha que pode dar uma respirada, ele sai de seu esconderijo Mas estou cansado de todo esse jogo de esconde-esconde É hora de contra-atacar
+117642	Drake! Se você acha que pode dar uma respirada recebi informações de que ele está enviando suas naves de guerra por todo o globo Eles estão usando armas devastadoras, como nunca vimos antes
+117643	Está fora dos procedimentos oficiais Mas ativei um contato antigo meu Se alguém pode descobrir onde Drake se esconde, é ela
+117644	Está fora dos procedimentos oficiais Mas ativei um contato antigo meu Ela sabe onde Drake está se escondendo E ela está disposta a se infiltrar em suas instalações, para descobrir o que ele está planejando
+117645	Um dia ela cobrará pelos serviços prestados Mas o que importa é que você retirou as garras de Drake Ele vai se recuperar, sem dúvida Mas por enquanto, nosso povo na Terra e na Lua podem ter paz de espírito
+117646	E você não precisa se preocupar com a Guarda Orbital interferindo em seus projetos Tenho certeza de que você já planejou como coroar seus feitos anteriores
+115978	Precisamos da sua ajuda! Piratas sequestraram nossos cargueiros neste setor! Por favor, não hesite
+115979	Os atacantes surgiram do nada Temos que garantir que as tripulações de nossas naves permaneçam seguras! Proteja este setor!
+115980	Transportes foram sequestrados neste setor Resgatá-los é sua prioridade número um!
+115981	Extremistas tomaram controle deste setor! Teremos que agir com cuidado se quisermos retomá-lo!
+115982	Não baixe sua guarda Naves hostis patrulham estas águas Mas é crucial que recuperemos este setor
+115983	Esses radicais são uma ameaça à paz internacional Você está autorizado a detê-los por todos os meios necessários
+115987	Você aliviou a situação Obrigado
+115988	Muito bem! Você encontrou a resposta apropriada para essa ameaça!
+115989	Você impediu que a situação escalasse ainda mais Obrigado
+115993	Você teve que recuar Qualquer outra coisa teria sido imprudente
+115994	Sua retirada estratégica foi a decisão certa Não há mais nada que possamos fazer agora
+115995	Infelizmente, às vezes a defesa é melhor que o ataque
+115996	Por favor, não perca tempo! As pessoas nesses navios dependem de você!
+115997	Essa não foi a última das naves apreendidas Não decepcione as outras!
+115998	Esta está livre Mas esses extremistas estão ameaçando ainda mais navios
+115999	Você tem meu apoio para o que está por vir
+116000	Precisamos avançar
+116001	Não vamos esperar muito A situação exige sua intervenção
+116229	Detectamos bens valiosos
+116230	Estes serão úteis para você
+116234	Traga-os para cá
+116256	Não hesite!
+116257	É hora de enfrentá-los
+116258	Lá estão eles!
+116259	Apenas um curso de ação
+116260	Este é meu conselho
+116261	Eu transmiti informações.
+111021	Ótimo!
+111022	Um sucesso sem precedentes.
+111023	Um sucesso retumbante!
+111024	Tenho certeza de que isso será popular.
+111025	Desempenho excepcional!
+111026	Bom trabalho!
+111027	Um sucesso total!
+111028	Inovador!
+111029	Estou impressionado!
+111030	Simplesmente não há palavras suficientes.
+111031	Estou feliz que isso não seja mais um fator.
+111032	Bom Nada mais para impedir nosso progresso agora.
+111033	Estou satisfeito por ver o fim deste assunto, de uma vez por todas.
+111034	Você é uma inspiração para todos nós!
+111037	Sua dedicação é incomparável!
+111038	Você me surpreende, repetidamente.
+111039	Por isso te trouxe para o Programa!
+111040	Muitos te devem um agradecimento!
+111042	Isso vai render elogios a você E com razão.
+111043	Estamos honrados com sua dedicação.
+111045	Então, isso continuará a nos preocupar.
+111046	Bem, as coisas só podem melhorar a partir de agora.
+111047	É um revés.
+111049	Hoje é um dia sombrio.
+111050	Não há nada para amenizar.
+111052	De todas as coisas...
+111053	[Suspiro] Isso é uma má notícia.
+111054	Nunca te aconselhei a fazer isso.
+111055	Por favor, não me diga que essa foi sua ideia.
+111057	Isso é algo que não se pode simplesmente explicar.
+111058	Você realmente considerou isso necessário?
+111059	Sabe, isso se tornará altamente político.
+111060	Encaremos os fatos Você errou.
+111062	Olhe por esse lado, pelo menos haverá outros projetos.
+111063	Posso ser honesto? Essa não foi sua melhor decisão
+111064	Bem-vindo ao escritório central
+111065	Sim? Há algo que você queria perguntar?
+111066	Entre e dê uma olhada nas diretrizes atuais
+111067	Claro que posso arrumar um tempo
+111068	Ah, olá Há algo que precisamos discutir?
+111069	Bem-vindo Precisa de alguma informação?
+111070	Você quer chamar a atenção para algo?
+111072	Por favor, direcione sua atenção para isso.
+111073	Sempre bom te ver.
+111074	Obrigado por conferir comigo.
+111075	Vou começar tudo.
+111076	Vou delegar esse assunto.
+111077	Certamente.
+111078	Vou resolver isso.
+111079	Vou fazer todo esforço.
+111080	Pode contar comigo.
+111081	Deixe-me cuidar disso para você.
+111082	Sou grato pela sua confiança.
+111083	Considere feito.
+111084	Não vou decepcionar você.
+111086	Receio que minhas mãos estão amarradas.
+111087	Isso está acima do meu salário.
+111088	Receio que não tenho permissão para isso.
+111089	Nossas diretrizes proíbem minha interferência nesses assuntos.
+111090	Muitos dos nossos interessados não estão completamente convencidos.
+111091	Não posso flexibilizar as regras para você nesse caso.
+111092	Desculpe, mas terá que se virar sem mim desta vez.
+111093	Agradeço pela sua confiança, mas você superestima minha influência.
+111094	Desculpe, mas não posso te dar preferência nesses assuntos.
+111095	Fui instruído a não te apoiar nisso.
+111096	Gostaríamos de encerrar o caso.
+111097	Tomei a liberdade de te recomendar para este projeto.
+111098	Precisamos da sua ajuda.
+111099	Temos um pedido Nada que você não possa fazer.
+111100	O Ministério votou a favor Eles não queriam que ninguém mais fizesse o trabalho!
+111101	Estamos buscando parceiros confiáveis Que tal você?
+111102	Um pedido oficial Apenas se o seu tempo permitir.
+111103	O que acha? Ainda conseguimos encaixar isso na sua agenda?
+111104	Muito obrigado! Isso foi uma grande ajuda.
+111105	Posso sempre contar com você, com certeza.
+111106	Sem problemas Você é excepcional!
+111107	Isso só prova mais uma vez por que te selecionei para o programa!
+111108	Meus amigos na empresa estão eufóricos!
+111109	Como eu pensei Você sabe lidar com situações assim.
+111110	Se ao menos as coisas fossem tão eficientes no Senado.
+111111	Você merece meu sincero agradecimento!
+111112	Os planos mais bem-elaborados muitas vezes dão errado, dizem.
+111113	Falamos de "dificuldades insuperáveis" em um caso como esse.
+111114	Receio que muita confiança tenha sido perdida.
+111139	Muitos estavam contando com você.
+111140	Tenho certeza de que você tem seus motivos.
+111141	Entendo O momento não é o certo.
+111115	Então, quanto progresso você fez?
+111116	Ainda estamos no caminho certo?
+111117	Não quero te apressar, mas...
+111119	Me avise quando estiver pronto.
+111120	Tenho certeza de que tudo está indo de acordo com o planejado, certo?
+111121	As pessoas na minha empresa já estão nervosas como está.
+111122	Algum novo desenvolvimento?
+111123	Isso é o que foi solicitado.
+111124	De acordo com o formulário de pedido, isso é relevante para nós.
+111125	Você encontrou!
+111126	Sim, isso faz parte da atribuição.
+111127	Tudo está onde você suspeitava que estaria.
+111128	Aí está.
+111129	Você identificou.
+111130	Bem Você certamente não teve dificuldades em encontrar isso.
+111131	Sim, esse é o local.
+111133	Sim, esse é o local especificado.
+111134	Exatamente, é para onde você tem que ir.
+111135	Você está no caminho certo.
+111136	Não espere muito para ir lá.
+111137	Está pronto para ir para lá?
+111138	Não deve demorar muito para chegar nesse ponto.
+111142	Ótimo! Mas as coisas se complicaram um pouco.
+111143	Essa é a fase 1 concluída Agora, vamos para a fase 2.
+111144	Obrigado! Mas receio que não seja o fim.
+111146	Meus superiores estão impressionados Eles têm um próximo projeto imediato para você.
+111147	Autorizamos você a tomar medidas militares.
+111148	A União Global deu sinal verde Você tem que intervir lá fora!
+111149	Vamos torcer para o melhor Mas ao lidar com a Guarda Orbital, devemos nos preparar para o pior.
+111150	Receio que seja hora do lado feio da política.
+111151	A União Global exige que você demonstre uma presença forte lá fora!
+111152	Você fez o que precisava ser feito Obrigado.
+111153	Fico feliz que tenha evitado o pior.
+111154	Isso foi muito corajoso da sua parte.
+115984	Todos os navios estão seguros Obrigado por sua corajosa intervenção!
+115985	Obrigado As tripulações e a carga estão em segurança novamente.
+115986	No último minuto! Quem sabe o que teriam feito com nossos navios!
+111155	Tantas vidas.
+111156	Fico feliz que você esteja bem pelo menos Isso poderia ter terminado de outra forma.
+111157	Acho que precisamos aumentar ainda mais nosso orçamento militar.
+115990	O controle deles sobre os navios era muito grande Você fez o que pôde.
+115991	Uma conclusão lamentável para uma missão de resgate Me pergunto se poderíamos ter feito mais.
+115992	Temos que encarar os fatos Esses navios estão perdidos.
+111231	Aidan teria sido afastado há muito tempo, se não fosse pela sua constante ajuda.
+111232	Cuidado ao fazer muito negócio com Cassian! Talvez a próxima fusão da qual eles falam constantemente envolva sua corporação.
+111227	Você já falou com esse superior misterioso que Aidan tanto menciona? Agir por intermediários parece ser a maneira de Cassian de evitar.
+111228	Não acho que Aidan tenha o poder de tomar muitas decisões por conta própria Isso pode te ajudar a evitar qualquer interferência da Cassian nos seus negócios.
+111229	A Cassian Industries tem grandes ambições para a Lua Eles podem se tornar seus principais rivais pelos terrenos de mineração lá.
+111230	A Cassian Industries é conhecida por suas políticas comerciais implacáveis Mantenha-se atento.
+111225	A Cassian Industries é a principal provedora mundial de serviços de mineração e indústria pesada A cooperação pode ser benéfica.
+111226	A Cassian Industries é conhecida por dispensar funcionários quando se tornam difíceis Espero que não seja o mesmo com parceiros comerciais.
+111223	A Ibarra-FoxCom alega ser especialista em tecnologia No entanto, eles sempre recorrem a você no final.
+111224	Você está sempre na linha de frente dos testes de Hofwegen Mas, desde que traga resultados.
+111219	Espero que o Dr Hofwegen corresponda ao título dele Não deixe que ele queime seus ativos por devaneios.
+111220	O Dr Hofwegen certamente é entusiasta sobre seu campo Canalize esse entusiasmo para onde beneficie mais sua corporação.
+111221	É melhor você se afastar dos estudos de campo não autorizados de Hofwegen Eles podem potencialmente prejudicar sua reputação.
+111222	Movimento inteligente! Você se beneficiou enormemente dos projetos da Ibarra-FoxCom.
+111217	O Dr Hofwegen é um gênio em robótica aplicada Trabalhar com ele não vai te machucar.
+111218	Ibarra-FoxCom Um grande nome em robótica e biocomputadores E agora eles conhecem sua corporação também.
+111215	Rafferty é bastante do tipo faça-você-mesmo Mas ele parece confiar em você.
+111216	Rafferty às vezes tem algumas ideias estranhas Mas também tem você para torná-las realidade.
+111211	E aqui eu pensava que Rafferty se mantinha na dele Claro que pensei errado.
+111212	Não consigo evitar, gosto daquele velho.
+111213	Mais uma atribuição do Rafferty? Tenho certeza de que a União recusou antes de ele vir até você.
+111214	Você ajudou Rafferty bastante recentemente Espero que pelo menos ele te agradeça.
+111209	E ele nem gritou com você Ele deve estar de bom humor.
+111210	Acredite em mim, se Rafferty pede algo, ele está realmente em apuros.
+111207	Estou curioso Em todo o tempo que trabalharam juntos Você descobriu o nome verdadeiro dela?
+111208	Qualquer que seja a agenda dela Tenho certeza de que você a ajudou.
+111203	São muitos compromissos que você assumiu com ela Mantenha-se atento.
+111204	Quando ela nos oferece uma atribuição, sempre tenho a sensação de que ela não está contando toda a história.
+111205	Espero que ela não tenha aprendido muito sobre sua empresa já.
+111206	Não é que eu não confie nela Só não sei do que ela é capaz.
+111201	Eu sei, as ofertas dela são tentadoras Mas você deve ter cuidado ao redor dela.
+111202	É verdade, às vezes é preciso recorrer às margens para fazer algo.
+111199	Vendo você desafiar tanto a Guarda Orbital Eu realmente acredito que a Lua será segura um dia.
+111200	Virgil Drake deve estar furioso com todas as suas conquistas Gosto dessa ideia Gosto mesmo.
+111195	A Guarda Orbital é um perigo para a paz global Fico feliz que você esteja lidando com esse problema.
+111196	Virgil Drake é um homem perigoso Mas você vai colocá-lo no lugar dele.
+111197	Cada vez que você impede um dos esquemas de Virgil Drake, nos aproxima mais de uma colonização pacífica da Lua Continue assim!
+111198	Continue assim! Que a justiça prevaleça!
+111193	Vejo Você decidiu enfrentar de frente a Guarda Orbital.
+111194	Muito bem! Mostre a Virgil Drake que ele não tem carta branca aqui.
+111183	Depois de toda a sua ajuda, você deve ter melhorado a vida de inúmeros sobreviventes da LEC.
+111184	Cuidado! Drake deve estar furioso, depois de ver o quão bem você e Zandra cooperaram até agora.
+111179	Ela está caçada e desamparada, e mesmo assim ainda consegue retribuir pela nossa ajuda Mais um motivo para apoiá-la.
+111180	Se suas ações ajudaram pelo menos alguns dos sobreviventes da LEC, valeu a pena.
+111181	Essa mulher está cercada de inimigos, mas continua em frente Ela será uma aliada valiosa nos conflitos que virão.
+111182	Não devemos desistir da LEC ainda Zandra e seus sobreviventes terão que contar com seu apoio.
+111177	Aprecio sua decisão É verdade, os fugitivos precisam de ajuda.
+111178	Zandra Haynes é nossa melhor chance de sair na frente da Guarda Orbital Devemos manter contato.
+111175	Fico pensando, depois de todos os negócios com Jorgensen A empresa dele cresceu?
+111176	Temos que admitir sem ele, a colonização do Ártico teria sido muito mais difícil.
+111171	A ideia de Jorgensen de rotas de transporte regulares entre as regiões temperada e polar Acho que vale a pena apoiar.
+111172	Gosto do Jorgensen Ele é bem, é fácil de lidar.
+111173	Trazendo comércio e negócios para a região polar Jorgensen dependerá do seu apoio nesse empreendimento.
+111174	Jorgensen certamente não é popular com o próprio povo dele Espero que isso não reflita mal sobre nós.
