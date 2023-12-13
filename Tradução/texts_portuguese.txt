@@ -14694,10 +14694,10 @@
 10000110	Projeto: Ironia
 10000111	Projeto: Ainda não concluído
 10000112	Projeto: A gorda resiste
-7000246	Módulo de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001469]</font>
-7000247	Módulo de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001875]</font>
-7000248	Módulo de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001872]</font>
-7000249	Módulo de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001468]</font> Módulo de & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001876]</font>
+7000246	Módulo <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001469]</font>
+7000247	Módulo <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001875]</font>
+7000248	Módulo <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001872]</font>
+7000249	Módulo <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001468]</font> e Módulo <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 7001876]</font>
 7000336	Recuperação da Eden Initiative
 7000386	[NOTIFICATION_CHARACTER_NAME] inicia os preparativos para reativar a câmara de sementes.
 7000387	[NOTIFICATION_CHARACTER_NAME] ele está muito feliz que os sistemas de aquecimento estejam funcionando.
@@ -15060,8 +15060,8 @@
 7001561	Produza Biocatalisadores e Aerogel.
 7001562	Globalização ... Concluída
 7001563	Realize 10 rotas de transferência saindo da Planície do Vanha.
-7001469	Módulo biocatalisador agrícola
-7001872	Módulo biocatalisador biotecnológico.
+7001469	Biocatalisador agrícola
+7001872	Biocatalisador biotecnológico.
 7001468	Aerogel de energia
 7001875	Aerogel de industria pesada
 7001876	Aerogel eletrotônico
